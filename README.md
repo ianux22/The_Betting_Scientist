@@ -1,17 +1,17 @@
-# Football Modeling
+ï»¿# The Betting Scientist
 
-A Streamlit app and utilities to merge fixture calendars with historical results and simulate match outcomes.
+Repo for the app "The Betting Scientist": a Streamlit UI plus utilities to merge fixture calendars with historical results and simulate match outcomes.
 
 ## Project layout
-- `app.py` — Streamlit UI (Hot Picks ? Simulator ? League Dashboard).
-- `run_matchday_simulation.py` — CLI to run matchday simulations from the merged calendar.
-- `Input/` — inputs and intermediate data.
-  - `Calendars/` — source calendars per league (CSV).
-  - `league_urls.json` — remote result URLs.
-  - `simulate_config.json` — leagues/matchdays to simulate via CLI.
-  - `results/` — downloaded raw results (ignored by git).
-  - `Combined_Country_League_Calendar_25_26.csv`, `combined_results.csv` — merged inputs (ignored by git).
-- `Output/` — generated merged outputs (ignored by git).
+- `app.py` â€” Streamlit UI (Hot Picks â†’ Simulator â†’ League Dashboard).
+- `run_matchday_simulation.py` â€” CLI to run matchday simulations from the merged calendar.
+- `Input/` â€” inputs and intermediate data.
+  - `Calendars/` â€” source calendars per league (CSV).
+  - `league_urls.json` â€” remote result URLs.
+  - `simulate_config.json` â€” leagues/matchdays to simulate via CLI.
+  - `results/` â€” downloaded raw results (ignored by git).
+  - `Combined_Country_League_Calendar_25_26.csv`, `combined_results.csv` â€” merged inputs (ignored by git).
+- `Output/` â€” generated merged outputs (ignored by git).
 - Notebooks: `Calendar Updater.ipynb`, `Name Validator.ipynb` for data prep/mapping.
 
 ## Setup
