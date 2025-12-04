@@ -1,0 +1,3767 @@
+Country,League,Matchday,Hometeam,Awayteam,FTR,FTHG,FTAG,HTR,HTHG,HTAG
+Germany,Bundesliga 1,1,Bayern Munich,RB Leipzig,H,6.0,0.0,H,3.0,0.0
+Germany,Bundesliga 1,1,Heidenheim,Wolfsburg,A,1.0,3.0,D,1.0,1.0
+Germany,Bundesliga 1,1,Union Berlin,Stuttgart,H,2.0,1.0,H,2.0,0.0
+Germany,Bundesliga 1,1,Freiburg,Augsburg,A,1.0,3.0,A,0.0,3.0
+Germany,Bundesliga 1,1,Ein Frankfurt,Werder Bremen,H,4.0,1.0,H,2.0,0.0
+Germany,Bundesliga 1,1,Leverkusen,Hoffenheim,A,1.0,2.0,D,1.0,1.0
+Germany,Bundesliga 1,1,St Pauli,Dortmund,D,3.0,3.0,A,0.0,1.0
+Germany,Bundesliga 1,1,Mainz,FC Koln,A,0.0,1.0,D,0.0,0.0
+Germany,Bundesliga 1,1,M'gladbach,Hamburg,D,0.0,0.0,D,0.0,0.0
+Germany,Bundesliga 1,2,Hamburg,St Pauli,A,0.0,2.0,A,0.0,1.0
+Germany,Bundesliga 1,2,Hoffenheim,Ein Frankfurt,A,1.0,3.0,A,0.0,2.0
+Germany,Bundesliga 1,2,Stuttgart,M'gladbach,H,1.0,0.0,D,0.0,0.0
+Germany,Bundesliga 1,2,Werder Bremen,Leverkusen,D,3.0,3.0,A,1.0,2.0
+Germany,Bundesliga 1,2,RB Leipzig,Heidenheim,H,2.0,0.0,D,0.0,0.0
+Germany,Bundesliga 1,2,Augsburg,Bayern Munich,A,2.0,3.0,A,0.0,2.0
+Germany,Bundesliga 1,2,Wolfsburg,Mainz,D,1.0,1.0,H,1.0,0.0
+Germany,Bundesliga 1,2,Dortmund,Union Berlin,H,3.0,0.0,H,1.0,0.0
+Germany,Bundesliga 1,2,FC Koln,Freiburg,H,4.0,1.0,H,1.0,0.0
+Germany,Bundesliga 1,3,Leverkusen,Ein Frankfurt,H,3.0,1.0,H,2.0,0.0
+Germany,Bundesliga 1,3,Heidenheim,Dortmund,A,0.0,2.0,A,0.0,2.0
+Germany,Bundesliga 1,3,Union Berlin,Hoffenheim,A,2.0,4.0,A,0.0,2.0
+Germany,Bundesliga 1,3,Wolfsburg,FC Koln,D,3.0,3.0,D,1.0,1.0
+Germany,Bundesliga 1,3,Mainz,RB Leipzig,A,0.0,1.0,A,0.0,1.0
+Germany,Bundesliga 1,3,Freiburg,Stuttgart,H,3.0,1.0,A,0.0,1.0
+Germany,Bundesliga 1,3,Bayern Munich,Hamburg,H,5.0,0.0,H,4.0,0.0
+Germany,Bundesliga 1,3,St Pauli,Augsburg,H,2.0,1.0,D,1.0,1.0
+Germany,Bundesliga 1,3,M'gladbach,Werder Bremen,A,0.0,4.0,A,0.0,2.0
+Germany,Bundesliga 1,4,Stuttgart,St Pauli,H,2.0,0.0,H,1.0,0.0
+Germany,Bundesliga 1,4,Hamburg,Heidenheim,H,2.0,1.0,H,1.0,0.0
+Germany,Bundesliga 1,4,Hoffenheim,Bayern Munich,A,1.0,4.0,A,0.0,1.0
+Germany,Bundesliga 1,4,Augsburg,Mainz,A,1.0,4.0,A,0.0,2.0
+Germany,Bundesliga 1,4,Werder Bremen,Freiburg,A,0.0,3.0,A,0.0,1.0
+Germany,Bundesliga 1,4,RB Leipzig,FC Koln,H,3.0,1.0,H,3.0,1.0
+Germany,Bundesliga 1,4,Ein Frankfurt,Union Berlin,A,3.0,4.0,A,1.0,2.0
+Germany,Bundesliga 1,4,Leverkusen,M'gladbach,D,1.0,1.0,D,0.0,0.0
+Germany,Bundesliga 1,4,Dortmund,Wolfsburg,H,1.0,0.0,H,1.0,0.0
+Germany,Bundesliga 1,5,Bayern Munich,Werder Bremen,H,4.0,0.0,H,2.0,0.0
+Germany,Bundesliga 1,5,Heidenheim,Augsburg,H,2.0,1.0,D,0.0,0.0
+Germany,Bundesliga 1,5,St Pauli,Leverkusen,A,1.0,2.0,D,1.0,1.0
+Germany,Bundesliga 1,5,Wolfsburg,RB Leipzig,A,0.0,1.0,A,0.0,1.0
+Germany,Bundesliga 1,5,Mainz,Dortmund,A,0.0,2.0,A,0.0,2.0
+Germany,Bundesliga 1,5,M'gladbach,Ein Frankfurt,A,4.0,6.0,A,0.0,5.0
+Germany,Bundesliga 1,5,Freiburg,Hoffenheim,D,1.0,1.0,D,1.0,1.0
+Germany,Bundesliga 1,5,FC Koln,Stuttgart,A,1.0,2.0,D,1.0,1.0
+Germany,Bundesliga 1,5,Union Berlin,Hamburg,D,0.0,0.0,D,0.0,0.0
+Germany,Bundesliga 1,6,Hoffenheim,FC Koln,A,0.0,1.0,A,0.0,1.0
+Germany,Bundesliga 1,6,Augsburg,Wolfsburg,H,3.0,1.0,H,1.0,0.0
+Germany,Bundesliga 1,6,Werder Bremen,St Pauli,H,1.0,0.0,H,1.0,0.0
+Germany,Bundesliga 1,6,Dortmund,RB Leipzig,D,1.0,1.0,D,1.0,1.0
+Germany,Bundesliga 1,6,Leverkusen,Union Berlin,H,2.0,0.0,H,1.0,0.0
+Germany,Bundesliga 1,6,Ein Frankfurt,Bayern Munich,A,0.0,3.0,A,0.0,2.0
+Germany,Bundesliga 1,6,Stuttgart,Heidenheim,H,1.0,0.0,D,0.0,0.0
+Germany,Bundesliga 1,6,Hamburg,Mainz,H,4.0,0.0,H,2.0,0.0
+Germany,Bundesliga 1,6,M'gladbach,Freiburg,D,0.0,0.0,D,0.0,0.0
+Germany,Bundesliga 1,7,Union Berlin,M'gladbach,H,3.0,1.0,H,2.0,1.0
+Germany,Bundesliga 1,7,FC Koln,Augsburg,D,1.0,1.0,D,0.0,0.0
+Germany,Bundesliga 1,7,Heidenheim,Werder Bremen,D,2.0,2.0,D,0.0,0.0
+Germany,Bundesliga 1,7,Wolfsburg,Stuttgart,A,0.0,3.0,A,0.0,1.0
+Germany,Bundesliga 1,7,RB Leipzig,Hamburg,H,2.0,1.0,H,1.0,0.0
+Germany,Bundesliga 1,7,Mainz,Leverkusen,A,3.0,4.0,A,1.0,3.0
+Germany,Bundesliga 1,7,Bayern Munich,Dortmund,H,2.0,1.0,H,1.0,0.0
+Germany,Bundesliga 1,7,Freiburg,Ein Frankfurt,D,2.0,2.0,A,1.0,2.0
+Germany,Bundesliga 1,7,St Pauli,Hoffenheim,A,0.0,3.0,D,0.0,0.0
+Germany,Bundesliga 1,8,Werder Bremen,Union Berlin,H,1.0,0.0,D,0.0,0.0
+Germany,Bundesliga 1,8,Hamburg,Wolfsburg,A,0.0,1.0,A,0.0,1.0
+Germany,Bundesliga 1,8,Hoffenheim,Heidenheim,H,3.0,1.0,H,2.0,0.0
+Germany,Bundesliga 1,8,Augsburg,RB Leipzig,A,0.0,6.0,A,0.0,4.0
+Germany,Bundesliga 1,8,M'gladbach,Bayern Munich,A,0.0,3.0,D,0.0,0.0
+Germany,Bundesliga 1,8,Ein Frankfurt,St Pauli,H,2.0,0.0,H,1.0,0.0
+Germany,Bundesliga 1,8,Dortmund,FC Koln,H,1.0,0.0,D,0.0,0.0
+Germany,Bundesliga 1,8,Leverkusen,Freiburg,H,2.0,0.0,H,1.0,0.0
+Germany,Bundesliga 1,8,Stuttgart,Mainz,H,2.0,1.0,D,1.0,1.0
+Germany,Bundesliga 1,9,Augsburg,Dortmund,A,0.0,1.0,A,0.0,1.0
+Germany,Bundesliga 1,9,Heidenheim,Ein Frankfurt,D,1.0,1.0,H,1.0,0.0
+Germany,Bundesliga 1,9,St Pauli,M'gladbach,A,0.0,4.0,A,0.0,2.0
+Germany,Bundesliga 1,9,Union Berlin,Freiburg,D,0.0,0.0,D,0.0,0.0
+Germany,Bundesliga 1,9,RB Leipzig,Stuttgart,H,3.0,1.0,H,1.0,0.0
+Germany,Bundesliga 1,9,Mainz,Werder Bremen,D,1.0,1.0,H,1.0,0.0
+Germany,Bundesliga 1,9,Bayern Munich,Leverkusen,H,3.0,0.0,H,3.0,0.0
+Germany,Bundesliga 1,9,FC Koln,Hamburg,H,4.0,1.0,H,1.0,0.0
+Germany,Bundesliga 1,9,Wolfsburg,Hoffenheim,A,2.0,3.0,D,1.0,1.0
+Germany,Bundesliga 1,10,Werder Bremen,Wolfsburg,H,2.0,1.0,A,0.0,1.0
+Germany,Bundesliga 1,10,Hamburg,Dortmund,D,1.0,1.0,D,0.0,0.0
+Germany,Bundesliga 1,10,Hoffenheim,RB Leipzig,H,3.0,1.0,H,2.0,1.0
+Germany,Bundesliga 1,10,Union Berlin,Bayern Munich,D,2.0,2.0,D,1.0,1.0
+Germany,Bundesliga 1,10,Leverkusen,Heidenheim,H,6.0,0.0,H,5.0,0.0
+Germany,Bundesliga 1,10,M'gladbach,FC Koln,H,3.0,1.0,H,1.0,0.0
+Germany,Bundesliga 1,10,Freiburg,St Pauli,H,2.0,1.0,H,1.0,0.0
+Germany,Bundesliga 1,10,Stuttgart,Augsburg,H,3.0,2.0,D,2.0,2.0
+Germany,Bundesliga 1,10,Ein Frankfurt,Mainz,H,1.0,0.0,D,0.0,0.0
+Germany,Bundesliga 1,11,Mainz,Hoffenheim,D,1.0,1.0,A,0.0,1.0
+Germany,Bundesliga 1,11,Heidenheim,M'gladbach,A,0.0,3.0,A,0.0,1.0
+Germany,Bundesliga 1,11,Augsburg,Hamburg,H,1.0,0.0,D,0.0,0.0
+Germany,Bundesliga 1,11,Wolfsburg,Leverkusen,A,1.0,3.0,A,0.0,3.0
+Germany,Bundesliga 1,11,Dortmund,Stuttgart,D,3.0,3.0,H,2.0,0.0
+Germany,Bundesliga 1,11,Bayern Munich,Freiburg,H,6.0,2.0,D,2.0,2.0
+Germany,Bundesliga 1,11,FC Koln,Ein Frankfurt,A,3.0,4.0,A,1.0,2.0
+Germany,Bundesliga 1,11,RB Leipzig,Werder Bremen,H,2.0,0.0,D,0.0,0.0
+Germany,Bundesliga 1,11,St Pauli,Union Berlin,A,0.0,1.0,A,0.0,1.0
+Germany,Bundesliga 1,12,M'gladbach,RB Leipzig,D,0.0,0.0,D,0.0,0.0
+Germany,Bundesliga 1,12,Hoffenheim,Augsburg,H,3.0,0.0,H,3.0,0.0
+Germany,Bundesliga 1,12,Union Berlin,Heidenheim,A,1.0,2.0,H,1.0,0.0
+Germany,Bundesliga 1,12,Werder Bremen,FC Koln,D,1.0,1.0,H,1.0,0.0
+Germany,Bundesliga 1,12,Bayern Munich,St Pauli,H,3.0,1.0,D,1.0,1.0
+Germany,Bundesliga 1,12,Leverkusen,Dortmund,A,1.0,2.0,A,0.0,1.0
+Germany,Bundesliga 1,12,Hamburg,Stuttgart,H,2.0,1.0,H,1.0,0.0
+Germany,Bundesliga 1,12,Ein Frankfurt,Wolfsburg,D,1.0,1.0,D,0.0,0.0
+Germany,Bundesliga 1,12,Freiburg,Mainz,H,4.0,0.0,H,2.0,0.0
+Germany,Bundesliga 1,13,Hamburg,Werder Bremen,,,,,,
+Germany,Bundesliga 1,13,FC Koln,St Pauli,,,,,,
+Germany,Bundesliga 1,13,Heidenheim,Freiburg,,,,,,
+Germany,Bundesliga 1,13,Augsburg,Leverkusen,,,,,,
+Germany,Bundesliga 1,13,Wolfsburg,Union Berlin,,,,,,
+Germany,Bundesliga 1,13,Stuttgart,Bayern Munich,,,,,,
+Germany,Bundesliga 1,13,RB Leipzig,Ein Frankfurt,,,,,,
+Germany,Bundesliga 1,13,Mainz,M'gladbach,,,,,,
+Germany,Bundesliga 1,13,Dortmund,Hoffenheim,,,,,,
+Germany,Bundesliga 1,14,Hoffenheim,Hamburg,,,,,,
+Germany,Bundesliga 1,14,St Pauli,Heidenheim,,,,,,
+Germany,Bundesliga 1,14,Union Berlin,RB Leipzig,,,,,,
+Germany,Bundesliga 1,14,M'gladbach,Wolfsburg,,,,,,
+Germany,Bundesliga 1,14,Werder Bremen,Stuttgart,,,,,,
+Germany,Bundesliga 1,14,Freiburg,Dortmund,,,,,,
+Germany,Bundesliga 1,14,Ein Frankfurt,Augsburg,,,,,,
+Germany,Bundesliga 1,14,Leverkusen,FC Koln,,,,,,
+Germany,Bundesliga 1,14,Bayern Munich,Mainz,,,,,,
+Germany,Bundesliga 1,15,Hamburg,Ein Frankfurt,,,,,,
+Germany,Bundesliga 1,15,FC Koln,Union Berlin,,,,,,
+Germany,Bundesliga 1,15,Heidenheim,Bayern Munich,,,,,,
+Germany,Bundesliga 1,15,Augsburg,Werder Bremen,,,,,,
+Germany,Bundesliga 1,15,Wolfsburg,Freiburg,,,,,,
+Germany,Bundesliga 1,15,Stuttgart,Hoffenheim,,,,,,
+Germany,Bundesliga 1,15,RB Leipzig,Leverkusen,,,,,,
+Germany,Bundesliga 1,15,Mainz,St Pauli,,,,,,
+Germany,Bundesliga 1,15,Dortmund,M'gladbach,,,,,,
+Germany,Bundesliga 1,16,Heidenheim,FC Koln,,,,,,
+Germany,Bundesliga 1,16,St Pauli,RB Leipzig,,,,,,
+Germany,Bundesliga 1,16,Union Berlin,Mainz,,,,,,
+Germany,Bundesliga 1,16,M'gladbach,Augsburg,,,,,,
+Germany,Bundesliga 1,16,Werder Bremen,Hoffenheim,,,,,,
+Germany,Bundesliga 1,16,Freiburg,Hamburg,,,,,,
+Germany,Bundesliga 1,16,Ein Frankfurt,Dortmund,,,,,,
+Germany,Bundesliga 1,16,Leverkusen,Stuttgart,,,,,,
+Germany,Bundesliga 1,16,Bayern Munich,Wolfsburg,,,,,,
+Germany,Bundesliga 1,17,Hamburg,Leverkusen,,,,,,
+Germany,Bundesliga 1,17,FC Koln,Bayern Munich,,,,,,
+Germany,Bundesliga 1,17,Hoffenheim,M'gladbach,,,,,,
+Germany,Bundesliga 1,17,Augsburg,Union Berlin,,,,,,
+Germany,Bundesliga 1,17,Wolfsburg,St Pauli,,,,,,
+Germany,Bundesliga 1,17,Stuttgart,Ein Frankfurt,,,,,,
+Germany,Bundesliga 1,17,RB Leipzig,Freiburg,,,,,,
+Germany,Bundesliga 1,17,Mainz,Heidenheim,,,,,,
+Germany,Bundesliga 1,17,Dortmund,Werder Bremen,,,,,,
+Germany,Bundesliga 1,18,Hamburg,M'gladbach,,,,,,
+Germany,Bundesliga 1,18,FC Koln,Mainz,,,,,,
+Germany,Bundesliga 1,18,Hoffenheim,Leverkusen,,,,,,
+Germany,Bundesliga 1,18,Augsburg,Freiburg,,,,,,
+Germany,Bundesliga 1,18,Wolfsburg,Heidenheim,,,,,,
+Germany,Bundesliga 1,18,Stuttgart,Union Berlin,,,,,,
+Germany,Bundesliga 1,18,Werder Bremen,Ein Frankfurt,,,,,,
+Germany,Bundesliga 1,18,RB Leipzig,Bayern Munich,,,,,,
+Germany,Bundesliga 1,18,Dortmund,St Pauli,,,,,,
+Germany,Bundesliga 1,19,Heidenheim,RB Leipzig,,,,,,
+Germany,Bundesliga 1,19,St Pauli,Hamburg,,,,,,
+Germany,Bundesliga 1,19,Union Berlin,Dortmund,,,,,,
+Germany,Bundesliga 1,19,M'gladbach,Stuttgart,,,,,,
+Germany,Bundesliga 1,19,Mainz,Wolfsburg,,,,,,
+Germany,Bundesliga 1,19,Freiburg,FC Koln,,,,,,
+Germany,Bundesliga 1,19,Ein Frankfurt,Hoffenheim,,,,,,
+Germany,Bundesliga 1,19,Leverkusen,Werder Bremen,,,,,,
+Germany,Bundesliga 1,19,Bayern Munich,Augsburg,,,,,,
+Germany,Bundesliga 1,20,Hamburg,Bayern Munich,,,,,,
+Germany,Bundesliga 1,20,FC Koln,Wolfsburg,,,,,,
+Germany,Bundesliga 1,20,Hoffenheim,Union Berlin,,,,,,
+Germany,Bundesliga 1,20,Augsburg,St Pauli,,,,,,
+Germany,Bundesliga 1,20,Stuttgart,Freiburg,,,,,,
+Germany,Bundesliga 1,20,Werder Bremen,M'gladbach,,,,,,
+Germany,Bundesliga 1,20,RB Leipzig,Mainz,,,,,,
+Germany,Bundesliga 1,20,Dortmund,Heidenheim,,,,,,
+Germany,Bundesliga 1,20,Ein Frankfurt,Leverkusen,,,,,,
+Germany,Bundesliga 1,21,FC Koln,RB Leipzig,,,,,,
+Germany,Bundesliga 1,21,Heidenheim,Hamburg,,,,,,
+Germany,Bundesliga 1,21,St Pauli,Stuttgart,,,,,,
+Germany,Bundesliga 1,21,Union Berlin,Ein Frankfurt,,,,,,
+Germany,Bundesliga 1,21,Wolfsburg,Dortmund,,,,,,
+Germany,Bundesliga 1,21,M'gladbach,Leverkusen,,,,,,
+Germany,Bundesliga 1,21,Mainz,Augsburg,,,,,,
+Germany,Bundesliga 1,21,Freiburg,Werder Bremen,,,,,,
+Germany,Bundesliga 1,21,Bayern Munich,Hoffenheim,,,,,,
+Germany,Bundesliga 1,22,Hamburg,Union Berlin,,,,,,
+Germany,Bundesliga 1,22,Hoffenheim,Freiburg,,,,,,
+Germany,Bundesliga 1,22,Augsburg,Heidenheim,,,,,,
+Germany,Bundesliga 1,22,Stuttgart,FC Koln,,,,,,
+Germany,Bundesliga 1,22,Werder Bremen,Bayern Munich,,,,,,
+Germany,Bundesliga 1,22,RB Leipzig,Wolfsburg,,,,,,
+Germany,Bundesliga 1,22,Dortmund,Mainz,,,,,,
+Germany,Bundesliga 1,22,Ein Frankfurt,M'gladbach,,,,,,
+Germany,Bundesliga 1,22,Leverkusen,St Pauli,,,,,,
+Germany,Bundesliga 1,23,FC Koln,Hoffenheim,,,,,,
+Germany,Bundesliga 1,23,Heidenheim,Stuttgart,,,,,,
+Germany,Bundesliga 1,23,St Pauli,Werder Bremen,,,,,,
+Germany,Bundesliga 1,23,Union Berlin,Leverkusen,,,,,,
+Germany,Bundesliga 1,23,Wolfsburg,Augsburg,,,,,,
+Germany,Bundesliga 1,23,RB Leipzig,Dortmund,,,,,,
+Germany,Bundesliga 1,23,Mainz,Hamburg,,,,,,
+Germany,Bundesliga 1,23,Freiburg,M'gladbach,,,,,,
+Germany,Bundesliga 1,23,Bayern Munich,Ein Frankfurt,,,,,,
+Germany,Bundesliga 1,24,Hamburg,RB Leipzig,,,,,,
+Germany,Bundesliga 1,24,Hoffenheim,St Pauli,,,,,,
+Germany,Bundesliga 1,24,Augsburg,FC Koln,,,,,,
+Germany,Bundesliga 1,24,M'gladbach,Union Berlin,,,,,,
+Germany,Bundesliga 1,24,Stuttgart,Wolfsburg,,,,,,
+Germany,Bundesliga 1,24,Werder Bremen,Heidenheim,,,,,,
+Germany,Bundesliga 1,24,Dortmund,Bayern Munich,,,,,,
+Germany,Bundesliga 1,24,Ein Frankfurt,Freiburg,,,,,,
+Germany,Bundesliga 1,24,Leverkusen,Mainz,,,,,,
+Germany,Bundesliga 1,25,FC Koln,Dortmund,,,,,,
+Germany,Bundesliga 1,25,Heidenheim,Hoffenheim,,,,,,
+Germany,Bundesliga 1,25,St Pauli,Ein Frankfurt,,,,,,
+Germany,Bundesliga 1,25,Union Berlin,Werder Bremen,,,,,,
+Germany,Bundesliga 1,25,Wolfsburg,Hamburg,,,,,,
+Germany,Bundesliga 1,25,RB Leipzig,Augsburg,,,,,,
+Germany,Bundesliga 1,25,Mainz,Stuttgart,,,,,,
+Germany,Bundesliga 1,25,Freiburg,Leverkusen,,,,,,
+Germany,Bundesliga 1,25,Bayern Munich,M'gladbach,,,,,,
+Germany,Bundesliga 1,26,Hamburg,FC Koln,,,,,,
+Germany,Bundesliga 1,26,Hoffenheim,Wolfsburg,,,,,,
+Germany,Bundesliga 1,26,M'gladbach,St Pauli,,,,,,
+Germany,Bundesliga 1,26,Stuttgart,RB Leipzig,,,,,,
+Germany,Bundesliga 1,26,Werder Bremen,Mainz,,,,,,
+Germany,Bundesliga 1,26,Freiburg,Union Berlin,,,,,,
+Germany,Bundesliga 1,26,Dortmund,Augsburg,,,,,,
+Germany,Bundesliga 1,26,Ein Frankfurt,Heidenheim,,,,,,
+Germany,Bundesliga 1,26,Leverkusen,Bayern Munich,,,,,,
+Germany,Bundesliga 1,27,FC Koln,M'gladbach,,,,,,
+Germany,Bundesliga 1,27,Heidenheim,Leverkusen,,,,,,
+Germany,Bundesliga 1,27,St Pauli,Freiburg,,,,,,
+Germany,Bundesliga 1,27,Augsburg,Stuttgart,,,,,,
+Germany,Bundesliga 1,27,Wolfsburg,Werder Bremen,,,,,,
+Germany,Bundesliga 1,27,RB Leipzig,Hoffenheim,,,,,,
+Germany,Bundesliga 1,27,Mainz,Ein Frankfurt,,,,,,
+Germany,Bundesliga 1,27,Dortmund,Hamburg,,,,,,
+Germany,Bundesliga 1,27,Bayern Munich,Union Berlin,,,,,,
+Germany,Bundesliga 1,28,Hamburg,Augsburg,,,,,,
+Germany,Bundesliga 1,28,Hoffenheim,Mainz,,,,,,
+Germany,Bundesliga 1,28,Union Berlin,St Pauli,,,,,,
+Germany,Bundesliga 1,28,M'gladbach,Heidenheim,,,,,,
+Germany,Bundesliga 1,28,Stuttgart,Dortmund,,,,,,
+Germany,Bundesliga 1,28,Werder Bremen,RB Leipzig,,,,,,
+Germany,Bundesliga 1,28,Freiburg,Bayern Munich,,,,,,
+Germany,Bundesliga 1,28,Ein Frankfurt,FC Koln,,,,,,
+Germany,Bundesliga 1,28,Leverkusen,Wolfsburg,,,,,,
+Germany,Bundesliga 1,29,FC Koln,Werder Bremen,,,,,,
+Germany,Bundesliga 1,29,Heidenheim,Union Berlin,,,,,,
+Germany,Bundesliga 1,29,St Pauli,Bayern Munich,,,,,,
+Germany,Bundesliga 1,29,Augsburg,Hoffenheim,,,,,,
+Germany,Bundesliga 1,29,Wolfsburg,Ein Frankfurt,,,,,,
+Germany,Bundesliga 1,29,Stuttgart,Hamburg,,,,,,
+Germany,Bundesliga 1,29,RB Leipzig,M'gladbach,,,,,,
+Germany,Bundesliga 1,29,Mainz,Freiburg,,,,,,
+Germany,Bundesliga 1,29,Dortmund,Leverkusen,,,,,,
+Germany,Bundesliga 1,30,Hoffenheim,Dortmund,,,,,,
+Germany,Bundesliga 1,30,St Pauli,FC Koln,,,,,,
+Germany,Bundesliga 1,30,Union Berlin,Wolfsburg,,,,,,
+Germany,Bundesliga 1,30,M'gladbach,Mainz,,,,,,
+Germany,Bundesliga 1,30,Werder Bremen,Hamburg,,,,,,
+Germany,Bundesliga 1,30,Freiburg,Heidenheim,,,,,,
+Germany,Bundesliga 1,30,Ein Frankfurt,RB Leipzig,,,,,,
+Germany,Bundesliga 1,30,Leverkusen,Augsburg,,,,,,
+Germany,Bundesliga 1,30,Bayern Munich,Stuttgart,,,,,,
+Germany,Bundesliga 1,31,Hamburg,Hoffenheim,,,,,,
+Germany,Bundesliga 1,31,FC Koln,Leverkusen,,,,,,
+Germany,Bundesliga 1,31,Heidenheim,St Pauli,,,,,,
+Germany,Bundesliga 1,31,Augsburg,Ein Frankfurt,,,,,,
+Germany,Bundesliga 1,31,Wolfsburg,M'gladbach,,,,,,
+Germany,Bundesliga 1,31,Stuttgart,Werder Bremen,,,,,,
+Germany,Bundesliga 1,31,RB Leipzig,Union Berlin,,,,,,
+Germany,Bundesliga 1,31,Mainz,Bayern Munich,,,,,,
+Germany,Bundesliga 1,31,Dortmund,Freiburg,,,,,,
+Germany,Bundesliga 1,32,Hoffenheim,Stuttgart,,,,,,
+Germany,Bundesliga 1,32,St Pauli,Mainz,,,,,,
+Germany,Bundesliga 1,32,Union Berlin,FC Koln,,,,,,
+Germany,Bundesliga 1,32,M'gladbach,Dortmund,,,,,,
+Germany,Bundesliga 1,32,Werder Bremen,Augsburg,,,,,,
+Germany,Bundesliga 1,32,Freiburg,Wolfsburg,,,,,,
+Germany,Bundesliga 1,32,Ein Frankfurt,Hamburg,,,,,,
+Germany,Bundesliga 1,32,Leverkusen,RB Leipzig,,,,,,
+Germany,Bundesliga 1,32,Bayern Munich,Heidenheim,,,,,,
+Germany,Bundesliga 1,33,Hamburg,Freiburg,,,,,,
+Germany,Bundesliga 1,33,FC Koln,Heidenheim,,,,,,
+Germany,Bundesliga 1,33,Hoffenheim,Werder Bremen,,,,,,
+Germany,Bundesliga 1,33,Augsburg,M'gladbach,,,,,,
+Germany,Bundesliga 1,33,Wolfsburg,Bayern Munich,,,,,,
+Germany,Bundesliga 1,33,Stuttgart,Leverkusen,,,,,,
+Germany,Bundesliga 1,33,RB Leipzig,St Pauli,,,,,,
+Germany,Bundesliga 1,33,Mainz,Union Berlin,,,,,,
+Germany,Bundesliga 1,33,Dortmund,Ein Frankfurt,,,,,,
+Germany,Bundesliga 1,34,Heidenheim,Mainz,,,,,,
+Germany,Bundesliga 1,34,St Pauli,Wolfsburg,,,,,,
+Germany,Bundesliga 1,34,Union Berlin,Augsburg,,,,,,
+Germany,Bundesliga 1,34,M'gladbach,Hoffenheim,,,,,,
+Germany,Bundesliga 1,34,Werder Bremen,Dortmund,,,,,,
+Germany,Bundesliga 1,34,Freiburg,RB Leipzig,,,,,,
+Germany,Bundesliga 1,34,Ein Frankfurt,Stuttgart,,,,,,
+Germany,Bundesliga 1,34,Leverkusen,Hamburg,,,,,,
+Germany,Bundesliga 1,34,Bayern Munich,FC Koln,,,,,,
+Germany,Bundesliga 2,14,Bielefeld,Preußen Münster,,,,,,
+Germany,Bundesliga 2,14,Elversberg,Darmstadt,D,0.0,0.0,D,0.0,0.0
+Germany,Bundesliga 2,14,Dresden,Fortuna Dusseldorf,H,2.0,1.0,H,1.0,0.0
+Germany,Bundesliga 2,14,Magdeburg,Nurnberg,H,3.0,0.0,D,0.0,0.0
+Germany,Bundesliga 2,14,Braunschweig,Kaiserslautern,H,2.0,0.0,H,1.0,0.0
+Germany,Bundesliga 2,14,Greuther Furth,Bochum,A,0.0,3.0,A,0.0,3.0
+Germany,Bundesliga 2,14,Holstein Kiel,Hertha,A,0.0,1.0,D,0.0,0.0
+Germany,Bundesliga 2,14,Hannover,Karlsruhe,H,3.0,0.0,D,0.0,0.0
+Germany,Bundesliga 2,14,Schalke 04,Paderborn,H,2.0,1.0,D,1.0,1.0
+Germany,Bundesliga 2,13,Kaiserslautern,Holstein Kiel,H,4.0,1.0,H,4.0,1.0
+Germany,Bundesliga 2,13,Karlsruhe,Elversberg,A,2.0,3.0,A,0.0,1.0
+Germany,Bundesliga 2,13,Nurnberg,Bielefeld,H,2.0,0.0,D,0.0,0.0
+Germany,Bundesliga 2,13,Darmstadt,Greuther Furth,H,4.0,2.0,D,1.0,1.0
+Germany,Bundesliga 2,13,Fortuna Dusseldorf,Magdeburg,H,2.0,1.0,H,1.0,0.0
+Germany,Bundesliga 2,13,Paderborn,Hannover,A,0.0,2.0,A,0.0,2.0
+Germany,Bundesliga 2,13,Preußen Münster,Schalke 04,,,,,,
+Germany,Bundesliga 2,13,Bochum,Dresden,A,1.0,2.0,A,0.0,2.0
+Germany,Bundesliga 2,13,Hertha,Braunschweig,H,1.0,0.0,D,0.0,0.0
+Germany,Bundesliga 2,12,Braunschweig,Bochum,A,0.0,2.0,A,0.0,1.0
+Germany,Bundesliga 2,12,Holstein Kiel,Fortuna Dusseldorf,H,1.0,0.0,D,0.0,0.0
+Germany,Bundesliga 2,12,Magdeburg,Paderborn,A,0.0,1.0,A,0.0,1.0
+Germany,Bundesliga 2,12,Kaiserslautern,Hertha,A,0.0,1.0,A,0.0,1.0
+Germany,Bundesliga 2,12,Bielefeld,Karlsruhe,H,4.0,0.0,H,1.0,0.0
+Germany,Bundesliga 2,12,Hannover,Darmstadt,A,2.0,3.0,H,2.0,1.0
+Germany,Bundesliga 2,12,Schalke 04,Elversberg,H,1.0,0.0,H,1.0,0.0
+Germany,Bundesliga 2,12,Greuther Furth,Preußen Münster,,,,,,
+Germany,Bundesliga 2,12,Dresden,Nurnberg,A,1.0,2.0,D,1.0,1.0
+Germany,Bundesliga 2,11,Bochum,Magdeburg,H,2.0,0.0,H,1.0,0.0
+Germany,Bundesliga 2,11,Fortuna Dusseldorf,Kaiserslautern,D,1.0,1.0,D,0.0,0.0
+Germany,Bundesliga 2,11,Paderborn,Greuther Furth,H,2.0,1.0,H,1.0,0.0
+Germany,Bundesliga 2,11,Darmstadt,Bielefeld,D,2.0,2.0,H,2.0,1.0
+Germany,Bundesliga 2,11,Hertha,Dresden,H,2.0,0.0,H,2.0,0.0
+Germany,Bundesliga 2,11,Karlsruhe,Schalke 04,H,2.0,1.0,D,0.0,0.0
+Germany,Bundesliga 2,11,Nurnberg,Braunschweig,H,2.0,1.0,H,2.0,1.0
+Germany,Bundesliga 2,11,Elversberg,Hannover,D,2.0,2.0,D,1.0,1.0
+Germany,Bundesliga 2,11,Preußen Münster,Holstein Kiel,,,,,,
+Germany,Bundesliga 2,10,Braunschweig,Hannover,A,0.0,3.0,A,0.0,2.0
+Germany,Bundesliga 2,10,Kaiserslautern,Nurnberg,D,1.0,1.0,H,1.0,0.0
+Germany,Bundesliga 2,10,Magdeburg,Preußen Münster,,,,,,
+Germany,Bundesliga 2,10,Hertha,Fortuna Dusseldorf,H,1.0,0.0,D,0.0,0.0
+Germany,Bundesliga 2,10,Bielefeld,Elversberg,H,2.0,0.0,H,2.0,0.0
+Germany,Bundesliga 2,10,Holstein Kiel,Bochum,D,1.0,1.0,D,0.0,0.0
+Germany,Bundesliga 2,10,Dresden,Paderborn,A,1.0,2.0,D,1.0,1.0
+Germany,Bundesliga 2,10,Greuther Furth,Karlsruhe,A,1.0,4.0,A,0.0,2.0
+Germany,Bundesliga 2,10,Schalke 04,Darmstadt,H,1.0,0.0,H,1.0,0.0
+Germany,Bundesliga 2,9,Darmstadt,Magdeburg,D,0.0,0.0,D,0.0,0.0
+Germany,Bundesliga 2,9,Elversberg,Greuther Furth,H,6.0,0.0,H,1.0,0.0
+Germany,Bundesliga 2,9,Nurnberg,Holstein Kiel,D,1.0,1.0,H,1.0,0.0
+Germany,Bundesliga 2,9,Bochum,Hertha,H,3.0,2.0,H,2.0,0.0
+Germany,Bundesliga 2,9,Karlsruhe,Kaiserslautern,A,2.0,3.0,A,0.0,1.0
+Germany,Bundesliga 2,15,Fortuna Dusseldorf,Schalke 04,,,,,,
+Germany,Bundesliga 2,15,Preußen Münster,Hannover,,,,,,
+Germany,Bundesliga 2,15,Bochum,Bielefeld,,,,,,
+Germany,Bundesliga 2,15,Kaiserslautern,Dresden,,,,,,
+Germany,Bundesliga 2,15,Paderborn,Elversberg,,,,,,
+Germany,Bundesliga 2,15,Darmstadt,Karlsruhe,,,,,,
+Germany,Bundesliga 2,15,Braunschweig,Holstein Kiel,,,,,,
+Germany,Bundesliga 2,15,Hertha,Magdeburg,,,,,,
+Germany,Bundesliga 2,15,Nurnberg,Greuther Furth,,,,,,
+Germany,Bundesliga 2,16,Greuther Furth,Hertha,,,,,,
+Germany,Bundesliga 2,16,Dresden,Braunschweig,,,,,,
+Germany,Bundesliga 2,16,Bielefeld,Kaiserslautern,,,,,,
+Germany,Bundesliga 2,16,Karlsruhe,Paderborn,,,,,,
+Germany,Bundesliga 2,16,Magdeburg,Holstein Kiel,,,,,,
+Germany,Bundesliga 2,16,Hannover,Bochum,,,,,,
+Germany,Bundesliga 2,16,Darmstadt,Preußen Münster,,,,,,
+Germany,Bundesliga 2,16,Elversberg,Fortuna Dusseldorf,,,,,,
+Germany,Bundesliga 2,16,Schalke 04,Nurnberg,,,,,,
+Germany,Bundesliga 2,17,Hertha,Bielefeld,,,,,,
+Germany,Bundesliga 2,17,Paderborn,Darmstadt,,,,,,
+Germany,Bundesliga 2,17,Bochum,Karlsruhe,,,,,,
+Germany,Bundesliga 2,17,Fortuna Dusseldorf,Greuther Furth,,,,,,
+Germany,Bundesliga 2,17,Kaiserslautern,Magdeburg,,,,,,
+Germany,Bundesliga 2,17,Holstein Kiel,Dresden,,,,,,
+Germany,Bundesliga 2,17,Braunschweig,Schalke 04,,,,,,
+Germany,Bundesliga 2,17,Nurnberg,Hannover,,,,,,
+Germany,Bundesliga 2,17,Preußen Münster,Elversberg,,,,,,
+Germany,Bundesliga 2,18,Braunschweig,Magdeburg,,,,,,
+Germany,Bundesliga 2,18,Fortuna Dusseldorf,Bielefeld,,,,,,
+Germany,Bundesliga 2,18,Nurnberg,Elversberg,,,,,,
+Germany,Bundesliga 2,18,Preußen Münster,Karlsruhe,,,,,,
+Germany,Bundesliga 2,18,Dresden,Greuther Furth,,,,,,
+Germany,Bundesliga 2,18,Hertha,Schalke 04,,,,,,
+Germany,Bundesliga 2,18,Bochum,Darmstadt,,,,,,
+Germany,Bundesliga 2,18,Holstein Kiel,Paderborn,,,,,,
+Germany,Bundesliga 2,18,Kaiserslautern,Hannover,,,,,,
+Germany,Bundesliga 2,19,Bielefeld,Holstein Kiel,,,,,,
+Germany,Bundesliga 2,19,Darmstadt,Nurnberg,,,,,,
+Germany,Bundesliga 2,19,Greuther Furth,Braunschweig,,,,,,
+Germany,Bundesliga 2,19,Hannover,Fortuna Dusseldorf,,,,,,
+Germany,Bundesliga 2,19,Karlsruhe,Hertha,,,,,,
+Germany,Bundesliga 2,19,Magdeburg,Dresden,,,,,,
+Germany,Bundesliga 2,19,Elversberg,Bochum,,,,,,
+Germany,Bundesliga 2,19,Paderborn,Preußen Münster,,,,,,
+Germany,Bundesliga 2,19,Schalke 04,Kaiserslautern,,,,,,
+Germany,Bundesliga 2,20,Bochum,Schalke 04,,,,,,
+Germany,Bundesliga 2,20,Braunschweig,Karlsruhe,,,,,,
+Germany,Bundesliga 2,20,Fortuna Dusseldorf,Paderborn,,,,,,
+Germany,Bundesliga 2,20,Hertha,Darmstadt,,,,,,
+Germany,Bundesliga 2,20,Holstein Kiel,Greuther Furth,,,,,,
+Germany,Bundesliga 2,20,Kaiserslautern,Elversberg,,,,,,
+Germany,Bundesliga 2,20,Magdeburg,Hannover,,,,,,
+Germany,Bundesliga 2,20,Nurnberg,Preußen Münster,,,,,,
+Germany,Bundesliga 2,20,Dresden,Bielefeld,,,,,,
+Germany,Bundesliga 2,21,Bielefeld,Braunschweig,,,,,,
+Germany,Bundesliga 2,21,Darmstadt,Kaiserslautern,,,,,,
+Germany,Bundesliga 2,21,Elversberg,Hertha,,,,,,
+Germany,Bundesliga 2,21,Greuther Furth,Magdeburg,,,,,,
+Germany,Bundesliga 2,21,Hannover,Holstein Kiel,,,,,,
+Germany,Bundesliga 2,21,Karlsruhe,Fortuna Dusseldorf,,,,,,
+Germany,Bundesliga 2,21,Paderborn,Nurnberg,,,,,,
+Germany,Bundesliga 2,21,Preußen Münster,Bochum,,,,,,
+Germany,Bundesliga 2,21,Schalke 04,Dresden,,,,,,
+Germany,Bundesliga 2,22,Bochum,Paderborn,,,,,,
+Germany,Bundesliga 2,22,Braunschweig,Darmstadt,,,,,,
+Germany,Bundesliga 2,22,Fortuna Dusseldorf,Preußen Münster,,,,,,
+Germany,Bundesliga 2,22,Hertha,Hannover,,,,,,
+Germany,Bundesliga 2,22,Holstein Kiel,Schalke 04,,,,,,
+Germany,Bundesliga 2,22,Kaiserslautern,Greuther Furth,,,,,,
+Germany,Bundesliga 2,22,Magdeburg,Bielefeld,,,,,,
+Germany,Bundesliga 2,22,Nurnberg,Karlsruhe,,,,,,
+Germany,Bundesliga 2,22,Dresden,Elversberg,,,,,,
+Germany,Bundesliga 2,23,Bochum,Nurnberg,,,,,,
+Germany,Bundesliga 2,23,Darmstadt,Fortuna Dusseldorf,,,,,,
+Germany,Bundesliga 2,23,Elversberg,Braunschweig,,,,,,
+Germany,Bundesliga 2,23,Greuther Furth,Bielefeld,,,,,,
+Germany,Bundesliga 2,23,Hannover,Dresden,,,,,,
+Germany,Bundesliga 2,23,Karlsruhe,Holstein Kiel,,,,,,
+Germany,Bundesliga 2,23,Paderborn,Hertha,,,,,,
+Germany,Bundesliga 2,23,Preußen Münster,Kaiserslautern,,,,,,
+Germany,Bundesliga 2,23,Schalke 04,Magdeburg,,,,,,
+Germany,Bundesliga 2,24,Bielefeld,Hannover,,,,,,
+Germany,Bundesliga 2,24,Braunschweig,Preußen Münster,,,,,,
+Germany,Bundesliga 2,24,Fortuna Dusseldorf,Bochum,,,,,,
+Germany,Bundesliga 2,24,Greuther Furth,Schalke 04,,,,,,
+Germany,Bundesliga 2,24,Hertha,Nurnberg,,,,,,
+Germany,Bundesliga 2,24,Holstein Kiel,Elversberg,,,,,,
+Germany,Bundesliga 2,24,Kaiserslautern,Paderborn,,,,,,
+Germany,Bundesliga 2,24,Magdeburg,Karlsruhe,,,,,,
+Germany,Bundesliga 2,24,Dresden,Darmstadt,,,,,,
+Germany,Bundesliga 2,25,Bochum,Kaiserslautern,,,,,,
+Germany,Bundesliga 2,25,Darmstadt,Holstein Kiel,,,,,,
+Germany,Bundesliga 2,25,Elversberg,Magdeburg,,,,,,
+Germany,Bundesliga 2,25,Hannover,Greuther Furth,,,,,,
+Germany,Bundesliga 2,25,Karlsruhe,Dresden,,,,,,
+Germany,Bundesliga 2,25,Nurnberg,Fortuna Dusseldorf,,,,,,
+Germany,Bundesliga 2,25,Paderborn,Braunschweig,,,,,,
+Germany,Bundesliga 2,25,Preußen Münster,Hertha,,,,,,
+Germany,Bundesliga 2,25,Schalke 04,Bielefeld,,,,,,
+Germany,Bundesliga 2,26,Bielefeld,Paderborn,,,,,,
+Germany,Bundesliga 2,26,Braunschweig,Fortuna Dusseldorf,,,,,,
+Germany,Bundesliga 2,26,Greuther Furth,Elversberg,,,,,,
+Germany,Bundesliga 2,26,Hertha,Bochum,,,,,,
+Germany,Bundesliga 2,26,Holstein Kiel,Nurnberg,,,,,,
+Germany,Bundesliga 2,26,Kaiserslautern,Karlsruhe,,,,,,
+Germany,Bundesliga 2,26,Magdeburg,Darmstadt,,,,,,
+Germany,Bundesliga 2,26,Schalke 04,Hannover,,,,,,
+Germany,Bundesliga 2,26,Dresden,Preußen Münster,,,,,,
+Germany,Bundesliga 2,27,Bochum,Holstein Kiel,,,,,,
+Germany,Bundesliga 2,27,Darmstadt,Schalke 04,,,,,,
+Germany,Bundesliga 2,27,Fortuna Dusseldorf,Hertha,,,,,,
+Germany,Bundesliga 2,27,Elversberg,Bielefeld,,,,,,
+Germany,Bundesliga 2,27,Hannover,Braunschweig,,,,,,
+Germany,Bundesliga 2,27,Karlsruhe,Greuther Furth,,,,,,
+Germany,Bundesliga 2,27,Nurnberg,Kaiserslautern,,,,,,
+Germany,Bundesliga 2,27,Paderborn,Dresden,,,,,,
+Germany,Bundesliga 2,27,Preußen Münster,Magdeburg,,,,,,
+Germany,Bundesliga 2,28,Bielefeld,Darmstadt,,,,,,
+Germany,Bundesliga 2,28,Braunschweig,Nurnberg,,,,,,
+Germany,Bundesliga 2,28,Greuther Furth,Paderborn,,,,,,
+Germany,Bundesliga 2,28,Hannover,Elversberg,,,,,,
+Germany,Bundesliga 2,28,Holstein Kiel,Preußen Münster,,,,,,
+Germany,Bundesliga 2,28,Kaiserslautern,Fortuna Dusseldorf,,,,,,
+Germany,Bundesliga 2,28,Magdeburg,Bochum,,,,,,
+Germany,Bundesliga 2,28,Schalke 04,Karlsruhe,,,,,,
+Germany,Bundesliga 2,28,Dresden,Hertha,,,,,,
+Germany,Bundesliga 2,29,Bochum,Braunschweig,,,,,,
+Germany,Bundesliga 2,29,Darmstadt,Hannover,,,,,,
+Germany,Bundesliga 2,29,Fortuna Dusseldorf,Holstein Kiel,,,,,,
+Germany,Bundesliga 2,29,Elversberg,Schalke 04,,,,,,
+Germany,Bundesliga 2,29,Hertha,Kaiserslautern,,,,,,
+Germany,Bundesliga 2,29,Karlsruhe,Bielefeld,,,,,,
+Germany,Bundesliga 2,29,Nurnberg,Dresden,,,,,,
+Germany,Bundesliga 2,29,Paderborn,Magdeburg,,,,,,
+Germany,Bundesliga 2,29,Preußen Münster,Greuther Furth,,,,,,
+Germany,Bundesliga 2,30,Bielefeld,Nurnberg,,,,,,
+Germany,Bundesliga 2,30,Braunschweig,Hertha,,,,,,
+Germany,Bundesliga 2,30,Elversberg,Karlsruhe,,,,,,
+Germany,Bundesliga 2,30,Greuther Furth,Darmstadt,,,,,,
+Germany,Bundesliga 2,30,Hannover,Paderborn,,,,,,
+Germany,Bundesliga 2,30,Holstein Kiel,Kaiserslautern,,,,,,
+Germany,Bundesliga 2,30,Magdeburg,Fortuna Dusseldorf,,,,,,
+Germany,Bundesliga 2,30,Schalke 04,Preußen Münster,,,,,,
+Germany,Bundesliga 2,30,Dresden,Bochum,,,,,,
+Germany,Bundesliga 2,31,Bochum,Greuther Furth,,,,,,
+Germany,Bundesliga 2,31,Darmstadt,Elversberg,,,,,,
+Germany,Bundesliga 2,31,Fortuna Dusseldorf,Dresden,,,,,,
+Germany,Bundesliga 2,31,Hertha,Holstein Kiel,,,,,,
+Germany,Bundesliga 2,31,Kaiserslautern,Braunschweig,,,,,,
+Germany,Bundesliga 2,31,Karlsruhe,Hannover,,,,,,
+Germany,Bundesliga 2,31,Nurnberg,Magdeburg,,,,,,
+Germany,Bundesliga 2,31,Paderborn,Schalke 04,,,,,,
+Germany,Bundesliga 2,31,Preußen Münster,Bielefeld,,,,,,
+Germany,Bundesliga 2,32,Bielefeld,Bochum,,,,,,
+Germany,Bundesliga 2,32,Elversberg,Paderborn,,,,,,
+Germany,Bundesliga 2,32,Greuther Furth,Nurnberg,,,,,,
+Germany,Bundesliga 2,32,Hannover,Preußen Münster,,,,,,
+Germany,Bundesliga 2,32,Holstein Kiel,Braunschweig,,,,,,
+Germany,Bundesliga 2,32,Karlsruhe,Darmstadt,,,,,,
+Germany,Bundesliga 2,32,Magdeburg,Hertha,,,,,,
+Germany,Bundesliga 2,32,Schalke 04,Fortuna Dusseldorf,,,,,,
+Germany,Bundesliga 2,32,Dresden,Kaiserslautern,,,,,,
+Germany,Bundesliga 2,33,Bochum,Hannover,,,,,,
+Germany,Bundesliga 2,33,Braunschweig,Dresden,,,,,,
+Germany,Bundesliga 2,33,Fortuna Dusseldorf,Elversberg,,,,,,
+Germany,Bundesliga 2,33,Hertha,Greuther Furth,,,,,,
+Germany,Bundesliga 2,33,Holstein Kiel,Magdeburg,,,,,,
+Germany,Bundesliga 2,33,Kaiserslautern,Bielefeld,,,,,,
+Germany,Bundesliga 2,33,Nurnberg,Schalke 04,,,,,,
+Germany,Bundesliga 2,33,Paderborn,Karlsruhe,,,,,,
+Germany,Bundesliga 2,33,Preußen Münster,Darmstadt,,,,,,
+Germany,Bundesliga 2,34,Bielefeld,Hertha,,,,,,
+Germany,Bundesliga 2,34,Darmstadt,Paderborn,,,,,,
+Germany,Bundesliga 2,34,Elversberg,Preußen Münster,,,,,,
+Germany,Bundesliga 2,34,Greuther Furth,Fortuna Dusseldorf,,,,,,
+Germany,Bundesliga 2,34,Hannover,Nurnberg,,,,,,
+Germany,Bundesliga 2,34,Karlsruhe,Bochum,,,,,,
+Germany,Bundesliga 2,34,Magdeburg,Kaiserslautern,,,,,,
+Germany,Bundesliga 2,34,Schalke 04,Braunschweig,,,,,,
+Germany,Bundesliga 2,34,Dresden,Holstein Kiel,,,,,,
+England,Championship,1,Birmingham,Ipswich,D,1.0,1.0,D,0.0,0.0
+England,Championship,1,Charlton,Watford,H,1.0,0.0,D,0.0,0.0
+England,Championship,1,Coventry,Hull,D,0.0,0.0,D,0.0,0.0
+England,Championship,1,Southampton,Wrexham,H,2.0,1.0,A,0.0,1.0
+England,Championship,1,Middlesbrough,Swansea,H,1.0,0.0,D,0.0,0.0
+England,Championship,1,Norwich,Millwall,A,1.0,2.0,D,0.0,0.0
+England,Championship,1,Oxford,Portsmouth,A,0.0,1.0,A,0.0,1.0
+England,Championship,1,QPR,Preston,D,1.0,1.0,H,1.0,0.0
+England,Championship,1,Stoke,Derby,H,3.0,1.0,D,0.0,0.0
+England,Championship,1,West Brom,Blackburn,H,1.0,0.0,H,1.0,0.0
+England,Championship,1,Sheffield United,Bristol City,A,1.0,4.0,A,1.0,2.0
+England,Championship,1,Leicester,Sheffield Weds,H,2.0,1.0,A,0.0,1.0
+England,Championship,2,Derby,Coventry,A,3.0,5.0,D,2.0,2.0
+England,Championship,2,Portsmouth,Norwich,A,1.0,2.0,A,0.0,2.0
+England,Championship,2,Wrexham,West Brom,A,2.0,3.0,D,1.0,1.0
+England,Championship,2,Blackburn,Birmingham,A,1.0,2.0,D,0.0,0.0
+England,Championship,2,Bristol City,Charlton,D,0.0,0.0,D,0.0,0.0
+England,Championship,2,Millwall,Middlesbrough,A,0.0,3.0,D,0.0,0.0
+England,Championship,2,Preston,Leicester,H,2.0,1.0,H,1.0,0.0
+England,Championship,2,Sheffield Weds,Stoke,A,0.0,3.0,A,0.0,1.0
+England,Championship,2,Swansea,Sheffield United,H,1.0,0.0,D,0.0,0.0
+England,Championship,2,Watford,QPR,H,2.0,1.0,H,2.0,1.0
+England,Championship,2,Ipswich,Southampton,D,1.0,1.0,D,1.0,1.0
+England,Championship,2,Hull,Oxford,H,3.0,2.0,D,2.0,2.0
+England,Championship,3,Derby,Bristol City,D,1.0,1.0,A,0.0,1.0
+England,Championship,3,Charlton,Leicester,A,0.0,1.0,D,0.0,0.0
+England,Championship,3,Hull,Blackburn,A,0.0,3.0,A,0.0,1.0
+England,Championship,3,Swansea,Watford,D,1.0,1.0,A,0.0,1.0
+England,Championship,3,Birmingham,Oxford,H,1.0,0.0,H,1.0,0.0
+England,Championship,3,Coventry,QPR,H,7.0,1.0,H,5.0,0.0
+England,Championship,3,Norwich,Middlesbrough,A,1.0,2.0,A,0.0,2.0
+England,Championship,3,Preston,Ipswich,H,1.0,0.0,H,1.0,0.0
+England,Championship,3,Sheffield United,Millwall,A,0.0,1.0,A,0.0,1.0
+England,Championship,3,Southampton,Stoke,A,1.0,2.0,D,0.0,0.0
+England,Championship,3,West Brom,Portsmouth,D,1.0,1.0,H,1.0,0.0
+England,Championship,3,Wrexham,Sheffield Weds,D,2.0,2.0,H,2.0,0.0
+England,Championship,4,Leicester,Birmingham,H,2.0,0.0,H,1.0,0.0
+England,Championship,4,Middlesbrough,Sheffield United,H,1.0,0.0,D,0.0,0.0
+England,Championship,4,QPR,Charlton,H,3.0,1.0,H,1.0,0.0
+England,Championship,4,Stoke,West Brom,A,0.0,1.0,A,0.0,1.0
+England,Championship,4,Blackburn,Norwich,A,0.0,2.0,A,0.0,1.0
+England,Championship,4,Bristol City,Hull,H,4.0,2.0,H,3.0,1.0
+England,Championship,4,Ipswich,Derby,D,2.0,2.0,H,1.0,0.0
+England,Championship,4,Millwall,Wrexham,A,0.0,2.0,D,0.0,0.0
+England,Championship,4,Oxford,Coventry,D,2.0,2.0,A,1.0,2.0
+England,Championship,4,Portsmouth,Preston,H,1.0,0.0,H,1.0,0.0
+England,Championship,4,Sheffield Weds,Swansea,A,0.0,2.0,D,0.0,0.0
+England,Championship,4,Watford,Southampton,D,2.0,2.0,A,0.0,1.0
+England,Championship,5,Ipswich,Sheffield United,H,5.0,0.0,H,1.0,0.0
+England,Championship,5,Charlton,Millwall,D,1.0,1.0,H,1.0,0.0
+England,Championship,5,Oxford,Leicester,D,2.0,2.0,H,2.0,1.0
+England,Championship,5,Preston,Middlesbrough,D,2.0,2.0,H,1.0,0.0
+England,Championship,5,Coventry,Norwich,D,1.0,1.0,A,0.0,1.0
+England,Championship,5,Sheffield Weds,Bristol City,A,0.0,3.0,A,0.0,3.0
+England,Championship,5,Stoke,Birmingham,H,1.0,0.0,H,1.0,0.0
+England,Championship,5,Swansea,Hull,D,2.0,2.0,D,1.0,1.0
+England,Championship,5,Watford,Blackburn,A,0.0,1.0,D,0.0,0.0
+England,Championship,5,West Brom,Derby,A,0.0,1.0,D,0.0,0.0
+England,Championship,5,Wrexham,QPR,A,1.0,3.0,A,0.0,2.0
+England,Championship,5,Southampton,Portsmouth,D,0.0,0.0,D,0.0,0.0
+England,Championship,6,Middlesbrough,West Brom,H,2.0,1.0,H,1.0,0.0
+England,Championship,6,Birmingham,Swansea,H,1.0,0.0,D,0.0,0.0
+England,Championship,6,Leicester,Coventry,D,0.0,0.0,D,0.0,0.0
+England,Championship,6,QPR,Stoke,H,1.0,0.0,D,0.0,0.0
+England,Championship,6,Derby,Preston,A,0.0,1.0,A,0.0,1.0
+England,Championship,6,Hull,Southampton,H,3.0,1.0,H,1.0,0.0
+England,Championship,6,Norwich,Wrexham,A,2.0,3.0,H,1.0,0.0
+England,Championship,6,Portsmouth,Sheffield Weds,A,0.0,2.0,A,0.0,1.0
+England,Championship,6,Sheffield United,Charlton,A,0.0,1.0,D,0.0,0.0
+England,Championship,6,Bristol City,Oxford,A,1.0,3.0,A,0.0,2.0
+England,Championship,6,Millwall,Watford,H,1.0,0.0,H,1.0,0.0
+England,Championship,6,Blackburn,Ipswich,,,,,,
+England,Championship,7,West Brom,Leicester,D,1.0,1.0,H,1.0,0.0
+England,Championship,7,Coventry,Birmingham,H,3.0,0.0,H,1.0,0.0
+England,Championship,7,Swansea,Millwall,D,1.0,1.0,D,1.0,1.0
+England,Championship,7,Wrexham,Derby,D,1.0,1.0,D,0.0,0.0
+England,Championship,7,Charlton,Blackburn,H,3.0,0.0,H,1.0,0.0
+England,Championship,7,Ipswich,Portsmouth,H,2.0,1.0,H,2.0,0.0
+England,Championship,7,Oxford,Sheffield United,A,0.0,1.0,D,0.0,0.0
+England,Championship,7,Preston,Bristol City,D,0.0,0.0,D,0.0,0.0
+England,Championship,7,Sheffield Weds,QPR,D,1.0,1.0,H,1.0,0.0
+England,Championship,7,Southampton,Middlesbrough,D,1.0,1.0,D,0.0,0.0
+England,Championship,7,Stoke,Norwich,D,1.0,1.0,A,0.0,1.0
+England,Championship,7,Watford,Hull,H,2.0,1.0,A,0.0,1.0
+England,Championship,8,Birmingham,Sheffield Weds,D,2.0,2.0,D,1.0,1.0
+England,Championship,8,Blackburn,Swansea,A,1.0,2.0,D,1.0,1.0
+England,Championship,8,Bristol City,Ipswich,D,1.0,1.0,H,1.0,0.0
+England,Championship,8,Hull,Preston,D,2.0,2.0,A,0.0,2.0
+England,Championship,8,Leicester,Wrexham,D,1.0,1.0,H,1.0,0.0
+England,Championship,8,Middlesbrough,Stoke,D,0.0,0.0,D,0.0,0.0
+England,Championship,8,Sheffield United,Southampton,A,1.0,2.0,H,1.0,0.0
+England,Championship,8,Derby,Charlton,D,1.0,1.0,A,0.0,1.0
+England,Championship,8,Millwall,Coventry,A,0.0,4.0,A,0.0,1.0
+England,Championship,8,Norwich,West Brom,A,0.0,1.0,A,0.0,1.0
+England,Championship,8,Portsmouth,Watford,D,2.0,2.0,H,1.0,0.0
+England,Championship,8,QPR,Oxford,D,0.0,0.0,D,0.0,0.0
+England,Championship,9,Wrexham,Birmingham,D,1.0,1.0,H,1.0,0.0
+England,Championship,9,Blackburn,Stoke,D,1.0,1.0,D,0.0,0.0
+England,Championship,9,Hull,Sheffield United,H,1.0,0.0,H,1.0,0.0
+England,Championship,9,Sheffield Weds,Coventry,A,0.0,5.0,A,0.0,3.0
+England,Championship,9,Bristol City,QPR,A,1.0,2.0,H,1.0,0.0
+England,Championship,9,Derby,Southampton,D,1.0,1.0,D,1.0,1.0
+England,Championship,9,Millwall,West Brom,H,3.0,0.0,H,1.0,0.0
+England,Championship,9,Portsmouth,Middlesbrough,H,1.0,0.0,H,1.0,0.0
+England,Championship,9,Preston,Charlton,H,2.0,0.0,D,0.0,0.0
+England,Championship,9,Swansea,Leicester,A,1.0,3.0,A,0.0,1.0
+England,Championship,9,Watford,Oxford,H,2.0,1.0,H,2.0,1.0
+England,Championship,9,Ipswich,Norwich,H,3.0,1.0,H,2.0,1.0
+England,Championship,10,Middlesbrough,Ipswich,H,2.0,1.0,H,1.0,0.0
+England,Championship,10,Oxford,Derby,H,1.0,0.0,H,1.0,0.0
+England,Championship,10,QPR,Millwall,A,1.0,2.0,A,0.0,2.0
+England,Championship,10,Southampton,Swansea,D,0.0,0.0,D,0.0,0.0
+England,Championship,10,Birmingham,Hull,A,2.0,3.0,A,1.0,2.0
+England,Championship,10,Charlton,Sheffield Weds,H,2.0,1.0,H,2.0,0.0
+England,Championship,10,Coventry,Blackburn,H,2.0,0.0,D,0.0,0.0
+England,Championship,10,Norwich,Bristol City,A,0.0,1.0,D,0.0,0.0
+England,Championship,10,Sheffield United,Watford,H,1.0,0.0,D,0.0,0.0
+England,Championship,10,Stoke,Wrexham,H,1.0,0.0,H,1.0,0.0
+England,Championship,10,West Brom,Preston,H,2.0,1.0,H,1.0,0.0
+England,Championship,10,Leicester,Portsmouth,D,1.0,1.0,H,1.0,0.0
+England,Championship,11,Blackburn,Sheffield United,A,1.0,3.0,H,1.0,0.0
+England,Championship,11,Derby,Norwich,H,1.0,0.0,D,0.0,0.0
+England,Championship,11,Hull,Leicester,H,2.0,1.0,H,2.0,0.0
+England,Championship,11,Ipswich,Charlton,A,0.0,3.0,D,0.0,0.0
+England,Championship,11,Millwall,Stoke,H,2.0,0.0,H,2.0,0.0
+England,Championship,11,Portsmouth,Coventry,A,1.0,2.0,A,0.0,1.0
+England,Championship,11,Preston,Birmingham,A,0.0,1.0,A,0.0,1.0
+England,Championship,11,Bristol City,Southampton,H,3.0,1.0,D,1.0,1.0
+England,Championship,11,Swansea,QPR,A,0.0,1.0,A,0.0,1.0
+England,Championship,11,Watford,West Brom,H,2.0,1.0,D,1.0,1.0
+England,Championship,11,Wrexham,Oxford,H,1.0,0.0,H,1.0,0.0
+England,Championship,11,Sheffield Weds,Middlesbrough,A,0.0,1.0,A,0.0,1.0
+England,Championship,12,Preston,Sheffield United,H,3.0,2.0,A,1.0,2.0
+England,Championship,12,Coventry,Watford,H,3.0,1.0,H,3.0,0.0
+England,Championship,12,Ipswich,West Brom,H,1.0,0.0,D,0.0,0.0
+England,Championship,12,Portsmouth,Stoke,A,0.0,1.0,D,0.0,0.0
+England,Championship,12,Blackburn,Southampton,H,2.0,1.0,A,0.0,1.0
+England,Championship,12,Bristol City,Birmingham,H,1.0,0.0,H,1.0,0.0
+England,Championship,12,Derby,QPR,H,1.0,0.0,H,1.0,0.0
+England,Championship,12,Hull,Charlton,D,1.0,1.0,D,0.0,0.0
+England,Championship,12,Middlesbrough,Wrexham,D,1.0,1.0,A,0.0,1.0
+England,Championship,12,Millwall,Leicester,H,1.0,0.0,H,1.0,0.0
+England,Championship,12,Sheffield Weds,Oxford,A,1.0,2.0,A,0.0,2.0
+England,Championship,12,Swansea,Norwich,H,2.0,1.0,D,1.0,1.0
+England,Championship,13,Wrexham,Coventry,H,3.0,2.0,A,0.0,1.0
+England,Championship,13,Leicester,Blackburn,A,0.0,2.0,A,0.0,1.0
+England,Championship,13,Norwich,Hull,A,0.0,2.0,D,0.0,0.0
+England,Championship,13,West Brom,Sheffield Weds,D,0.0,0.0,D,0.0,0.0
+England,Championship,13,Birmingham,Portsmouth,H,4.0,0.0,H,1.0,0.0
+England,Championship,13,Charlton,Swansea,D,1.0,1.0,D,0.0,0.0
+England,Championship,13,Oxford,Millwall,D,2.0,2.0,D,1.0,1.0
+England,Championship,13,QPR,Ipswich,A,1.0,4.0,D,1.0,1.0
+England,Championship,13,Sheffield United,Derby,A,1.0,3.0,A,0.0,1.0
+England,Championship,13,Southampton,Preston,A,0.0,2.0,A,0.0,1.0
+England,Championship,13,Stoke,Bristol City,H,5.0,1.0,H,3.0,0.0
+England,Championship,13,Watford,Middlesbrough,H,3.0,0.0,H,2.0,0.0
+England,Championship,14,Birmingham,Millwall,H,4.0,0.0,H,2.0,0.0
+England,Championship,14,Bristol City,Blackburn,A,0.0,1.0,A,0.0,1.0
+England,Championship,14,Charlton,West Brom,H,1.0,0.0,D,0.0,0.0
+England,Championship,14,Derby,Hull,H,2.0,1.0,H,1.0,0.0
+England,Championship,14,Ipswich,Watford,D,1.0,1.0,D,1.0,1.0
+England,Championship,14,Leicester,Middlesbrough,D,1.0,1.0,H,1.0,0.0
+England,Championship,14,Oxford,Stoke,A,0.0,3.0,A,0.0,2.0
+England,Championship,14,Coventry,Sheffield United,H,3.0,1.0,A,0.0,1.0
+England,Championship,14,Preston,Swansea,H,2.0,1.0,H,1.0,0.0
+England,Championship,14,QPR,Southampton,A,1.0,2.0,D,0.0,0.0
+England,Championship,14,Sheffield Weds,Norwich,D,1.0,1.0,H,1.0,0.0
+England,Championship,14,Portsmouth,Wrexham,D,0.0,0.0,D,0.0,0.0
+England,Championship,15,Watford,Bristol City,D,1.0,1.0,D,1.0,1.0
+England,Championship,15,Blackburn,Derby,A,1.0,2.0,A,0.0,2.0
+England,Championship,15,Hull,Portsmouth,H,3.0,2.0,D,2.0,2.0
+England,Championship,15,Millwall,Preston,D,1.0,1.0,D,1.0,1.0
+England,Championship,15,Middlesbrough,Birmingham,H,2.0,1.0,H,2.0,1.0
+England,Championship,15,Norwich,Leicester,A,1.0,2.0,D,0.0,0.0
+England,Championship,15,Sheffield United,QPR,D,0.0,0.0,D,0.0,0.0
+England,Championship,15,Southampton,Sheffield Weds,H,3.0,1.0,H,2.0,1.0
+England,Championship,15,Stoke,Coventry,A,0.0,1.0,D,0.0,0.0
+England,Championship,15,Swansea,Ipswich,A,1.0,4.0,A,0.0,1.0
+England,Championship,15,West Brom,Oxford,H,2.0,1.0,D,0.0,0.0
+England,Championship,15,Wrexham,Charlton,H,1.0,0.0,D,0.0,0.0
+England,Championship,16,Preston,Blackburn,A,1.0,2.0,D,1.0,1.0
+England,Championship,16,Bristol City,Swansea,H,3.0,0.0,H,2.0,0.0
+England,Championship,16,Charlton,Southampton,A,1.0,5.0,A,1.0,5.0
+England,Championship,16,Coventry,West Brom,H,3.0,2.0,A,1.0,2.0
+England,Championship,16,Birmingham,Norwich,H,4.0,1.0,H,3.0,1.0
+England,Championship,16,Derby,Watford,A,2.0,3.0,H,1.0,0.0
+England,Championship,16,Ipswich,Wrexham,D,0.0,0.0,D,0.0,0.0
+England,Championship,16,Leicester,Stoke,H,2.0,1.0,H,2.0,0.0
+England,Championship,16,Oxford,Middlesbrough,D,1.0,1.0,H,1.0,0.0
+England,Championship,16,Portsmouth,Millwall,H,3.0,1.0,H,1.0,0.0
+England,Championship,16,QPR,Hull,H,3.0,2.0,D,1.0,1.0
+England,Championship,16,Sheffield Weds,Sheffield United,A,0.0,3.0,A,0.0,1.0
+England,Championship,17,Hull,Ipswich,A,0.0,2.0,D,0.0,0.0
+England,Championship,17,Middlesbrough,Coventry,A,2.0,4.0,A,1.0,2.0
+England,Championship,17,Stoke,Charlton,H,3.0,0.0,H,3.0,0.0
+England,Championship,17,Swansea,Derby,A,1.0,2.0,A,0.0,1.0
+England,Championship,17,Watford,Preston,D,1.0,1.0,D,1.0,1.0
+England,Championship,17,Norwich,Oxford,D,1.0,1.0,H,1.0,0.0
+England,Championship,17,Southampton,Leicester,H,3.0,0.0,H,3.0,0.0
+England,Championship,17,Millwall,Sheffield Weds,H,1.0,0.0,D,0.0,0.0
+England,Championship,17,Sheffield United,Portsmouth,H,3.0,0.0,H,1.0,0.0
+England,Championship,17,Blackburn,QPR,A,0.0,1.0,D,0.0,0.0
+England,Championship,17,Wrexham,Bristol City,H,2.0,0.0,H,1.0,0.0
+England,Championship,17,West Brom,Birmingham,D,1.0,1.0,H,1.0,0.0
+England,Championship,18,Oxford,Ipswich,H,2.0,1.0,H,1.0,0.0
+England,Championship,18,Leicester,Sheffield United,A,2.0,3.0,A,0.0,3.0
+England,Championship,18,Portsmouth,Bristol City,A,0.0,1.0,A,0.0,1.0
+England,Championship,18,Stoke,Hull,A,1.0,2.0,H,1.0,0.0
+England,Championship,18,Coventry,Charlton,H,3.0,1.0,H,2.0,1.0
+England,Championship,18,Middlesbrough,Derby,H,2.0,1.0,A,0.0,1.0
+England,Championship,18,Millwall,Southampton,H,3.0,2.0,D,0.0,0.0
+England,Championship,18,Norwich,QPR,H,3.0,1.0,H,3.0,1.0
+England,Championship,18,Sheffield Weds,Preston,A,2.0,3.0,H,2.0,1.0
+England,Championship,18,West Brom,Swansea,H,3.0,2.0,A,0.0,2.0
+England,Championship,18,Wrexham,Blackburn,D,1.0,1.0,A,0.0,1.0
+England,Championship,18,Birmingham,Watford,H,2.0,1.0,H,2.0,0.0
+England,Championship,19,Hull,Middlesbrough,,,,,,
+England,Championship,19,Charlton,Portsmouth,,,,,,
+England,Championship,19,Derby,Leicester,,,,,,
+England,Championship,19,Watford,Norwich,,,,,,
+England,Championship,19,Blackburn,Sheffield Weds,,,,,,
+England,Championship,19,Bristol City,Millwall,,,,,,
+England,Championship,19,Ipswich,Coventry,,,,,,
+England,Championship,19,Preston,Wrexham,,,,,,
+England,Championship,19,QPR,West Brom,,,,,,
+England,Championship,19,Sheffield United,Stoke,,,,,,
+England,Championship,19,Southampton,Birmingham,,,,,,
+England,Championship,19,Swansea,Oxford,,,,,,
+England,Championship,20,Blackburn,Oxford,,,,,,
+England,Championship,20,Charlton,Middlesbrough,,,,,,
+England,Championship,20,Preston,Coventry,,,,,,
+England,Championship,20,Sheffield United,Norwich,,,,,,
+England,Championship,20,Southampton,West Brom,,,,,,
+England,Championship,20,Swansea,Portsmouth,,,,,,
+England,Championship,20,Watford,Sheffield Weds,,,,,,
+England,Championship,20,QPR,Birmingham,,,,,,
+England,Championship,20,Bristol City,Leicester,,,,,,
+England,Championship,20,Derby,Millwall,,,,,,
+England,Championship,20,Ipswich,Stoke,,,,,,
+England,Championship,20,Hull,Wrexham,,,,,,
+England,Championship,21,West Brom,Sheffield United,,,,,,
+England,Championship,21,Norwich,Southampton,,,,,,
+England,Championship,21,Oxford,Preston,,,,,,
+England,Championship,21,Stoke,Swansea,,,,,,
+England,Championship,21,Birmingham,Charlton,,,,,,
+England,Championship,21,Coventry,Bristol City,,,,,,
+England,Championship,21,Leicester,Ipswich,,,,,,
+England,Championship,21,Middlesbrough,QPR,,,,,,
+England,Championship,21,Millwall,Hull,,,,,,
+England,Championship,21,Portsmouth,Blackburn,,,,,,
+England,Championship,21,Wrexham,Watford,,,,,,
+England,Championship,21,Sheffield Weds,Derby,,,,,,
+England,Championship,22,Swansea,Wrexham,,,,,,
+England,Championship,22,Blackburn,Millwall,,,,,,
+England,Championship,22,Preston,Norwich,,,,,,
+England,Championship,22,Southampton,Coventry,,,,,,
+England,Championship,22,Bristol City,Middlesbrough,,,,,,
+England,Championship,22,Charlton,Oxford,,,,,,
+England,Championship,22,Derby,Portsmouth,,,,,,
+England,Championship,22,Hull,West Brom,,,,,,
+England,Championship,22,Ipswich,Sheffield Weds,,,,,,
+England,Championship,22,QPR,Leicester,,,,,,
+England,Championship,22,Sheffield United,Birmingham,,,,,,
+England,Championship,22,Watford,Stoke,,,,,,
+England,Championship,23,Birmingham,Derby,,,,,,
+England,Championship,23,Millwall,Ipswich,,,,,,
+England,Championship,23,Coventry,Swansea,,,,,,
+England,Championship,23,Leicester,Watford,,,,,,
+England,Championship,23,Middlesbrough,Blackburn,,,,,,
+England,Championship,23,Norwich,Charlton,,,,,,
+England,Championship,23,Oxford,Southampton,,,,,,
+England,Championship,23,Portsmouth,QPR,,,,,,
+England,Championship,23,Sheffield Weds,Hull,,,,,,
+England,Championship,23,Stoke,Preston,,,,,,
+England,Championship,23,West Brom,Bristol City,,,,,,
+England,Championship,23,Wrexham,Sheffield United,,,,,,
+England,Championship,24,Coventry,Ipswich,,,,,,
+England,Championship,24,Leicester,Derby,,,,,,
+England,Championship,24,Middlesbrough,Hull,,,,,,
+England,Championship,24,Millwall,Bristol City,,,,,,
+England,Championship,24,Norwich,Watford,,,,,,
+England,Championship,24,Oxford,Swansea,,,,,,
+England,Championship,24,Portsmouth,Charlton,,,,,,
+England,Championship,24,Sheffield Weds,Blackburn,,,,,,
+England,Championship,24,Stoke,Sheffield United,,,,,,
+England,Championship,24,West Brom,QPR,,,,,,
+England,Championship,24,Wrexham,Preston,,,,,,
+England,Championship,24,Birmingham,Southampton,,,,,,
+England,Championship,25,Blackburn,Wrexham,,,,,,
+England,Championship,25,Bristol City,Portsmouth,,,,,,
+England,Championship,25,Charlton,Coventry,,,,,,
+England,Championship,25,Derby,Middlesbrough,,,,,,
+England,Championship,25,Hull,Stoke,,,,,,
+England,Championship,25,Ipswich,Oxford,,,,,,
+England,Championship,25,Preston,Sheffield Weds,,,,,,
+England,Championship,25,QPR,Norwich,,,,,,
+England,Championship,25,Southampton,Millwall,,,,,,
+England,Championship,25,Swansea,West Brom,,,,,,
+England,Championship,25,Watford,Birmingham,,,,,,
+England,Championship,25,Sheffield United,Leicester,,,,,,
+England,Championship,26,Birmingham,Coventry,,,,,,
+England,Championship,26,QPR,Sheffield Weds,,,,,,
+England,Championship,26,Sheffield United,Oxford,,,,,,
+England,Championship,26,Blackburn,Charlton,,,,,,
+England,Championship,26,Bristol City,Preston,,,,,,
+England,Championship,26,Derby,Wrexham,,,,,,
+England,Championship,26,Hull,Watford,,,,,,
+England,Championship,26,Middlesbrough,Southampton,,,,,,
+England,Championship,26,Millwall,Swansea,,,,,,
+England,Championship,26,Norwich,Stoke,,,,,,
+England,Championship,26,Portsmouth,Ipswich,,,,,,
+England,Championship,26,Leicester,West Brom,,,,,,
+England,Championship,27,West Brom,Middlesbrough,,,,,,
+England,Championship,27,Coventry,Leicester,,,,,,
+England,Championship,27,Ipswich,Blackburn,,,,,,
+England,Championship,27,Watford,Millwall,,,,,,
+England,Championship,27,Charlton,Sheffield United,,,,,,
+England,Championship,27,Oxford,Bristol City,,,,,,
+England,Championship,27,Preston,Derby,,,,,,
+England,Championship,27,Sheffield Weds,Portsmouth,,,,,,
+England,Championship,27,Southampton,Hull,,,,,,
+England,Championship,27,Stoke,QPR,,,,,,
+England,Championship,27,Wrexham,Norwich,,,,,,
+England,Championship,27,Swansea,Birmingham,,,,,,
+England,Championship,28,Coventry,Millwall,,,,,,
+England,Championship,28,Ipswich,Bristol City,,,,,,
+England,Championship,28,Oxford,QPR,,,,,,
+England,Championship,28,Preston,Hull,,,,,,
+England,Championship,28,Sheffield Weds,Birmingham,,,,,,
+England,Championship,28,Swansea,Blackburn,,,,,,
+England,Championship,28,West Brom,Norwich,,,,,,
+England,Championship,28,Charlton,Derby,,,,,,
+England,Championship,28,Wrexham,Leicester,,,,,,
+England,Championship,28,Southampton,Sheffield United,,,,,,
+England,Championship,28,Watford,Portsmouth,,,,,,
+England,Championship,28,Stoke,Middlesbrough,,,,,,
+England,Championship,29,Derby,West Brom,,,,,,
+England,Championship,29,Middlesbrough,Preston,,,,,,
+England,Championship,29,Millwall,Charlton,,,,,,
+England,Championship,29,Birmingham,Stoke,,,,,,
+England,Championship,29,Blackburn,Watford,,,,,,
+England,Championship,29,Bristol City,Sheffield Weds,,,,,,
+England,Championship,29,Hull,Swansea,,,,,,
+England,Championship,29,Leicester,Oxford,,,,,,
+England,Championship,29,QPR,Wrexham,,,,,,
+England,Championship,29,Sheffield United,Ipswich,,,,,,
+England,Championship,29,Portsmouth,Southampton,,,,,,
+England,Championship,29,Norwich,Coventry,,,,,,
+England,Championship,30,Bristol City,Derby,,,,,,
+England,Championship,30,Leicester,Charlton,,,,,,
+England,Championship,30,Sheffield Weds,Wrexham,,,,,,
+England,Championship,30,Stoke,Southampton,,,,,,
+England,Championship,30,Blackburn,Hull,,,,,,
+England,Championship,30,Ipswich,Preston,,,,,,
+England,Championship,30,Middlesbrough,Norwich,,,,,,
+England,Championship,30,Millwall,Sheffield United,,,,,,
+England,Championship,30,Oxford,Birmingham,,,,,,
+England,Championship,30,Portsmouth,West Brom,,,,,,
+England,Championship,30,QPR,Coventry,,,,,,
+England,Championship,30,Watford,Swansea,,,,,,
+England,Championship,31,Charlton,QPR,,,,,,
+England,Championship,31,Derby,Ipswich,,,,,,
+England,Championship,31,Norwich,Blackburn,,,,,,
+England,Championship,31,Southampton,Watford,,,,,,
+England,Championship,31,Birmingham,Leicester,,,,,,
+England,Championship,31,Coventry,Oxford,,,,,,
+England,Championship,31,Hull,Bristol City,,,,,,
+England,Championship,31,Preston,Portsmouth,,,,,,
+England,Championship,31,West Brom,Stoke,,,,,,
+England,Championship,31,Wrexham,Millwall,,,,,,
+England,Championship,31,Swansea,Sheffield Weds,,,,,,
+England,Championship,31,Sheffield United,Middlesbrough,,,,,,
+England,Championship,32,Bristol City,Wrexham,,,,,,
+England,Championship,32,Birmingham,West Brom,,,,,,
+England,Championship,32,Charlton,Stoke,,,,,,
+England,Championship,32,Oxford,Norwich,,,,,,
+England,Championship,32,Derby,Swansea,,,,,,
+England,Championship,32,Ipswich,Hull,,,,,,
+England,Championship,32,Leicester,Southampton,,,,,,
+England,Championship,32,Portsmouth,Sheffield United,,,,,,
+England,Championship,32,Preston,Watford,,,,,,
+England,Championship,32,QPR,Blackburn,,,,,,
+England,Championship,32,Sheffield Weds,Millwall,,,,,,
+England,Championship,32,Coventry,Middlesbrough,,,,,,
+England,Championship,33,Blackburn,Preston,,,,,,
+England,Championship,33,Hull,QPR,,,,,,
+England,Championship,33,Stoke,Leicester,,,,,,
+England,Championship,33,Swansea,Bristol City,,,,,,
+England,Championship,33,West Brom,Coventry,,,,,,
+England,Championship,33,Middlesbrough,Oxford,,,,,,
+England,Championship,33,Millwall,Portsmouth,,,,,,
+England,Championship,33,Norwich,Birmingham,,,,,,
+England,Championship,33,Southampton,Charlton,,,,,,
+England,Championship,33,Watford,Derby,,,,,,
+England,Championship,33,Wrexham,Ipswich,,,,,,
+England,Championship,33,Sheffield United,Sheffield Weds,,,,,,
+England,Championship,34,Hull,Derby,,,,,,
+England,Championship,34,Middlesbrough,Leicester,,,,,,
+England,Championship,34,Swansea,Preston,,,,,,
+England,Championship,34,Watford,Ipswich,,,,,,
+England,Championship,34,West Brom,Charlton,,,,,,
+England,Championship,34,Wrexham,Portsmouth,,,,,,
+England,Championship,34,Southampton,QPR,,,,,,
+England,Championship,34,Blackburn,Bristol City,,,,,,
+England,Championship,34,Millwall,Birmingham,,,,,,
+England,Championship,34,Norwich,Sheffield Weds,,,,,,
+England,Championship,34,Sheffield United,Coventry,,,,,,
+England,Championship,34,Stoke,Oxford,,,,,,
+England,Championship,35,Bristol City,Watford,,,,,,
+England,Championship,35,Derby,Blackburn,,,,,,
+England,Championship,35,Leicester,Norwich,,,,,,
+England,Championship,35,Portsmouth,Hull,,,,,,
+England,Championship,35,Charlton,Wrexham,,,,,,
+England,Championship,35,Coventry,Stoke,,,,,,
+England,Championship,35,Ipswich,Swansea,,,,,,
+England,Championship,35,Oxford,West Brom,,,,,,
+England,Championship,35,Preston,Millwall,,,,,,
+England,Championship,35,QPR,Sheffield United,,,,,,
+England,Championship,35,Sheffield Weds,Southampton,,,,,,
+England,Championship,35,Birmingham,Middlesbrough,,,,,,
+England,Championship,36,Blackburn,Portsmouth,,,,,,
+England,Championship,36,Bristol City,Coventry,,,,,,
+England,Championship,36,Charlton,Birmingham,,,,,,
+England,Championship,36,Derby,Sheffield Weds,,,,,,
+England,Championship,36,Hull,Millwall,,,,,,
+England,Championship,36,Ipswich,Leicester,,,,,,
+England,Championship,36,Preston,Oxford,,,,,,
+England,Championship,36,QPR,Middlesbrough,,,,,,
+England,Championship,36,Sheffield United,West Brom,,,,,,
+England,Championship,36,Southampton,Norwich,,,,,,
+England,Championship,36,Swansea,Stoke,,,,,,
+England,Championship,36,Watford,Wrexham,,,,,,
+England,Championship,37,Birmingham,QPR,,,,,,
+England,Championship,37,Leicester,Bristol City,,,,,,
+England,Championship,37,Millwall,Derby,,,,,,
+England,Championship,37,Norwich,Sheffield United,,,,,,
+England,Championship,37,Portsmouth,Swansea,,,,,,
+England,Championship,37,Sheffield Weds,Watford,,,,,,
+England,Championship,37,Stoke,Ipswich,,,,,,
+England,Championship,37,Wrexham,Hull,,,,,,
+England,Championship,37,Coventry,Preston,,,,,,
+England,Championship,37,Middlesbrough,Charlton,,,,,,
+England,Championship,37,Oxford,Blackburn,,,,,,
+England,Championship,37,West Brom,Southampton,,,,,,
+England,Championship,38,Birmingham,Sheffield United,,,,,,
+England,Championship,38,Coventry,Southampton,,,,,,
+England,Championship,38,Leicester,QPR,,,,,,
+England,Championship,38,Middlesbrough,Bristol City,,,,,,
+England,Championship,38,Millwall,Blackburn,,,,,,
+England,Championship,38,Norwich,Preston,,,,,,
+England,Championship,38,Oxford,Charlton,,,,,,
+England,Championship,38,Portsmouth,Derby,,,,,,
+England,Championship,38,Sheffield Weds,Ipswich,,,,,,
+England,Championship,38,Stoke,Watford,,,,,,
+England,Championship,38,West Brom,Hull,,,,,,
+England,Championship,38,Wrexham,Swansea,,,,,,
+England,Championship,39,Blackburn,Middlesbrough,,,,,,
+England,Championship,39,Bristol City,West Brom,,,,,,
+England,Championship,39,Charlton,Norwich,,,,,,
+England,Championship,39,Derby,Birmingham,,,,,,
+England,Championship,39,Hull,Sheffield Weds,,,,,,
+England,Championship,39,Ipswich,Millwall,,,,,,
+England,Championship,39,Preston,Stoke,,,,,,
+England,Championship,39,QPR,Portsmouth,,,,,,
+England,Championship,39,Sheffield United,Wrexham,,,,,,
+England,Championship,39,Southampton,Oxford,,,,,,
+England,Championship,39,Swansea,Coventry,,,,,,
+England,Championship,39,Watford,Leicester,,,,,,
+England,Championship,40,Birmingham,Blackburn,,,,,,
+England,Championship,40,Charlton,Bristol City,,,,,,
+England,Championship,40,Coventry,Derby,,,,,,
+England,Championship,40,Leicester,Preston,,,,,,
+England,Championship,40,Middlesbrough,Millwall,,,,,,
+England,Championship,40,Norwich,Portsmouth,,,,,,
+England,Championship,40,Oxford,Hull,,,,,,
+England,Championship,40,QPR,Watford,,,,,,
+England,Championship,40,Sheffield United,Swansea,,,,,,
+England,Championship,40,Southampton,Ipswich,,,,,,
+England,Championship,40,Stoke,Sheffield Weds,,,,,,
+England,Championship,40,West Brom,Wrexham,,,,,,
+England,Championship,41,Millwall,Norwich,,,,,,
+England,Championship,41,Blackburn,West Brom,,,,,,
+England,Championship,41,Bristol City,Sheffield United,,,,,,
+England,Championship,41,Derby,Stoke,,,,,,
+England,Championship,41,Hull,Coventry,,,,,,
+England,Championship,41,Ipswich,Birmingham,,,,,,
+England,Championship,41,Portsmouth,Oxford,,,,,,
+England,Championship,41,Preston,QPR,,,,,,
+England,Championship,41,Sheffield Weds,Leicester,,,,,,
+England,Championship,41,Swansea,Middlesbrough,,,,,,
+England,Championship,41,Watford,Charlton,,,,,,
+England,Championship,41,Wrexham,Southampton,,,,,,
+England,Championship,42,Birmingham,Wrexham,,,,,,
+England,Championship,42,Charlton,Preston,,,,,,
+England,Championship,42,Coventry,Sheffield Weds,,,,,,
+England,Championship,42,Leicester,Swansea,,,,,,
+England,Championship,42,Middlesbrough,Portsmouth,,,,,,
+England,Championship,42,Norwich,Ipswich,,,,,,
+England,Championship,42,Oxford,Watford,,,,,,
+England,Championship,42,QPR,Bristol City,,,,,,
+England,Championship,42,Sheffield United,Hull,,,,,,
+England,Championship,42,Southampton,Derby,,,,,,
+England,Championship,42,Stoke,Blackburn,,,,,,
+England,Championship,42,West Brom,Millwall,,,,,,
+England,Championship,43,Blackburn,Coventry,,,,,,
+England,Championship,43,Bristol City,Norwich,,,,,,
+England,Championship,43,Derby,Oxford,,,,,,
+England,Championship,43,Hull,Birmingham,,,,,,
+England,Championship,43,Ipswich,Middlesbrough,,,,,,
+England,Championship,43,Millwall,QPR,,,,,,
+England,Championship,43,Portsmouth,Leicester,,,,,,
+England,Championship,43,Preston,West Brom,,,,,,
+England,Championship,43,Sheffield Weds,Charlton,,,,,,
+England,Championship,43,Swansea,Southampton,,,,,,
+England,Championship,43,Watford,Sheffield United,,,,,,
+England,Championship,43,Wrexham,Stoke,,,,,,
+England,Championship,44,Coventry,Portsmouth,,,,,,
+England,Championship,44,Middlesbrough,Sheffield Weds,,,,,,
+England,Championship,44,Norwich,Derby,,,,,,
+England,Championship,44,Oxford,Wrexham,,,,,,
+England,Championship,44,QPR,Swansea,,,,,,
+England,Championship,44,Southampton,Bristol City,,,,,,
+England,Championship,44,Stoke,Millwall,,,,,,
+England,Championship,44,West Brom,Watford,,,,,,
+England,Championship,44,Birmingham,Preston,,,,,,
+England,Championship,44,Charlton,Ipswich,,,,,,
+England,Championship,44,Leicester,Hull,,,,,,
+England,Championship,44,Sheffield United,Blackburn,,,,,,
+England,Championship,45,Birmingham,Bristol City,,,,,,
+England,Championship,45,Charlton,Hull,,,,,,
+England,Championship,45,Coventry,Wrexham,,,,,,
+England,Championship,45,Leicester,Millwall,,,,,,
+England,Championship,45,Middlesbrough,Watford,,,,,,
+England,Championship,45,Norwich,Swansea,,,,,,
+England,Championship,45,Oxford,Sheffield Weds,,,,,,
+England,Championship,45,QPR,Derby,,,,,,
+England,Championship,45,Sheffield United,Preston,,,,,,
+England,Championship,45,Southampton,Blackburn,,,,,,
+England,Championship,45,Stoke,Portsmouth,,,,,,
+England,Championship,45,West Brom,Ipswich,,,,,,
+England,Championship,46,Blackburn,Leicester,,,,,,
+England,Championship,46,Bristol City,Stoke,,,,,,
+England,Championship,46,Derby,Sheffield United,,,,,,
+England,Championship,46,Hull,Norwich,,,,,,
+England,Championship,46,Ipswich,QPR,,,,,,
+England,Championship,46,Millwall,Oxford,,,,,,
+England,Championship,46,Portsmouth,Birmingham,,,,,,
+England,Championship,46,Preston,Southampton,,,,,,
+England,Championship,46,Sheffield Weds,West Brom,,,,,,
+England,Championship,46,Swansea,Charlton,,,,,,
+England,Championship,46,Watford,Coventry,,,,,,
+England,Championship,46,Wrexham,Middlesbrough,,,,,,
+Netherlands,Eredivisie,1,For Sittard,Go Ahead Eagles,D,2.0,2.0,D,1.0,1.0
+Netherlands,Eredivisie,1,Nijmegen,Excelsior,H,5.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,1,Feyenoord,NAC Breda,H,2.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,1,Heerenveen,Volendam,D,1.0,1.0,H,1.0,0.0
+Netherlands,Eredivisie,1,PSV Eindhoven,Sparta Rotterdam,H,6.0,1.0,H,3.0,0.0
+Netherlands,Eredivisie,1,Zwolle,Twente,H,1.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,1,AZ Alkmaar,Groningen,H,4.0,1.0,H,3.0,1.0
+Netherlands,Eredivisie,1,Ajax,Telstar,H,2.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,1,Utrecht,Heracles,H,4.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,2,Telstar,Zwolle,A,0.0,2.0,A,0.0,1.0
+Netherlands,Eredivisie,2,Excelsior,Feyenoord,A,1.0,2.0,A,1.0,2.0
+Netherlands,Eredivisie,2,Heracles,Nijmegen,A,1.0,4.0,D,1.0,1.0
+Netherlands,Eredivisie,2,Groningen,Heerenveen,H,2.0,1.0,D,1.0,1.0
+Netherlands,Eredivisie,2,Go Ahead Eagles,Ajax,D,2.0,2.0,D,2.0,2.0
+Netherlands,Eredivisie,2,Sparta Rotterdam,Utrecht,H,2.0,1.0,H,1.0,0.0
+Netherlands,Eredivisie,2,Twente,PSV Eindhoven,A,0.0,2.0,A,0.0,1.0
+Netherlands,Eredivisie,2,Volendam,AZ Alkmaar,D,2.0,2.0,D,1.0,1.0
+Netherlands,Eredivisie,2,NAC Breda,For Sittard,H,2.0,1.0,H,1.0,0.0
+Netherlands,Eredivisie,3,Go Ahead Eagles,Sparta Rotterdam,A,0.0,3.0,A,0.0,1.0
+Netherlands,Eredivisie,3,PSV Eindhoven,Groningen,H,4.0,2.0,D,1.0,1.0
+Netherlands,Eredivisie,3,Telstar,Volendam,D,2.0,2.0,H,2.0,0.0
+Netherlands,Eredivisie,3,Heerenveen,Twente,A,1.0,2.0,A,0.0,1.0
+Netherlands,Eredivisie,3,Nijmegen,NAC Breda,H,3.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,3,Utrecht,Excelsior,H,4.0,1.0,H,2.0,0.0
+Netherlands,Eredivisie,3,Ajax,Heracles,H,2.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,3,Feyenoord,For Sittard,H,2.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,3,AZ Alkmaar,Zwolle,D,2.0,2.0,H,2.0,1.0
+Netherlands,Eredivisie,4,Groningen,Heracles,H,4.0,0.0,H,3.0,0.0
+Netherlands,Eredivisie,4,Volendam,Ajax,D,1.0,1.0,H,1.0,0.0
+Netherlands,Eredivisie,4,Heerenveen,Go Ahead Eagles,D,2.0,2.0,D,1.0,1.0
+Netherlands,Eredivisie,4,PSV Eindhoven,Telstar,A,0.0,2.0,A,0.0,1.0
+Netherlands,Eredivisie,4,Excelsior,Twente,H,1.0,0.0,D,0.0,0.0
+Netherlands,Eredivisie,4,For Sittard,Nijmegen,H,3.0,2.0,H,2.0,1.0
+Netherlands,Eredivisie,4,Sparta Rotterdam,Feyenoord,A,0.0,4.0,A,0.0,1.0
+Netherlands,Eredivisie,4,Zwolle,Utrecht,A,0.0,2.0,A,0.0,2.0
+Netherlands,Eredivisie,4,NAC Breda,AZ Alkmaar,A,0.0,1.0,D,0.0,0.0
+Netherlands,Eredivisie,5,Ajax,Zwolle,H,3.0,1.0,H,2.0,0.0
+Netherlands,Eredivisie,5,Nijmegen,PSV Eindhoven,A,3.0,5.0,A,1.0,3.0
+Netherlands,Eredivisie,5,Go Ahead Eagles,Volendam,H,3.0,0.0,H,3.0,0.0
+Netherlands,Eredivisie,5,Twente,NAC Breda,D,2.0,2.0,A,0.0,1.0
+Netherlands,Eredivisie,5,Feyenoord,Heerenveen,H,1.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,5,Excelsior,Sparta Rotterdam,A,0.0,1.0,D,0.0,0.0
+Netherlands,Eredivisie,5,Utrecht,Groningen,A,0.0,1.0,D,0.0,0.0
+Netherlands,Eredivisie,5,Heracles,AZ Alkmaar,A,1.0,2.0,D,1.0,1.0
+Netherlands,Eredivisie,5,Telstar,For Sittard,A,1.0,3.0,D,1.0,1.0
+Netherlands,Eredivisie,6,Sparta Rotterdam,Twente,A,1.0,5.0,D,1.0,1.0
+Netherlands,Eredivisie,6,Volendam,Excelsior,A,1.0,2.0,D,1.0,1.0
+Netherlands,Eredivisie,6,Groningen,Telstar,H,2.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,6,For Sittard,Utrecht,H,1.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,6,NAC Breda,Heracles,H,2.0,1.0,A,0.0,1.0
+Netherlands,Eredivisie,6,Zwolle,Go Ahead Eagles,A,0.0,2.0,D,0.0,0.0
+Netherlands,Eredivisie,6,PSV Eindhoven,Ajax,D,2.0,2.0,D,1.0,1.0
+Netherlands,Eredivisie,6,Heerenveen,Nijmegen,H,3.0,2.0,H,1.0,0.0
+Netherlands,Eredivisie,6,AZ Alkmaar,Feyenoord,D,3.0,3.0,D,1.0,1.0
+Netherlands,Eredivisie,7,Twente,For Sittard,H,3.0,2.0,H,1.0,0.0
+Netherlands,Eredivisie,7,Ajax,NAC Breda,H,2.0,1.0,D,1.0,1.0
+Netherlands,Eredivisie,7,Volendam,Zwolle,H,2.0,1.0,D,1.0,1.0
+Netherlands,Eredivisie,7,Excelsior,PSV Eindhoven,A,1.0,2.0,D,1.0,1.0
+Netherlands,Eredivisie,7,Heracles,Sparta Rotterdam,H,3.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,7,Nijmegen,AZ Alkmaar,H,2.0,1.0,H,1.0,0.0
+Netherlands,Eredivisie,7,Groningen,Feyenoord,A,0.0,1.0,D,0.0,0.0
+Netherlands,Eredivisie,7,Utrecht,Heerenveen,D,2.0,2.0,D,1.0,1.0
+Netherlands,Eredivisie,7,Telstar,Go Ahead Eagles,H,4.0,2.0,H,2.0,1.0
+Netherlands,Eredivisie,8,NAC Breda,Groningen,A,1.0,2.0,A,0.0,1.0
+Netherlands,Eredivisie,8,Sparta Rotterdam,Ajax,D,3.0,3.0,D,1.0,1.0
+Netherlands,Eredivisie,8,For Sittard,Volendam,H,1.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,8,Zwolle,PSV Eindhoven,A,0.0,4.0,A,0.0,2.0
+Netherlands,Eredivisie,8,Heerenveen,Excelsior,H,2.0,1.0,A,0.0,1.0
+Netherlands,Eredivisie,8,Twente,Heracles,H,2.0,1.0,A,0.0,1.0
+Netherlands,Eredivisie,8,Feyenoord,Utrecht,H,3.0,2.0,H,1.0,0.0
+Netherlands,Eredivisie,8,AZ Alkmaar,Telstar,H,2.0,1.0,H,2.0,0.0
+Netherlands,Eredivisie,8,Go Ahead Eagles,Nijmegen,D,1.0,1.0,A,0.0,1.0
+Netherlands,Eredivisie,9,Nijmegen,Twente,D,3.0,3.0,D,1.0,1.0
+Netherlands,Eredivisie,9,PSV Eindhoven,Go Ahead Eagles,H,2.0,1.0,H,1.0,0.0
+Netherlands,Eredivisie,9,Utrecht,Volendam,H,3.0,1.0,A,0.0,1.0
+Netherlands,Eredivisie,9,Ajax,AZ Alkmaar,A,0.0,2.0,A,0.0,2.0
+Netherlands,Eredivisie,9,NAC Breda,Zwolle,D,2.0,2.0,H,2.0,1.0
+Netherlands,Eredivisie,9,Telstar,Heerenveen,A,2.0,3.0,A,1.0,2.0
+Netherlands,Eredivisie,9,Excelsior,For Sittard,H,1.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,9,Groningen,Sparta Rotterdam,A,0.0,2.0,A,0.0,1.0
+Netherlands,Eredivisie,9,Heracles,Feyenoord,A,0.0,7.0,A,0.0,4.0
+Netherlands,Eredivisie,10,Heerenveen,NAC Breda,D,3.0,3.0,H,1.0,0.0
+Netherlands,Eredivisie,10,For Sittard,Groningen,A,1.0,2.0,A,0.0,1.0
+Netherlands,Eredivisie,10,Sparta Rotterdam,Telstar,H,1.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,10,Volendam,Heracles,H,3.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,10,Zwolle,Nijmegen,D,2.0,2.0,D,1.0,1.0
+Netherlands,Eredivisie,10,Twente,Ajax,A,2.0,3.0,H,1.0,0.0
+Netherlands,Eredivisie,10,Feyenoord,PSV Eindhoven,A,2.0,3.0,A,0.0,1.0
+Netherlands,Eredivisie,10,AZ Alkmaar,Utrecht,H,4.0,1.0,H,2.0,0.0
+Netherlands,Eredivisie,10,Go Ahead Eagles,Excelsior,H,2.0,0.0,D,0.0,0.0
+Netherlands,Eredivisie,11,PSV Eindhoven,For Sittard,H,5.0,2.0,H,3.0,0.0
+Netherlands,Eredivisie,11,Ajax,Heerenveen,D,1.0,1.0,H,1.0,0.0
+Netherlands,Eredivisie,11,NAC Breda,Go Ahead Eagles,H,1.0,0.0,D,0.0,0.0
+Netherlands,Eredivisie,11,Feyenoord,Volendam,H,3.0,1.0,H,2.0,0.0
+Netherlands,Eredivisie,11,Telstar,Excelsior,D,2.0,2.0,H,2.0,1.0
+Netherlands,Eredivisie,11,Heracles,Zwolle,H,8.0,2.0,H,4.0,1.0
+Netherlands,Eredivisie,11,Groningen,Twente,D,1.0,1.0,D,0.0,0.0
+Netherlands,Eredivisie,11,Sparta Rotterdam,AZ Alkmaar,A,0.0,1.0,D,0.0,0.0
+Netherlands,Eredivisie,11,Utrecht,Nijmegen,H,1.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,12,Twente,Telstar,D,0.0,0.0,D,0.0,0.0
+Netherlands,Eredivisie,12,Excelsior,Heracles,A,1.0,2.0,H,1.0,0.0
+Netherlands,Eredivisie,12,Volendam,NAC Breda,H,2.0,1.0,A,0.0,1.0
+Netherlands,Eredivisie,12,For Sittard,Heerenveen,H,2.0,0.0,D,0.0,0.0
+Netherlands,Eredivisie,12,Zwolle,Sparta Rotterdam,H,1.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,12,Utrecht,Ajax,H,2.0,1.0,H,1.0,0.0
+Netherlands,Eredivisie,12,Nijmegen,Groningen,H,2.0,0.0,D,0.0,0.0
+Netherlands,Eredivisie,12,AZ Alkmaar,PSV Eindhoven,A,1.0,5.0,A,1.0,3.0
+Netherlands,Eredivisie,12,Go Ahead Eagles,Feyenoord,H,2.0,1.0,H,1.0,0.0
+Netherlands,Eredivisie,13,NAC Breda,PSV Eindhoven,A,0.0,1.0,A,0.0,1.0
+Netherlands,Eredivisie,13,Ajax,Excelsior,A,1.0,2.0,A,0.0,1.0
+Netherlands,Eredivisie,13,Volendam,Twente,D,1.0,1.0,D,0.0,0.0
+Netherlands,Eredivisie,13,Heracles,Go Ahead Eagles,H,4.0,2.0,A,1.0,2.0
+Netherlands,Eredivisie,13,Sparta Rotterdam,For Sittard,D,1.0,1.0,H,1.0,0.0
+Netherlands,Eredivisie,13,Heerenveen,AZ Alkmaar,H,3.0,1.0,H,2.0,0.0
+Netherlands,Eredivisie,13,Feyenoord,Nijmegen,A,2.0,4.0,D,1.0,1.0
+Netherlands,Eredivisie,13,Telstar,Utrecht,D,1.0,1.0,D,0.0,0.0
+Netherlands,Eredivisie,13,Groningen,Zwolle,D,2.0,2.0,D,1.0,1.0
+Netherlands,Eredivisie,14,Zwolle,Heerenveen,H,2.0,1.0,H,2.0,1.0
+Netherlands,Eredivisie,14,Excelsior,NAC Breda,H,1.0,0.0,H,1.0,0.0
+Netherlands,Eredivisie,14,For Sittard,Heracles,D,1.0,1.0,H,1.0,0.0
+Netherlands,Eredivisie,14,Nijmegen,Sparta Rotterdam,H,3.0,1.0,H,2.0,0.0
+Netherlands,Eredivisie,14,PSV Eindhoven,Volendam,H,3.0,0.0,H,2.0,0.0
+Netherlands,Eredivisie,14,Telstar,Feyenoord,A,1.0,2.0,A,0.0,1.0
+Netherlands,Eredivisie,14,Go Ahead Eagles,Utrecht,D,2.0,2.0,A,0.0,1.0
+Netherlands,Eredivisie,14,Twente,AZ Alkmaar,H,1.0,0.0,D,0.0,0.0
+Netherlands,Eredivisie,14,Ajax,Groningen,,,,,,
+Netherlands,Eredivisie,15,Excelsior,Groningen,,,,,,
+Netherlands,Eredivisie,15,Heerenveen,PSV Eindhoven,,,,,,
+Netherlands,Eredivisie,15,For Sittard,Ajax,,,,,,
+Netherlands,Eredivisie,15,Heracles,Telstar,,,,,,
+Netherlands,Eredivisie,15,Feyenoord,Zwolle,,,,,,
+Netherlands,Eredivisie,15,Utrecht,Twente,,,,,,
+Netherlands,Eredivisie,15,AZ Alkmaar,Go Ahead Eagles,,,,,,
+Netherlands,Eredivisie,15,Volendam,Nijmegen,,,,,,
+Netherlands,Eredivisie,15,Sparta Rotterdam,NAC Breda,,,,,,
+Netherlands,Eredivisie,16,Telstar,Nijmegen,,,,,,
+Netherlands,Eredivisie,16,Groningen,Volendam,,,,,,
+Netherlands,Eredivisie,16,PSV Eindhoven,Heracles,,,,,,
+Netherlands,Eredivisie,16,Zwolle,For Sittard,,,,,,
+Netherlands,Eredivisie,16,Sparta Rotterdam,Heerenveen,,,,,,
+Netherlands,Eredivisie,16,Ajax,Feyenoord,,,,,,
+Netherlands,Eredivisie,16,Twente,Go Ahead Eagles,,,,,,
+Netherlands,Eredivisie,16,AZ Alkmaar,Excelsior,,,,,,
+Netherlands,Eredivisie,16,NAC Breda,Utrecht,,,,,,
+Netherlands,Eredivisie,17,Heracles,Heerenveen,,,,,,
+Netherlands,Eredivisie,17,Volendam,Sparta Rotterdam,,,,,,
+Netherlands,Eredivisie,17,Excelsior,Zwolle,,,,,,
+Netherlands,Eredivisie,17,Nijmegen,Ajax,,,,,,
+Netherlands,Eredivisie,17,NAC Breda,Telstar,,,,,,
+Netherlands,Eredivisie,17,Utrecht,PSV Eindhoven,,,,,,
+Netherlands,Eredivisie,17,Feyenoord,Twente,,,,,,
+Netherlands,Eredivisie,17,Go Ahead Eagles,Groningen,,,,,,
+Netherlands,Eredivisie,17,For Sittard,AZ Alkmaar,,,,,,
+Netherlands,Eredivisie,18,Nijmegen,Utrecht,,,,,,
+Netherlands,Eredivisie,18,AZ Alkmaar,Volendam,,,,,,
+Netherlands,Eredivisie,18,Twente,Zwolle,,,,,,
+Netherlands,Eredivisie,18,PSV Eindhoven,Excelsior,,,,,,
+Netherlands,Eredivisie,18,Groningen,NAC Breda,,,,,,
+Netherlands,Eredivisie,18,Heerenveen,Feyenoord,,,,,,
+Netherlands,Eredivisie,18,Telstar,Ajax,,,,,,
+Netherlands,Eredivisie,18,Go Ahead Eagles,For Sittard,,,,,,
+Netherlands,Eredivisie,18,Sparta Rotterdam,Heracles,,,,,,
+Netherlands,Eredivisie,19,Excelsior,Telstar,,,,,,
+Netherlands,Eredivisie,19,Ajax,Go Ahead Eagles,,,,,,
+Netherlands,Eredivisie,19,Zwolle,AZ Alkmaar,,,,,,
+Netherlands,Eredivisie,19,For Sittard,PSV Eindhoven,,,,,,
+Netherlands,Eredivisie,19,NAC Breda,Nijmegen,,,,,,
+Netherlands,Eredivisie,19,Heerenveen,Groningen,,,,,,
+Netherlands,Eredivisie,19,Volendam,Utrecht,,,,,,
+Netherlands,Eredivisie,19,Heracles,Twente,,,,,,
+Netherlands,Eredivisie,19,Feyenoord,Sparta Rotterdam,,,,,,
+Netherlands,Eredivisie,20,Ajax,Volendam,,,,,,
+Netherlands,Eredivisie,20,Nijmegen,Zwolle,,,,,,
+Netherlands,Eredivisie,20,PSV Eindhoven,NAC Breda,,,,,,
+Netherlands,Eredivisie,20,Twente,Excelsior,,,,,,
+Netherlands,Eredivisie,20,Telstar,AZ Alkmaar,,,,,,
+Netherlands,Eredivisie,20,Groningen,For Sittard,,,,,,
+Netherlands,Eredivisie,20,Feyenoord,Heracles,,,,,,
+Netherlands,Eredivisie,20,Utrecht,Sparta Rotterdam,,,,,,
+Netherlands,Eredivisie,20,Go Ahead Eagles,Heerenveen,,,,,,
+Netherlands,Eredivisie,21,NAC Breda,Twente,,,,,,
+Netherlands,Eredivisie,21,AZ Alkmaar,Nijmegen,,,,,,
+Netherlands,Eredivisie,21,Zwolle,Telstar,,,,,,
+Netherlands,Eredivisie,21,Sparta Rotterdam,Groningen,,,,,,
+Netherlands,Eredivisie,21,Excelsior,Ajax,,,,,,
+Netherlands,Eredivisie,21,Heracles,For Sittard,,,,,,
+Netherlands,Eredivisie,21,PSV Eindhoven,Feyenoord,,,,,,
+Netherlands,Eredivisie,21,Heerenveen,Utrecht,,,,,,
+Netherlands,Eredivisie,21,Volendam,Go Ahead Eagles,,,,,,
+Netherlands,Eredivisie,22,Twente,Heerenveen,,,,,,
+Netherlands,Eredivisie,22,Go Ahead Eagles,Telstar,,,,,,
+Netherlands,Eredivisie,22,AZ Alkmaar,Ajax,,,,,,
+Netherlands,Eredivisie,22,Utrecht,Feyenoord,,,,,,
+Netherlands,Eredivisie,22,Zwolle,Volendam,,,,,,
+Netherlands,Eredivisie,22,Groningen,PSV Eindhoven,,,,,,
+Netherlands,Eredivisie,22,Nijmegen,Heracles,,,,,,
+Netherlands,Eredivisie,22,For Sittard,Sparta Rotterdam,,,,,,
+Netherlands,Eredivisie,22,NAC Breda,Excelsior,,,,,,
+Netherlands,Eredivisie,23,Ajax,For Sittard,,,,,,
+Netherlands,Eredivisie,23,Sparta Rotterdam,Nijmegen,,,,,,
+Netherlands,Eredivisie,23,Telstar,Twente,,,,,,
+Netherlands,Eredivisie,23,Heracles,NAC Breda,,,,,,
+Netherlands,Eredivisie,23,Groningen,Utrecht,,,,,,
+Netherlands,Eredivisie,23,Excelsior,AZ Alkmaar,,,,,,
+Netherlands,Eredivisie,23,Volendam,PSV Eindhoven,,,,,,
+Netherlands,Eredivisie,23,Feyenoord,Go Ahead Eagles,,,,,,
+Netherlands,Eredivisie,23,Heerenveen,Zwolle,,,,,,
+Netherlands,Eredivisie,24,Twente,Groningen,,,,,,
+Netherlands,Eredivisie,24,Feyenoord,Telstar,,,,,,
+Netherlands,Eredivisie,24,For Sittard,Excelsior,,,,,,
+Netherlands,Eredivisie,24,AZ Alkmaar,Sparta Rotterdam,,,,,,
+Netherlands,Eredivisie,24,Ajax,Nijmegen,,,,,,
+Netherlands,Eredivisie,24,Go Ahead Eagles,Heracles,,,,,,
+Netherlands,Eredivisie,24,NAC Breda,Volendam,,,,,,
+Netherlands,Eredivisie,24,Utrecht,Zwolle,,,,,,
+Netherlands,Eredivisie,24,PSV Eindhoven,Heerenveen,,,,,,
+Netherlands,Eredivisie,25,Heracles,PSV Eindhoven,,,,,,
+Netherlands,Eredivisie,25,Utrecht,AZ Alkmaar,,,,,,
+Netherlands,Eredivisie,25,Zwolle,Ajax,,,,,,
+Netherlands,Eredivisie,25,Nijmegen,For Sittard,,,,,,
+Netherlands,Eredivisie,25,Telstar,NAC Breda,,,,,,
+Netherlands,Eredivisie,25,Heerenveen,Sparta Rotterdam,,,,,,
+Netherlands,Eredivisie,25,Excelsior,Go Ahead Eagles,,,,,,
+Netherlands,Eredivisie,25,Volendam,Groningen,,,,,,
+Netherlands,Eredivisie,25,Twente,Feyenoord,,,,,,
+Netherlands,Eredivisie,26,Nijmegen,Volendam,,,,,,
+Netherlands,Eredivisie,26,Go Ahead Eagles,Twente,,,,,,
+Netherlands,Eredivisie,26,Groningen,Ajax,,,,,,
+Netherlands,Eredivisie,26,Sparta Rotterdam,Zwolle,,,,,,
+Netherlands,Eredivisie,26,Excelsior,Heerenveen,,,,,,
+Netherlands,Eredivisie,26,NAC Breda,Feyenoord,,,,,,
+Netherlands,Eredivisie,26,Heracles,Utrecht,,,,,,
+Netherlands,Eredivisie,26,PSV Eindhoven,AZ Alkmaar,,,,,,
+Netherlands,Eredivisie,26,For Sittard,Telstar,,,,,,
+Netherlands,Eredivisie,27,AZ Alkmaar,Heracles,,,,,,
+Netherlands,Eredivisie,27,Feyenoord,Excelsior,,,,,,
+Netherlands,Eredivisie,27,Volendam,For Sittard,,,,,,
+Netherlands,Eredivisie,27,Ajax,Sparta Rotterdam,,,,,,
+Netherlands,Eredivisie,27,Twente,Utrecht,,,,,,
+Netherlands,Eredivisie,27,Go Ahead Eagles,NAC Breda,,,,,,
+Netherlands,Eredivisie,27,PSV Eindhoven,Nijmegen,,,,,,
+Netherlands,Eredivisie,27,Zwolle,Groningen,,,,,,
+Netherlands,Eredivisie,27,Heerenveen,Telstar,,,,,,
+Netherlands,Eredivisie,28,Heracles,Excelsior,,,,,,
+Netherlands,Eredivisie,28,Zwolle,NAC Breda,,,,,,
+Netherlands,Eredivisie,28,Groningen,AZ Alkmaar,,,,,,
+Netherlands,Eredivisie,28,Utrecht,Go Ahead Eagles,,,,,,
+Netherlands,Eredivisie,28,Feyenoord,Ajax,,,,,,
+Netherlands,Eredivisie,28,For Sittard,Twente,,,,,,
+Netherlands,Eredivisie,28,Sparta Rotterdam,Volendam,,,,,,
+Netherlands,Eredivisie,28,Nijmegen,Heerenveen,,,,,,
+Netherlands,Eredivisie,28,Telstar,PSV Eindhoven,,,,,,
+Netherlands,Eredivisie,29,AZ Alkmaar,For Sittard,,,,,,
+Netherlands,Eredivisie,29,Heerenveen,Heracles,,,,,,
+Netherlands,Eredivisie,29,PSV Eindhoven,Utrecht,,,,,,
+Netherlands,Eredivisie,29,Excelsior,Nijmegen,,,,,,
+Netherlands,Eredivisie,29,Volendam,Feyenoord,,,,,,
+Netherlands,Eredivisie,29,Telstar,Groningen,,,,,,
+Netherlands,Eredivisie,29,Go Ahead Eagles,Zwolle,,,,,,
+Netherlands,Eredivisie,29,NAC Breda,Sparta Rotterdam,,,,,,
+Netherlands,Eredivisie,29,Ajax,Twente,,,,,,
+Netherlands,Eredivisie,30,Heracles,Ajax,,,,,,
+Netherlands,Eredivisie,30,Sparta Rotterdam,PSV Eindhoven,,,,,,
+Netherlands,Eredivisie,30,Groningen,Go Ahead Eagles,,,,,,
+Netherlands,Eredivisie,30,Utrecht,Telstar,,,,,,
+Netherlands,Eredivisie,30,Zwolle,Excelsior,,,,,,
+Netherlands,Eredivisie,30,For Sittard,NAC Breda,,,,,,
+Netherlands,Eredivisie,30,Nijmegen,Feyenoord,,,,,,
+Netherlands,Eredivisie,30,AZ Alkmaar,Heerenveen,,,,,,
+Netherlands,Eredivisie,30,Twente,Volendam,,,,,,
+Netherlands,Eredivisie,31,Go Ahead Eagles,AZ Alkmaar,,,,,,
+Netherlands,Eredivisie,31,Feyenoord,Groningen,,,,,,
+Netherlands,Eredivisie,31,NAC Breda,Ajax,,,,,,
+Netherlands,Eredivisie,31,Twente,Nijmegen,,,,,,
+Netherlands,Eredivisie,31,Heracles,Volendam,,,,,,
+Netherlands,Eredivisie,31,Heerenveen,For Sittard,,,,,,
+Netherlands,Eredivisie,31,PSV Eindhoven,Zwolle,,,,,,
+Netherlands,Eredivisie,31,Excelsior,Utrecht,,,,,,
+Netherlands,Eredivisie,31,Telstar,Sparta Rotterdam,,,,,,
+Netherlands,Eredivisie,32,For Sittard,Feyenoord,,,,,,
+Netherlands,Eredivisie,32,Ajax,PSV Eindhoven,,,,,,
+Netherlands,Eredivisie,32,Groningen,Excelsior,,,,,,
+Netherlands,Eredivisie,32,Sparta Rotterdam,Go Ahead Eagles,,,,,,
+Netherlands,Eredivisie,32,Utrecht,NAC Breda,,,,,,
+Netherlands,Eredivisie,32,Nijmegen,Telstar,,,,,,
+Netherlands,Eredivisie,32,Zwolle,Heracles,,,,,,
+Netherlands,Eredivisie,32,AZ Alkmaar,Twente,,,,,,
+Netherlands,Eredivisie,32,Volendam,Heerenveen,,,,,,
+Netherlands,Eredivisie,33,Groningen,Nijmegen,,,,,,
+Netherlands,Eredivisie,33,For Sittard,Zwolle,,,,,,
+Netherlands,Eredivisie,33,Go Ahead Eagles,PSV Eindhoven,,,,,,
+Netherlands,Eredivisie,33,Ajax,Utrecht,,,,,,
+Netherlands,Eredivisie,33,Twente,Sparta Rotterdam,,,,,,
+Netherlands,Eredivisie,33,NAC Breda,Heerenveen,,,,,,
+Netherlands,Eredivisie,33,Telstar,Heracles,,,,,,
+Netherlands,Eredivisie,33,Feyenoord,AZ Alkmaar,,,,,,
+Netherlands,Eredivisie,33,Excelsior,Volendam,,,,,,
+Netherlands,Eredivisie,34,Heracles,Groningen,,,,,,
+Netherlands,Eredivisie,34,Sparta Rotterdam,Excelsior,,,,,,
+Netherlands,Eredivisie,34,Nijmegen,Go Ahead Eagles,,,,,,
+Netherlands,Eredivisie,34,Volendam,Telstar,,,,,,
+Netherlands,Eredivisie,34,Zwolle,Feyenoord,,,,,,
+Netherlands,Eredivisie,34,Utrecht,For Sittard,,,,,,
+Netherlands,Eredivisie,34,Heerenveen,Ajax,,,,,,
+Netherlands,Eredivisie,34,PSV Eindhoven,Twente,,,,,,
+Netherlands,Eredivisie,34,AZ Alkmaar,NAC Breda,,,,,,
+Belgium,Jupiler League,1,Antwerp,St. Gilloise,D,1.0,1.0,H,1.0,0.0
+Belgium,Jupiler League,1,Dender,Cercle Brugge,D,0.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,1,Waregem,Mechelen,D,1.0,1.0,A,0.0,1.0
+Belgium,Jupiler League,1,RAAL La Louviere,Standard,A,0.0,2.0,A,0.0,2.0
+Belgium,Jupiler League,1,Anderlecht,Westerlo,H,5.0,2.0,H,2.0,0.0
+Belgium,Jupiler League,1,Oud-Heverlee Leuven,Charleroi,D,2.0,2.0,H,1.0,0.0
+Belgium,Jupiler League,1,Club Brugge,Genk,H,2.0,1.0,A,0.0,1.0
+Belgium,Jupiler League,1,St Truiden,Gent,H,3.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,2,Mechelen,Club Brugge,H,2.0,1.0,H,1.0,0.0
+Belgium,Jupiler League,2,Westerlo,Waregem,H,3.0,1.0,H,2.0,1.0
+Belgium,Jupiler League,2,Standard,Dender,D,1.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,2,Gent,RAAL La Louviere,H,1.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,2,Genk,Antwerp,D,1.0,1.0,D,1.0,1.0
+Belgium,Jupiler League,2,Cercle Brugge,Anderlecht,A,0.0,2.0,A,0.0,1.0
+Belgium,Jupiler League,2,St. Gilloise,Oud-Heverlee Leuven,H,5.0,0.0,H,2.0,0.0
+Belgium,Jupiler League,2,Charleroi,St Truiden,D,1.0,1.0,D,1.0,1.0
+Belgium,Jupiler League,3,St Truiden,Dender,H,2.0,0.0,H,1.0,0.0
+Belgium,Jupiler League,3,Club Brugge,Cercle Brugge,H,2.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,3,Westerlo,Mechelen,A,0.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,3,Gent,St. Gilloise,A,2.0,3.0,A,0.0,1.0
+Belgium,Jupiler League,3,RAAL La Louviere,Charleroi,H,1.0,0.0,H,1.0,0.0
+Belgium,Jupiler League,3,Anderlecht,Waregem,A,2.0,3.0,A,0.0,1.0
+Belgium,Jupiler League,3,Standard,Genk,H,2.0,1.0,H,1.0,0.0
+Belgium,Jupiler League,3,Antwerp,Oud-Heverlee Leuven,H,3.0,1.0,H,1.0,0.0
+Belgium,Jupiler League,4,Oud-Heverlee Leuven,Genk,A,1.0,2.0,A,1.0,2.0
+Belgium,Jupiler League,4,Waregem,Club Brugge,A,0.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,4,Mechelen,Gent,D,1.0,1.0,H,1.0,0.0
+Belgium,Jupiler League,4,St. Gilloise,Standard,H,3.0,0.0,H,1.0,0.0
+Belgium,Jupiler League,4,Dender,Anderlecht,A,0.0,2.0,D,0.0,0.0
+Belgium,Jupiler League,4,St Truiden,RAAL La Louviere,H,2.0,1.0,H,1.0,0.0
+Belgium,Jupiler League,4,Charleroi,Antwerp,D,1.0,1.0,D,1.0,1.0
+Belgium,Jupiler League,4,Cercle Brugge,Westerlo,H,4.0,1.0,H,3.0,0.0
+Belgium,Jupiler League,5,Standard,Cercle Brugge,A,0.0,3.0,A,0.0,3.0
+Belgium,Jupiler League,5,Waregem,St Truiden,A,0.0,2.0,D,0.0,0.0
+Belgium,Jupiler League,5,Antwerp,Mechelen,H,2.0,1.0,D,1.0,1.0
+Belgium,Jupiler League,5,RAAL La Louviere,St. Gilloise,D,0.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,5,Dender,Oud-Heverlee Leuven,A,0.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,5,Genk,Charleroi,A,0.0,1.0,A,0.0,1.0
+Belgium,Jupiler League,5,Anderlecht,Gent,H,1.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,5,Club Brugge,Westerlo,D,5.0,5.0,A,1.0,2.0
+Belgium,Jupiler League,6,Cercle Brugge,St Truiden,D,1.0,1.0,D,1.0,1.0
+Belgium,Jupiler League,6,Mechelen,RAAL La Louviere,H,3.0,2.0,H,1.0,0.0
+Belgium,Jupiler League,6,Westerlo,Antwerp,H,2.0,0.0,H,1.0,0.0
+Belgium,Jupiler League,6,Charleroi,Dender,H,3.0,1.0,H,1.0,0.0
+Belgium,Jupiler League,6,Gent,Club Brugge,D,1.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,6,Oud-Heverlee Leuven,Standard,H,1.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,6,St. Gilloise,Anderlecht,H,2.0,0.0,H,1.0,0.0
+Belgium,Jupiler League,6,Genk,Waregem,H,3.0,2.0,D,2.0,2.0
+Belgium,Jupiler League,7,Standard,Mechelen,D,1.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,7,Waregem,Oud-Heverlee Leuven,H,2.0,0.0,H,2.0,0.0
+Belgium,Jupiler League,7,Dender,St. Gilloise,A,0.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,7,RAAL La Louviere,Club Brugge,H,1.0,0.0,H,1.0,0.0
+Belgium,Jupiler League,7,Antwerp,Gent,A,1.0,2.0,D,1.0,1.0
+Belgium,Jupiler League,7,Cercle Brugge,Charleroi,A,2.0,3.0,A,0.0,2.0
+Belgium,Jupiler League,7,Anderlecht,Genk,D,1.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,7,St Truiden,Westerlo,A,0.0,3.0,A,0.0,1.0
+Belgium,Jupiler League,8,Gent,Dender,H,3.0,0.0,H,1.0,0.0
+Belgium,Jupiler League,8,Oud-Heverlee Leuven,RAAL La Louviere,A,1.0,2.0,A,1.0,2.0
+Belgium,Jupiler League,8,Charleroi,Waregem,A,1.0,2.0,H,1.0,0.0
+Belgium,Jupiler League,8,Anderlecht,Antwerp,D,0.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,8,Genk,St. Gilloise,A,1.0,2.0,A,0.0,1.0
+Belgium,Jupiler League,8,Westerlo,Standard,A,0.0,2.0,A,0.0,2.0
+Belgium,Jupiler League,8,Club Brugge,St Truiden,H,2.0,0.0,H,1.0,0.0
+Belgium,Jupiler League,8,Mechelen,Cercle Brugge,D,0.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,9,Oud-Heverlee Leuven,Anderlecht,D,1.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,9,Waregem,Antwerp,H,2.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,9,Standard,Club Brugge,A,1.0,2.0,D,1.0,1.0
+Belgium,Jupiler League,9,St. Gilloise,Westerlo,H,2.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,9,St Truiden,Genk,A,1.0,2.0,H,1.0,0.0
+Belgium,Jupiler League,9,Cercle Brugge,Gent,A,2.0,4.0,D,2.0,2.0
+Belgium,Jupiler League,9,Charleroi,Mechelen,A,0.0,2.0,A,0.0,2.0
+Belgium,Jupiler League,9,Dender,RAAL La Louviere,D,0.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,10,Gent,Charleroi,H,2.0,1.0,D,1.0,1.0
+Belgium,Jupiler League,10,Mechelen,St Truiden,A,1.0,3.0,H,1.0,0.0
+Belgium,Jupiler League,10,RAAL La Louviere,Waregem,D,0.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,10,Antwerp,Cercle Brugge,D,1.0,1.0,D,1.0,1.0
+Belgium,Jupiler League,10,Anderlecht,Standard,H,1.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,10,Genk,Dender,H,2.0,1.0,D,1.0,1.0
+Belgium,Jupiler League,10,Club Brugge,St. Gilloise,H,1.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,10,Westerlo,Oud-Heverlee Leuven,H,2.0,0.0,H,1.0,0.0
+Belgium,Jupiler League,11,Standard,Antwerp,H,1.0,0.0,H,1.0,0.0
+Belgium,Jupiler League,11,RAAL La Louviere,Westerlo,D,0.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,11,Oud-Heverlee Leuven,Club Brugge,A,0.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,11,St. Gilloise,Charleroi,H,3.0,1.0,D,1.0,1.0
+Belgium,Jupiler League,11,Cercle Brugge,Genk,D,2.0,2.0,D,1.0,1.0
+Belgium,Jupiler League,11,Dender,Mechelen,A,1.0,3.0,A,0.0,1.0
+Belgium,Jupiler League,11,St Truiden,Anderlecht,D,2.0,2.0,A,1.0,2.0
+Belgium,Jupiler League,11,Waregem,Gent,H,4.0,1.0,H,3.0,0.0
+Belgium,Jupiler League,12,Charleroi,Anderlecht,H,1.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,12,Westerlo,Dender,D,1.0,1.0,A,0.0,1.0
+Belgium,Jupiler League,12,Mechelen,Oud-Heverlee Leuven,D,1.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,12,Gent,Standard,H,4.0,0.0,H,3.0,0.0
+Belgium,Jupiler League,12,Antwerp,Club Brugge,A,0.0,1.0,A,0.0,1.0
+Belgium,Jupiler League,12,Cercle Brugge,Waregem,D,1.0,1.0,A,0.0,1.0
+Belgium,Jupiler League,12,Genk,RAAL La Louviere,D,1.0,1.0,D,1.0,1.0
+Belgium,Jupiler League,12,St. Gilloise,St Truiden,H,2.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,13,Standard,Charleroi,H,3.0,1.0,D,1.0,1.0
+Belgium,Jupiler League,13,Waregem,St. Gilloise,A,1.0,4.0,A,0.0,2.0
+Belgium,Jupiler League,13,Club Brugge,Dender,H,2.0,1.0,H,2.0,0.0
+Belgium,Jupiler League,13,Anderlecht,Mechelen,H,3.0,1.0,H,2.0,1.0
+Belgium,Jupiler League,13,Westerlo,Genk,A,0.0,1.0,A,0.0,1.0
+Belgium,Jupiler League,13,Oud-Heverlee Leuven,Gent,H,4.0,0.0,H,2.0,0.0
+Belgium,Jupiler League,13,St Truiden,Antwerp,H,1.0,0.0,H,1.0,0.0
+Belgium,Jupiler League,13,RAAL La Louviere,Cercle Brugge,H,2.0,1.0,H,1.0,0.0
+Belgium,Jupiler League,14,Dender,Waregem,D,2.0,2.0,H,1.0,0.0
+Belgium,Jupiler League,14,Cercle Brugge,Oud-Heverlee Leuven,A,1.0,2.0,H,1.0,0.0
+Belgium,Jupiler League,14,Charleroi,Westerlo,H,2.0,0.0,H,1.0,0.0
+Belgium,Jupiler League,14,Antwerp,RAAL La Louviere,H,3.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,14,Anderlecht,Club Brugge,H,1.0,0.0,H,1.0,0.0
+Belgium,Jupiler League,14,St Truiden,Standard,H,1.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,14,Gent,Genk,D,1.0,1.0,A,0.0,1.0
+Belgium,Jupiler League,14,Mechelen,St. Gilloise,D,1.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,15,Standard,Waregem,D,0.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,15,St. Gilloise,Cercle Brugge,H,2.0,0.0,H,1.0,0.0
+Belgium,Jupiler League,15,Westerlo,Gent,D,0.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,15,Club Brugge,Charleroi,H,1.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,15,Genk,Mechelen,A,0.0,1.0,A,0.0,1.0
+Belgium,Jupiler League,15,Antwerp,Dender,A,1.0,2.0,D,0.0,0.0
+Belgium,Jupiler League,15,RAAL La Louviere,Anderlecht,A,0.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,15,Oud-Heverlee Leuven,St Truiden,A,1.0,2.0,A,1.0,2.0
+Belgium,Jupiler League,16,Mechelen,Standard,A,0.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,16,Dender,Westerlo,D,2.0,2.0,H,1.0,0.0
+Belgium,Jupiler League,16,Waregem,Cercle Brugge,D,1.0,1.0,H,1.0,0.0
+Belgium,Jupiler League,16,Charleroi,RAAL La Louviere,D,0.0,0.0,D,0.0,0.0
+Belgium,Jupiler League,16,Club Brugge,Antwerp,A,0.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,16,Genk,Oud-Heverlee Leuven,H,2.0,1.0,D,0.0,0.0
+Belgium,Jupiler League,16,Anderlecht,St. Gilloise,H,1.0,0.0,H,1.0,0.0
+Belgium,Jupiler League,16,Gent,St Truiden,A,1.0,2.0,H,1.0,0.0
+Belgium,Jupiler League,17,RAAL La Louviere,Dender,,,,,,
+Belgium,Jupiler League,17,Cercle Brugge,Standard,,,,,,
+Belgium,Jupiler League,17,St. Gilloise,Gent,,,,,,
+Belgium,Jupiler League,17,St Truiden,Club Brugge,,,,,,
+Belgium,Jupiler League,17,Mechelen,Charleroi,,,,,,
+Belgium,Jupiler League,17,Westerlo,Anderlecht,,,,,,
+Belgium,Jupiler League,17,Antwerp,Genk,,,,,,
+Belgium,Jupiler League,17,Oud-Heverlee Leuven,Waregem,,,,,,
+Belgium,Jupiler League,18,Standard,Oud-Heverlee Leuven,,,,,,
+Belgium,Jupiler League,18,Cercle Brugge,Mechelen,,,,,,
+Belgium,Jupiler League,18,Waregem,RAAL La Louviere,,,,,,
+Belgium,Jupiler League,18,Anderlecht,St Truiden,,,,,,
+Belgium,Jupiler League,18,Gent,Antwerp,,,,,,
+Belgium,Jupiler League,18,Dender,Club Brugge,,,,,,
+Belgium,Jupiler League,18,Charleroi,St. Gilloise,,,,,,
+Belgium,Jupiler League,18,Genk,Westerlo,,,,,,
+Belgium,Jupiler League,19,Charleroi,Genk,,,,,,
+Belgium,Jupiler League,19,Dender,Standard,,,,,,
+Belgium,Jupiler League,19,Westerlo,RAAL La Louviere,,,,,,
+Belgium,Jupiler League,19,St. Gilloise,Waregem,,,,,,
+Belgium,Jupiler League,19,Club Brugge,Gent,,,,,,
+Belgium,Jupiler League,19,St Truiden,Mechelen,,,,,,
+Belgium,Jupiler League,19,Antwerp,Anderlecht,,,,,,
+Belgium,Jupiler League,19,Oud-Heverlee Leuven,Cercle Brugge,,,,,,
+Belgium,Jupiler League,20,Genk,Club Brugge,,,,,,
+Belgium,Jupiler League,20,Cercle Brugge,St. Gilloise,,,,,,
+Belgium,Jupiler League,20,Standard,St Truiden,,,,,,
+Belgium,Jupiler League,20,Anderlecht,Charleroi,,,,,,
+Belgium,Jupiler League,20,Antwerp,Waregem,,,,,,
+Belgium,Jupiler League,20,RAAL La Louviere,Oud-Heverlee Leuven,,,,,,
+Belgium,Jupiler League,20,Mechelen,Dender,,,,,,
+Belgium,Jupiler League,20,Gent,Westerlo,,,,,,
+Belgium,Jupiler League,21,Waregem,Genk,,,,,,
+Belgium,Jupiler League,21,Westerlo,Cercle Brugge,,,,,,
+Belgium,Jupiler League,21,Charleroi,Standard,,,,,,
+Belgium,Jupiler League,21,Dender,Antwerp,,,,,,
+Belgium,Jupiler League,21,St. Gilloise,Mechelen,,,,,,
+Belgium,Jupiler League,21,Gent,Anderlecht,,,,,,
+Belgium,Jupiler League,21,St Truiden,Oud-Heverlee Leuven,,,,,,
+Belgium,Jupiler League,21,Club Brugge,RAAL La Louviere,,,,,,
+Belgium,Jupiler League,22,Anderlecht,Dender,,,,,,
+Belgium,Jupiler League,22,RAAL La Louviere,St Truiden,,,,,,
+Belgium,Jupiler League,22,Club Brugge,Waregem,,,,,,
+Belgium,Jupiler League,22,Antwerp,Charleroi,,,,,,
+Belgium,Jupiler League,22,Standard,Gent,,,,,,
+Belgium,Jupiler League,22,Mechelen,Westerlo,,,,,,
+Belgium,Jupiler League,22,Genk,Cercle Brugge,,,,,,
+Belgium,Jupiler League,22,Oud-Heverlee Leuven,St. Gilloise,,,,,,
+Belgium,Jupiler League,23,St Truiden,Charleroi,,,,,,
+Belgium,Jupiler League,23,Oud-Heverlee Leuven,Mechelen,,,,,,
+Belgium,Jupiler League,23,Waregem,Westerlo,,,,,,
+Belgium,Jupiler League,23,Dender,Genk,,,,,,
+Belgium,Jupiler League,23,Standard,Anderlecht,,,,,,
+Belgium,Jupiler League,23,St. Gilloise,Club Brugge,,,,,,
+Belgium,Jupiler League,23,RAAL La Louviere,Gent,,,,,,
+Belgium,Jupiler League,23,Cercle Brugge,Antwerp,,,,,,
+Belgium,Jupiler League,24,Mechelen,Antwerp,,,,,,
+Belgium,Jupiler League,24,Westerlo,St Truiden,,,,,,
+Belgium,Jupiler League,24,Genk,Anderlecht,,,,,,
+Belgium,Jupiler League,24,Gent,Oud-Heverlee Leuven,,,,,,
+Belgium,Jupiler League,24,Waregem,Dender,,,,,,
+Belgium,Jupiler League,24,Club Brugge,Standard,,,,,,
+Belgium,Jupiler League,24,Charleroi,Cercle Brugge,,,,,,
+Belgium,Jupiler League,24,St. Gilloise,RAAL La Louviere,,,,,,
+Belgium,Jupiler League,25,Charleroi,Gent,,,,,,
+Belgium,Jupiler League,25,Mechelen,Genk,,,,,,
+Belgium,Jupiler League,25,Antwerp,Westerlo,,,,,,
+Belgium,Jupiler League,25,St Truiden,Waregem,,,,,,
+Belgium,Jupiler League,25,Standard,St. Gilloise,,,,,,
+Belgium,Jupiler League,25,Anderlecht,RAAL La Louviere,,,,,,
+Belgium,Jupiler League,25,Oud-Heverlee Leuven,Dender,,,,,,
+Belgium,Jupiler League,25,Cercle Brugge,Club Brugge,,,,,,
+Belgium,Jupiler League,26,St. Gilloise,Antwerp,,,,,,
+Belgium,Jupiler League,26,Westerlo,Charleroi,,,,,,
+Belgium,Jupiler League,26,Dender,St Truiden,,,,,,
+Belgium,Jupiler League,26,RAAL La Louviere,Mechelen,,,,,,
+Belgium,Jupiler League,26,Waregem,Anderlecht,,,,,,
+Belgium,Jupiler League,26,Gent,Cercle Brugge,,,,,,
+Belgium,Jupiler League,26,Genk,Standard,,,,,,
+Belgium,Jupiler League,26,Club Brugge,Oud-Heverlee Leuven,,,,,,
+Belgium,Jupiler League,27,Genk,Gent,,,,,,
+Belgium,Jupiler League,27,Cercle Brugge,Dender,,,,,,
+Belgium,Jupiler League,27,Charleroi,Club Brugge,,,,,,
+Belgium,Jupiler League,27,Anderlecht,Oud-Heverlee Leuven,,,,,,
+Belgium,Jupiler League,27,Antwerp,St Truiden,,,,,,
+Belgium,Jupiler League,27,Mechelen,Waregem,,,,,,
+Belgium,Jupiler League,27,Standard,RAAL La Louviere,,,,,,
+Belgium,Jupiler League,27,Westerlo,St. Gilloise,,,,,,
+Belgium,Jupiler League,28,Oud-Heverlee Leuven,Westerlo,,,,,,
+Belgium,Jupiler League,28,Dender,Charleroi,,,,,,
+Belgium,Jupiler League,28,Waregem,Standard,,,,,,
+Belgium,Jupiler League,28,St. Gilloise,Genk,,,,,,
+Belgium,Jupiler League,28,RAAL La Louviere,Antwerp,,,,,,
+Belgium,Jupiler League,28,St Truiden,Cercle Brugge,,,,,,
+Belgium,Jupiler League,28,Gent,Mechelen,,,,,,
+Belgium,Jupiler League,28,Club Brugge,Anderlecht,,,,,,
+Belgium,Jupiler League,29,Mechelen,Anderlecht,,,,,,
+Belgium,Jupiler League,29,Charleroi,Oud-Heverlee Leuven,,,,,,
+Belgium,Jupiler League,29,Genk,St Truiden,,,,,,
+Belgium,Jupiler League,29,Westerlo,Club Brugge,,,,,,
+Belgium,Jupiler League,29,Cercle Brugge,RAAL La Louviere,,,,,,
+Belgium,Jupiler League,29,Gent,Waregem,,,,,,
+Belgium,Jupiler League,29,Antwerp,Standard,,,,,,
+Belgium,Jupiler League,29,St. Gilloise,Dender,,,,,,
+Belgium,Jupiler League,30,Club Brugge,Mechelen,,,,,,
+Belgium,Jupiler League,30,Dender,Gent,,,,,,
+Belgium,Jupiler League,30,Standard,Westerlo,,,,,,
+Belgium,Jupiler League,30,Waregem,Charleroi,,,,,,
+Belgium,Jupiler League,30,Anderlecht,Cercle Brugge,,,,,,
+Belgium,Jupiler League,30,RAAL La Louviere,Genk,,,,,,
+Belgium,Jupiler League,30,St Truiden,St. Gilloise,,,,,,
+Belgium,Jupiler League,30,Oud-Heverlee Leuven,Antwerp,,,,,,
+Spain,La Liga Primera,1,Alaves,Levante,H,2.0,1.0,H,1.0,0.0
+Spain,La Liga Primera,1,Ath Bilbao,Sevilla,H,3.0,2.0,H,2.0,0.0
+Spain,La Liga Primera,1,Celta,Getafe,A,0.0,2.0,D,0.0,0.0
+Spain,La Liga Primera,1,Girona,Vallecano,A,1.0,3.0,A,0.0,3.0
+Spain,La Liga Primera,1,Espanol,Ath Madrid,H,2.0,1.0,A,0.0,1.0
+Spain,La Liga Primera,1,Mallorca,Barcelona,A,0.0,3.0,A,0.0,2.0
+Spain,La Liga Primera,1,Elche,Betis,D,1.0,1.0,A,0.0,1.0
+Spain,La Liga Primera,1,Real Madrid,Osasuna,H,1.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,1,Valencia,Sociedad,D,1.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,1,Villarreal,Oviedo,H,2.0,0.0,H,2.0,0.0
+Spain,La Liga Primera,2,Ath Bilbao,Vallecano,H,1.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,2,Ath Madrid,Elche,D,1.0,1.0,D,1.0,1.0
+Spain,La Liga Primera,2,Osasuna,Valencia,H,1.0,0.0,H,1.0,0.0
+Spain,La Liga Primera,2,Oviedo,Real Madrid,A,0.0,3.0,A,0.0,1.0
+Spain,La Liga Primera,2,Betis,Alaves,H,1.0,0.0,H,1.0,0.0
+Spain,La Liga Primera,2,Levante,Barcelona,A,2.0,3.0,H,2.0,0.0
+Spain,La Liga Primera,2,Mallorca,Celta,D,1.0,1.0,A,0.0,1.0
+Spain,La Liga Primera,2,Sociedad,Espanol,D,2.0,2.0,A,0.0,2.0
+Spain,La Liga Primera,2,Sevilla,Getafe,A,1.0,2.0,D,1.0,1.0
+Spain,La Liga Primera,2,Villarreal,Girona,H,5.0,0.0,H,4.0,0.0
+Spain,La Liga Primera,3,Alaves,Ath Madrid,D,1.0,1.0,D,1.0,1.0
+Spain,La Liga Primera,3,Celta,Villarreal,D,1.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,3,Elche,Levante,H,2.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,3,Espanol,Osasuna,H,1.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,3,Girona,Sevilla,A,0.0,2.0,A,0.0,1.0
+Spain,La Liga Primera,3,Oviedo,Sociedad,H,1.0,0.0,H,1.0,0.0
+Spain,La Liga Primera,3,Betis,Ath Bilbao,A,1.0,2.0,D,0.0,0.0
+Spain,La Liga Primera,3,Vallecano,Barcelona,D,1.0,1.0,A,0.0,1.0
+Spain,La Liga Primera,3,Valencia,Getafe,H,3.0,0.0,H,1.0,0.0
+Spain,La Liga Primera,3,Real Madrid,Mallorca,H,2.0,1.0,H,2.0,1.0
+Spain,La Liga Primera,4,Ath Madrid,Villarreal,H,2.0,0.0,H,1.0,0.0
+Spain,La Liga Primera,4,Barcelona,Valencia,H,6.0,0.0,H,1.0,0.0
+Spain,La Liga Primera,4,Celta,Girona,D,1.0,1.0,A,0.0,1.0
+Spain,La Liga Primera,4,Espanol,Mallorca,H,3.0,2.0,H,2.0,1.0
+Spain,La Liga Primera,4,Getafe,Oviedo,H,2.0,0.0,H,2.0,0.0
+Spain,La Liga Primera,4,Osasuna,Vallecano,H,2.0,0.0,H,1.0,0.0
+Spain,La Liga Primera,4,Ath Bilbao,Alaves,A,0.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,4,Levante,Betis,D,2.0,2.0,H,2.0,1.0
+Spain,La Liga Primera,4,Sevilla,Elche,D,2.0,2.0,H,1.0,0.0
+Spain,La Liga Primera,4,Sociedad,Real Madrid,A,1.0,2.0,A,0.0,2.0
+Spain,La Liga Primera,5,Alaves,Sevilla,A,1.0,2.0,D,1.0,1.0
+Spain,La Liga Primera,5,Barcelona,Getafe,H,3.0,0.0,H,2.0,0.0
+Spain,La Liga Primera,5,Betis,Sociedad,H,3.0,1.0,D,1.0,1.0
+Spain,La Liga Primera,5,Elche,Oviedo,H,1.0,0.0,H,1.0,0.0
+Spain,La Liga Primera,5,Girona,Levante,A,0.0,4.0,A,0.0,1.0
+Spain,La Liga Primera,5,Valencia,Ath Bilbao,H,2.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,5,Mallorca,Ath Madrid,D,1.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,5,Vallecano,Celta,D,1.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,5,Real Madrid,Espanol,H,2.0,0.0,H,1.0,0.0
+Spain,La Liga Primera,5,Villarreal,Osasuna,H,2.0,1.0,A,0.0,1.0
+Spain,La Liga Primera,6,Ath Bilbao,Girona,D,1.0,1.0,A,0.0,1.0
+Spain,La Liga Primera,6,Ath Madrid,Vallecano,H,3.0,2.0,D,1.0,1.0
+Spain,La Liga Primera,6,Espanol,Valencia,D,2.0,2.0,A,0.0,1.0
+Spain,La Liga Primera,6,Levante,Real Madrid,A,1.0,4.0,A,0.0,2.0
+Spain,La Liga Primera,6,Sevilla,Villarreal,A,1.0,2.0,A,0.0,1.0
+Spain,La Liga Primera,6,Getafe,Alaves,D,1.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,6,Oviedo,Barcelona,A,1.0,3.0,H,1.0,0.0
+Spain,La Liga Primera,6,Celta,Betis,D,1.0,1.0,A,0.0,1.0
+Spain,La Liga Primera,6,Osasuna,Elche,D,1.0,1.0,H,1.0,0.0
+Spain,La Liga Primera,6,Sociedad,Mallorca,H,1.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,7,Ath Madrid,Real Madrid,H,5.0,2.0,D,2.0,2.0
+Spain,La Liga Primera,7,Barcelona,Sociedad,H,2.0,1.0,D,1.0,1.0
+Spain,La Liga Primera,7,Betis,Osasuna,H,2.0,0.0,H,2.0,0.0
+Spain,La Liga Primera,7,Getafe,Levante,D,1.0,1.0,A,0.0,1.0
+Spain,La Liga Primera,7,Vallecano,Sevilla,A,0.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,7,Mallorca,Alaves,H,1.0,0.0,H,1.0,0.0
+Spain,La Liga Primera,7,Villarreal,Ath Bilbao,H,1.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,7,Elche,Celta,H,2.0,1.0,D,1.0,1.0
+Spain,La Liga Primera,7,Girona,Espanol,D,0.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,7,Valencia,Oviedo,A,1.0,2.0,H,1.0,0.0
+Spain,La Liga Primera,8,Alaves,Elche,H,3.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,8,Ath Bilbao,Mallorca,H,2.0,1.0,H,1.0,0.0
+Spain,La Liga Primera,8,Girona,Valencia,H,2.0,1.0,H,1.0,0.0
+Spain,La Liga Primera,8,Real Madrid,Villarreal,H,3.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,8,Celta,Ath Madrid,D,1.0,1.0,A,0.0,1.0
+Spain,La Liga Primera,8,Sevilla,Barcelona,H,4.0,1.0,H,2.0,1.0
+Spain,La Liga Primera,8,Espanol,Betis,A,1.0,2.0,H,1.0,0.0
+Spain,La Liga Primera,8,Osasuna,Getafe,H,2.0,1.0,D,1.0,1.0
+Spain,La Liga Primera,8,Oviedo,Levante,A,0.0,2.0,A,0.0,1.0
+Spain,La Liga Primera,8,Sociedad,Vallecano,A,0.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,9,Alaves,Valencia,D,0.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,9,Ath Madrid,Osasuna,H,1.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,9,Barcelona,Girona,H,2.0,1.0,D,1.0,1.0
+Spain,La Liga Primera,9,Celta,Sociedad,D,1.0,1.0,H,1.0,0.0
+Spain,La Liga Primera,9,Getafe,Real Madrid,A,0.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,9,Levante,Vallecano,A,0.0,3.0,A,0.0,2.0
+Spain,La Liga Primera,9,Elche,Ath Bilbao,D,0.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,9,Villarreal,Betis,D,2.0,2.0,H,1.0,0.0
+Spain,La Liga Primera,9,Oviedo,Espanol,A,0.0,2.0,D,0.0,0.0
+Spain,La Liga Primera,9,Sevilla,Mallorca,A,1.0,3.0,H,1.0,0.0
+Spain,La Liga Primera,10,Ath Bilbao,Getafe,A,0.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,10,Girona,Oviedo,D,3.0,3.0,A,0.0,1.0
+Spain,La Liga Primera,10,Sociedad,Sevilla,H,2.0,1.0,H,2.0,1.0
+Spain,La Liga Primera,10,Valencia,Villarreal,A,0.0,2.0,A,0.0,1.0
+Spain,La Liga Primera,10,Vallecano,Alaves,H,1.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,10,Betis,Ath Madrid,A,0.0,2.0,A,0.0,2.0
+Spain,La Liga Primera,10,Real Madrid,Barcelona,H,2.0,1.0,H,2.0,1.0
+Spain,La Liga Primera,10,Osasuna,Celta,A,2.0,3.0,H,2.0,1.0
+Spain,La Liga Primera,10,Espanol,Elche,H,1.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,10,Mallorca,Levante,D,1.0,1.0,A,0.0,1.0
+Spain,La Liga Primera,11,Alaves,Espanol,H,2.0,1.0,H,2.0,0.0
+Spain,La Liga Primera,11,Ath Madrid,Sevilla,H,3.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,11,Barcelona,Elche,H,3.0,1.0,H,2.0,1.0
+Spain,La Liga Primera,11,Betis,Mallorca,H,3.0,0.0,H,3.0,0.0
+Spain,La Liga Primera,11,Getafe,Girona,H,2.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,11,Real Madrid,Valencia,H,4.0,0.0,H,3.0,0.0
+Spain,La Liga Primera,11,Sociedad,Ath Bilbao,H,3.0,2.0,D,1.0,1.0
+Spain,La Liga Primera,11,Levante,Celta,A,1.0,2.0,A,0.0,1.0
+Spain,La Liga Primera,11,Oviedo,Osasuna,D,0.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,11,Villarreal,Vallecano,H,4.0,0.0,H,1.0,0.0
+Spain,La Liga Primera,12,Ath Bilbao,Oviedo,H,1.0,0.0,H,1.0,0.0
+Spain,La Liga Primera,12,Ath Madrid,Levante,H,3.0,1.0,D,1.0,1.0
+Spain,La Liga Primera,12,Elche,Sociedad,D,1.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,12,Espanol,Villarreal,A,0.0,2.0,A,0.0,1.0
+Spain,La Liga Primera,12,Vallecano,Real Madrid,D,0.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,12,Girona,Alaves,H,1.0,0.0,H,1.0,0.0
+Spain,La Liga Primera,12,Celta,Barcelona,A,2.0,4.0,A,2.0,3.0
+Spain,La Liga Primera,12,Valencia,Betis,D,1.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,12,Mallorca,Getafe,H,1.0,0.0,H,1.0,0.0
+Spain,La Liga Primera,12,Sevilla,Osasuna,H,1.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,13,Alaves,Celta,A,0.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,13,Betis,Girona,D,1.0,1.0,A,0.0,1.0
+Spain,La Liga Primera,13,Elche,Real Madrid,D,2.0,2.0,D,0.0,0.0
+Spain,La Liga Primera,13,Espanol,Sevilla,H,2.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,13,Osasuna,Sociedad,A,1.0,3.0,H,1.0,0.0
+Spain,La Liga Primera,13,Oviedo,Vallecano,D,0.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,13,Barcelona,Ath Bilbao,H,4.0,0.0,H,2.0,0.0
+Spain,La Liga Primera,13,Getafe,Ath Madrid,A,0.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,13,Valencia,Levante,H,1.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,13,Villarreal,Mallorca,H,2.0,1.0,D,1.0,1.0
+Spain,La Liga Primera,14,Ath Madrid,Oviedo,H,2.0,0.0,H,2.0,0.0
+Spain,La Liga Primera,14,Celta,Espanol,A,0.0,1.0,D,0.0,0.0
+Spain,La Liga Primera,14,Girona,Real Madrid,D,1.0,1.0,H,1.0,0.0
+Spain,La Liga Primera,14,Mallorca,Osasuna,D,2.0,2.0,D,0.0,0.0
+Spain,La Liga Primera,14,Vallecano,Valencia,D,1.0,1.0,H,1.0,0.0
+Spain,La Liga Primera,14,Sociedad,Villarreal,A,2.0,3.0,A,0.0,1.0
+Spain,La Liga Primera,14,Barcelona,Alaves,H,3.0,1.0,H,2.0,1.0
+Spain,La Liga Primera,14,Levante,Ath Bilbao,A,0.0,2.0,A,0.0,2.0
+Spain,La Liga Primera,14,Sevilla,Betis,A,0.0,2.0,D,0.0,0.0
+Spain,La Liga Primera,14,Getafe,Elche,H,1.0,0.0,D,0.0,0.0
+Spain,La Liga Primera,15,Alaves,Sociedad,,,,,,
+Spain,La Liga Primera,15,Ath Bilbao,Ath Madrid,,,,,,
+Spain,La Liga Primera,15,Elche,Girona,,,,,,
+Spain,La Liga Primera,15,Espanol,Vallecano,,,,,,
+Spain,La Liga Primera,15,Betis,Barcelona,,,,,,
+Spain,La Liga Primera,15,Real Madrid,Celta,,,,,,
+Spain,La Liga Primera,15,Villarreal,Getafe,,,,,,
+Spain,La Liga Primera,15,Osasuna,Levante,,,,,,
+Spain,La Liga Primera,15,Oviedo,Mallorca,,,,,,
+Spain,La Liga Primera,15,Valencia,Sevilla,,,,,,
+Spain,La Liga Primera,16,Alaves,Real Madrid,,,,,,
+Spain,La Liga Primera,16,Ath Madrid,Valencia,,,,,,
+Spain,La Liga Primera,16,Barcelona,Osasuna,,,,,,
+Spain,La Liga Primera,16,Levante,Villarreal,,,,,,
+Spain,La Liga Primera,16,Celta,Ath Bilbao,,,,,,
+Spain,La Liga Primera,16,Vallecano,Betis,,,,,,
+Spain,La Liga Primera,16,Mallorca,Elche,,,,,,
+Spain,La Liga Primera,16,Getafe,Espanol,,,,,,
+Spain,La Liga Primera,16,Sociedad,Girona,,,,,,
+Spain,La Liga Primera,16,Sevilla,Oviedo,,,,,,
+Spain,La Liga Primera,17,Ath Bilbao,Espanol,,,,,,
+Spain,La Liga Primera,17,Betis,Getafe,,,,,,
+Spain,La Liga Primera,17,Elche,Vallecano,,,,,,
+Spain,La Liga Primera,17,Levante,Sociedad,,,,,,
+Spain,La Liga Primera,17,Real Madrid,Sevilla,,,,,,
+Spain,La Liga Primera,17,Osasuna,Alaves,,,,,,
+Spain,La Liga Primera,17,Girona,Ath Madrid,,,,,,
+Spain,La Liga Primera,17,Villarreal,Barcelona,,,,,,
+Spain,La Liga Primera,17,Oviedo,Celta,,,,,,
+Spain,La Liga Primera,17,Valencia,Mallorca,,,,,,
+Spain,La Liga Primera,18,Alaves,Oviedo,,,,,,
+Spain,La Liga Primera,18,Celta,Valencia,,,,,,
+Spain,La Liga Primera,18,Elche,Villarreal,,,,,,
+Spain,La Liga Primera,18,Osasuna,Ath Bilbao,,,,,,
+Spain,La Liga Primera,18,Sociedad,Ath Madrid,,,,,,
+Spain,La Liga Primera,18,Espanol,Barcelona,,,,,,
+Spain,La Liga Primera,18,Real Madrid,Betis,,,,,,
+Spain,La Liga Primera,18,Vallecano,Getafe,,,,,,
+Spain,La Liga Primera,18,Mallorca,Girona,,,,,,
+Spain,La Liga Primera,18,Sevilla,Levante,,,,,,
+Spain,La Liga Primera,19,Ath Bilbao,Real Madrid,,,,,,
+Spain,La Liga Primera,19,Getafe,Sociedad,,,,,,
+Spain,La Liga Primera,19,Girona,Osasuna,,,,,,
+Spain,La Liga Primera,19,Villarreal,Alaves,,,,,,
+Spain,La Liga Primera,19,Barcelona,Ath Madrid,,,,,,
+Spain,La Liga Primera,19,Oviedo,Betis,,,,,,
+Spain,La Liga Primera,19,Sevilla,Celta,,,,,,
+Spain,La Liga Primera,19,Valencia,Elche,,,,,,
+Spain,La Liga Primera,19,Levante,Espanol,,,,,,
+Spain,La Liga Primera,19,Vallecano,Mallorca,,,,,,
+Spain,La Liga Primera,20,Betis,Villarreal,,,,,,
+Spain,La Liga Primera,20,Celta,Vallecano,,,,,,
+Spain,La Liga Primera,20,Elche,Sevilla,,,,,,
+Spain,La Liga Primera,20,Espanol,Girona,,,,,,
+Spain,La Liga Primera,20,Getafe,Valencia,,,,,,
+Spain,La Liga Primera,20,Osasuna,Oviedo,,,,,,
+Spain,La Liga Primera,20,Ath Madrid,Alaves,,,,,,
+Spain,La Liga Primera,20,Mallorca,Ath Bilbao,,,,,,
+Spain,La Liga Primera,20,Sociedad,Barcelona,,,,,,
+Spain,La Liga Primera,20,Real Madrid,Levante,,,,,,
+Spain,La Liga Primera,21,Alaves,Betis,,,,,,
+Spain,La Liga Primera,21,Ath Madrid,Mallorca,,,,,,
+Spain,La Liga Primera,21,Barcelona,Oviedo,,,,,,
+Spain,La Liga Primera,21,Sevilla,Ath Bilbao,,,,,,
+Spain,La Liga Primera,21,Sociedad,Celta,,,,,,
+Spain,La Liga Primera,21,Levante,Elche,,,,,,
+Spain,La Liga Primera,21,Valencia,Espanol,,,,,,
+Spain,La Liga Primera,21,Girona,Getafe,,,,,,
+Spain,La Liga Primera,21,Vallecano,Osasuna,,,,,,
+Spain,La Liga Primera,21,Villarreal,Real Madrid,,,,,,
+Spain,La Liga Primera,22,Ath Bilbao,Sociedad,,,,,,
+Spain,La Liga Primera,22,Betis,Valencia,,,,,,
+Spain,La Liga Primera,22,Mallorca,Sevilla,,,,,,
+Spain,La Liga Primera,22,Osasuna,Villarreal,,,,,,
+Spain,La Liga Primera,22,Espanol,Alaves,,,,,,
+Spain,La Liga Primera,22,Levante,Ath Madrid,,,,,,
+Spain,La Liga Primera,22,Elche,Barcelona,,,,,,
+Spain,La Liga Primera,22,Getafe,Celta,,,,,,
+Spain,La Liga Primera,22,Oviedo,Girona,,,,,,
+Spain,La Liga Primera,22,Real Madrid,Vallecano,,,,,,
+Spain,La Liga Primera,23,Alaves,Getafe,,,,,,
+Spain,La Liga Primera,23,Ath Bilbao,Levante,,,,,,
+Spain,La Liga Primera,23,Ath Madrid,Betis,,,,,,
+Spain,La Liga Primera,23,Barcelona,Mallorca,,,,,,
+Spain,La Liga Primera,23,Celta,Osasuna,,,,,,
+Spain,La Liga Primera,23,Sociedad,Elche,,,,,,
+Spain,La Liga Primera,23,Villarreal,Espanol,,,,,,
+Spain,La Liga Primera,23,Sevilla,Girona,,,,,,
+Spain,La Liga Primera,23,Valencia,Real Madrid,,,,,,
+Spain,La Liga Primera,23,Vallecano,Oviedo,,,,,,
+Spain,La Liga Primera,24,Elche,Osasuna,,,,,,
+Spain,La Liga Primera,24,Getafe,Villarreal,,,,,,
+Spain,La Liga Primera,24,Levante,Valencia,,,,,,
+Spain,La Liga Primera,24,Real Madrid,Sociedad,,,,,,
+Spain,La Liga Primera,24,Sevilla,Alaves,,,,,,
+Spain,La Liga Primera,24,Oviedo,Ath Bilbao,,,,,,
+Spain,La Liga Primera,24,Vallecano,Ath Madrid,,,,,,
+Spain,La Liga Primera,24,Girona,Barcelona,,,,,,
+Spain,La Liga Primera,24,Mallorca,Betis,,,,,,
+Spain,La Liga Primera,24,Espanol,Celta,,,,,,
+Spain,La Liga Primera,25,Alaves,Girona,,,,,,
+Spain,La Liga Primera,25,Ath Bilbao,Elche,,,,,,
+Spain,La Liga Primera,25,Ath Madrid,Espanol,,,,,,
+Spain,La Liga Primera,25,Barcelona,Levante,,,,,,
+Spain,La Liga Primera,25,Betis,Vallecano,,,,,,
+Spain,La Liga Primera,25,Celta,Mallorca,,,,,,
+Spain,La Liga Primera,25,Getafe,Sevilla,,,,,,
+Spain,La Liga Primera,25,Osasuna,Real Madrid,,,,,,
+Spain,La Liga Primera,25,Villarreal,Valencia,,,,,,
+Spain,La Liga Primera,25,Sociedad,Oviedo,,,,,,
+Spain,La Liga Primera,26,Barcelona,Villarreal,,,,,,
+Spain,La Liga Primera,26,Betis,Sevilla,,,,,,
+Spain,La Liga Primera,26,Elche,Espanol,,,,,,
+Spain,La Liga Primera,26,Mallorca,Sociedad,,,,,,
+Spain,La Liga Primera,26,Levante,Alaves,,,,,,
+Spain,La Liga Primera,26,Vallecano,Ath Bilbao,,,,,,
+Spain,La Liga Primera,26,Oviedo,Ath Madrid,,,,,,
+Spain,La Liga Primera,26,Girona,Celta,,,,,,
+Spain,La Liga Primera,26,Real Madrid,Getafe,,,,,,
+Spain,La Liga Primera,26,Valencia,Osasuna,,,,,,
+Spain,La Liga Primera,27,Ath Bilbao,Barcelona,,,,,,
+Spain,La Liga Primera,27,Ath Madrid,Sociedad,,,,,,
+Spain,La Liga Primera,27,Celta,Real Madrid,,,,,,
+Spain,La Liga Primera,27,Espanol,Oviedo,,,,,,
+Spain,La Liga Primera,27,Valencia,Alaves,,,,,,
+Spain,La Liga Primera,27,Getafe,Betis,,,,,,
+Spain,La Liga Primera,27,Villarreal,Elche,,,,,,
+Spain,La Liga Primera,27,Levante,Girona,,,,,,
+Spain,La Liga Primera,27,Osasuna,Mallorca,,,,,,
+Spain,La Liga Primera,27,Sevilla,Vallecano,,,,,,
+Spain,La Liga Primera,28,Alaves,Villarreal,,,,,,
+Spain,La Liga Primera,28,Ath Madrid,Getafe,,,,,,
+Spain,La Liga Primera,28,Barcelona,Sevilla,,,,,,
+Spain,La Liga Primera,28,Betis,Celta,,,,,,
+Spain,La Liga Primera,28,Oviedo,Valencia,,,,,,
+Spain,La Liga Primera,28,Girona,Ath Bilbao,,,,,,
+Spain,La Liga Primera,28,Real Madrid,Elche,,,,,,
+Spain,La Liga Primera,28,Mallorca,Espanol,,,,,,
+Spain,La Liga Primera,28,Vallecano,Levante,,,,,,
+Spain,La Liga Primera,28,Sociedad,Osasuna,,,,,,
+Spain,La Liga Primera,29,Ath Bilbao,Betis,,,,,,
+Spain,La Liga Primera,29,Barcelona,Vallecano,,,,,,
+Spain,La Liga Primera,29,Elche,Mallorca,,,,,,
+Spain,La Liga Primera,29,Espanol,Getafe,,,,,,
+Spain,La Liga Primera,29,Levante,Oviedo,,,,,,
+Spain,La Liga Primera,29,Sevilla,Valencia,,,,,,
+Spain,La Liga Primera,29,Celta,Alaves,,,,,,
+Spain,La Liga Primera,29,Real Madrid,Ath Madrid,,,,,,
+Spain,La Liga Primera,29,Osasuna,Girona,,,,,,
+Spain,La Liga Primera,29,Villarreal,Sociedad,,,,,,
+Spain,La Liga Primera,30,Alaves,Osasuna,,,,,,
+Spain,La Liga Primera,30,Ath Madrid,Barcelona,,,,,,
+Spain,La Liga Primera,30,Betis,Espanol,,,,,,
+Spain,La Liga Primera,30,Girona,Villarreal,,,,,,
+Spain,La Liga Primera,30,Mallorca,Real Madrid,,,,,,
+Spain,La Liga Primera,30,Oviedo,Sevilla,,,,,,
+Spain,La Liga Primera,30,Getafe,Ath Bilbao,,,,,,
+Spain,La Liga Primera,30,Valencia,Celta,,,,,,
+Spain,La Liga Primera,30,Vallecano,Elche,,,,,,
+Spain,La Liga Primera,30,Sociedad,Levante,,,,,,
+Spain,La Liga Primera,31,Ath Bilbao,Villarreal,,,,,,
+Spain,La Liga Primera,31,Barcelona,Espanol,,,,,,
+Spain,La Liga Primera,31,Celta,Oviedo,,,,,,
+Spain,La Liga Primera,31,Elche,Valencia,,,,,,
+Spain,La Liga Primera,31,Mallorca,Vallecano,,,,,,
+Spain,La Liga Primera,31,Sociedad,Alaves,,,,,,
+Spain,La Liga Primera,31,Sevilla,Ath Madrid,,,,,,
+Spain,La Liga Primera,31,Osasuna,Betis,,,,,,
+Spain,La Liga Primera,31,Levante,Getafe,,,,,,
+Spain,La Liga Primera,31,Real Madrid,Girona,,,,,,
+Spain,La Liga Primera,32,Alaves,Mallorca,,,,,,
+Spain,La Liga Primera,32,Betis,Real Madrid,,,,,,
+Spain,La Liga Primera,32,Espanol,Levante,,,,,,
+Spain,La Liga Primera,32,Osasuna,Sevilla,,,,,,
+Spain,La Liga Primera,32,Vallecano,Sociedad,,,,,,
+Spain,La Liga Primera,32,Ath Madrid,Ath Bilbao,,,,,,
+Spain,La Liga Primera,32,Getafe,Barcelona,,,,,,
+Spain,La Liga Primera,32,Villarreal,Celta,,,,,,
+Spain,La Liga Primera,32,Oviedo,Elche,,,,,,
+Spain,La Liga Primera,32,Valencia,Girona,,,,,,
+Spain,La Liga Primera,33,Ath Bilbao,Osasuna,,,,,,
+Spain,La Liga Primera,33,Barcelona,Celta,,,,,,
+Spain,La Liga Primera,33,Levante,Sevilla,,,,,,
+Spain,La Liga Primera,33,Mallorca,Valencia,,,,,,
+Spain,La Liga Primera,33,Oviedo,Villarreal,,,,,,
+Spain,La Liga Primera,33,Real Madrid,Alaves,,,,,,
+Spain,La Liga Primera,33,Elche,Ath Madrid,,,,,,
+Spain,La Liga Primera,33,Girona,Betis,,,,,,
+Spain,La Liga Primera,33,Vallecano,Espanol,,,,,,
+Spain,La Liga Primera,33,Sociedad,Getafe,,,,,,
+Spain,La Liga Primera,34,Alaves,Ath Bilbao,,,,,,
+Spain,La Liga Primera,34,Betis,Oviedo,,,,,,
+Spain,La Liga Primera,34,Celta,Elche,,,,,,
+Spain,La Liga Primera,34,Espanol,Real Madrid,,,,,,
+Spain,La Liga Primera,34,Getafe,Vallecano,,,,,,
+Spain,La Liga Primera,34,Girona,Mallorca,,,,,,
+Spain,La Liga Primera,34,Valencia,Ath Madrid,,,,,,
+Spain,La Liga Primera,34,Osasuna,Barcelona,,,,,,
+Spain,La Liga Primera,34,Villarreal,Levante,,,,,,
+Spain,La Liga Primera,34,Sevilla,Sociedad,,,,,,
+Spain,La Liga Primera,35,Ath Bilbao,Valencia,,,,,,
+Spain,La Liga Primera,35,Ath Madrid,Celta,,,,,,
+Spain,La Liga Primera,35,Barcelona,Real Madrid,,,,,,
+Spain,La Liga Primera,35,Levante,Osasuna,,,,,,
+Spain,La Liga Primera,35,Mallorca,Villarreal,,,,,,
+Spain,La Liga Primera,35,Elche,Alaves,,,,,,
+Spain,La Liga Primera,35,Sociedad,Betis,,,,,,
+Spain,La Liga Primera,35,Sevilla,Espanol,,,,,,
+Spain,La Liga Primera,35,Oviedo,Getafe,,,,,,
+Spain,La Liga Primera,35,Vallecano,Girona,,,,,,
+Spain,La Liga Primera,36,Alaves,Barcelona,,,,,,
+Spain,La Liga Primera,36,Betis,Elche,,,,,,
+Spain,La Liga Primera,36,Celta,Levante,,,,,,
+Spain,La Liga Primera,36,Getafe,Mallorca,,,,,,
+Spain,La Liga Primera,36,Girona,Sociedad,,,,,,
+Spain,La Liga Primera,36,Espanol,Ath Bilbao,,,,,,
+Spain,La Liga Primera,36,Osasuna,Ath Madrid,,,,,,
+Spain,La Liga Primera,36,Valencia,Vallecano,,,,,,
+Spain,La Liga Primera,36,Villarreal,Sevilla,,,,,,
+Spain,La Liga Primera,36,Real Madrid,Oviedo,,,,,,
+Spain,La Liga Primera,37,Ath Bilbao,Celta,,,,,,
+Spain,La Liga Primera,37,Ath Madrid,Girona,,,,,,
+Spain,La Liga Primera,37,Barcelona,Betis,,,,,,
+Spain,La Liga Primera,37,Elche,Getafe,,,,,,
+Spain,La Liga Primera,37,Levante,Mallorca,,,,,,
+Spain,La Liga Primera,37,Vallecano,Villarreal,,,,,,
+Spain,La Liga Primera,37,Sociedad,Valencia,,,,,,
+Spain,La Liga Primera,37,Oviedo,Alaves,,,,,,
+Spain,La Liga Primera,37,Osasuna,Espanol,,,,,,
+Spain,La Liga Primera,37,Sevilla,Real Madrid,,,,,,
+Spain,La Liga Primera,38,Alaves,Vallecano,,,,,,
+Spain,La Liga Primera,38,Betis,Levante,,,,,,
+Spain,La Liga Primera,38,Celta,Sevilla,,,,,,
+Spain,La Liga Primera,38,Espanol,Sociedad,,,,,,
+Spain,La Liga Primera,38,Getafe,Osasuna,,,,,,
+Spain,La Liga Primera,38,Mallorca,Oviedo,,,,,,
+Spain,La Liga Primera,38,Real Madrid,Ath Bilbao,,,,,,
+Spain,La Liga Primera,38,Villarreal,Ath Madrid,,,,,,
+Spain,La Liga Primera,38,Valencia,Barcelona,,,,,,
+Spain,La Liga Primera,38,Girona,Elche,,,,,,
+France,Ligue 1,1,Rennes,Marseille,H,1.0,0.0,D,0.0,0.0
+France,Ligue 1,1,Lens,Lyon,A,0.0,1.0,A,0.0,1.0
+France,Ligue 1,1,Monaco,Le Havre,H,3.0,1.0,H,1.0,0.0
+France,Ligue 1,1,Nice,Toulouse,A,0.0,1.0,D,0.0,0.0
+France,Ligue 1,1,Brest,Lille,D,3.0,3.0,A,1.0,2.0
+France,Ligue 1,1,Angers,Paris FC,H,1.0,0.0,H,1.0,0.0
+France,Ligue 1,1,Auxerre,Lorient,H,1.0,0.0,D,0.0,0.0
+France,Ligue 1,1,Metz,Strasbourg,A,0.0,1.0,D,0.0,0.0
+France,Ligue 1,1,Nantes,Paris SG,A,0.0,1.0,D,0.0,0.0
+France,Ligue 1,2,Paris SG,Angers,H,1.0,0.0,D,0.0,0.0
+France,Ligue 1,2,Marseille,Paris FC,H,5.0,2.0,H,2.0,1.0
+France,Ligue 1,2,Nice,Auxerre,H,3.0,1.0,H,2.0,1.0
+France,Ligue 1,2,Lyon,Metz,H,3.0,0.0,H,2.0,0.0
+France,Ligue 1,2,Lorient,Rennes,H,4.0,0.0,H,1.0,0.0
+France,Ligue 1,2,Le Havre,Lens,A,1.0,2.0,A,1.0,2.0
+France,Ligue 1,2,Strasbourg,Nantes,H,1.0,0.0,D,0.0,0.0
+France,Ligue 1,2,Toulouse,Brest,H,2.0,0.0,D,0.0,0.0
+France,Ligue 1,2,Lille,Monaco,H,1.0,0.0,D,0.0,0.0
+France,Ligue 1,3,Lens,Brest,H,3.0,1.0,A,0.0,1.0
+France,Ligue 1,3,Lorient,Lille,A,1.0,7.0,D,0.0,0.0
+France,Ligue 1,3,Nantes,Auxerre,H,1.0,0.0,H,1.0,0.0
+France,Ligue 1,3,Toulouse,Paris SG,A,3.0,6.0,A,1.0,4.0
+France,Ligue 1,3,Angers,Rennes,D,1.0,1.0,A,0.0,1.0
+France,Ligue 1,3,Le Havre,Nice,H,3.0,1.0,H,1.0,0.0
+France,Ligue 1,3,Monaco,Strasbourg,H,3.0,2.0,H,1.0,0.0
+France,Ligue 1,3,Paris FC,Metz,H,3.0,2.0,D,1.0,1.0
+France,Ligue 1,3,Lyon,Marseille,H,1.0,0.0,D,0.0,0.0
+France,Ligue 1,4,Marseille,Lorient,H,4.0,0.0,H,3.0,0.0
+France,Ligue 1,4,Nice,Nantes,H,1.0,0.0,D,0.0,0.0
+France,Ligue 1,4,Auxerre,Monaco,A,1.0,2.0,A,0.0,1.0
+France,Ligue 1,4,Lille,Toulouse,H,2.0,1.0,D,0.0,0.0
+France,Ligue 1,4,Brest,Paris FC,A,1.0,2.0,A,0.0,2.0
+France,Ligue 1,4,Metz,Angers,D,1.0,1.0,H,1.0,0.0
+France,Ligue 1,4,Paris SG,Lens,H,2.0,0.0,H,1.0,0.0
+France,Ligue 1,4,Strasbourg,Le Havre,H,1.0,0.0,D,0.0,0.0
+France,Ligue 1,4,Rennes,Lyon,H,3.0,1.0,A,0.0,1.0
+France,Ligue 1,5,Lyon,Angers,H,1.0,0.0,D,0.0,0.0
+France,Ligue 1,5,Nantes,Rennes,D,2.0,2.0,A,0.0,2.0
+France,Ligue 1,5,Brest,Nice,H,4.0,1.0,H,2.0,1.0
+France,Ligue 1,5,Lens,Lille,H,3.0,0.0,H,2.0,0.0
+France,Ligue 1,5,Paris FC,Strasbourg,A,2.0,3.0,A,0.0,1.0
+France,Ligue 1,5,Auxerre,Toulouse,H,1.0,0.0,H,1.0,0.0
+France,Ligue 1,5,Le Havre,Lorient,D,1.0,1.0,A,0.0,1.0
+France,Ligue 1,5,Monaco,Metz,H,5.0,2.0,D,1.0,1.0
+France,Ligue 1,5,Marseille,Paris SG,H,1.0,0.0,H,1.0,0.0
+France,Ligue 1,6,Strasbourg,Marseille,A,1.0,2.0,D,0.0,0.0
+France,Ligue 1,6,Lorient,Monaco,H,3.0,1.0,H,1.0,0.0
+France,Ligue 1,6,Toulouse,Nantes,D,2.0,2.0,A,0.0,1.0
+France,Ligue 1,6,Paris SG,Auxerre,H,2.0,0.0,H,1.0,0.0
+France,Ligue 1,6,Nice,Paris FC,D,1.0,1.0,H,1.0,0.0
+France,Ligue 1,6,Angers,Brest,A,0.0,2.0,A,0.0,2.0
+France,Ligue 1,6,Lille,Lyon,A,0.0,1.0,A,0.0,1.0
+France,Ligue 1,6,Metz,Le Havre,D,0.0,0.0,D,0.0,0.0
+France,Ligue 1,6,Rennes,Lens,D,0.0,0.0,D,0.0,0.0
+France,Ligue 1,7,Paris FC,Lorient,H,2.0,0.0,H,2.0,0.0
+France,Ligue 1,7,Metz,Marseille,A,0.0,3.0,D,0.0,0.0
+France,Ligue 1,7,Brest,Nantes,D,0.0,0.0,D,0.0,0.0
+France,Ligue 1,7,Auxerre,Lens,A,1.0,2.0,A,0.0,1.0
+France,Ligue 1,7,Lyon,Toulouse,A,1.0,2.0,H,1.0,0.0
+France,Ligue 1,7,Le Havre,Rennes,D,2.0,2.0,A,1.0,2.0
+France,Ligue 1,7,Monaco,Nice,D,2.0,2.0,A,1.0,2.0
+France,Ligue 1,7,Strasbourg,Angers,H,5.0,0.0,H,1.0,0.0
+France,Ligue 1,7,Lille,Paris SG,D,1.0,1.0,D,0.0,0.0
+France,Ligue 1,8,Paris SG,Strasbourg,D,3.0,3.0,A,1.0,2.0
+France,Ligue 1,8,Nice,Lyon,H,3.0,2.0,H,2.0,1.0
+France,Ligue 1,8,Angers,Monaco,D,1.0,1.0,D,0.0,0.0
+France,Ligue 1,8,Marseille,Le Havre,H,6.0,2.0,D,1.0,1.0
+France,Ligue 1,8,Lens,Paris FC,H,2.0,1.0,D,1.0,1.0
+France,Ligue 1,8,Lorient,Brest,D,3.0,3.0,A,1.0,2.0
+France,Ligue 1,8,Rennes,Auxerre,D,2.0,2.0,D,1.0,1.0
+France,Ligue 1,8,Toulouse,Metz,H,4.0,0.0,H,2.0,0.0
+France,Ligue 1,8,Nantes,Lille,A,0.0,2.0,A,0.0,1.0
+France,Ligue 1,9,Paris FC,Nantes,A,1.0,2.0,A,1.0,2.0
+France,Ligue 1,9,Brest,Paris SG,A,0.0,3.0,A,0.0,2.0
+France,Ligue 1,9,Monaco,Toulouse,H,1.0,0.0,H,1.0,0.0
+France,Ligue 1,9,Lens,Marseille,H,2.0,1.0,D,1.0,1.0
+France,Ligue 1,9,Lille,Metz,H,6.0,1.0,H,2.0,0.0
+France,Ligue 1,9,Angers,Lorient,H,2.0,0.0,H,1.0,0.0
+France,Ligue 1,9,Auxerre,Le Havre,A,0.0,1.0,D,0.0,0.0
+France,Ligue 1,9,Rennes,Nice,A,1.0,2.0,A,0.0,2.0
+France,Ligue 1,9,Lyon,Strasbourg,H,2.0,1.0,D,1.0,1.0
+France,Ligue 1,10,Le Havre,Brest,H,1.0,0.0,D,0.0,0.0
+France,Ligue 1,10,Lorient,Paris SG,D,1.0,1.0,D,0.0,0.0
+France,Ligue 1,10,Metz,Lens,H,2.0,0.0,D,0.0,0.0
+France,Ligue 1,10,Nice,Lille,H,2.0,0.0,H,1.0,0.0
+France,Ligue 1,10,Marseille,Angers,D,2.0,2.0,A,0.0,1.0
+France,Ligue 1,10,Nantes,Monaco,A,3.0,5.0,D,2.0,2.0
+France,Ligue 1,10,Paris FC,Lyon,D,3.0,3.0,A,0.0,1.0
+France,Ligue 1,10,Strasbourg,Auxerre,H,3.0,0.0,D,0.0,0.0
+France,Ligue 1,10,Toulouse,Rennes,D,2.0,2.0,D,0.0,0.0
+France,Ligue 1,11,Paris SG,Nice,H,1.0,0.0,D,0.0,0.0
+France,Ligue 1,11,Monaco,Paris FC,A,0.0,1.0,D,0.0,0.0
+France,Ligue 1,11,Auxerre,Marseille,A,0.0,1.0,A,0.0,1.0
+France,Ligue 1,11,Rennes,Strasbourg,H,4.0,1.0,H,2.0,0.0
+France,Ligue 1,11,Lens,Lorient,H,3.0,0.0,H,1.0,0.0
+France,Ligue 1,11,Lille,Angers,H,1.0,0.0,H,1.0,0.0
+France,Ligue 1,11,Nantes,Metz,A,0.0,2.0,D,0.0,0.0
+France,Ligue 1,11,Toulouse,Le Havre,D,0.0,0.0,D,0.0,0.0
+France,Ligue 1,11,Brest,Lyon,D,0.0,0.0,D,0.0,0.0
+France,Ligue 1,12,Paris FC,Rennes,A,0.0,1.0,D,0.0,0.0
+France,Ligue 1,12,Marseille,Brest,H,3.0,0.0,H,2.0,0.0
+France,Ligue 1,12,Le Havre,Nantes,D,1.0,1.0,A,0.0,1.0
+France,Ligue 1,12,Monaco,Lens,A,1.0,4.0,A,1.0,3.0
+France,Ligue 1,12,Lorient,Toulouse,D,1.0,1.0,H,1.0,0.0
+France,Ligue 1,12,Angers,Auxerre,H,2.0,0.0,D,0.0,0.0
+France,Ligue 1,12,Metz,Nice,H,2.0,1.0,A,0.0,1.0
+France,Ligue 1,12,Strasbourg,Lille,H,2.0,0.0,H,1.0,0.0
+France,Ligue 1,12,Lyon,Paris SG,A,2.0,3.0,A,1.0,2.0
+France,Ligue 1,13,Nice,Marseille,A,1.0,5.0,A,0.0,2.0
+France,Ligue 1,13,Lens,Strasbourg,H,1.0,0.0,D,0.0,0.0
+France,Ligue 1,13,Rennes,Monaco,H,4.0,1.0,H,1.0,0.0
+France,Ligue 1,13,Paris SG,Le Havre,H,3.0,0.0,H,1.0,0.0
+France,Ligue 1,13,Auxerre,Lyon,D,0.0,0.0,D,0.0,0.0
+France,Ligue 1,13,Brest,Metz,H,3.0,2.0,D,1.0,1.0
+France,Ligue 1,13,Nantes,Lorient,D,1.0,1.0,A,0.0,1.0
+France,Ligue 1,13,Toulouse,Angers,A,0.0,1.0,A,0.0,1.0
+France,Ligue 1,13,Lille,Paris FC,H,4.0,2.0,D,1.0,1.0
+France,Ligue 1,14,Metz,Rennes,A,0.0,1.0,A,0.0,1.0
+France,Ligue 1,14,Monaco,Paris SG,H,1.0,0.0,D,0.0,0.0
+France,Ligue 1,14,Paris FC,Auxerre,D,1.0,1.0,D,1.0,1.0
+France,Ligue 1,14,Marseille,Toulouse,D,2.0,2.0,A,0.0,1.0
+France,Ligue 1,14,Strasbourg,Brest,A,1.0,2.0,H,1.0,0.0
+France,Ligue 1,14,Angers,Lens,A,1.0,2.0,A,0.0,1.0
+France,Ligue 1,14,Le Havre,Lille,A,0.0,1.0,D,0.0,0.0
+France,Ligue 1,14,Lorient,Nice,H,3.0,1.0,H,2.0,1.0
+France,Ligue 1,14,Lyon,Nantes,H,3.0,0.0,D,0.0,0.0
+France,Ligue 1,15,Brest,Monaco,,,,,,
+France,Ligue 1,15,Lille,Marseille,,,,,,
+France,Ligue 1,15,Nantes,Lens,,,,,,
+France,Ligue 1,15,Toulouse,Strasbourg,,,,,,
+France,Ligue 1,15,Paris SG,Rennes,,,,,,
+France,Ligue 1,15,Nice,Angers,,,,,,
+France,Ligue 1,15,Auxerre,Metz,,,,,,
+France,Ligue 1,15,Le Havre,Paris FC,,,,,,
+France,Ligue 1,15,Lorient,Lyon,,,,,,
+France,Ligue 1,16,Angers,Nantes,,,,,,
+France,Ligue 1,16,Rennes,Brest,,,,,,
+France,Ligue 1,16,Metz,Paris SG,,,,,,
+France,Ligue 1,16,Paris FC,Toulouse,,,,,,
+France,Ligue 1,16,Lyon,Le Havre,,,,,,
+France,Ligue 1,16,Auxerre,Lille,,,,,,
+France,Ligue 1,16,Lens,Nice,,,,,,
+France,Ligue 1,16,Strasbourg,Lorient,,,,,,
+France,Ligue 1,16,Marseille,Monaco,,,,,,
+France,Ligue 1,17,Toulouse,Lens,,,,,,
+France,Ligue 1,17,Monaco,Lyon,,,,,,
+France,Ligue 1,17,Nice,Strasbourg,,,,,,
+France,Ligue 1,17,Lille,Rennes,,,,,,
+France,Ligue 1,17,Marseille,Nantes,,,,,,
+France,Ligue 1,17,Brest,Auxerre,,,,,,
+France,Ligue 1,17,Le Havre,Angers,,,,,,
+France,Ligue 1,17,Lorient,Metz,,,,,,
+France,Ligue 1,17,Paris SG,Paris FC,,,,,,
+France,Ligue 1,18,Monaco,Lorient,,,,,,
+France,Ligue 1,18,Paris SG,Lille,,,,,,
+France,Ligue 1,18,Lens,Auxerre,,,,,,
+France,Ligue 1,18,Toulouse,Nice,,,,,,
+France,Ligue 1,18,Angers,Marseille,,,,,,
+France,Ligue 1,18,Strasbourg,Metz,,,,,,
+France,Ligue 1,18,Nantes,Paris FC,,,,,,
+France,Ligue 1,18,Rennes,Le Havre,,,,,,
+France,Ligue 1,18,Lyon,Brest,,,,,,
+France,Ligue 1,19,Auxerre,Paris SG,,,,,,
+France,Ligue 1,19,Rennes,Lorient,,,,,,
+France,Ligue 1,19,Le Havre,Monaco,,,,,,
+France,Ligue 1,19,Marseille,Lens,,,,,,
+France,Ligue 1,19,Nantes,Nice,,,,,,
+France,Ligue 1,19,Brest,Toulouse,,,,,,
+France,Ligue 1,19,Metz,Lyon,,,,,,
+France,Ligue 1,19,Paris FC,Angers,,,,,,
+France,Ligue 1,19,Lille,Strasbourg,,,,,,
+France,Ligue 1,20,Lens,Le Havre,,,,,,
+France,Ligue 1,20,Paris FC,Marseille,,,,,,
+France,Ligue 1,20,Lorient,Nantes,,,,,,
+France,Ligue 1,20,Monaco,Rennes,,,,,,
+France,Ligue 1,20,Lyon,Lille,,,,,,
+France,Ligue 1,20,Angers,Metz,,,,,,
+France,Ligue 1,20,Nice,Brest,,,,,,
+France,Ligue 1,20,Toulouse,Auxerre,,,,,,
+France,Ligue 1,20,Strasbourg,Paris SG,,,,,,
+France,Ligue 1,21,Angers,Toulouse,,,,,,
+France,Ligue 1,21,Auxerre,Paris FC,,,,,,
+France,Ligue 1,21,Brest,Lorient,,,,,,
+France,Ligue 1,21,Le Havre,Strasbourg,,,,,,
+France,Ligue 1,21,Lens,Rennes,,,,,,
+France,Ligue 1,21,Metz,Lille,,,,,,
+France,Ligue 1,21,Nantes,Lyon,,,,,,
+France,Ligue 1,21,Nice,Monaco,,,,,,
+France,Ligue 1,21,Paris SG,Marseille,,,,,,
+France,Ligue 1,22,Le Havre,Toulouse,,,,,,
+France,Ligue 1,22,Lille,Brest,,,,,,
+France,Ligue 1,22,Lorient,Angers,,,,,,
+France,Ligue 1,22,Lyon,Nice,,,,,,
+France,Ligue 1,22,Marseille,Strasbourg,,,,,,
+France,Ligue 1,22,Metz,Auxerre,,,,,,
+France,Ligue 1,22,Monaco,Nantes,,,,,,
+France,Ligue 1,22,Paris FC,Lens,,,,,,
+France,Ligue 1,22,Rennes,Paris SG,,,,,,
+France,Ligue 1,23,Angers,Lille,,,,,,
+France,Ligue 1,23,Auxerre,Rennes,,,,,,
+France,Ligue 1,23,Brest,Marseille,,,,,,
+France,Ligue 1,23,Lens,Monaco,,,,,,
+France,Ligue 1,23,Nantes,Le Havre,,,,,,
+France,Ligue 1,23,Nice,Lorient,,,,,,
+France,Ligue 1,23,Paris SG,Metz,,,,,,
+France,Ligue 1,23,Strasbourg,Lyon,,,,,,
+France,Ligue 1,23,Toulouse,Paris FC,,,,,,
+France,Ligue 1,24,Le Havre,Paris SG,,,,,,
+France,Ligue 1,24,Lille,Nantes,,,,,,
+France,Ligue 1,24,Lorient,Auxerre,,,,,,
+France,Ligue 1,24,Marseille,Lyon,,,,,,
+France,Ligue 1,24,Metz,Brest,,,,,,
+France,Ligue 1,24,Monaco,Angers,,,,,,
+France,Ligue 1,24,Paris FC,Nice,,,,,,
+France,Ligue 1,24,Rennes,Toulouse,,,,,,
+France,Ligue 1,24,Strasbourg,Lens,,,,,,
+France,Ligue 1,25,Auxerre,Strasbourg,,,,,,
+France,Ligue 1,25,Brest,Le Havre,,,,,,
+France,Ligue 1,25,Lens,Metz,,,,,,
+France,Ligue 1,25,Lille,Lorient,,,,,,
+France,Ligue 1,25,Lyon,Paris FC,,,,,,
+France,Ligue 1,25,Nantes,Angers,,,,,,
+France,Ligue 1,25,Nice,Rennes,,,,,,
+France,Ligue 1,25,Paris SG,Monaco,,,,,,
+France,Ligue 1,25,Toulouse,Marseille,,,,,,
+France,Ligue 1,26,Angers,Nice,,,,,,
+France,Ligue 1,26,Le Havre,Lyon,,,,,,
+France,Ligue 1,26,Lorient,Lens,,,,,,
+France,Ligue 1,26,Marseille,Auxerre,,,,,,
+France,Ligue 1,26,Metz,Toulouse,,,,,,
+France,Ligue 1,26,Monaco,Brest,,,,,,
+France,Ligue 1,26,Paris SG,Nantes,,,,,,
+France,Ligue 1,26,Rennes,Lille,,,,,,
+France,Ligue 1,26,Strasbourg,Paris FC,,,,,,
+France,Ligue 1,27,Auxerre,Brest,,,,,,
+France,Ligue 1,27,Lens,Angers,,,,,,
+France,Ligue 1,27,Lyon,Monaco,,,,,,
+France,Ligue 1,27,Marseille,Lille,,,,,,
+France,Ligue 1,27,Nantes,Strasbourg,,,,,,
+France,Ligue 1,27,Nice,Paris SG,,,,,,
+France,Ligue 1,27,Paris FC,Le Havre,,,,,,
+France,Ligue 1,27,Rennes,Metz,,,,,,
+France,Ligue 1,27,Toulouse,Lorient,,,,,,
+France,Ligue 1,28,Angers,Lyon,,,,,,
+France,Ligue 1,28,Brest,Rennes,,,,,,
+France,Ligue 1,28,Le Havre,Auxerre,,,,,,
+France,Ligue 1,28,Lille,Lens,,,,,,
+France,Ligue 1,28,Lorient,Paris FC,,,,,,
+France,Ligue 1,28,Metz,Nantes,,,,,,
+France,Ligue 1,28,Monaco,Marseille,,,,,,
+France,Ligue 1,28,Paris SG,Toulouse,,,,,,
+France,Ligue 1,28,Strasbourg,Nice,,,,,,
+France,Ligue 1,29,Auxerre,Nantes,,,,,,
+France,Ligue 1,29,Brest,Strasbourg,,,,,,
+France,Ligue 1,29,Lens,Paris SG,,,,,,
+France,Ligue 1,29,Lyon,Lorient,,,,,,
+France,Ligue 1,29,Marseille,Metz,,,,,,
+France,Ligue 1,29,Nice,Le Havre,,,,,,
+France,Ligue 1,29,Paris FC,Monaco,,,,,,
+France,Ligue 1,29,Rennes,Angers,,,,,,
+France,Ligue 1,29,Toulouse,Lille,,,,,,
+France,Ligue 1,30,Angers,Le Havre,,,,,,
+France,Ligue 1,30,Lens,Toulouse,,,,,,
+France,Ligue 1,30,Lille,Nice,,,,,,
+France,Ligue 1,30,Lorient,Marseille,,,,,,
+France,Ligue 1,30,Metz,Paris FC,,,,,,
+France,Ligue 1,30,Monaco,Auxerre,,,,,,
+France,Ligue 1,30,Nantes,Brest,,,,,,
+France,Ligue 1,30,Paris SG,Lyon,,,,,,
+France,Ligue 1,30,Strasbourg,Rennes,,,,,,
+France,Ligue 1,31,Angers,Paris SG,,,,,,
+France,Ligue 1,31,Brest,Lens,,,,,,
+France,Ligue 1,31,Le Havre,Metz,,,,,,
+France,Ligue 1,31,Lorient,Strasbourg,,,,,,
+France,Ligue 1,31,Lyon,Auxerre,,,,,,
+France,Ligue 1,31,Marseille,Nice,,,,,,
+France,Ligue 1,31,Paris FC,Lille,,,,,,
+France,Ligue 1,31,Rennes,Nantes,,,,,,
+France,Ligue 1,31,Toulouse,Monaco,,,,,,
+France,Ligue 1,32,Auxerre,Angers,,,,,,
+France,Ligue 1,32,Lille,Le Havre,,,,,,
+France,Ligue 1,32,Lyon,Rennes,,,,,,
+France,Ligue 1,32,Metz,Monaco,,,,,,
+France,Ligue 1,32,Nantes,Marseille,,,,,,
+France,Ligue 1,32,Nice,Lens,,,,,,
+France,Ligue 1,32,Paris FC,Brest,,,,,,
+France,Ligue 1,32,Paris SG,Lorient,,,,,,
+France,Ligue 1,32,Strasbourg,Toulouse,,,,,,
+France,Ligue 1,33,Angers,Strasbourg,,,,,,
+France,Ligue 1,33,Auxerre,Nice,,,,,,
+France,Ligue 1,33,Le Havre,Marseille,,,,,,
+France,Ligue 1,33,Lens,Nantes,,,,,,
+France,Ligue 1,33,Metz,Lorient,,,,,,
+France,Ligue 1,33,Monaco,Lille,,,,,,
+France,Ligue 1,33,Paris SG,Brest,,,,,,
+France,Ligue 1,33,Rennes,Paris FC,,,,,,
+France,Ligue 1,33,Toulouse,Lyon,,,,,,
+France,Ligue 1,34,Brest,Angers,,,,,,
+France,Ligue 1,34,Lille,Auxerre,,,,,,
+France,Ligue 1,34,Lorient,Le Havre,,,,,,
+France,Ligue 1,34,Lyon,Lens,,,,,,
+France,Ligue 1,34,Marseille,Rennes,,,,,,
+France,Ligue 1,34,Nantes,Toulouse,,,,,,
+France,Ligue 1,34,Nice,Metz,,,,,,
+France,Ligue 1,34,Paris FC,Paris SG,,,,,,
+France,Ligue 1,34,Strasbourg,Monaco,,,,,,
+England,Premier League,1,Liverpool,Bournemouth,H,4.0,2.0,H,1.0,0.0
+England,Premier League,1,Aston Villa,Newcastle,D,0.0,0.0,D,0.0,0.0
+England,Premier League,1,Brighton,Fulham,D,1.0,1.0,D,0.0,0.0
+England,Premier League,1,Sunderland,West Ham,H,3.0,0.0,D,0.0,0.0
+England,Premier League,1,Tottenham,Burnley,H,3.0,0.0,H,1.0,0.0
+England,Premier League,1,Wolves,Man City,A,0.0,4.0,A,0.0,2.0
+England,Premier League,1,Nott'm Forest,Brentford,H,3.0,1.0,H,3.0,0.0
+England,Premier League,1,Chelsea,Crystal Palace,D,0.0,0.0,D,0.0,0.0
+England,Premier League,1,Man United,Arsenal,A,0.0,1.0,A,0.0,1.0
+England,Premier League,1,Leeds,Everton,H,1.0,0.0,D,0.0,0.0
+England,Premier League,2,West Ham,Chelsea,A,1.0,5.0,A,1.0,3.0
+England,Premier League,2,Man City,Tottenham,A,0.0,2.0,A,0.0,2.0
+England,Premier League,2,Bournemouth,Wolves,H,1.0,0.0,H,1.0,0.0
+England,Premier League,2,Brentford,Aston Villa,H,1.0,0.0,H,1.0,0.0
+England,Premier League,2,Burnley,Sunderland,H,2.0,0.0,D,0.0,0.0
+England,Premier League,2,Arsenal,Leeds,H,5.0,0.0,H,2.0,0.0
+England,Premier League,2,Crystal Palace,Nott'm Forest,D,1.0,1.0,H,1.0,0.0
+England,Premier League,2,Everton,Brighton,H,2.0,0.0,H,1.0,0.0
+England,Premier League,2,Fulham,Man United,D,1.0,1.0,D,0.0,0.0
+England,Premier League,2,Newcastle,Liverpool,A,2.0,3.0,A,0.0,1.0
+England,Premier League,3,Chelsea,Fulham,H,2.0,0.0,H,1.0,0.0
+England,Premier League,3,Man United,Burnley,H,3.0,2.0,H,1.0,0.0
+England,Premier League,3,Sunderland,Brentford,H,2.0,1.0,D,0.0,0.0
+England,Premier League,3,Tottenham,Bournemouth,A,0.0,1.0,A,0.0,1.0
+England,Premier League,3,Wolves,Everton,A,2.0,3.0,A,1.0,2.0
+England,Premier League,3,Leeds,Newcastle,D,0.0,0.0,D,0.0,0.0
+England,Premier League,3,Brighton,Man City,H,2.0,1.0,A,0.0,1.0
+England,Premier League,3,Nott'm Forest,West Ham,A,0.0,3.0,D,0.0,0.0
+England,Premier League,3,Liverpool,Arsenal,H,1.0,0.0,D,0.0,0.0
+England,Premier League,3,Aston Villa,Crystal Palace,A,0.0,3.0,A,0.0,1.0
+England,Premier League,4,Arsenal,Nott'm Forest,H,3.0,0.0,H,1.0,0.0
+England,Premier League,4,Bournemouth,Brighton,H,2.0,1.0,H,1.0,0.0
+England,Premier League,4,Crystal Palace,Sunderland,D,0.0,0.0,D,0.0,0.0
+England,Premier League,4,Everton,Aston Villa,D,0.0,0.0,D,0.0,0.0
+England,Premier League,4,Fulham,Leeds,H,1.0,0.0,D,0.0,0.0
+England,Premier League,4,Newcastle,Wolves,H,1.0,0.0,H,1.0,0.0
+England,Premier League,4,West Ham,Tottenham,A,0.0,3.0,D,0.0,0.0
+England,Premier League,4,Brentford,Chelsea,D,2.0,2.0,H,1.0,0.0
+England,Premier League,4,Burnley,Liverpool,A,0.0,1.0,D,0.0,0.0
+England,Premier League,4,Man City,Man United,H,3.0,0.0,H,1.0,0.0
+England,Premier League,5,Liverpool,Everton,H,2.0,1.0,H,2.0,0.0
+England,Premier League,5,Brighton,Tottenham,D,2.0,2.0,H,2.0,1.0
+England,Premier League,5,Burnley,Nott'm Forest,D,1.0,1.0,D,1.0,1.0
+England,Premier League,5,West Ham,Crystal Palace,A,1.0,2.0,A,0.0,1.0
+England,Premier League,5,Wolves,Leeds,A,1.0,3.0,A,1.0,3.0
+England,Premier League,5,Man United,Chelsea,H,2.0,1.0,H,2.0,0.0
+England,Premier League,5,Fulham,Brentford,H,3.0,1.0,H,2.0,1.0
+England,Premier League,5,Bournemouth,Newcastle,D,0.0,0.0,D,0.0,0.0
+England,Premier League,5,Sunderland,Aston Villa,D,1.0,1.0,D,0.0,0.0
+England,Premier League,5,Arsenal,Man City,D,1.0,1.0,A,0.0,1.0
+England,Premier League,6,Brentford,Man United,H,3.0,1.0,H,2.0,1.0
+England,Premier League,6,Chelsea,Brighton,A,1.0,3.0,H,1.0,0.0
+England,Premier League,6,Crystal Palace,Liverpool,H,2.0,1.0,H,1.0,0.0
+England,Premier League,6,Leeds,Bournemouth,D,2.0,2.0,D,1.0,1.0
+England,Premier League,6,Man City,Burnley,H,5.0,1.0,D,1.0,1.0
+England,Premier League,6,Nott'm Forest,Sunderland,A,0.0,1.0,A,0.0,1.0
+England,Premier League,6,Tottenham,Wolves,D,1.0,1.0,D,0.0,0.0
+England,Premier League,6,Aston Villa,Fulham,H,3.0,1.0,D,1.0,1.0
+England,Premier League,6,Newcastle,Arsenal,A,1.0,2.0,H,1.0,0.0
+England,Premier League,6,Everton,West Ham,D,1.0,1.0,H,1.0,0.0
+England,Premier League,7,Bournemouth,Fulham,H,3.0,1.0,D,0.0,0.0
+England,Premier League,7,Leeds,Tottenham,A,1.0,2.0,D,1.0,1.0
+England,Premier League,7,Arsenal,West Ham,H,2.0,0.0,H,1.0,0.0
+England,Premier League,7,Man United,Sunderland,H,2.0,0.0,H,2.0,0.0
+England,Premier League,7,Chelsea,Liverpool,H,2.0,1.0,H,1.0,0.0
+England,Premier League,7,Aston Villa,Burnley,H,2.0,1.0,H,1.0,0.0
+England,Premier League,7,Everton,Crystal Palace,H,2.0,1.0,A,0.0,1.0
+England,Premier League,7,Newcastle,Nott'm Forest,H,2.0,0.0,D,0.0,0.0
+England,Premier League,7,Wolves,Brighton,D,1.0,1.0,H,1.0,0.0
+England,Premier League,7,Brentford,Man City,A,0.0,1.0,A,0.0,1.0
+England,Premier League,8,Nott'm Forest,Chelsea,A,0.0,3.0,D,0.0,0.0
+England,Premier League,8,Brighton,Newcastle,H,2.0,1.0,H,1.0,0.0
+England,Premier League,8,Burnley,Leeds,H,2.0,0.0,H,1.0,0.0
+England,Premier League,8,Crystal Palace,Bournemouth,D,3.0,3.0,A,0.0,2.0
+England,Premier League,8,Man City,Everton,H,2.0,0.0,D,0.0,0.0
+England,Premier League,8,Sunderland,Wolves,H,2.0,0.0,H,1.0,0.0
+England,Premier League,8,Fulham,Arsenal,A,0.0,1.0,D,0.0,0.0
+England,Premier League,8,Tottenham,Aston Villa,A,1.0,2.0,D,1.0,1.0
+England,Premier League,8,Liverpool,Man United,A,1.0,2.0,A,0.0,1.0
+England,Premier League,8,West Ham,Brentford,A,0.0,2.0,A,0.0,1.0
+England,Premier League,9,Leeds,West Ham,H,2.0,1.0,H,2.0,0.0
+England,Premier League,9,Chelsea,Sunderland,A,1.0,2.0,D,1.0,1.0
+England,Premier League,9,Newcastle,Fulham,H,2.0,1.0,H,1.0,0.0
+England,Premier League,9,Man United,Brighton,H,4.0,2.0,H,2.0,0.0
+England,Premier League,9,Brentford,Liverpool,H,3.0,2.0,H,2.0,1.0
+England,Premier League,9,Arsenal,Crystal Palace,H,1.0,0.0,H,1.0,0.0
+England,Premier League,9,Aston Villa,Man City,H,1.0,0.0,H,1.0,0.0
+England,Premier League,9,Wolves,Burnley,A,2.0,3.0,D,2.0,2.0
+England,Premier League,9,Bournemouth,Nott'm Forest,H,2.0,0.0,H,2.0,0.0
+England,Premier League,9,Everton,Tottenham,A,0.0,3.0,A,0.0,2.0
+England,Premier League,10,Brighton,Leeds,H,3.0,0.0,H,1.0,0.0
+England,Premier League,10,Burnley,Arsenal,A,0.0,2.0,A,0.0,2.0
+England,Premier League,10,Crystal Palace,Brentford,H,2.0,0.0,H,1.0,0.0
+England,Premier League,10,Fulham,Wolves,H,3.0,0.0,H,1.0,0.0
+England,Premier League,10,Nott'm Forest,Man United,D,2.0,2.0,A,0.0,1.0
+England,Premier League,10,Tottenham,Chelsea,A,0.0,1.0,A,0.0,1.0
+England,Premier League,10,Liverpool,Aston Villa,H,2.0,0.0,H,1.0,0.0
+England,Premier League,10,West Ham,Newcastle,H,3.0,1.0,H,2.0,1.0
+England,Premier League,10,Man City,Bournemouth,H,3.0,1.0,H,2.0,1.0
+England,Premier League,10,Sunderland,Everton,D,1.0,1.0,A,0.0,1.0
+England,Premier League,11,Tottenham,Man United,D,2.0,2.0,A,0.0,1.0
+England,Premier League,11,Everton,Fulham,H,2.0,0.0,H,1.0,0.0
+England,Premier League,11,West Ham,Burnley,H,3.0,2.0,D,1.0,1.0
+England,Premier League,11,Sunderland,Arsenal,D,2.0,2.0,H,1.0,0.0
+England,Premier League,11,Chelsea,Wolves,H,3.0,0.0,D,0.0,0.0
+England,Premier League,11,Aston Villa,Bournemouth,H,4.0,0.0,H,2.0,0.0
+England,Premier League,11,Brentford,Newcastle,H,3.0,1.0,A,0.0,1.0
+England,Premier League,11,Crystal Palace,Brighton,D,0.0,0.0,D,0.0,0.0
+England,Premier League,11,Nott'm Forest,Leeds,H,3.0,1.0,D,1.0,1.0
+England,Premier League,11,Man City,Liverpool,H,3.0,0.0,H,2.0,0.0
+England,Premier League,12,Burnley,Chelsea,A,0.0,2.0,A,0.0,1.0
+England,Premier League,12,Bournemouth,West Ham,D,2.0,2.0,A,0.0,2.0
+England,Premier League,12,Brighton,Brentford,H,2.0,1.0,A,0.0,1.0
+England,Premier League,12,Fulham,Sunderland,H,1.0,0.0,D,0.0,0.0
+England,Premier League,12,Liverpool,Nott'm Forest,A,0.0,3.0,A,0.0,1.0
+England,Premier League,12,Wolves,Crystal Palace,A,0.0,2.0,D,0.0,0.0
+England,Premier League,12,Newcastle,Man City,H,2.0,1.0,D,0.0,0.0
+England,Premier League,12,Leeds,Aston Villa,A,1.0,2.0,H,1.0,0.0
+England,Premier League,12,Arsenal,Tottenham,H,4.0,1.0,H,2.0,0.0
+England,Premier League,12,Man United,Everton,A,0.0,1.0,A,0.0,1.0
+England,Premier League,13,Brentford,Burnley,H,3.0,1.0,D,0.0,0.0
+England,Premier League,13,Man City,Leeds,H,3.0,2.0,H,2.0,0.0
+England,Premier League,13,Sunderland,Bournemouth,H,3.0,2.0,A,1.0,2.0
+England,Premier League,13,Everton,Newcastle,A,1.0,4.0,A,0.0,3.0
+England,Premier League,13,Tottenham,Fulham,A,1.0,2.0,A,0.0,2.0
+England,Premier League,13,Crystal Palace,Man United,A,1.0,2.0,H,1.0,0.0
+England,Premier League,13,Aston Villa,Wolves,H,1.0,0.0,D,0.0,0.0
+England,Premier League,13,Nott'm Forest,Brighton,A,0.0,2.0,A,0.0,1.0
+England,Premier League,13,West Ham,Liverpool,A,0.0,2.0,D,0.0,0.0
+England,Premier League,13,Chelsea,Arsenal,D,1.0,1.0,D,0.0,0.0
+England,Premier League,14,Bournemouth,Everton,,,,,,
+England,Premier League,14,Fulham,Man City,,,,,,
+England,Premier League,14,Newcastle,Tottenham,,,,,,
+England,Premier League,14,Arsenal,Brentford,,,,,,
+England,Premier League,14,Brighton,Aston Villa,,,,,,
+England,Premier League,14,Burnley,Crystal Palace,,,,,,
+England,Premier League,14,Wolves,Nott'm Forest,,,,,,
+England,Premier League,14,Leeds,Chelsea,,,,,,
+England,Premier League,14,Liverpool,Sunderland,,,,,,
+England,Premier League,14,Man United,West Ham,,,,,,
+England,Premier League,15,Aston Villa,Arsenal,,,,,,
+England,Premier League,15,Bournemouth,Chelsea,,,,,,
+England,Premier League,15,Everton,Nott'm Forest,,,,,,
+England,Premier League,15,Man City,Sunderland,,,,,,
+England,Premier League,15,Newcastle,Burnley,,,,,,
+England,Premier League,15,Tottenham,Brentford,,,,,,
+England,Premier League,15,Leeds,Liverpool,,,,,,
+England,Premier League,15,Brighton,West Ham,,,,,,
+England,Premier League,15,Fulham,Crystal Palace,,,,,,
+England,Premier League,15,Wolves,Man United,,,,,,
+England,Premier League,16,Chelsea,Everton,,,,,,
+England,Premier League,16,Liverpool,Brighton,,,,,,
+England,Premier League,16,Burnley,Fulham,,,,,,
+England,Premier League,16,Arsenal,Wolves,,,,,,
+England,Premier League,16,Crystal Palace,Man City,,,,,,
+England,Premier League,16,Nott'm Forest,Tottenham,,,,,,
+England,Premier League,16,Sunderland,Newcastle,,,,,,
+England,Premier League,16,West Ham,Aston Villa,,,,,,
+England,Premier League,16,Brentford,Leeds,,,,,,
+England,Premier League,16,Man United,Bournemouth,,,,,,
+England,Premier League,17,Newcastle,Chelsea,,,,,,
+England,Premier League,17,Bournemouth,Burnley,,,,,,
+England,Premier League,17,Brighton,Sunderland,,,,,,
+England,Premier League,17,Man City,West Ham,,,,,,
+England,Premier League,17,Wolves,Brentford,,,,,,
+England,Premier League,17,Tottenham,Liverpool,,,,,,
+England,Premier League,17,Everton,Arsenal,,,,,,
+England,Premier League,17,Leeds,Crystal Palace,,,,,,
+England,Premier League,17,Aston Villa,Man United,,,,,,
+England,Premier League,17,Fulham,Nott'm Forest,,,,,,
+England,Premier League,18,Man United,Newcastle,,,,,,
+England,Premier League,18,Nott'm Forest,Man City,,,,,,
+England,Premier League,18,Arsenal,Brighton,,,,,,
+England,Premier League,18,Brentford,Bournemouth,,,,,,
+England,Premier League,18,Burnley,Everton,,,,,,
+England,Premier League,18,Liverpool,Wolves,,,,,,
+England,Premier League,18,West Ham,Fulham,,,,,,
+England,Premier League,18,Chelsea,Aston Villa,,,,,,
+England,Premier League,18,Sunderland,Leeds,,,,,,
+England,Premier League,18,Crystal Palace,Tottenham,,,,,,
+England,Premier League,19,Burnley,Newcastle,,,,,,
+England,Premier League,19,Chelsea,Bournemouth,,,,,,
+England,Premier League,19,Nott'm Forest,Everton,,,,,,
+England,Premier League,19,West Ham,Brighton,,,,,,
+England,Premier League,19,Arsenal,Aston Villa,,,,,,
+England,Premier League,19,Man United,Wolves,,,,,,
+England,Premier League,19,Crystal Palace,Fulham,,,,,,
+England,Premier League,19,Liverpool,Leeds,,,,,,
+England,Premier League,19,Brentford,Tottenham,,,,,,
+England,Premier League,19,Sunderland,Man City,,,,,,
+England,Premier League,20,Aston Villa,Nott'm Forest,,,,,,
+England,Premier League,20,Brighton,Burnley,,,,,,
+England,Premier League,20,Wolves,West Ham,,,,,,
+England,Premier League,20,Bournemouth,Arsenal,,,,,,
+England,Premier League,20,Leeds,Man United,,,,,,
+England,Premier League,20,Everton,Brentford,,,,,,
+England,Premier League,20,Fulham,Liverpool,,,,,,
+England,Premier League,20,Newcastle,Crystal Palace,,,,,,
+England,Premier League,20,Tottenham,Sunderland,,,,,,
+England,Premier League,20,Man City,Chelsea,,,,,,
+England,Premier League,21,West Ham,Nott'm Forest,,,,,,
+England,Premier League,21,Bournemouth,Tottenham,,,,,,
+England,Premier League,21,Brentford,Sunderland,,,,,,
+England,Premier League,21,Crystal Palace,Aston Villa,,,,,,
+England,Premier League,21,Everton,Wolves,,,,,,
+England,Premier League,21,Fulham,Chelsea,,,,,,
+England,Premier League,21,Man City,Brighton,,,,,,
+England,Premier League,21,Burnley,Man United,,,,,,
+England,Premier League,21,Newcastle,Leeds,,,,,,
+England,Premier League,21,Arsenal,Liverpool,,,,,,
+England,Premier League,22,Aston Villa,Everton,,,,,,
+England,Premier League,22,Brighton,Bournemouth,,,,,,
+England,Premier League,22,Chelsea,Brentford,,,,,,
+England,Premier League,22,Leeds,Fulham,,,,,,
+England,Premier League,22,Liverpool,Burnley,,,,,,
+England,Premier League,22,Man United,Man City,,,,,,
+England,Premier League,22,Nott'm Forest,Arsenal,,,,,,
+England,Premier League,22,Sunderland,Crystal Palace,,,,,,
+England,Premier League,22,Tottenham,West Ham,,,,,,
+England,Premier League,22,Wolves,Newcastle,,,,,,
+England,Premier League,23,Arsenal,Man United,,,,,,
+England,Premier League,23,Bournemouth,Liverpool,,,,,,
+England,Premier League,23,Brentford,Nott'm Forest,,,,,,
+England,Premier League,23,Burnley,Tottenham,,,,,,
+England,Premier League,23,Crystal Palace,Chelsea,,,,,,
+England,Premier League,23,Everton,Leeds,,,,,,
+England,Premier League,23,Fulham,Brighton,,,,,,
+England,Premier League,23,Man City,Wolves,,,,,,
+England,Premier League,23,Newcastle,Aston Villa,,,,,,
+England,Premier League,23,West Ham,Sunderland,,,,,,
+England,Premier League,24,Aston Villa,Brentford,,,,,,
+England,Premier League,24,Brighton,Everton,,,,,,
+England,Premier League,24,Chelsea,West Ham,,,,,,
+England,Premier League,24,Leeds,Arsenal,,,,,,
+England,Premier League,24,Liverpool,Newcastle,,,,,,
+England,Premier League,24,Man United,Fulham,,,,,,
+England,Premier League,24,Nott'm Forest,Crystal Palace,,,,,,
+England,Premier League,24,Sunderland,Burnley,,,,,,
+England,Premier League,24,Tottenham,Man City,,,,,,
+England,Premier League,24,Wolves,Bournemouth,,,,,,
+England,Premier League,25,Arsenal,Sunderland,,,,,,
+England,Premier League,25,Bournemouth,Aston Villa,,,,,,
+England,Premier League,25,Brighton,Crystal Palace,,,,,,
+England,Premier League,25,Burnley,West Ham,,,,,,
+England,Premier League,25,Fulham,Everton,,,,,,
+England,Premier League,25,Leeds,Nott'm Forest,,,,,,
+England,Premier League,25,Liverpool,Man City,,,,,,
+England,Premier League,25,Man United,Tottenham,,,,,,
+England,Premier League,25,Newcastle,Brentford,,,,,,
+England,Premier League,25,Wolves,Chelsea,,,,,,
+England,Premier League,26,Aston Villa,Brighton,,,,,,
+England,Premier League,26,Brentford,Arsenal,,,,,,
+England,Premier League,26,Chelsea,Leeds,,,,,,
+England,Premier League,26,Crystal Palace,Burnley,,,,,,
+England,Premier League,26,Everton,Bournemouth,,,,,,
+England,Premier League,26,Man City,Fulham,,,,,,
+England,Premier League,26,Nott'm Forest,Wolves,,,,,,
+England,Premier League,26,Sunderland,Liverpool,,,,,,
+England,Premier League,26,Tottenham,Newcastle,,,,,,
+England,Premier League,26,West Ham,Man United,,,,,,
+England,Premier League,27,Aston Villa,Leeds,,,,,,
+England,Premier League,27,Brentford,Brighton,,,,,,
+England,Premier League,27,Chelsea,Burnley,,,,,,
+England,Premier League,27,Crystal Palace,Wolves,,,,,,
+England,Premier League,27,Everton,Man United,,,,,,
+England,Premier League,27,Man City,Newcastle,,,,,,
+England,Premier League,27,Nott'm Forest,Liverpool,,,,,,
+England,Premier League,27,Sunderland,Fulham,,,,,,
+England,Premier League,27,Tottenham,Arsenal,,,,,,
+England,Premier League,27,West Ham,Bournemouth,,,,,,
+England,Premier League,28,Arsenal,Chelsea,,,,,,
+England,Premier League,28,Bournemouth,Sunderland,,,,,,
+England,Premier League,28,Brighton,Nott'm Forest,,,,,,
+England,Premier League,28,Burnley,Brentford,,,,,,
+England,Premier League,28,Fulham,Tottenham,,,,,,
+England,Premier League,28,Leeds,Man City,,,,,,
+England,Premier League,28,Liverpool,West Ham,,,,,,
+England,Premier League,28,Man United,Crystal Palace,,,,,,
+England,Premier League,28,Newcastle,Everton,,,,,,
+England,Premier League,28,Wolves,Aston Villa,,,,,,
+England,Premier League,29,Aston Villa,Chelsea,,,,,,
+England,Premier League,29,Bournemouth,Brentford,,,,,,
+England,Premier League,29,Brighton,Arsenal,,,,,,
+England,Premier League,29,Everton,Burnley,,,,,,
+England,Premier League,29,Fulham,West Ham,,,,,,
+England,Premier League,29,Leeds,Sunderland,,,,,,
+England,Premier League,29,Man City,Nott'm Forest,,,,,,
+England,Premier League,29,Newcastle,Man United,,,,,,
+England,Premier League,29,Tottenham,Crystal Palace,,,,,,
+England,Premier League,29,Wolves,Liverpool,,,,,,
+England,Premier League,30,Arsenal,Everton,,,,,,
+England,Premier League,30,Brentford,Wolves,,,,,,
+England,Premier League,30,Burnley,Bournemouth,,,,,,
+England,Premier League,30,Chelsea,Newcastle,,,,,,
+England,Premier League,30,Crystal Palace,Leeds,,,,,,
+England,Premier League,30,Liverpool,Tottenham,,,,,,
+England,Premier League,30,Man United,Aston Villa,,,,,,
+England,Premier League,30,Nott'm Forest,Fulham,,,,,,
+England,Premier League,30,Sunderland,Brighton,,,,,,
+England,Premier League,30,West Ham,Man City,,,,,,
+England,Premier League,31,Aston Villa,West Ham,,,,,,
+England,Premier League,31,Bournemouth,Man United,,,,,,
+England,Premier League,31,Brighton,Liverpool,,,,,,
+England,Premier League,31,Everton,Chelsea,,,,,,
+England,Premier League,31,Fulham,Burnley,,,,,,
+England,Premier League,31,Leeds,Brentford,,,,,,
+England,Premier League,31,Man City,Crystal Palace,,,,,,
+England,Premier League,31,Newcastle,Sunderland,,,,,,
+England,Premier League,31,Tottenham,Nott'm Forest,,,,,,
+England,Premier League,31,Wolves,Arsenal,,,,,,
+England,Premier League,32,Arsenal,Bournemouth,,,,,,
+England,Premier League,32,Brentford,Everton,,,,,,
+England,Premier League,32,Burnley,Brighton,,,,,,
+England,Premier League,32,Chelsea,Man City,,,,,,
+England,Premier League,32,Crystal Palace,Newcastle,,,,,,
+England,Premier League,32,Liverpool,Fulham,,,,,,
+England,Premier League,32,Man United,Leeds,,,,,,
+England,Premier League,32,Nott'm Forest,Aston Villa,,,,,,
+England,Premier League,32,Sunderland,Tottenham,,,,,,
+England,Premier League,32,West Ham,Wolves,,,,,,
+England,Premier League,33,Aston Villa,Sunderland,,,,,,
+England,Premier League,33,Brentford,Fulham,,,,,,
+England,Premier League,33,Chelsea,Man United,,,,,,
+England,Premier League,33,Crystal Palace,West Ham,,,,,,
+England,Premier League,33,Everton,Liverpool,,,,,,
+England,Premier League,33,Leeds,Wolves,,,,,,
+England,Premier League,33,Man City,Arsenal,,,,,,
+England,Premier League,33,Newcastle,Bournemouth,,,,,,
+England,Premier League,33,Nott'm Forest,Burnley,,,,,,
+England,Premier League,33,Tottenham,Brighton,,,,,,
+England,Premier League,34,Arsenal,Newcastle,,,,,,
+England,Premier League,34,Bournemouth,Leeds,,,,,,
+England,Premier League,34,Brighton,Chelsea,,,,,,
+England,Premier League,34,Burnley,Man City,,,,,,
+England,Premier League,34,Fulham,Aston Villa,,,,,,
+England,Premier League,34,Liverpool,Crystal Palace,,,,,,
+England,Premier League,34,Man United,Brentford,,,,,,
+England,Premier League,34,Sunderland,Nott'm Forest,,,,,,
+England,Premier League,34,West Ham,Everton,,,,,,
+England,Premier League,34,Wolves,Tottenham,,,,,,
+England,Premier League,35,Arsenal,Fulham,,,,,,
+England,Premier League,35,Aston Villa,Tottenham,,,,,,
+England,Premier League,35,Bournemouth,Crystal Palace,,,,,,
+England,Premier League,35,Brentford,West Ham,,,,,,
+England,Premier League,35,Chelsea,Nott'm Forest,,,,,,
+England,Premier League,35,Everton,Man City,,,,,,
+England,Premier League,35,Leeds,Burnley,,,,,,
+England,Premier League,35,Man United,Liverpool,,,,,,
+England,Premier League,35,Newcastle,Brighton,,,,,,
+England,Premier League,35,Wolves,Sunderland,,,,,,
+England,Premier League,36,Brighton,Wolves,,,,,,
+England,Premier League,36,Burnley,Aston Villa,,,,,,
+England,Premier League,36,Crystal Palace,Everton,,,,,,
+England,Premier League,36,Fulham,Bournemouth,,,,,,
+England,Premier League,36,Liverpool,Chelsea,,,,,,
+England,Premier League,36,Man City,Brentford,,,,,,
+England,Premier League,36,Nott'm Forest,Newcastle,,,,,,
+England,Premier League,36,Sunderland,Man United,,,,,,
+England,Premier League,36,Tottenham,Leeds,,,,,,
+England,Premier League,36,West Ham,Arsenal,,,,,,
+England,Premier League,37,Arsenal,Burnley,,,,,,
+England,Premier League,37,Aston Villa,Liverpool,,,,,,
+England,Premier League,37,Bournemouth,Man City,,,,,,
+England,Premier League,37,Brentford,Crystal Palace,,,,,,
+England,Premier League,37,Chelsea,Tottenham,,,,,,
+England,Premier League,37,Everton,Sunderland,,,,,,
+England,Premier League,37,Leeds,Brighton,,,,,,
+England,Premier League,37,Man United,Nott'm Forest,,,,,,
+England,Premier League,37,Newcastle,West Ham,,,,,,
+England,Premier League,37,Wolves,Fulham,,,,,,
+England,Premier League,38,Brighton,Man United,,,,,,
+England,Premier League,38,Burnley,Wolves,,,,,,
+England,Premier League,38,Crystal Palace,Arsenal,,,,,,
+England,Premier League,38,Fulham,Newcastle,,,,,,
+England,Premier League,38,Liverpool,Brentford,,,,,,
+England,Premier League,38,Man City,Aston Villa,,,,,,
+England,Premier League,38,Nott'm Forest,Bournemouth,,,,,,
+England,Premier League,38,Sunderland,Chelsea,,,,,,
+England,Premier League,38,Tottenham,Everton,,,,,,
+England,Premier League,38,West Ham,Leeds,,,,,,
+Italy,Serie A,1,Atalanta,Pisa,D,1.0,1.0,A,0.0,1.0
+Italy,Serie A,1,Cagliari,Fiorentina,D,1.0,1.0,D,0.0,0.0
+Italy,Serie A,1,Como,Lazio,H,2.0,0.0,D,0.0,0.0
+Italy,Serie A,1,Genoa,Lecce,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,1,Inter,Torino,H,5.0,0.0,H,2.0,0.0
+Italy,Serie A,1,Juventus,Parma,H,2.0,0.0,D,0.0,0.0
+Italy,Serie A,1,Milan,Cremonese,A,1.0,2.0,D,1.0,1.0
+Italy,Serie A,1,Roma,Bologna,H,1.0,0.0,D,0.0,0.0
+Italy,Serie A,1,Sassuolo,Napoli,A,0.0,2.0,A,0.0,1.0
+Italy,Serie A,1,Udinese,Verona,D,1.0,1.0,D,0.0,0.0
+Italy,Serie A,2,Bologna,Como,H,1.0,0.0,D,0.0,0.0
+Italy,Serie A,2,Cremonese,Sassuolo,H,3.0,2.0,H,2.0,0.0
+Italy,Serie A,2,Genoa,Juventus,A,0.0,1.0,D,0.0,0.0
+Italy,Serie A,2,Inter,Udinese,A,1.0,2.0,A,1.0,2.0
+Italy,Serie A,2,Lazio,Verona,H,4.0,0.0,H,3.0,0.0
+Italy,Serie A,2,Lecce,Milan,A,0.0,2.0,D,0.0,0.0
+Italy,Serie A,2,Napoli,Cagliari,H,1.0,0.0,D,0.0,0.0
+Italy,Serie A,2,Parma,Atalanta,D,1.0,1.0,D,0.0,0.0
+Italy,Serie A,2,Pisa,Roma,A,0.0,1.0,D,0.0,0.0
+Italy,Serie A,2,Torino,Fiorentina,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,3,Atalanta,Lecce,H,4.0,1.0,H,1.0,0.0
+Italy,Serie A,3,Cagliari,Parma,H,2.0,0.0,H,1.0,0.0
+Italy,Serie A,3,Como,Genoa,D,1.0,1.0,H,1.0,0.0
+Italy,Serie A,3,Fiorentina,Napoli,A,1.0,3.0,A,0.0,2.0
+Italy,Serie A,3,Juventus,Inter,H,4.0,3.0,H,2.0,1.0
+Italy,Serie A,3,Milan,Bologna,H,1.0,0.0,D,0.0,0.0
+Italy,Serie A,3,Pisa,Udinese,A,0.0,1.0,A,0.0,1.0
+Italy,Serie A,3,Roma,Torino,A,0.0,1.0,D,0.0,0.0
+Italy,Serie A,3,Sassuolo,Lazio,H,1.0,0.0,D,0.0,0.0
+Italy,Serie A,3,Verona,Cremonese,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,4,Bologna,Genoa,H,2.0,1.0,D,0.0,0.0
+Italy,Serie A,4,Cremonese,Parma,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,4,Fiorentina,Como,A,1.0,2.0,H,1.0,0.0
+Italy,Serie A,4,Inter,Sassuolo,H,2.0,1.0,H,1.0,0.0
+Italy,Serie A,4,Lazio,Roma,A,0.0,1.0,A,0.0,1.0
+Italy,Serie A,4,Lecce,Cagliari,A,1.0,2.0,D,1.0,1.0
+Italy,Serie A,4,Napoli,Pisa,H,3.0,2.0,H,1.0,0.0
+Italy,Serie A,4,Torino,Atalanta,A,0.0,3.0,A,0.0,3.0
+Italy,Serie A,4,Udinese,Milan,A,0.0,3.0,A,0.0,1.0
+Italy,Serie A,4,Verona,Juventus,D,1.0,1.0,D,1.0,1.0
+Italy,Serie A,5,Cagliari,Inter,A,0.0,2.0,A,0.0,1.0
+Italy,Serie A,5,Como,Cremonese,D,1.0,1.0,H,1.0,0.0
+Italy,Serie A,5,Genoa,Lazio,A,0.0,3.0,A,0.0,2.0
+Italy,Serie A,5,Juventus,Atalanta,D,1.0,1.0,A,0.0,1.0
+Italy,Serie A,5,Lecce,Bologna,D,2.0,2.0,D,1.0,1.0
+Italy,Serie A,5,Milan,Napoli,H,2.0,1.0,H,2.0,0.0
+Italy,Serie A,5,Parma,Torino,H,2.0,1.0,H,1.0,0.0
+Italy,Serie A,5,Pisa,Fiorentina,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,5,Roma,Verona,H,2.0,0.0,H,1.0,0.0
+Italy,Serie A,5,Sassuolo,Udinese,H,3.0,1.0,H,2.0,0.0
+Italy,Serie A,6,Atalanta,Como,D,1.0,1.0,D,1.0,1.0
+Italy,Serie A,6,Bologna,Pisa,H,4.0,0.0,H,3.0,0.0
+Italy,Serie A,6,Fiorentina,Roma,A,1.0,2.0,A,1.0,2.0
+Italy,Serie A,6,Inter,Cremonese,H,4.0,1.0,H,2.0,0.0
+Italy,Serie A,6,Juventus,Milan,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,6,Lazio,Torino,D,3.0,3.0,H,2.0,1.0
+Italy,Serie A,6,Napoli,Genoa,H,2.0,1.0,A,0.0,1.0
+Italy,Serie A,6,Parma,Lecce,A,0.0,1.0,A,0.0,1.0
+Italy,Serie A,6,Udinese,Cagliari,D,1.0,1.0,A,0.0,1.0
+Italy,Serie A,6,Verona,Sassuolo,A,0.0,1.0,D,0.0,0.0
+Italy,Serie A,7,Atalanta,Lazio,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,7,Cagliari,Bologna,A,0.0,2.0,A,0.0,1.0
+Italy,Serie A,7,Como,Juventus,H,2.0,0.0,H,1.0,0.0
+Italy,Serie A,7,Cremonese,Udinese,D,1.0,1.0,H,1.0,0.0
+Italy,Serie A,7,Genoa,Parma,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,7,Lecce,Sassuolo,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,7,Milan,Fiorentina,H,2.0,1.0,D,0.0,0.0
+Italy,Serie A,7,Pisa,Verona,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,7,Roma,Inter,A,0.0,1.0,A,0.0,1.0
+Italy,Serie A,7,Torino,Napoli,H,1.0,0.0,H,1.0,0.0
+Italy,Serie A,8,Cremonese,Atalanta,D,1.0,1.0,D,0.0,0.0
+Italy,Serie A,8,Fiorentina,Bologna,D,2.0,2.0,A,0.0,1.0
+Italy,Serie A,8,Lazio,Juventus,H,1.0,0.0,H,1.0,0.0
+Italy,Serie A,8,Milan,Pisa,D,2.0,2.0,H,1.0,0.0
+Italy,Serie A,8,Napoli,Inter,H,3.0,1.0,H,1.0,0.0
+Italy,Serie A,8,Parma,Como,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,8,Sassuolo,Roma,A,0.0,1.0,A,0.0,1.0
+Italy,Serie A,8,Torino,Genoa,H,2.0,1.0,A,0.0,1.0
+Italy,Serie A,8,Udinese,Lecce,H,3.0,2.0,H,2.0,0.0
+Italy,Serie A,8,Verona,Cagliari,D,2.0,2.0,H,1.0,0.0
+Italy,Serie A,9,Atalanta,Milan,D,1.0,1.0,D,1.0,1.0
+Italy,Serie A,9,Bologna,Torino,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,9,Cagliari,Sassuolo,A,1.0,2.0,D,0.0,0.0
+Italy,Serie A,9,Como,Verona,H,3.0,1.0,D,1.0,1.0
+Italy,Serie A,9,Genoa,Cremonese,A,0.0,2.0,A,0.0,1.0
+Italy,Serie A,9,Inter,Fiorentina,H,3.0,0.0,D,0.0,0.0
+Italy,Serie A,9,Juventus,Udinese,H,3.0,1.0,D,1.0,1.0
+Italy,Serie A,9,Lecce,Napoli,A,0.0,1.0,D,0.0,0.0
+Italy,Serie A,9,Pisa,Lazio,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,9,Roma,Parma,H,2.0,1.0,D,0.0,0.0
+Italy,Serie A,10,Cremonese,Juventus,A,1.0,2.0,A,0.0,1.0
+Italy,Serie A,10,Fiorentina,Lecce,A,0.0,1.0,A,0.0,1.0
+Italy,Serie A,10,Lazio,Cagliari,H,2.0,0.0,D,0.0,0.0
+Italy,Serie A,10,Milan,Roma,H,1.0,0.0,H,1.0,0.0
+Italy,Serie A,10,Napoli,Como,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,10,Parma,Bologna,A,1.0,3.0,D,1.0,1.0
+Italy,Serie A,10,Sassuolo,Genoa,A,1.0,2.0,A,0.0,1.0
+Italy,Serie A,10,Torino,Pisa,D,2.0,2.0,D,2.0,2.0
+Italy,Serie A,10,Udinese,Atalanta,H,1.0,0.0,H,1.0,0.0
+Italy,Serie A,10,Verona,Inter,A,1.0,2.0,D,1.0,1.0
+Italy,Serie A,11,Atalanta,Sassuolo,A,0.0,3.0,A,0.0,1.0
+Italy,Serie A,11,Bologna,Napoli,H,2.0,0.0,D,0.0,0.0
+Italy,Serie A,11,Como,Cagliari,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,11,Genoa,Fiorentina,D,2.0,2.0,D,1.0,1.0
+Italy,Serie A,11,Inter,Lazio,H,2.0,0.0,H,1.0,0.0
+Italy,Serie A,11,Juventus,Torino,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,11,Lecce,Verona,D,0.0,0.0,D,0.0,0.0
+Italy,Serie A,11,Parma,Milan,D,2.0,2.0,A,1.0,2.0
+Italy,Serie A,11,Pisa,Cremonese,H,1.0,0.0,D,0.0,0.0
+Italy,Serie A,11,Roma,Udinese,H,2.0,0.0,H,1.0,0.0
+Italy,Serie A,12,Cagliari,Genoa,D,3.0,3.0,D,2.0,2.0
+Italy,Serie A,12,Cremonese,Roma,A,1.0,3.0,A,0.0,1.0
+Italy,Serie A,12,Fiorentina,Juventus,D,1.0,1.0,A,0.0,1.0
+Italy,Serie A,12,Inter,Milan,A,0.0,1.0,D,0.0,0.0
+Italy,Serie A,12,Lazio,Lecce,H,2.0,0.0,H,1.0,0.0
+Italy,Serie A,12,Napoli,Atalanta,H,3.0,1.0,H,3.0,0.0
+Italy,Serie A,12,Sassuolo,Pisa,D,2.0,2.0,D,1.0,1.0
+Italy,Serie A,12,Torino,Como,A,1.0,5.0,D,1.0,1.0
+Italy,Serie A,12,Udinese,Bologna,A,0.0,3.0,D,0.0,0.0
+Italy,Serie A,12,Verona,Parma,A,1.0,2.0,A,0.0,1.0
+Italy,Serie A,13,Atalanta,Fiorentina,H,2.0,0.0,H,1.0,0.0
+Italy,Serie A,13,Bologna,Cremonese,A,1.0,3.0,A,1.0,2.0
+Italy,Serie A,13,Como,Sassuolo,H,2.0,0.0,H,1.0,0.0
+Italy,Serie A,13,Genoa,Verona,H,2.0,1.0,D,1.0,1.0
+Italy,Serie A,13,Juventus,Cagliari,H,2.0,1.0,H,2.0,1.0
+Italy,Serie A,13,Lecce,Torino,H,2.0,1.0,H,2.0,0.0
+Italy,Serie A,13,Milan,Lazio,H,1.0,0.0,D,0.0,0.0
+Italy,Serie A,13,Parma,Udinese,A,0.0,2.0,A,0.0,1.0
+Italy,Serie A,13,Pisa,Inter,A,0.0,2.0,D,0.0,0.0
+Italy,Serie A,13,Roma,Napoli,A,0.0,1.0,A,0.0,1.0
+Italy,Serie A,14,Cagliari,Roma,,,,,,
+Italy,Serie A,14,Cremonese,Lecce,,,,,,
+Italy,Serie A,14,Inter,Como,,,,,,
+Italy,Serie A,14,Lazio,Bologna,,,,,,
+Italy,Serie A,14,Napoli,Juventus,,,,,,
+Italy,Serie A,14,Pisa,Parma,,,,,,
+Italy,Serie A,14,Sassuolo,Fiorentina,,,,,,
+Italy,Serie A,14,Torino,Milan,,,,,,
+Italy,Serie A,14,Udinese,Genoa,,,,,,
+Italy,Serie A,14,Verona,Atalanta,,,,,,
+Italy,Serie A,15,Atalanta,Cagliari,,,,,,
+Italy,Serie A,15,Bologna,Juventus,,,,,,
+Italy,Serie A,15,Fiorentina,Verona,,,,,,
+Italy,Serie A,15,Genoa,Inter,,,,,,
+Italy,Serie A,15,Lecce,Pisa,,,,,,
+Italy,Serie A,15,Milan,Sassuolo,,,,,,
+Italy,Serie A,15,Parma,Lazio,,,,,,
+Italy,Serie A,15,Roma,Como,,,,,,
+Italy,Serie A,15,Torino,Cremonese,,,,,,
+Italy,Serie A,15,Udinese,Napoli,,,,,,
+Italy,Serie A,16,Cagliari,Pisa,,,,,,
+Italy,Serie A,16,Como,Milan,,,,,,
+Italy,Serie A,16,Fiorentina,Udinese,,,,,,
+Italy,Serie A,16,Genoa,Atalanta,,,,,,
+Italy,Serie A,16,Inter,Lecce,,,,,,
+Italy,Serie A,16,Juventus,Roma,,,,,,
+Italy,Serie A,16,Lazio,Cremonese,,,,,,
+Italy,Serie A,16,Napoli,Parma,,,,,,
+Italy,Serie A,16,Sassuolo,Torino,,,,,,
+Italy,Serie A,16,Verona,Bologna,,,,,,
+Italy,Serie A,17,Atalanta,Inter,,,,,,
+Italy,Serie A,17,Bologna,Sassuolo,,,,,,
+Italy,Serie A,17,Cremonese,Napoli,,,,,,
+Italy,Serie A,17,Lecce,Como,,,,,,
+Italy,Serie A,17,Milan,Verona,,,,,,
+Italy,Serie A,17,Parma,Fiorentina,,,,,,
+Italy,Serie A,17,Pisa,Juventus,,,,,,
+Italy,Serie A,17,Roma,Genoa,,,,,,
+Italy,Serie A,17,Torino,Cagliari,,,,,,
+Italy,Serie A,17,Udinese,Lazio,,,,,,
+Italy,Serie A,18,Atalanta,Roma,,,,,,
+Italy,Serie A,18,Cagliari,Milan,,,,,,
+Italy,Serie A,18,Como,Udinese,,,,,,
+Italy,Serie A,18,Fiorentina,Cremonese,,,,,,
+Italy,Serie A,18,Genoa,Pisa,,,,,,
+Italy,Serie A,18,Inter,Bologna,,,,,,
+Italy,Serie A,18,Juventus,Lecce,,,,,,
+Italy,Serie A,18,Lazio,Napoli,,,,,,
+Italy,Serie A,18,Sassuolo,Parma,,,,,,
+Italy,Serie A,18,Verona,Torino,,,,,,
+Italy,Serie A,19,Bologna,Atalanta,,,,,,
+Italy,Serie A,19,Cremonese,Cagliari,,,,,,
+Italy,Serie A,19,Lazio,Fiorentina,,,,,,
+Italy,Serie A,19,Lecce,Roma,,,,,,
+Italy,Serie A,19,Milan,Genoa,,,,,,
+Italy,Serie A,19,Napoli,Verona,,,,,,
+Italy,Serie A,19,Parma,Inter,,,,,,
+Italy,Serie A,19,Pisa,Como,,,,,,
+Italy,Serie A,19,Sassuolo,Juventus,,,,,,
+Italy,Serie A,19,Torino,Udinese,,,,,,
+Italy,Serie A,20,Atalanta,Torino,,,,,,
+Italy,Serie A,20,Como,Bologna,,,,,,
+Italy,Serie A,20,Fiorentina,Milan,,,,,,
+Italy,Serie A,20,Genoa,Cagliari,,,,,,
+Italy,Serie A,20,Inter,Napoli,,,,,,
+Italy,Serie A,20,Juventus,Cremonese,,,,,,
+Italy,Serie A,20,Lecce,Parma,,,,,,
+Italy,Serie A,20,Roma,Sassuolo,,,,,,
+Italy,Serie A,20,Udinese,Pisa,,,,,,
+Italy,Serie A,20,Verona,Lazio,,,,,,
+Italy,Serie A,21,Bologna,Fiorentina,,,,,,
+Italy,Serie A,21,Cagliari,Juventus,,,,,,
+Italy,Serie A,21,Cremonese,Verona,,,,,,
+Italy,Serie A,21,Lazio,Como,,,,,,
+Italy,Serie A,21,Milan,Lecce,,,,,,
+Italy,Serie A,21,Napoli,Sassuolo,,,,,,
+Italy,Serie A,21,Parma,Genoa,,,,,,
+Italy,Serie A,21,Pisa,Atalanta,,,,,,
+Italy,Serie A,21,Torino,Roma,,,,,,
+Italy,Serie A,21,Udinese,Inter,,,,,,
+Italy,Serie A,22,Atalanta,Parma,,,,,,
+Italy,Serie A,22,Como,Torino,,,,,,
+Italy,Serie A,22,Fiorentina,Cagliari,,,,,,
+Italy,Serie A,22,Genoa,Bologna,,,,,,
+Italy,Serie A,22,Inter,Pisa,,,,,,
+Italy,Serie A,22,Juventus,Napoli,,,,,,
+Italy,Serie A,22,Lecce,Lazio,,,,,,
+Italy,Serie A,22,Roma,Milan,,,,,,
+Italy,Serie A,22,Sassuolo,Cremonese,,,,,,
+Italy,Serie A,22,Verona,Udinese,,,,,,
+Italy,Serie A,23,Bologna,Milan,,,,,,
+Italy,Serie A,23,Cagliari,Verona,,,,,,
+Italy,Serie A,23,Como,Atalanta,,,,,,
+Italy,Serie A,23,Cremonese,Inter,,,,,,
+Italy,Serie A,23,Lazio,Genoa,,,,,,
+Italy,Serie A,23,Napoli,Fiorentina,,,,,,
+Italy,Serie A,23,Parma,Juventus,,,,,,
+Italy,Serie A,23,Pisa,Sassuolo,,,,,,
+Italy,Serie A,23,Torino,Lecce,,,,,,
+Italy,Serie A,23,Udinese,Roma,,,,,,
+Italy,Serie A,24,Atalanta,Cremonese,,,,,,
+Italy,Serie A,24,Bologna,Parma,,,,,,
+Italy,Serie A,24,Fiorentina,Torino,,,,,,
+Italy,Serie A,24,Genoa,Napoli,,,,,,
+Italy,Serie A,24,Juventus,Lazio,,,,,,
+Italy,Serie A,24,Lecce,Udinese,,,,,,
+Italy,Serie A,24,Milan,Como,,,,,,
+Italy,Serie A,24,Roma,Cagliari,,,,,,
+Italy,Serie A,24,Sassuolo,Inter,,,,,,
+Italy,Serie A,24,Verona,Pisa,,,,,,
+Italy,Serie A,25,Cagliari,Lecce,,,,,,
+Italy,Serie A,25,Como,Fiorentina,,,,,,
+Italy,Serie A,25,Cremonese,Genoa,,,,,,
+Italy,Serie A,25,Inter,Juventus,,,,,,
+Italy,Serie A,25,Lazio,Atalanta,,,,,,
+Italy,Serie A,25,Napoli,Roma,,,,,,
+Italy,Serie A,25,Parma,Verona,,,,,,
+Italy,Serie A,25,Pisa,Milan,,,,,,
+Italy,Serie A,25,Torino,Bologna,,,,,,
+Italy,Serie A,25,Udinese,Sassuolo,,,,,,
+Italy,Serie A,26,Atalanta,Napoli,,,,,,
+Italy,Serie A,26,Bologna,Udinese,,,,,,
+Italy,Serie A,26,Cagliari,Lazio,,,,,,
+Italy,Serie A,26,Fiorentina,Pisa,,,,,,
+Italy,Serie A,26,Genoa,Torino,,,,,,
+Italy,Serie A,26,Juventus,Como,,,,,,
+Italy,Serie A,26,Lecce,Inter,,,,,,
+Italy,Serie A,26,Milan,Parma,,,,,,
+Italy,Serie A,26,Roma,Cremonese,,,,,,
+Italy,Serie A,26,Sassuolo,Verona,,,,,,
+Italy,Serie A,27,Como,Lecce,,,,,,
+Italy,Serie A,27,Cremonese,Milan,,,,,,
+Italy,Serie A,27,Inter,Genoa,,,,,,
+Italy,Serie A,27,Parma,Cagliari,,,,,,
+Italy,Serie A,27,Pisa,Bologna,,,,,,
+Italy,Serie A,27,Roma,Juventus,,,,,,
+Italy,Serie A,27,Sassuolo,Atalanta,,,,,,
+Italy,Serie A,27,Torino,Lazio,,,,,,
+Italy,Serie A,27,Udinese,Fiorentina,,,,,,
+Italy,Serie A,27,Verona,Napoli,,,,,,
+Italy,Serie A,28,Atalanta,Udinese,,,,,,
+Italy,Serie A,28,Bologna,Verona,,,,,,
+Italy,Serie A,28,Cagliari,Como,,,,,,
+Italy,Serie A,28,Fiorentina,Parma,,,,,,
+Italy,Serie A,28,Genoa,Roma,,,,,,
+Italy,Serie A,28,Juventus,Pisa,,,,,,
+Italy,Serie A,28,Lazio,Sassuolo,,,,,,
+Italy,Serie A,28,Lecce,Cremonese,,,,,,
+Italy,Serie A,28,Milan,Inter,,,,,,
+Italy,Serie A,28,Napoli,Torino,,,,,,
+Italy,Serie A,29,Como,Roma,,,,,,
+Italy,Serie A,29,Cremonese,Fiorentina,,,,,,
+Italy,Serie A,29,Inter,Atalanta,,,,,,
+Italy,Serie A,29,Lazio,Milan,,,,,,
+Italy,Serie A,29,Napoli,Lecce,,,,,,
+Italy,Serie A,29,Pisa,Cagliari,,,,,,
+Italy,Serie A,29,Sassuolo,Bologna,,,,,,
+Italy,Serie A,29,Torino,Parma,,,,,,
+Italy,Serie A,29,Udinese,Juventus,,,,,,
+Italy,Serie A,29,Verona,Genoa,,,,,,
+Italy,Serie A,30,Atalanta,Verona,,,,,,
+Italy,Serie A,30,Bologna,Lazio,,,,,,
+Italy,Serie A,30,Cagliari,Napoli,,,,,,
+Italy,Serie A,30,Como,Pisa,,,,,,
+Italy,Serie A,30,Fiorentina,Inter,,,,,,
+Italy,Serie A,30,Genoa,Udinese,,,,,,
+Italy,Serie A,30,Juventus,Sassuolo,,,,,,
+Italy,Serie A,30,Milan,Torino,,,,,,
+Italy,Serie A,30,Parma,Cremonese,,,,,,
+Italy,Serie A,30,Roma,Lecce,,,,,,
+Italy,Serie A,31,Cremonese,Bologna,,,,,,
+Italy,Serie A,31,Inter,Roma,,,,,,
+Italy,Serie A,31,Juventus,Genoa,,,,,,
+Italy,Serie A,31,Lazio,Parma,,,,,,
+Italy,Serie A,31,Lecce,Atalanta,,,,,,
+Italy,Serie A,31,Napoli,Milan,,,,,,
+Italy,Serie A,31,Pisa,Torino,,,,,,
+Italy,Serie A,31,Sassuolo,Cagliari,,,,,,
+Italy,Serie A,31,Udinese,Como,,,,,,
+Italy,Serie A,31,Verona,Fiorentina,,,,,,
+Italy,Serie A,32,Atalanta,Juventus,,,,,,
+Italy,Serie A,32,Bologna,Lecce,,,,,,
+Italy,Serie A,32,Cagliari,Cremonese,,,,,,
+Italy,Serie A,32,Como,Inter,,,,,,
+Italy,Serie A,32,Fiorentina,Lazio,,,,,,
+Italy,Serie A,32,Genoa,Sassuolo,,,,,,
+Italy,Serie A,32,Milan,Udinese,,,,,,
+Italy,Serie A,32,Parma,Napoli,,,,,,
+Italy,Serie A,32,Roma,Pisa,,,,,,
+Italy,Serie A,32,Torino,Verona,,,,,,
+Italy,Serie A,33,Cremonese,Torino,,,,,,
+Italy,Serie A,33,Inter,Cagliari,,,,,,
+Italy,Serie A,33,Juventus,Bologna,,,,,,
+Italy,Serie A,33,Lecce,Fiorentina,,,,,,
+Italy,Serie A,33,Napoli,Lazio,,,,,,
+Italy,Serie A,33,Pisa,Genoa,,,,,,
+Italy,Serie A,33,Roma,Atalanta,,,,,,
+Italy,Serie A,33,Sassuolo,Como,,,,,,
+Italy,Serie A,33,Udinese,Parma,,,,,,
+Italy,Serie A,33,Verona,Milan,,,,,,
+Italy,Serie A,34,Bologna,Roma,,,,,,
+Italy,Serie A,34,Cagliari,Atalanta,,,,,,
+Italy,Serie A,34,Fiorentina,Sassuolo,,,,,,
+Italy,Serie A,34,Genoa,Como,,,,,,
+Italy,Serie A,34,Lazio,Udinese,,,,,,
+Italy,Serie A,34,Milan,Juventus,,,,,,
+Italy,Serie A,34,Napoli,Cremonese,,,,,,
+Italy,Serie A,34,Parma,Pisa,,,,,,
+Italy,Serie A,34,Torino,Inter,,,,,,
+Italy,Serie A,34,Verona,Lecce,,,,,,
+Italy,Serie A,35,Atalanta,Genoa,,,,,,
+Italy,Serie A,35,Bologna,Cagliari,,,,,,
+Italy,Serie A,35,Como,Napoli,,,,,,
+Italy,Serie A,35,Cremonese,Lazio,,,,,,
+Italy,Serie A,35,Inter,Parma,,,,,,
+Italy,Serie A,35,Juventus,Verona,,,,,,
+Italy,Serie A,35,Pisa,Lecce,,,,,,
+Italy,Serie A,35,Roma,Fiorentina,,,,,,
+Italy,Serie A,35,Sassuolo,Milan,,,,,,
+Italy,Serie A,35,Udinese,Torino,,,,,,
+Italy,Serie A,36,Cagliari,Udinese,,,,,,
+Italy,Serie A,36,Cremonese,Pisa,,,,,,
+Italy,Serie A,36,Fiorentina,Genoa,,,,,,
+Italy,Serie A,36,Lazio,Inter,,,,,,
+Italy,Serie A,36,Lecce,Juventus,,,,,,
+Italy,Serie A,36,Milan,Atalanta,,,,,,
+Italy,Serie A,36,Napoli,Bologna,,,,,,
+Italy,Serie A,36,Parma,Roma,,,,,,
+Italy,Serie A,36,Torino,Sassuolo,,,,,,
+Italy,Serie A,36,Verona,Como,,,,,,
+Italy,Serie A,37,Atalanta,Bologna,,,,,,
+Italy,Serie A,37,Cagliari,Torino,,,,,,
+Italy,Serie A,37,Como,Parma,,,,,,
+Italy,Serie A,37,Genoa,Milan,,,,,,
+Italy,Serie A,37,Inter,Verona,,,,,,
+Italy,Serie A,37,Juventus,Fiorentina,,,,,,
+Italy,Serie A,37,Pisa,Napoli,,,,,,
+Italy,Serie A,37,Roma,Lazio,,,,,,
+Italy,Serie A,37,Sassuolo,Lecce,,,,,,
+Italy,Serie A,37,Udinese,Cremonese,,,,,,
+Italy,Serie A,38,Bologna,Inter,,,,,,
+Italy,Serie A,38,Cremonese,Como,,,,,,
+Italy,Serie A,38,Fiorentina,Atalanta,,,,,,
+Italy,Serie A,38,Lazio,Pisa,,,,,,
+Italy,Serie A,38,Lecce,Genoa,,,,,,
+Italy,Serie A,38,Milan,Cagliari,,,,,,
+Italy,Serie A,38,Napoli,Udinese,,,,,,
+Italy,Serie A,38,Parma,Sassuolo,,,,,,
+Italy,Serie A,38,Torino,Juventus,,,,,,
+Italy,Serie A,38,Verona,Roma,,,,,,
+Italy,Serie B,1,Sampdoria,Modena,A,0.0,2.0,D,0.0,0.0
+Italy,Serie B,1,Catanzaro,Sudtirol,D,1.0,1.0,A,0.0,1.0
+Italy,Serie B,1,Frosinone,Avellino,H,2.0,0.0,H,2.0,0.0
+Italy,Serie B,1,Spezia,Carrarese,A,0.0,2.0,A,0.0,1.0
+Italy,Serie B,1,Venezia,Bari,H,2.0,1.0,H,2.0,1.0
+Italy,Serie B,1,Monza,Mantova,H,1.0,0.0,D,0.0,0.0
+Italy,Serie B,1,Palermo,Reggiana,H,2.0,1.0,H,1.0,0.0
+Italy,Serie B,1,Empoli,Padova,H,3.0,1.0,H,2.0,1.0
+Italy,Serie B,1,Virtus Entella,Juve Stabia,D,1.0,1.0,D,0.0,0.0
+Italy,Serie B,1,Pescara,Cesena,A,1.0,3.0,D,1.0,1.0
+Italy,Serie B,2,Bari,Monza,D,1.0,1.0,D,1.0,1.0
+Italy,Serie B,2,Modena,Avellino,D,1.0,1.0,D,0.0,0.0
+Italy,Serie B,2,Carrarese,Padova,D,0.0,0.0,D,0.0,0.0
+Italy,Serie B,2,Sudtirol,Sampdoria,H,3.0,1.0,H,3.0,0.0
+Italy,Serie B,2,Cesena,Virtus Entella,D,1.0,1.0,D,0.0,0.0
+Italy,Serie B,2,Palermo,Frosinone,D,0.0,0.0,D,0.0,0.0
+Italy,Serie B,2,Spezia,Catanzaro,D,0.0,0.0,D,0.0,0.0
+Italy,Serie B,2,Juve Stabia,Venezia,D,0.0,0.0,D,0.0,0.0
+Italy,Serie B,2,Mantova,Pescara,H,2.0,1.0,H,1.0,0.0
+Italy,Serie B,2,Reggiana,Empoli,H,3.0,1.0,D,1.0,1.0
+Italy,Serie B,3,Empoli,Spezia,D,1.0,1.0,A,0.0,1.0
+Italy,Serie B,3,Sudtirol,Palermo,A,0.0,2.0,A,0.0,1.0
+Italy,Serie B,3,Virtus Entella,Mantova,H,1.0,0.0,H,1.0,0.0
+Italy,Serie B,3,Sampdoria,Cesena,A,1.0,2.0,A,0.0,1.0
+Italy,Serie B,3,Catanzaro,Carrarese,D,1.0,1.0,D,0.0,0.0
+Italy,Serie B,3,Juve Stabia,Reggiana,D,0.0,0.0,D,0.0,0.0
+Italy,Serie B,3,Modena,Bari,H,3.0,0.0,H,1.0,0.0
+Italy,Serie B,3,Padova,Frosinone,A,0.0,1.0,A,0.0,1.0
+Italy,Serie B,3,Pescara,Venezia,D,2.0,2.0,A,0.0,1.0
+Italy,Serie B,3,Avellino,Monza,H,2.0,1.0,H,1.0,0.0
+Italy,Serie B,4,Padova,Virtus Entella,H,2.0,1.0,A,0.0,1.0
+Italy,Serie B,4,Pescara,Empoli,H,4.0,0.0,D,0.0,0.0
+Italy,Serie B,4,Carrarese,Avellino,A,3.0,4.0,D,2.0,2.0
+Italy,Serie B,4,Mantova,Modena,A,1.0,3.0,A,1.0,2.0
+Italy,Serie B,4,Monza,Sampdoria,H,1.0,0.0,D,0.0,0.0
+Italy,Serie B,4,Reggiana,Catanzaro,D,2.0,2.0,D,1.0,1.0
+Italy,Serie B,4,Spezia,Juve Stabia,A,1.0,3.0,A,0.0,2.0
+Italy,Serie B,4,Venezia,Cesena,A,1.0,2.0,D,0.0,0.0
+Italy,Serie B,4,Palermo,Bari,H,2.0,0.0,D,0.0,0.0
+Italy,Serie B,4,Frosinone,Sudtirol,D,2.0,2.0,H,2.0,0.0
+Italy,Serie B,5,Empoli,Carrarese,D,2.0,2.0,D,1.0,1.0
+Italy,Serie B,5,Modena,Pescara,H,2.0,1.0,A,0.0,1.0
+Italy,Serie B,5,Bari,Sampdoria,D,1.0,1.0,D,1.0,1.0
+Italy,Serie B,5,Monza,Padova,A,0.0,1.0,D,0.0,0.0
+Italy,Serie B,5,Avellino,Virtus Entella,H,2.0,0.0,H,1.0,0.0
+Italy,Serie B,5,Cesena,Palermo,D,1.0,1.0,H,1.0,0.0
+Italy,Serie B,5,Mantova,Frosinone,A,1.0,5.0,A,0.0,4.0
+Italy,Serie B,5,Sudtirol,Reggiana,H,3.0,1.0,H,2.0,0.0
+Italy,Serie B,5,Venezia,Spezia,H,2.0,0.0,H,1.0,0.0
+Italy,Serie B,5,Catanzaro,Juve Stabia,D,2.0,2.0,A,0.0,2.0
+Italy,Serie B,6,Carrarese,Modena,D,0.0,0.0,D,0.0,0.0
+Italy,Serie B,6,Empoli,Monza,D,1.0,1.0,D,0.0,0.0
+Italy,Serie B,6,Pescara,Sudtirol,D,1.0,1.0,D,0.0,0.0
+Italy,Serie B,6,Sampdoria,Catanzaro,D,0.0,0.0,D,0.0,0.0
+Italy,Serie B,6,Virtus Entella,Bari,D,2.0,2.0,A,0.0,1.0
+Italy,Serie B,6,Frosinone,Cesena,H,3.0,1.0,D,0.0,0.0
+Italy,Serie B,6,Juve Stabia,Mantova,H,2.0,1.0,H,2.0,0.0
+Italy,Serie B,6,Padova,Avellino,D,2.0,2.0,D,2.0,2.0
+Italy,Serie B,6,Palermo,Venezia,D,0.0,0.0,D,0.0,0.0
+Italy,Serie B,6,Reggiana,Spezia,D,1.0,1.0,A,0.0,1.0
+Italy,Serie B,7,Modena,Virtus Entella,H,2.0,0.0,D,0.0,0.0
+Italy,Serie B,7,Sampdoria,Pescara,H,4.0,1.0,A,0.0,1.0
+Italy,Serie B,7,Carrarese,Juve Stabia,H,3.0,0.0,H,1.0,0.0
+Italy,Serie B,7,Sudtirol,Empoli,A,1.0,2.0,H,1.0,0.0
+Italy,Serie B,7,Cesena,Reggiana,A,1.0,2.0,A,1.0,2.0
+Italy,Serie B,7,Spezia,Palermo,A,1.0,2.0,A,0.0,1.0
+Italy,Serie B,7,Avellino,Mantova,D,0.0,0.0,D,0.0,0.0
+Italy,Serie B,7,Bari,Padova,H,2.0,1.0,D,0.0,0.0
+Italy,Serie B,7,Monza,Catanzaro,H,2.0,1.0,D,1.0,1.0
+Italy,Serie B,7,Venezia,Frosinone,H,3.0,0.0,H,2.0,0.0
+Italy,Serie B,8,Catanzaro,Padova,A,0.0,1.0,A,0.0,1.0
+Italy,Serie B,8,Empoli,Venezia,D,1.0,1.0,D,1.0,1.0
+Italy,Serie B,8,Palermo,Modena,D,1.0,1.0,H,1.0,0.0
+Italy,Serie B,8,Spezia,Cesena,A,1.0,2.0,A,1.0,2.0
+Italy,Serie B,8,Juve Stabia,Avellino,H,2.0,0.0,H,2.0,0.0
+Italy,Serie B,8,Frosinone,Monza,A,0.0,1.0,A,0.0,1.0
+Italy,Serie B,8,Mantova,Sudtirol,D,1.0,1.0,A,0.0,1.0
+Italy,Serie B,8,Pescara,Carrarese,D,2.0,2.0,A,0.0,1.0
+Italy,Serie B,8,Reggiana,Bari,H,3.0,1.0,D,1.0,1.0
+Italy,Serie B,8,Virtus Entella,Sampdoria,H,3.0,1.0,H,2.0,0.0
+Italy,Serie B,9,Bari,Mantova,H,1.0,0.0,D,0.0,0.0
+Italy,Serie B,9,Padova,Juve Stabia,D,2.0,2.0,D,1.0,1.0
+Italy,Serie B,9,Catanzaro,Palermo,H,1.0,0.0,H,1.0,0.0
+Italy,Serie B,9,Carrarese,Venezia,H,3.0,2.0,D,1.0,1.0
+Italy,Serie B,9,Avellino,Spezia,A,0.0,4.0,D,0.0,0.0
+Italy,Serie B,9,Virtus Entella,Pescara,D,1.0,1.0,D,0.0,0.0
+Italy,Serie B,9,Monza,Reggiana,H,3.0,1.0,H,3.0,1.0
+Italy,Serie B,9,Sampdoria,Frosinone,D,1.0,1.0,A,0.0,1.0
+Italy,Serie B,9,Sudtirol,Cesena,A,0.0,1.0,A,0.0,1.0
+Italy,Serie B,9,Modena,Empoli,H,2.0,1.0,D,1.0,1.0
+Italy,Serie B,10,Mantova,Catanzaro,A,1.0,3.0,H,1.0,0.0
+Italy,Serie B,10,Spezia,Padova,D,1.0,1.0,H,1.0,0.0
+Italy,Serie B,10,Venezia,Sudtirol,H,3.0,0.0,H,2.0,0.0
+Italy,Serie B,10,Cesena,Carrarese,H,2.0,1.0,H,1.0,0.0
+Italy,Serie B,10,Empoli,Sampdoria,D,1.0,1.0,D,0.0,0.0
+Italy,Serie B,10,Frosinone,Virtus Entella,H,4.0,0.0,H,1.0,0.0
+Italy,Serie B,10,Palermo,Monza,A,0.0,3.0,A,0.0,1.0
+Italy,Serie B,10,Pescara,Avellino,D,1.0,1.0,D,1.0,1.0
+Italy,Serie B,10,Reggiana,Modena,H,1.0,0.0,H,1.0,0.0
+Italy,Serie B,10,Juve Stabia,Bari,,,,,,
+Italy,Serie B,11,Sampdoria,Mantova,A,0.0,1.0,D,0.0,0.0
+Italy,Serie B,11,Monza,Spezia,H,1.0,0.0,D,0.0,0.0
+Italy,Serie B,11,Bari,Cesena,H,1.0,0.0,D,0.0,0.0
+Italy,Serie B,11,Catanzaro,Venezia,H,2.0,1.0,D,0.0,0.0
+Italy,Serie B,11,Modena,Juve Stabia,H,3.0,0.0,H,1.0,0.0
+Italy,Serie B,11,Palermo,Pescara,H,5.0,0.0,H,1.0,0.0
+Italy,Serie B,11,Virtus Entella,Empoli,H,1.0,0.0,D,0.0,0.0
+Italy,Serie B,11,Carrarese,Frosinone,A,0.0,2.0,A,0.0,1.0
+Italy,Serie B,11,Padova,Sudtirol,D,1.0,1.0,A,0.0,1.0
+Italy,Serie B,11,Avellino,Reggiana,H,4.0,3.0,D,1.0,1.0
+Italy,Serie B,12,Pescara,Monza,A,0.0,2.0,A,0.0,1.0
+Italy,Serie B,12,Cesena,Avellino,H,3.0,0.0,H,2.0,0.0
+Italy,Serie B,12,Venezia,Sampdoria,H,3.0,1.0,H,2.0,0.0
+Italy,Serie B,12,Juve Stabia,Palermo,H,1.0,0.0,H,1.0,0.0
+Italy,Serie B,12,Empoli,Catanzaro,H,1.0,0.0,D,0.0,0.0
+Italy,Serie B,12,Frosinone,Modena,D,2.0,2.0,H,1.0,0.0
+Italy,Serie B,12,Mantova,Padova,H,1.0,0.0,D,0.0,0.0
+Italy,Serie B,12,Reggiana,Virtus Entella,D,0.0,0.0,D,0.0,0.0
+Italy,Serie B,12,Sudtirol,Carrarese,D,1.0,1.0,D,0.0,0.0
+Italy,Serie B,12,Spezia,Bari,D,1.0,1.0,D,1.0,1.0
+Italy,Serie B,13,Sampdoria,Juve Stabia,H,1.0,0.0,D,0.0,0.0
+Italy,Serie B,13,Monza,Cesena,H,1.0,0.0,H,1.0,0.0
+Italy,Serie B,13,Mantova,Spezia,H,4.0,1.0,D,1.0,1.0
+Italy,Serie B,13,Modena,Sudtirol,D,0.0,0.0,D,0.0,0.0
+Italy,Serie B,13,Bari,Frosinone,A,2.0,3.0,A,2.0,3.0
+Italy,Serie B,13,Padova,Venezia,A,0.0,2.0,A,0.0,1.0
+Italy,Serie B,13,Avellino,Empoli,A,0.0,3.0,A,0.0,2.0
+Italy,Serie B,13,Carrarese,Reggiana,D,0.0,0.0,D,0.0,0.0
+Italy,Serie B,13,Virtus Entella,Palermo,D,1.0,1.0,H,1.0,0.0
+Italy,Serie B,13,Catanzaro,Pescara,D,3.0,3.0,A,1.0,2.0
+Italy,Serie B,14,Spezia,Sampdoria,H,1.0,0.0,D,0.0,0.0
+Italy,Serie B,14,Juve Stabia,Monza,D,2.0,2.0,D,1.0,1.0
+Italy,Serie B,14,Palermo,Carrarese,H,5.0,0.0,H,2.0,0.0
+Italy,Serie B,14,Catanzaro,Virtus Entella,H,3.0,2.0,D,2.0,2.0
+Italy,Serie B,14,Empoli,Bari,H,5.0,0.0,H,1.0,0.0
+Italy,Serie B,14,Pescara,Padova,A,0.0,1.0,D,0.0,0.0
+Italy,Serie B,14,Reggiana,Frosinone,A,0.0,1.0,D,0.0,0.0
+Italy,Serie B,14,Sudtirol,Avellino,A,0.0,1.0,A,0.0,1.0
+Italy,Serie B,14,Venezia,Mantova,H,3.0,0.0,H,1.0,0.0
+Italy,Serie B,14,Cesena,Modena,H,1.0,0.0,H,1.0,0.0
+Italy,Serie B,15,Empoli,Palermo,,,,,,
+Italy,Serie B,15,Sampdoria,Carrarese,,,,,,
+Italy,Serie B,15,Modena,Catanzaro,,,,,,
+Italy,Serie B,15,Avellino,Venezia,,,,,,
+Italy,Serie B,15,Frosinone,Juve Stabia,,,,,,
+Italy,Serie B,15,Mantova,Reggiana,,,,,,
+Italy,Serie B,15,Monza,Sudtirol,,,,,,
+Italy,Serie B,15,Padova,Cesena,,,,,,
+Italy,Serie B,15,Bari,Pescara,,,,,,
+Italy,Serie B,15,Virtus Entella,Spezia,,,,,,
+Italy,Serie B,16,Palermo,Sampdoria,,,,,,
+Italy,Serie B,16,Juve Stabia,Empoli,,,,,,
+Italy,Serie B,16,Reggiana,Padova,,,,,,
+Italy,Serie B,16,Spezia,Modena,,,,,,
+Italy,Serie B,16,Sudtirol,Bari,,,,,,
+Italy,Serie B,16,Venezia,Monza,,,,,,
+Italy,Serie B,16,Catanzaro,Avellino,,,,,,
+Italy,Serie B,16,Cesena,Mantova,,,,,,
+Italy,Serie B,16,Carrarese,Virtus Entella,,,,,,
+Italy,Serie B,16,Pescara,Frosinone,,,,,,
+Italy,Serie B,17,Bari,Catanzaro,,,,,,
+Italy,Serie B,17,Cesena,Juve Stabia,,,,,,
+Italy,Serie B,17,Frosinone,Spezia,,,,,,
+Italy,Serie B,17,Modena,Venezia,,,,,,
+Italy,Serie B,17,Monza,Carrarese,,,,,,
+Italy,Serie B,17,Padova,Sampdoria,,,,,,
+Italy,Serie B,17,Avellino,Palermo,,,,,,
+Italy,Serie B,17,Pescara,Reggiana,,,,,,
+Italy,Serie B,17,Virtus Entella,Sudtirol,,,,,,
+Italy,Serie B,17,Mantova,Empoli,,,,,,
+Italy,Serie B,18,Modena,Monza,,,,,,
+Italy,Serie B,18,Spezia,Pescara,,,,,,
+Italy,Serie B,18,Carrarese,Mantova,,,,,,
+Italy,Serie B,18,Catanzaro,Cesena,,,,,,
+Italy,Serie B,18,Empoli,Frosinone,,,,,,
+Italy,Serie B,18,Juve Stabia,Sudtirol,,,,,,
+Italy,Serie B,18,Sampdoria,Reggiana,,,,,,
+Italy,Serie B,18,Venezia,Virtus Entella,,,,,,
+Italy,Serie B,18,Palermo,Padova,,,,,,
+Italy,Serie B,18,Bari,Avellino,,,,,,
+Italy,Serie B,19,Avellino,Sampdoria,,,,,,
+Italy,Serie B,19,Carrarese,Bari,,,,,,
+Italy,Serie B,19,Virtus Entella,Monza,,,,,,
+Italy,Serie B,19,Frosinone,Catanzaro,,,,,,
+Italy,Serie B,19,Reggiana,Venezia,,,,,,
+Italy,Serie B,19,Sudtirol,Spezia,,,,,,
+Italy,Serie B,19,Juve Stabia,Pescara,,,,,,
+Italy,Serie B,19,Cesena,Empoli,,,,,,
+Italy,Serie B,19,Mantova,Palermo,,,,,,
+Italy,Serie B,19,Padova,Modena,,,,,,
+Italy,Serie B,20,Sampdoria,Virtus Entella,,,,,,
+Italy,Serie B,20,Avellino,Carrarese,,,,,,
+Italy,Serie B,20,Empoli,Sudtirol,,,,,,
+Italy,Serie B,20,Monza,Frosinone,,,,,,
+Italy,Serie B,20,Padova,Mantova,,,,,,
+Italy,Serie B,20,Venezia,Catanzaro,,,,,,
+Italy,Serie B,20,Reggiana,Cesena,,,,,,
+Italy,Serie B,20,Bari,Juve Stabia,,,,,,
+Italy,Serie B,20,Pescara,Modena,,,,,,
+Italy,Serie B,20,Palermo,Spezia,,,,,,
+Italy,Serie B,21,Carrarese,Empoli,,,,,,
+Italy,Serie B,21,Cesena,Bari,,,,,,
+Italy,Serie B,21,Frosinone,Reggiana,,,,,,
+Italy,Serie B,21,Juve Stabia,Virtus Entella,,,,,,
+Italy,Serie B,21,Mantova,Venezia,,,,,,
+Italy,Serie B,21,Monza,Pescara,,,,,,
+Italy,Serie B,21,Modena,Palermo,,,,,,
+Italy,Serie B,21,Spezia,Avellino,,,,,,
+Italy,Serie B,21,Sudtirol,Padova,,,,,,
+Italy,Serie B,21,Catanzaro,Sampdoria,,,,,,
+Italy,Serie B,22,Avellino,Cesena,,,,,,
+Italy,Serie B,22,Bari,Palermo,,,,,,
+Italy,Serie B,22,Empoli,Modena,,,,,,
+Italy,Serie B,22,Virtus Entella,Frosinone,,,,,,
+Italy,Serie B,22,Padova,Monza,,,,,,
+Italy,Serie B,22,Pescara,Mantova,,,,,,
+Italy,Serie B,22,Reggiana,Juve Stabia,,,,,,
+Italy,Serie B,22,Sampdoria,Spezia,,,,,,
+Italy,Serie B,22,Sudtirol,Catanzaro,,,,,,
+Italy,Serie B,22,Venezia,Carrarese,,,,,,
+Italy,Serie B,23,Carrarese,Sudtirol,,,,,,
+Italy,Serie B,23,Catanzaro,Reggiana,,,,,,
+Italy,Serie B,23,Cesena,Pescara,,,,,,
+Italy,Serie B,23,Frosinone,Venezia,,,,,,
+Italy,Serie B,23,Juve Stabia,Padova,,,,,,
+Italy,Serie B,23,Mantova,Bari,,,,,,
+Italy,Serie B,23,Modena,Sampdoria,,,,,,
+Italy,Serie B,23,Monza,Avellino,,,,,,
+Italy,Serie B,23,Palermo,Empoli,,,,,,
+Italy,Serie B,23,Spezia,Virtus Entella,,,,,,
+Italy,Serie B,24,Avellino,Frosinone,,,,,,
+Italy,Serie B,24,Bari,Spezia,,,,,,
+Italy,Serie B,24,Empoli,Juve Stabia,,,,,,
+Italy,Serie B,24,Virtus Entella,Cesena,,,,,,
+Italy,Serie B,24,Padova,Carrarese,,,,,,
+Italy,Serie B,24,Pescara,Catanzaro,,,,,,
+Italy,Serie B,24,Reggiana,Mantova,,,,,,
+Italy,Serie B,24,Sampdoria,Palermo,,,,,,
+Italy,Serie B,24,Sudtirol,Monza,,,,,,
+Italy,Serie B,24,Venezia,Modena,,,,,,
+Italy,Serie B,25,Avellino,Pescara,,,,,,
+Italy,Serie B,25,Bari,Sudtirol,,,,,,
+Italy,Serie B,25,Catanzaro,Mantova,,,,,,
+Italy,Serie B,25,Cesena,Venezia,,,,,,
+Italy,Serie B,25,Empoli,Reggiana,,,,,,
+Italy,Serie B,25,Modena,Carrarese,,,,,,
+Italy,Serie B,25,Monza,Juve Stabia,,,,,,
+Italy,Serie B,25,Palermo,Virtus Entella,,,,,,
+Italy,Serie B,25,Sampdoria,Padova,,,,,,
+Italy,Serie B,25,Spezia,Frosinone,,,,,,
+Italy,Serie B,26,Carrarese,Monza,,,,,,
+Italy,Serie B,26,Cesena,Spezia,,,,,,
+Italy,Serie B,26,Virtus Entella,Catanzaro,,,,,,
+Italy,Serie B,26,Frosinone,Empoli,,,,,,
+Italy,Serie B,26,Juve Stabia,Modena,,,,,,
+Italy,Serie B,26,Mantova,Sampdoria,,,,,,
+Italy,Serie B,26,Padova,Bari,,,,,,
+Italy,Serie B,26,Palermo,Sudtirol,,,,,,
+Italy,Serie B,26,Reggiana,Avellino,,,,,,
+Italy,Serie B,26,Venezia,Pescara,,,,,,
+Italy,Serie B,27,Avellino,Juve Stabia,,,,,,
+Italy,Serie B,27,Catanzaro,Frosinone,,,,,,
+Italy,Serie B,27,Empoli,Cesena,,,,,,
+Italy,Serie B,27,Mantova,Carrarese,,,,,,
+Italy,Serie B,27,Modena,Padova,,,,,,
+Italy,Serie B,27,Monza,Virtus Entella,,,,,,
+Italy,Serie B,27,Pescara,Palermo,,,,,,
+Italy,Serie B,27,Sampdoria,Bari,,,,,,
+Italy,Serie B,27,Spezia,Reggiana,,,,,,
+Italy,Serie B,27,Sudtirol,Venezia,,,,,,
+Italy,Serie B,28,Bari,Empoli,,,,,,
+Italy,Serie B,28,Carrarese,Catanzaro,,,,,,
+Italy,Serie B,28,Cesena,Monza,,,,,,
+Italy,Serie B,28,Virtus Entella,Modena,,,,,,
+Italy,Serie B,28,Frosinone,Pescara,,,,,,
+Italy,Serie B,28,Juve Stabia,Sampdoria,,,,,,
+Italy,Serie B,28,Padova,Spezia,,,,,,
+Italy,Serie B,28,Palermo,Mantova,,,,,,
+Italy,Serie B,28,Reggiana,Sudtirol,,,,,,
+Italy,Serie B,28,Venezia,Avellino,,,,,,
+Italy,Serie B,29,Avellino,Padova,,,,,,
+Italy,Serie B,29,Carrarese,Palermo,,,,,,
+Italy,Serie B,29,Catanzaro,Empoli,,,,,,
+Italy,Serie B,29,Frosinone,Sampdoria,,,,,,
+Italy,Serie B,29,Mantova,Juve Stabia,,,,,,
+Italy,Serie B,29,Modena,Cesena,,,,,,
+Italy,Serie B,29,Pescara,Bari,,,,,,
+Italy,Serie B,29,Spezia,Monza,,,,,,
+Italy,Serie B,29,Sudtirol,Virtus Entella,,,,,,
+Italy,Serie B,29,Venezia,Reggiana,,,,,,
+Italy,Serie B,30,Bari,Reggiana,,,,,,
+Italy,Serie B,30,Cesena,Frosinone,,,,,,
+Italy,Serie B,30,Empoli,Mantova,,,,,,
+Italy,Serie B,30,Virtus Entella,Avellino,,,,,,
+Italy,Serie B,30,Juve Stabia,Carrarese,,,,,,
+Italy,Serie B,30,Modena,Spezia,,,,,,
+Italy,Serie B,30,Monza,Palermo,,,,,,
+Italy,Serie B,30,Padova,Catanzaro,,,,,,
+Italy,Serie B,30,Sampdoria,Venezia,,,,,,
+Italy,Serie B,30,Sudtirol,Pescara,,,,,,
+Italy,Serie B,31,Avellino,Sudtirol,,,,,,
+Italy,Serie B,31,Carrarese,Sampdoria,,,,,,
+Italy,Serie B,31,Catanzaro,Modena,,,,,,
+Italy,Serie B,31,Frosinone,Bari,,,,,,
+Italy,Serie B,31,Mantova,Cesena,,,,,,
+Italy,Serie B,31,Palermo,Juve Stabia,,,,,,
+Italy,Serie B,31,Pescara,Virtus Entella,,,,,,
+Italy,Serie B,31,Reggiana,Monza,,,,,,
+Italy,Serie B,31,Spezia,Empoli,,,,,,
+Italy,Serie B,31,Venezia,Padova,,,,,,
+Italy,Serie B,32,Bari,Carrarese,,,,,,
+Italy,Serie B,32,Cesena,Catanzaro,,,,,,
+Italy,Serie B,32,Empoli,Pescara,,,,,,
+Italy,Serie B,32,Virtus Entella,Reggiana,,,,,,
+Italy,Serie B,32,Juve Stabia,Spezia,,,,,,
+Italy,Serie B,32,Modena,Mantova,,,,,,
+Italy,Serie B,32,Monza,Venezia,,,,,,
+Italy,Serie B,32,Padova,Palermo,,,,,,
+Italy,Serie B,32,Sampdoria,Avellino,,,,,,
+Italy,Serie B,32,Sudtirol,Frosinone,,,,,,
+Italy,Serie B,33,Bari,Modena,,,,,,
+Italy,Serie B,33,Carrarese,Spezia,,,,,,
+Italy,Serie B,33,Catanzaro,Monza,,,,,,
+Italy,Serie B,33,Cesena,Sudtirol,,,,,,
+Italy,Serie B,33,Frosinone,Padova,,,,,,
+Italy,Serie B,33,Mantova,Virtus Entella,,,,,,
+Italy,Serie B,33,Palermo,Avellino,,,,,,
+Italy,Serie B,33,Reggiana,Pescara,,,,,,
+Italy,Serie B,33,Sampdoria,Empoli,,,,,,
+Italy,Serie B,33,Venezia,Juve Stabia,,,,,,
+Italy,Serie B,34,Avellino,Catanzaro,,,,,,
+Italy,Serie B,34,Virtus Entella,Venezia,,,,,,
+Italy,Serie B,34,Frosinone,Palermo,,,,,,
+Italy,Serie B,34,Juve Stabia,Cesena,,,,,,
+Italy,Serie B,34,Monza,Bari,,,,,,
+Italy,Serie B,34,Padova,Empoli,,,,,,
+Italy,Serie B,34,Pescara,Sampdoria,,,,,,
+Italy,Serie B,34,Reggiana,Carrarese,,,,,,
+Italy,Serie B,34,Spezia,Mantova,,,,,,
+Italy,Serie B,34,Sudtirol,Modena,,,,,,
+Italy,Serie B,35,Bari,Venezia,,,,,,
+Italy,Serie B,35,Carrarese,Pescara,,,,,,
+Italy,Serie B,35,Empoli,Virtus Entella,,,,,,
+Italy,Serie B,35,Juve Stabia,Catanzaro,,,,,,
+Italy,Serie B,35,Mantova,Avellino,,,,,,
+Italy,Serie B,35,Modena,Frosinone,,,,,,
+Italy,Serie B,35,Padova,Reggiana,,,,,,
+Italy,Serie B,35,Palermo,Cesena,,,,,,
+Italy,Serie B,35,Sampdoria,Monza,,,,,,
+Italy,Serie B,35,Spezia,Sudtirol,,,,,,
+Italy,Serie B,36,Avellino,Bari,,,,,,
+Italy,Serie B,36,Catanzaro,Spezia,,,,,,
+Italy,Serie B,36,Cesena,Sampdoria,,,,,,
+Italy,Serie B,36,Virtus Entella,Padova,,,,,,
+Italy,Serie B,36,Frosinone,Carrarese,,,,,,
+Italy,Serie B,36,Monza,Modena,,,,,,
+Italy,Serie B,36,Pescara,Juve Stabia,,,,,,
+Italy,Serie B,36,Reggiana,Palermo,,,,,,
+Italy,Serie B,36,Sudtirol,Mantova,,,,,,
+Italy,Serie B,36,Venezia,Empoli,,,,,,
+Italy,Serie B,37,Bari,Virtus Entella,,,,,,
+Italy,Serie B,37,Carrarese,Cesena,,,,,,
+Italy,Serie B,37,Empoli,Avellino,,,,,,
+Italy,Serie B,37,Juve Stabia,Frosinone,,,,,,
+Italy,Serie B,37,Mantova,Monza,,,,,,
+Italy,Serie B,37,Modena,Reggiana,,,,,,
+Italy,Serie B,37,Padova,Pescara,,,,,,
+Italy,Serie B,37,Palermo,Catanzaro,,,,,,
+Italy,Serie B,37,Sampdoria,Sudtirol,,,,,,
+Italy,Serie B,37,Spezia,Venezia,,,,,,
+Italy,Serie B,38,Avellino,Modena,,,,,,
+Italy,Serie B,38,Catanzaro,Bari,,,,,,
+Italy,Serie B,38,Cesena,Padova,,,,,,
+Italy,Serie B,38,Virtus Entella,Carrarese,,,,,,
+Italy,Serie B,38,Frosinone,Mantova,,,,,,
+Italy,Serie B,38,Monza,Empoli,,,,,,
+Italy,Serie B,38,Pescara,Spezia,,,,,,
+Italy,Serie B,38,Reggiana,Sampdoria,,,,,,
+Italy,Serie B,38,Sudtirol,Juve Stabia,,,,,,
+Italy,Serie B,38,Venezia,Palermo,,,,,,
+Turkey,Super Lig,1,Gaziantep,Galatasaray,A,0.0,3.0,A,0.0,3.0
+Turkey,Super Lig,1,Samsunspor,Genclerbirligi,H,2.0,1.0,H,1.0,0.0
+Turkey,Super Lig,1,Antalyaspor,Kasimpasa,H,2.0,1.0,H,2.0,1.0
+Turkey,Super Lig,1,Rizespor,Goztep,A,0.0,3.0,D,0.0,0.0
+Turkey,Super Lig,1,Eyupspor,Konyaspor,A,1.0,4.0,A,0.0,3.0
+Turkey,Super Lig,1,Trabzonspor,Kocaelispor,H,1.0,0.0,D,0.0,0.0
+Turkey,Super Lig,1,Karagumruk,Buyuksehyr,A,0.0,2.0,D,0.0,0.0
+Turkey,Super Lig,1,Fenerbahce,Alanyaspor,D,2.0,2.0,A,0.0,1.0
+Turkey,Super Lig,1,Kayserispor,Besiktas,A,0.0,4.0,A,0.0,3.0
+Turkey,Super Lig,2,Galatasaray,Karagumruk,H,3.0,0.0,H,1.0,0.0
+Turkey,Super Lig,2,Kocaelispor,Samsunspor,A,0.0,1.0,D,0.0,0.0
+Turkey,Super Lig,2,Alanyaspor,Rizespor,D,0.0,0.0,D,0.0,0.0
+Turkey,Super Lig,2,Goztep,Fenerbahce,D,0.0,0.0,D,0.0,0.0
+Turkey,Super Lig,2,Konyaspor,Gaziantep,H,3.0,0.0,H,1.0,0.0
+Turkey,Super Lig,2,Genclerbirligi,Antalyaspor,A,0.0,1.0,D,0.0,0.0
+Turkey,Super Lig,2,Besiktas,Eyupspor,H,2.0,1.0,D,1.0,1.0
+Turkey,Super Lig,2,Buyuksehyr,Kayserispor,D,1.0,1.0,H,1.0,0.0
+Turkey,Super Lig,2,Kasimpasa,Trabzonspor,A,0.0,1.0,D,0.0,0.0
+Turkey,Super Lig,3,Konyaspor,Besiktas,A,0.0,2.0,A,0.0,1.0
+Turkey,Super Lig,3,Rizespor,Buyuksehyr,D,0.0,0.0,D,0.0,0.0
+Turkey,Super Lig,3,Karagumruk,Goztep,A,0.0,2.0,A,0.0,1.0
+Turkey,Super Lig,3,Gaziantep,Genclerbirligi,H,2.0,1.0,D,1.0,1.0
+Turkey,Super Lig,3,Fenerbahce,Kocaelispor,H,3.0,1.0,D,1.0,1.0
+Turkey,Super Lig,3,Trabzonspor,Antalyaspor,H,1.0,0.0,H,1.0,0.0
+Turkey,Super Lig,3,Kayserispor,Galatasaray,A,0.0,4.0,A,0.0,1.0
+Turkey,Super Lig,3,Eyupspor,Alanyaspor,H,2.0,1.0,H,1.0,0.0
+Turkey,Super Lig,3,Samsunspor,Kasimpasa,D,0.0,0.0,D,0.0,0.0
+Turkey,Super Lig,4,Goztep,Konyaspor,D,1.0,1.0,D,0.0,0.0
+Turkey,Super Lig,4,Kasimpasa,Gaziantep,A,2.0,3.0,A,0.0,2.0
+Turkey,Super Lig,4,Kocaelispor,Kayserispor,D,1.0,1.0,D,0.0,0.0
+Turkey,Super Lig,4,Antalyaspor,Karagumruk,A,1.0,2.0,D,1.0,1.0
+Turkey,Super Lig,4,Galatasaray,Rizespor,H,3.0,1.0,H,1.0,0.0
+Turkey,Super Lig,4,Buyuksehyr,Eyupspor,D,0.0,0.0,D,0.0,0.0
+Turkey,Super Lig,4,Genclerbirligi,Fenerbahce,A,1.0,3.0,A,0.0,3.0
+Turkey,Super Lig,4,Trabzonspor,Samsunspor,D,1.0,1.0,H,1.0,0.0
+Turkey,Super Lig,4,Alanyaspor,Besiktas,H,2.0,0.0,H,1.0,0.0
+Turkey,Super Lig,5,Eyupspor,Galatasaray,A,0.0,2.0,D,0.0,0.0
+Turkey,Super Lig,5,Samsunspor,Antalyaspor,A,1.0,2.0,A,0.0,1.0
+Turkey,Super Lig,5,Karagumruk,Kasimpasa,A,0.0,1.0,A,0.0,1.0
+Turkey,Super Lig,5,Konyaspor,Alanyaspor,A,1.0,2.0,A,0.0,1.0
+Turkey,Super Lig,5,Besiktas,Buyuksehyr,H,2.0,1.0,D,0.0,0.0
+Turkey,Super Lig,5,Kayserispor,Goztep,D,1.0,1.0,D,0.0,0.0
+Turkey,Super Lig,5,Gaziantep,Kocaelispor,H,2.0,0.0,D,0.0,0.0
+Turkey,Super Lig,5,Fenerbahce,Trabzonspor,H,1.0,0.0,H,1.0,0.0
+Turkey,Super Lig,5,Rizespor,Genclerbirligi,H,1.0,0.0,D,0.0,0.0
+Turkey,Super Lig,6,Goztep,Besiktas,H,3.0,0.0,H,2.0,0.0
+Turkey,Super Lig,6,Genclerbirligi,Eyupspor,H,1.0,0.0,H,1.0,0.0
+Turkey,Super Lig,6,Antalyaspor,Kayserispor,D,1.0,1.0,D,0.0,0.0
+Turkey,Super Lig,6,Trabzonspor,Gaziantep,D,1.0,1.0,A,0.0,1.0
+Turkey,Super Lig,6,Buyuksehyr,Alanyaspor,D,1.0,1.0,H,1.0,0.0
+Turkey,Super Lig,6,Kocaelispor,Rizespor,D,1.0,1.0,D,1.0,1.0
+Turkey,Super Lig,6,Kasimpasa,Fenerbahce,D,1.0,1.0,A,0.0,1.0
+Turkey,Super Lig,6,Samsunspor,Karagumruk,H,3.0,2.0,A,0.0,1.0
+Turkey,Super Lig,6,Galatasaray,Konyaspor,H,3.0,1.0,H,2.0,0.0
+Turkey,Super Lig,7,Alanyaspor,Galatasaray,A,0.0,1.0,A,0.0,1.0
+Turkey,Super Lig,7,Eyupspor,Goztep,D,0.0,0.0,D,0.0,0.0
+Turkey,Super Lig,7,Gaziantep,Samsunspor,D,2.0,2.0,A,1.0,2.0
+Turkey,Super Lig,7,Karagumruk,Trabzonspor,A,3.0,4.0,A,1.0,3.0
+Turkey,Super Lig,7,Konyaspor,Buyuksehyr,H,2.0,1.0,H,2.0,0.0
+Turkey,Super Lig,7,Rizespor,Kasimpasa,A,1.0,2.0,A,0.0,1.0
+Turkey,Super Lig,7,Fenerbahce,Antalyaspor,H,2.0,0.0,D,0.0,0.0
+Turkey,Super Lig,7,Kayserispor,Genclerbirligi,D,1.0,1.0,A,0.0,1.0
+Turkey,Super Lig,7,Besiktas,Kocaelispor,H,3.0,1.0,H,2.0,0.0
+Turkey,Super Lig,8,Antalyaspor,Rizespor,A,2.0,5.0,A,1.0,2.0
+Turkey,Super Lig,8,Trabzonspor,Kayserispor,H,4.0,0.0,H,1.0,0.0
+Turkey,Super Lig,8,Genclerbirligi,Alanyaspor,D,2.0,2.0,A,0.0,1.0
+Turkey,Super Lig,8,Kocaelispor,Eyupspor,H,1.0,0.0,D,0.0,0.0
+Turkey,Super Lig,8,Galatasaray,Besiktas,D,1.0,1.0,A,0.0,1.0
+Turkey,Super Lig,8,Kasimpasa,Konyaspor,D,1.0,1.0,A,0.0,1.0
+Turkey,Super Lig,8,Karagumruk,Gaziantep,A,0.0,2.0,D,0.0,0.0
+Turkey,Super Lig,8,Samsunspor,Fenerbahce,D,0.0,0.0,D,0.0,0.0
+Turkey,Super Lig,8,Goztep,Buyuksehyr,H,1.0,0.0,H,1.0,0.0
+Turkey,Super Lig,9,Konyaspor,Kocaelispor,A,2.0,3.0,A,0.0,1.0
+Turkey,Super Lig,9,Besiktas,Genclerbirligi,A,1.0,2.0,D,0.0,0.0
+Turkey,Super Lig,9,Rizespor,Trabzonspor,A,1.0,2.0,A,1.0,2.0
+Turkey,Super Lig,9,Buyuksehyr,Galatasaray,A,1.0,2.0,A,0.0,1.0
+Turkey,Super Lig,9,Kayserispor,Samsunspor,A,1.0,3.0,A,0.0,1.0
+Turkey,Super Lig,9,Alanyaspor,Goztep,H,1.0,0.0,D,0.0,0.0
+Turkey,Super Lig,9,Gaziantep,Antalyaspor,H,3.0,2.0,H,3.0,0.0
+Turkey,Super Lig,9,Fenerbahce,Karagumruk,H,2.0,1.0,H,2.0,0.0
+Turkey,Super Lig,9,Eyupspor,Kasimpasa,H,2.0,0.0,H,1.0,0.0
+Turkey,Super Lig,10,Karagumruk,Kayserispor,D,2.0,2.0,H,1.0,0.0
+Turkey,Super Lig,10,Kocaelispor,Alanyaspor,H,2.0,0.0,D,0.0,0.0
+Turkey,Super Lig,10,Trabzonspor,Eyupspor,H,2.0,0.0,H,1.0,0.0
+Turkey,Super Lig,10,Antalyaspor,Buyuksehyr,A,0.0,4.0,A,0.0,2.0
+Turkey,Super Lig,10,Galatasaray,Goztep,H,3.0,1.0,D,1.0,1.0
+Turkey,Super Lig,10,Genclerbirligi,Konyaspor,A,1.0,2.0,D,1.0,1.0
+Turkey,Super Lig,10,Kasimpasa,Besiktas,D,1.0,1.0,D,1.0,1.0
+Turkey,Super Lig,10,Samsunspor,Rizespor,D,1.0,1.0,D,1.0,1.0
+Turkey,Super Lig,10,Gaziantep,Fenerbahce,A,0.0,4.0,A,0.0,2.0
+Turkey,Super Lig,11,Buyuksehyr,Kocaelispor,H,1.0,0.0,D,0.0,0.0
+Turkey,Super Lig,11,Goztep,Genclerbirligi,H,1.0,0.0,H,1.0,0.0
+Turkey,Super Lig,11,Galatasaray,Trabzonspor,D,0.0,0.0,D,0.0,0.0
+Turkey,Super Lig,11,Konyaspor,Samsunspor,A,1.0,3.0,A,0.0,2.0
+Turkey,Super Lig,11,Kayserispor,Kasimpasa,H,3.0,2.0,H,2.0,1.0
+Turkey,Super Lig,11,Besiktas,Fenerbahce,A,2.0,3.0,D,2.0,2.0
+Turkey,Super Lig,11,Eyupspor,Antalyaspor,A,0.0,1.0,D,0.0,0.0
+Turkey,Super Lig,11,Alanyaspor,Gaziantep,D,0.0,0.0,D,0.0,0.0
+Turkey,Super Lig,11,Rizespor,Karagumruk,H,1.0,0.0,D,0.0,0.0
+Turkey,Super Lig,12,Genclerbirligi,Buyuksehyr,H,2.0,1.0,H,1.0,0.0
+Turkey,Super Lig,12,Gaziantep,Rizespor,D,2.0,2.0,D,1.0,1.0
+Turkey,Super Lig,12,Trabzonspor,Alanyaspor,D,1.0,1.0,H,1.0,0.0
+Turkey,Super Lig,12,Kasimpasa,Goztep,A,0.0,2.0,D,0.0,0.0
+Turkey,Super Lig,12,Antalyaspor,Besiktas,A,1.0,3.0,A,0.0,2.0
+Turkey,Super Lig,12,Karagumruk,Konyaspor,H,2.0,0.0,H,2.0,0.0
+Turkey,Super Lig,12,Kocaelispor,Galatasaray,H,1.0,0.0,H,1.0,0.0
+Turkey,Super Lig,12,Samsunspor,Eyupspor,H,1.0,0.0,D,0.0,0.0
+Turkey,Super Lig,12,Fenerbahce,Kayserispor,H,4.0,2.0,H,2.0,0.0
+Turkey,Super Lig,13,Kayserispor,Gaziantep,A,0.0,3.0,A,0.0,2.0
+Turkey,Super Lig,13,Eyupspor,Karagumruk,D,1.0,1.0,D,0.0,0.0
+Turkey,Super Lig,13,Galatasaray,Genclerbirligi,H,3.0,2.0,A,0.0,1.0
+Turkey,Super Lig,13,Goztep,Kocaelispor,D,0.0,0.0,D,0.0,0.0
+Turkey,Super Lig,13,Besiktas,Samsunspor,D,1.0,1.0,D,0.0,0.0
+Turkey,Super Lig,13,Alanyaspor,Kasimpasa,A,1.0,2.0,H,1.0,0.0
+Turkey,Super Lig,13,Rizespor,Fenerbahce,A,2.0,5.0,H,2.0,0.0
+Turkey,Super Lig,13,Konyaspor,Antalyaspor,D,0.0,0.0,D,0.0,0.0
+Turkey,Super Lig,13,Buyuksehyr,Trabzonspor,A,3.0,4.0,H,2.0,1.0
+Turkey,Super Lig,14,Kocaelispor,Genclerbirligi,H,1.0,0.0,H,1.0,0.0
+Turkey,Super Lig,14,Rizespor,Kayserispor,A,0.0,1.0,D,0.0,0.0
+Turkey,Super Lig,14,Gaziantep,Eyupspor,A,1.0,2.0,A,0.0,1.0
+Turkey,Super Lig,14,Kasimpasa,Buyuksehyr,A,1.0,3.0,A,0.0,2.0
+Turkey,Super Lig,14,Trabzonspor,Konyaspor,H,3.0,1.0,D,1.0,1.0
+Turkey,Super Lig,14,Antalyaspor,Goztep,A,1.0,2.0,H,1.0,0.0
+Turkey,Super Lig,14,Karagumruk,Besiktas,A,0.0,2.0,A,0.0,1.0
+Turkey,Super Lig,14,Samsunspor,Alanyaspor,D,1.0,1.0,H,1.0,0.0
+Turkey,Super Lig,14,Fenerbahce,Galatasaray,D,1.0,1.0,A,0.0,1.0
+Turkey,Super Lig,15,Galatasaray,Samsunspor,,,,,,
+Turkey,Super Lig,15,Eyupspor,Kayserispor,,,,,,
+Turkey,Super Lig,15,Konyaspor,Rizespor,,,,,,
+Turkey,Super Lig,15,Buyuksehyr,Fenerbahce,,,,,,
+Turkey,Super Lig,15,Genclerbirligi,Karagumruk,,,,,,
+Turkey,Super Lig,15,Kocaelispor,Kasimpasa,,,,,,
+Turkey,Super Lig,15,Goztep,Trabzonspor,,,,,,
+Turkey,Super Lig,15,Besiktas,Gaziantep,,,,,,
+Turkey,Super Lig,15,Alanyaspor,Antalyaspor,,,,,,
+Turkey,Super Lig,16,Kasimpasa,Genclerbirligi,,,,,,
+Turkey,Super Lig,16,Rizespor,Eyupspor,,,,,,
+Turkey,Super Lig,16,Kayserispor,Alanyaspor,,,,,,
+Turkey,Super Lig,16,Antalyaspor,Galatasaray,,,,,,
+Turkey,Super Lig,16,Gaziantep,Goztep,,,,,,
+Turkey,Super Lig,16,Karagumruk,Kocaelispor,,,,,,
+Turkey,Super Lig,16,Trabzonspor,Besiktas,,,,,,
+Turkey,Super Lig,16,Samsunspor,Buyuksehyr,,,,,,
+Turkey,Super Lig,16,Fenerbahce,Konyaspor,,,,,,
+Turkey,Super Lig,17,Eyupspor,Fenerbahce,,,,,,
+Turkey,Super Lig,17,Konyaspor,Kayserispor,,,,,,
+Turkey,Super Lig,17,Besiktas,Rizespor,,,,,,
+Turkey,Super Lig,17,Alanyaspor,Karagumruk,,,,,,
+Turkey,Super Lig,17,Buyuksehyr,Gaziantep,,,,,,
+Turkey,Super Lig,17,Goztep,Samsunspor,,,,,,
+Turkey,Super Lig,17,Galatasaray,Kasimpasa,,,,,,
+Turkey,Super Lig,17,Genclerbirligi,Trabzonspor,,,,,,
+Turkey,Super Lig,17,Kocaelispor,Antalyaspor,,,,,,
+Turkey,Super Lig,18,Konyaspor,Eyupspor,,,,,,
+Turkey,Super Lig,18,Kasimpasa,Antalyaspor,,,,,,
+Turkey,Super Lig,18,Kocaelispor,Trabzonspor,,,,,,
+Turkey,Super Lig,18,Genclerbirligi,Samsunspor,,,,,,
+Turkey,Super Lig,18,Buyuksehyr,Karagumruk,,,,,,
+Turkey,Super Lig,18,Galatasaray,Gaziantep,,,,,,
+Turkey,Super Lig,18,Alanyaspor,Fenerbahce,,,,,,
+Turkey,Super Lig,18,Goztep,Rizespor,,,,,,
+Turkey,Super Lig,18,Besiktas,Kayserispor,,,,,,
+Turkey,Super Lig,19,Eyupspor,Besiktas,,,,,,
+Turkey,Super Lig,19,Trabzonspor,Kasimpasa,,,,,,
+Turkey,Super Lig,19,Gaziantep,Konyaspor,,,,,,
+Turkey,Super Lig,19,Rizespor,Alanyaspor,,,,,,
+Turkey,Super Lig,19,Kayserispor,Buyuksehyr,,,,,,
+Turkey,Super Lig,19,Fenerbahce,Goztep,,,,,,
+Turkey,Super Lig,19,Karagumruk,Galatasaray,,,,,,
+Turkey,Super Lig,19,Antalyaspor,Genclerbirligi,,,,,,
+Turkey,Super Lig,19,Samsunspor,Kocaelispor,,,,,,
+Turkey,Super Lig,20,Alanyaspor,Eyupspor,,,,,,
+Turkey,Super Lig,20,Besiktas,Konyaspor,,,,,,
+Turkey,Super Lig,20,Antalyaspor,Trabzonspor,,,,,,
+Turkey,Super Lig,20,Kasimpasa,Samsunspor,,,,,,
+Turkey,Super Lig,20,Goztep,Karagumruk,,,,,,
+Turkey,Super Lig,20,Genclerbirligi,Gaziantep,,,,,,
+Turkey,Super Lig,20,Kocaelispor,Fenerbahce,,,,,,
+Turkey,Super Lig,20,Buyuksehyr,Rizespor,,,,,,
+Turkey,Super Lig,20,Galatasaray,Kayserispor,,,,,,
+Turkey,Super Lig,21,Eyupspor,Buyuksehyr,,,,,,
+Turkey,Super Lig,21,Gaziantep,Kasimpasa,,,,,,
+Turkey,Super Lig,21,Karagumruk,Antalyaspor,,,,,,
+Turkey,Super Lig,21,Samsunspor,Trabzonspor,,,,,,
+Turkey,Super Lig,21,Besiktas,Alanyaspor,,,,,,
+Turkey,Super Lig,21,Konyaspor,Goztep,,,,,,
+Turkey,Super Lig,21,Rizespor,Galatasaray,,,,,,
+Turkey,Super Lig,21,Fenerbahce,Genclerbirligi,,,,,,
+Turkey,Super Lig,21,Kayserispor,Kocaelispor,,,,,,
+Turkey,Super Lig,22,Galatasaray,Eyupspor,,,,,,
+Turkey,Super Lig,22,Alanyaspor,Konyaspor,,,,,,
+Turkey,Super Lig,22,Buyuksehyr,Besiktas,,,,,,
+Turkey,Super Lig,22,Antalyaspor,Samsunspor,,,,,,
+Turkey,Super Lig,22,Kasimpasa,Karagumruk,,,,,,
+Turkey,Super Lig,22,Kocaelispor,Gaziantep,,,,,,
+Turkey,Super Lig,22,Trabzonspor,Fenerbahce,,,,,,
+Turkey,Super Lig,22,Genclerbirligi,Rizespor,,,,,,
+Turkey,Super Lig,22,Goztep,Kayserispor,,,,,,
+Turkey,Super Lig,23,Eyupspor,Genclerbirligi,,,,,,
+Turkey,Super Lig,23,Fenerbahce,Kasimpasa,,,,,,
+Turkey,Super Lig,23,Kayserispor,Antalyaspor,,,,,,
+Turkey,Super Lig,23,Gaziantep,Trabzonspor,,,,,,
+Turkey,Super Lig,23,Karagumruk,Samsunspor,,,,,,
+Turkey,Super Lig,23,Alanyaspor,Buyuksehyr,,,,,,
+Turkey,Super Lig,23,Besiktas,Goztep,,,,,,
+Turkey,Super Lig,23,Konyaspor,Galatasaray,,,,,,
+Turkey,Super Lig,23,Rizespor,Kocaelispor,,,,,,
+Turkey,Super Lig,24,Goztep,Eyupspor,,,,,,
+Turkey,Super Lig,24,Buyuksehyr,Konyaspor,,,,,,
+Turkey,Super Lig,24,Kocaelispor,Besiktas,,,,,,
+Turkey,Super Lig,24,Galatasaray,Alanyaspor,,,,,,
+Turkey,Super Lig,24,Trabzonspor,Karagumruk,,,,,,
+Turkey,Super Lig,24,Samsunspor,Gaziantep,,,,,,
+Turkey,Super Lig,24,Antalyaspor,Fenerbahce,,,,,,
+Turkey,Super Lig,24,Kasimpasa,Rizespor,,,,,,
+Turkey,Super Lig,24,Genclerbirligi,Kayserispor,,,,,,
+Turkey,Super Lig,25,Eyupspor,Kocaelispor,,,,,,
+Turkey,Super Lig,25,Konyaspor,Kasimpasa,,,,,,
+Turkey,Super Lig,25,Rizespor,Antalyaspor,,,,,,
+Turkey,Super Lig,25,Kayserispor,Trabzonspor,,,,,,
+Turkey,Super Lig,25,Fenerbahce,Samsunspor,,,,,,
+Turkey,Super Lig,25,Gaziantep,Karagumruk,,,,,,
+Turkey,Super Lig,25,Buyuksehyr,Goztep,,,,,,
+Turkey,Super Lig,25,Besiktas,Galatasaray,,,,,,
+Turkey,Super Lig,25,Alanyaspor,Genclerbirligi,,,,,,
+Turkey,Super Lig,26,Kasimpasa,Eyupspor,,,,,,
+Turkey,Super Lig,26,Kocaelispor,Konyaspor,,,,,,
+Turkey,Super Lig,26,Genclerbirligi,Besiktas,,,,,,
+Turkey,Super Lig,26,Goztep,Alanyaspor,,,,,,
+Turkey,Super Lig,26,Galatasaray,Buyuksehyr,,,,,,
+Turkey,Super Lig,26,Antalyaspor,Gaziantep,,,,,,
+Turkey,Super Lig,26,Karagumruk,Fenerbahce,,,,,,
+Turkey,Super Lig,26,Trabzonspor,Rizespor,,,,,,
+Turkey,Super Lig,26,Samsunspor,Kayserispor,,,,,,
+Turkey,Super Lig,27,Eyupspor,Trabzonspor,,,,,,
+Turkey,Super Lig,27,Besiktas,Kasimpasa,,,,,,
+Turkey,Super Lig,27,Buyuksehyr,Antalyaspor,,,,,,
+Turkey,Super Lig,27,Rizespor,Samsunspor,,,,,,
+Turkey,Super Lig,27,Kayserispor,Karagumruk,,,,,,
+Turkey,Super Lig,27,Fenerbahce,Gaziantep,,,,,,
+Turkey,Super Lig,27,Goztep,Galatasaray,,,,,,
+Turkey,Super Lig,27,Konyaspor,Genclerbirligi,,,,,,
+Turkey,Super Lig,27,Alanyaspor,Kocaelispor,,,,,,
+Turkey,Super Lig,28,Antalyaspor,Eyupspor,,,,,,
+Turkey,Super Lig,28,Samsunspor,Konyaspor,,,,,,
+Turkey,Super Lig,28,Fenerbahce,Besiktas,,,,,,
+Turkey,Super Lig,28,Gaziantep,Alanyaspor,,,,,,
+Turkey,Super Lig,28,Kocaelispor,Buyuksehyr,,,,,,
+Turkey,Super Lig,28,Genclerbirligi,Goztep,,,,,,
+Turkey,Super Lig,28,Trabzonspor,Galatasaray,,,,,,
+Turkey,Super Lig,28,Karagumruk,Rizespor,,,,,,
+Turkey,Super Lig,28,Kasimpasa,Kayserispor,,,,,,
+Turkey,Super Lig,29,Eyupspor,Samsunspor,,,,,,
+Turkey,Super Lig,29,Goztep,Kasimpasa,,,,,,
+Turkey,Super Lig,29,Besiktas,Antalyaspor,,,,,,
+Turkey,Super Lig,29,Alanyaspor,Trabzonspor,,,,,,
+Turkey,Super Lig,29,Konyaspor,Karagumruk,,,,,,
+Turkey,Super Lig,29,Rizespor,Gaziantep,,,,,,
+Turkey,Super Lig,29,Kayserispor,Fenerbahce,,,,,,
+Turkey,Super Lig,29,Buyuksehyr,Genclerbirligi,,,,,,
+Turkey,Super Lig,29,Galatasaray,Kocaelispor,,,,,,
+Turkey,Super Lig,30,Karagumruk,Eyupspor,,,,,,
+Turkey,Super Lig,30,Antalyaspor,Konyaspor,,,,,,
+Turkey,Super Lig,30,Samsunspor,Besiktas,,,,,,
+Turkey,Super Lig,30,Kasimpasa,Alanyaspor,,,,,,
+Turkey,Super Lig,30,Trabzonspor,Buyuksehyr,,,,,,
+Turkey,Super Lig,30,Kocaelispor,Goztep,,,,,,
+Turkey,Super Lig,30,Genclerbirligi,Galatasaray,,,,,,
+Turkey,Super Lig,30,Fenerbahce,Rizespor,,,,,,
+Turkey,Super Lig,30,Gaziantep,Kayserispor,,,,,,
+Turkey,Super Lig,31,Eyupspor,Gaziantep,,,,,,
+Turkey,Super Lig,31,Buyuksehyr,Kasimpasa,,,,,,
+Turkey,Super Lig,31,Goztep,Antalyaspor,,,,,,
+Turkey,Super Lig,31,Konyaspor,Trabzonspor,,,,,,
+Turkey,Super Lig,31,Alanyaspor,Samsunspor,,,,,,
+Turkey,Super Lig,31,Besiktas,Karagumruk,,,,,,
+Turkey,Super Lig,31,Galatasaray,Fenerbahce,,,,,,
+Turkey,Super Lig,31,Kayserispor,Rizespor,,,,,,
+Turkey,Super Lig,31,Genclerbirligi,Kocaelispor,,,,,,
+Turkey,Super Lig,32,Kayserispor,Eyupspor,,,,,,
+Turkey,Super Lig,32,Rizespor,Konyaspor,,,,,,
+Turkey,Super Lig,32,Gaziantep,Besiktas,,,,,,
+Turkey,Super Lig,32,Antalyaspor,Alanyaspor,,,,,,
+Turkey,Super Lig,32,Fenerbahce,Buyuksehyr,,,,,,
+Turkey,Super Lig,32,Trabzonspor,Goztep,,,,,,
+Turkey,Super Lig,32,Samsunspor,Galatasaray,,,,,,
+Turkey,Super Lig,32,Karagumruk,Genclerbirligi,,,,,,
+Turkey,Super Lig,32,Kasimpasa,Kocaelispor,,,,,,
+Turkey,Super Lig,33,Eyupspor,Rizespor,,,,,,
+Turkey,Super Lig,33,Genclerbirligi,Kasimpasa,,,,,,
+Turkey,Super Lig,33,Galatasaray,Antalyaspor,,,,,,
+Turkey,Super Lig,33,Besiktas,Trabzonspor,,,,,,
+Turkey,Super Lig,33,Buyuksehyr,Samsunspor,,,,,,
+Turkey,Super Lig,33,Kocaelispor,Karagumruk,,,,,,
+Turkey,Super Lig,33,Goztep,Gaziantep,,,,,,
+Turkey,Super Lig,33,Konyaspor,Fenerbahce,,,,,,
+Turkey,Super Lig,33,Alanyaspor,Kayserispor,,,,,,
+Turkey,Super Lig,34,Fenerbahce,Eyupspor,,,,,,
+Turkey,Super Lig,34,Kayserispor,Konyaspor,,,,,,
+Turkey,Super Lig,34,Rizespor,Besiktas,,,,,,
+Turkey,Super Lig,34,Karagumruk,Alanyaspor,,,,,,
+Turkey,Super Lig,34,Gaziantep,Buyuksehyr,,,,,,
+Turkey,Super Lig,34,Samsunspor,Goztep,,,,,,
+Turkey,Super Lig,34,Kasimpasa,Galatasaray,,,,,,
+Turkey,Super Lig,34,Trabzonspor,Genclerbirligi,,,,,,
+Turkey,Super Lig,34,Antalyaspor,Kocaelispor,,,,,,

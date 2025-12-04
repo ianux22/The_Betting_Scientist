@@ -17,7 +17,9 @@ venv/
 
 # Data and outputs
 Input/results/
-Output/
+Output/*
+!Output/Calendar_with_Results_25_26.csv
+!Output/.gitkeep
 Input/Combined_Country_League_Calendar_25_26.csv
 Input/combined_results.csv
 
