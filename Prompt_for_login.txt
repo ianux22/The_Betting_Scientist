@@ -1,0 +1,26 @@
+How to re-enable login/auth and free-vs-premium gating in app.py
+
+- Restore constants:
+  - `FREE_LEAGUES = {"Premier League", "Serie A", "La Liga Primera"}`
+  - `DEFAULT_USERS = {"test_free@example.com": {"password": "TestFree123!", "role": "free"}, "test_premium@example.com": {"password": "TestPremium123!", "role": "premium"}}`
+- Restore helpers:
+  - `seed_users()` initializes `st.session_state["users"]` with `DEFAULT_USERS` if missing.
+  - `authenticate(email, password)` returns `{"email": email, "role": role}` when the password matches.
+  - `register_user(email, password, role="free")` adds to `st.session_state["users"]`; returns False if the email exists.
+  - `role_allows_league(role, league)` lets `premium/admin` access all; `free` only the `FREE_LEAGUES`.
+- Sidebar UI (in `main()`):
+  - Add `st.sidebar.markdown("### Account")`.
+  - If `"user"` not in session, show two forms: login (email/password) and register (email/password/plan select). On successful login set `st.session_state["user"]`; on successful register, show success message; on invalid login, show error.
+  - If logged in, show a badge with email/role and a Logout button that `pop`s `"user"` and reruns.
+  - If no user after forms, show an info message and a short Plans blurb, then `return` to block the app.
+- Role wiring:
+  - After login, set `role = st.session_state["user"]["role"]`.
+  - Compute `allowed_leagues = leagues if role in ("premium", "admin") else [l for l in leagues if role_allows_league(role, l)]`.
+  - Call `init_dashboard_state(calendar_df, allowed_leagues)`.
+- Gating in sections:
+  - Hot Picks: if the user's role does not allow the league, show the upgrade warning and skip rendering the cards for that league.
+  - Algorithmic Simulation: if role not in `("premium", "admin")`, show an info message like "Upgrade to Premium" instead of the simulator controls/results.
+  - League Dashboard: if the selected league is locked by `role_allows_league`, show the same upgrade warning instead of predictions.
+- Plans copy to reuse:
+  - Free: access Premier League, Serie A, La Liga Primera dashboards; simulator locked.
+  - Premium: access all leagues and simulator.
