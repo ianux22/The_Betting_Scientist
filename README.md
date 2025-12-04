@@ -36,3 +36,7 @@ python run_matchday_simulation.py --league "Serie A" --matchday 12
 ## Notes
 - Input/results and Output CSVs are ignored by git; regenerate locally as needed.
 - Large/irrelevant files (e.g., `.cbz`) are ignored by `.gitignore`.
+
+## Authentication (test accounts)
+- Free: `test_free@example.com` / `TestFree123!` (access Premier League, Serie A, La Liga Primera dashboards; simulator locked)
+- Premium: `test_premium@example.com` / `TestPremium123!` (full access to all leagues and simulator)

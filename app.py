@@ -134,6 +134,11 @@ section[data-testid="stSidebar"] * {
 st.markdown(_CUSTOM_CSS, unsafe_allow_html=True)
 
 MAJOR_LEAGUES = ["Serie A", "Premier League", "Ligue 1", "Bundesliga 1"]
+FREE_LEAGUES = {"Premier League", "Serie A", "La Liga Primera"}
+DEFAULT_USERS = {
+    "test_free@example.com": {"password": "TestFree123!", "role": "free"},
+    "test_premium@example.com": {"password": "TestPremium123!", "role": "premium"},
+}
 
 
 @st.cache_data(show_spinner=False)
@@ -202,12 +207,42 @@ def league_country(calendar_df: pd.DataFrame, league: str) -> Optional[str]:
     return countries[0] if len(countries) else None
 
 
-def init_dashboard_state(calendar_df: pd.DataFrame) -> None:
-    """Initialize session state with a random major league and its next matchday."""
+def seed_users() -> None:
+    if "users" not in st.session_state:
+        st.session_state["users"] = DEFAULT_USERS.copy()
+
+
+def authenticate(email: str, password: str) -> Optional[Dict[str, str]]:
+    users = st.session_state.get("users", {})
+    user = users.get(email)
+    if user and user.get("password") == password:
+        return {"email": email, "role": user.get("role", "free")}
+    return None
+
+
+def register_user(email: str, password: str, role: str = "free") -> bool:
+    users = st.session_state.get("users", {})
+    if email in users:
+        return False
+    users[email] = {"password": password, "role": role}
+    st.session_state["users"] = users
+    return True
+
+
+def role_allows_league(role: str, league: str) -> bool:
+    if role in ("premium", "admin"):
+        return True
+    if role == "free":
+        return league in FREE_LEAGUES
+    return False
+
+
+def init_dashboard_state(calendar_df: pd.DataFrame, allowed_leagues: List[str]) -> None:
+    """Initialize session state with a random allowed league and its next matchday."""
     if "active_league" in st.session_state and "active_matchday" in st.session_state:
         return
 
-    candidates = MAJOR_LEAGUES[:]
+    candidates = [l for l in MAJOR_LEAGUES if l in allowed_leagues] or allowed_leagues
     random.shuffle(candidates)
 
     chosen_league = None
@@ -489,7 +524,48 @@ def main() -> None:
 
     leagues = league_options(calendar_df)
     countries = country_options(calendar_df)
-    init_dashboard_state(calendar_df)
+    seed_users()
+
+    st.sidebar.markdown("### Account")
+    if "user" not in st.session_state:
+        with st.sidebar.form("login_form", clear_on_submit=False):
+            email = st.text_input("Email")
+            password = st.text_input("Password", type="password")
+            login_clicked = st.form_submit_button("Log in")
+        with st.sidebar.form("register_form", clear_on_submit=False):
+            reg_email = st.text_input("Register email")
+            reg_password = st.text_input("Register password", type="password")
+            reg_role = st.selectbox("Plan", ["free", "premium"])
+            register_clicked = st.form_submit_button("Register")
+        if login_clicked:
+            user = authenticate(email, password)
+            if user:
+                st.session_state["user"] = user
+                st.success(f"Logged in as {user['email']} ({user['role']})")
+            else:
+                st.error("Invalid credentials")
+        if register_clicked:
+            if register_user(reg_email, reg_password, role=reg_role):
+                st.success(f"Registered {reg_email} as {reg_role}. Please log in.")
+            else:
+                st.error("User already exists.")
+    else:
+        user = st.session_state["user"]
+        st.sidebar.success(f"Logged in as {user['email']} ({user['role']})")
+        if st.sidebar.button("Log out"):
+            st.session_state.pop("user")
+            st.experimental_rerun()
+
+    if "user" not in st.session_state:
+        st.info("Please log in or register to access dashboards and simulators.")
+        st.subheader("Plans")
+        st.markdown("- Free: access Premier League, Serie A, La Liga Primera dashboards.\n- Premium: access all leagues and simulators.")
+        return
+
+    role = st.session_state["user"]["role"]
+    allowed_leagues = leagues if role in ("premium", "admin") else [l for l in leagues if role_allows_league(role, l)]
+
+    init_dashboard_state(calendar_df, allowed_leagues)
     active_league = st.session_state.get("active_league")
     active_country = st.session_state.get("active_country")
     active_matchday = st.session_state.get("active_matchday")
@@ -503,6 +579,10 @@ def main() -> None:
     st.subheader("🔥 Hot Picks")
     if not active_league or active_matchday is None:
         st.info("No league/matchday available for hot picks.")
+    elif not role_allows_league(role, active_league):
+        st.warning(
+            "This league is locked for your plan. Upgrade to Premium to unlock this league and the simulator."
+        )
     else:
         st.markdown(
             f"<div class='muted'>League: {active_league} | Matchday {active_matchday}</div>",
@@ -538,47 +618,50 @@ def main() -> None:
 
     # Algorithmic Simulation (custom sandbox)
     st.subheader("🧪 Algorithmic Simulation (Sandbox)")
-    col_left, col_right = st.columns([1.2, 2])
-    with col_left:
-        country = st.selectbox("1) Country", countries)
-        leagues_in_country = sorted(calendar_df.loc[calendar_df["Country"] == country, "League"].dropna().unique())
-        league_choice = st.selectbox("2) League", leagues_in_country)
-        teams = sorted(
-            set(calendar_df.loc[calendar_df["League"] == league_choice, "Hometeam"]).union(
-                set(calendar_df.loc[calendar_df["League"] == league_choice, "Awayteam"])
-            )
-        )
-        home_team = st.selectbox("3) Home Team", teams, index=0 if teams else None)
-        away_team = st.selectbox("4) Away Team", [t for t in teams if t != home_team])
-        sim_iterations = st.slider("Simulations", min_value=2000, max_value=20000, step=2000, value=10000)
-        run_custom = st.button("Run Simulation", type="primary")
-    with col_right:
-        if run_custom:
-            strengths, league_avgs = compute_league_strengths(calendar_df, league_choice)
-            home_lambda, away_lambda = expected_goals(strengths, league_avgs, home_team, away_team)
-            prediction = simulate_match(home_lambda, away_lambda, iterations=int(sim_iterations))
-
-            left, right = st.columns([1, 2])
-            with left:
-                st.markdown("#### One simulated reality")
-                st.markdown(
-                    f"<div class='score-sample'>{prediction['sample_score'][0]} - {prediction['sample_score'][1]}</div>",
-                    unsafe_allow_html=True,
+    if role not in ("premium", "admin"):
+        st.info("Upgrade to Premium to unlock the simulator.")
+    else:
+        col_left, col_right = st.columns([1.2, 2])
+        with col_left:
+            country = st.selectbox("1) Country", countries)
+            leagues_in_country = sorted(calendar_df.loc[calendar_df["Country"] == country, "League"].dropna().unique())
+            league_choice = st.selectbox("2) League", leagues_in_country)
+            teams = sorted(
+                set(calendar_df.loc[calendar_df["League"] == league_choice, "Hometeam"]).union(
+                    set(calendar_df.loc[calendar_df["League"] == league_choice, "Awayteam"])
                 )
-                st.markdown(f"<div class='muted'>xG: {home_lambda:.2f} - {away_lambda:.2f}</div>", unsafe_allow_html=True)
-            with right:
-                st.markdown("#### Scorecard")
-                metrics = {
-                    "Home win": format_pct(prediction["home_win"]),
-                    "Draw": format_pct(prediction["draw"]),
-                    "Away win": format_pct(prediction["away_win"]),
-                    "Over 2.5": format_pct(prediction["over_2_5"]),
-                    "BTTS": format_pct(prediction["btts"]),
-                }
-                st.write(pd.DataFrame(metrics, index=["Probability"]).T)
-                st.markdown(render_top_scores(prediction["top_scores"]), unsafe_allow_html=True)
-        else:
-            st.info("Pick teams and hit Run Simulation to see a sample reality and the probabilities.")
+            )
+            home_team = st.selectbox("3) Home Team", teams, index=0 if teams else None)
+            away_team = st.selectbox("4) Away Team", [t for t in teams if t != home_team])
+            sim_iterations = st.slider("Simulations", min_value=2000, max_value=20000, step=2000, value=10000)
+            run_custom = st.button("Run Simulation", type="primary")
+        with col_right:
+            if run_custom:
+                strengths, league_avgs = compute_league_strengths(calendar_df, league_choice)
+                home_lambda, away_lambda = expected_goals(strengths, league_avgs, home_team, away_team)
+                prediction = simulate_match(home_lambda, away_lambda, iterations=int(sim_iterations))
+
+                left, right = st.columns([1, 2])
+                with left:
+                    st.markdown("#### One simulated reality")
+                    st.markdown(
+                        f"<div class='score-sample'>{prediction['sample_score'][0]} - {prediction['sample_score'][1]}</div>",
+                        unsafe_allow_html=True,
+                    )
+                    st.markdown(f"<div class='muted'>xG: {home_lambda:.2f} - {away_lambda:.2f}</div>", unsafe_allow_html=True)
+                with right:
+                    st.markdown("#### Scorecard")
+                    metrics = {
+                        "Home win": format_pct(prediction["home_win"]),
+                        "Draw": format_pct(prediction["draw"]),
+                        "Away win": format_pct(prediction["away_win"]),
+                        "Over 2.5": format_pct(prediction["over_2_5"]),
+                        "BTTS": format_pct(prediction["btts"]),
+                    }
+                    st.write(pd.DataFrame(metrics, index=["Probability"]).T)
+                    st.markdown(render_top_scores(prediction["top_scores"]), unsafe_allow_html=True)
+            else:
+                st.info("Pick teams and hit Run Simulation to see a sample reality and the probabilities.")
 
     st.markdown("---")
 
@@ -626,7 +709,10 @@ def main() -> None:
     active_league = dash_league
     active_country = dash_country
 
-    render_matchday_predictions(calendar_df, active_league, active_matchday)
+    if not role_allows_league(role, active_league):
+        st.warning("Upgrade to Premium to unlock this league and the simulator.")
+    else:
+        render_matchday_predictions(calendar_df, active_league, active_matchday)
 
 
 if __name__ == "__main__":
