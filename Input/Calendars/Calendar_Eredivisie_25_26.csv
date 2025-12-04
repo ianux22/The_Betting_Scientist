@@ -1,0 +1,307 @@
+Country,League,Matchday,Hometeam,Awayteam
+Netherlands,Eredivisie,1,For Sittard,Go Ahead Eagles
+Netherlands,Eredivisie,1,Nijmegen,Excelsior
+Netherlands,Eredivisie,1,Feyenoord,NAC Breda
+Netherlands,Eredivisie,1,Heerenveen,Volendam
+Netherlands,Eredivisie,1,PSV Eindhoven,Sparta Rotterdam
+Netherlands,Eredivisie,1,Zwolle,Twente
+Netherlands,Eredivisie,1,AZ Alkmaar,Groningen
+Netherlands,Eredivisie,1,Ajax,Telstar
+Netherlands,Eredivisie,1,Utrecht,Heracles
+Netherlands,Eredivisie,2,Telstar,Zwolle
+Netherlands,Eredivisie,2,Excelsior,Feyenoord
+Netherlands,Eredivisie,2,Heracles,Nijmegen
+Netherlands,Eredivisie,2,Groningen,Heerenveen
+Netherlands,Eredivisie,2,Go Ahead Eagles,Ajax
+Netherlands,Eredivisie,2,Sparta Rotterdam,Utrecht
+Netherlands,Eredivisie,2,Twente,PSV Eindhoven
+Netherlands,Eredivisie,2,Volendam,AZ Alkmaar
+Netherlands,Eredivisie,2,NAC Breda,For Sittard
+Netherlands,Eredivisie,3,Go Ahead Eagles,Sparta Rotterdam
+Netherlands,Eredivisie,3,PSV Eindhoven,Groningen
+Netherlands,Eredivisie,3,Telstar,Volendam
+Netherlands,Eredivisie,3,Heerenveen,Twente
+Netherlands,Eredivisie,3,Nijmegen,NAC Breda
+Netherlands,Eredivisie,3,Utrecht,Excelsior
+Netherlands,Eredivisie,3,Ajax,Heracles
+Netherlands,Eredivisie,3,Feyenoord,For Sittard
+Netherlands,Eredivisie,3,AZ Alkmaar,Zwolle
+Netherlands,Eredivisie,4,Groningen,Heracles
+Netherlands,Eredivisie,4,Volendam,Ajax
+Netherlands,Eredivisie,4,Heerenveen,Go Ahead Eagles
+Netherlands,Eredivisie,4,PSV Eindhoven,Telstar
+Netherlands,Eredivisie,4,Excelsior,Twente
+Netherlands,Eredivisie,4,For Sittard,Nijmegen
+Netherlands,Eredivisie,4,Sparta Rotterdam,Feyenoord
+Netherlands,Eredivisie,4,Zwolle,Utrecht
+Netherlands,Eredivisie,4,NAC Breda,AZ Alkmaar
+Netherlands,Eredivisie,5,Ajax,Zwolle
+Netherlands,Eredivisie,5,Nijmegen,PSV Eindhoven
+Netherlands,Eredivisie,5,Go Ahead Eagles,Volendam
+Netherlands,Eredivisie,5,Twente,NAC Breda
+Netherlands,Eredivisie,5,Feyenoord,Heerenveen
+Netherlands,Eredivisie,5,Excelsior,Sparta Rotterdam
+Netherlands,Eredivisie,5,Utrecht,Groningen
+Netherlands,Eredivisie,5,Heracles,AZ Alkmaar
+Netherlands,Eredivisie,5,Telstar,For Sittard
+Netherlands,Eredivisie,6,Sparta Rotterdam,Twente
+Netherlands,Eredivisie,6,Volendam,Excelsior
+Netherlands,Eredivisie,6,Groningen,Telstar
+Netherlands,Eredivisie,6,For Sittard,Utrecht
+Netherlands,Eredivisie,6,NAC Breda,Heracles
+Netherlands,Eredivisie,6,Zwolle,Go Ahead Eagles
+Netherlands,Eredivisie,6,PSV Eindhoven,Ajax
+Netherlands,Eredivisie,6,Heerenveen,Nijmegen
+Netherlands,Eredivisie,6,AZ Alkmaar,Feyenoord
+Netherlands,Eredivisie,7,Twente,For Sittard
+Netherlands,Eredivisie,7,Ajax,NAC Breda
+Netherlands,Eredivisie,7,Volendam,Zwolle
+Netherlands,Eredivisie,7,Excelsior,PSV Eindhoven
+Netherlands,Eredivisie,7,Heracles,Sparta Rotterdam
+Netherlands,Eredivisie,7,Nijmegen,AZ Alkmaar
+Netherlands,Eredivisie,7,Groningen,Feyenoord
+Netherlands,Eredivisie,7,Utrecht,Heerenveen
+Netherlands,Eredivisie,7,Telstar,Go Ahead Eagles
+Netherlands,Eredivisie,8,NAC Breda,Groningen
+Netherlands,Eredivisie,8,Sparta Rotterdam,Ajax
+Netherlands,Eredivisie,8,For Sittard,Volendam
+Netherlands,Eredivisie,8,Zwolle,PSV Eindhoven
+Netherlands,Eredivisie,8,Heerenveen,Excelsior
+Netherlands,Eredivisie,8,Twente,Heracles
+Netherlands,Eredivisie,8,Feyenoord,Utrecht
+Netherlands,Eredivisie,8,AZ Alkmaar,Telstar
+Netherlands,Eredivisie,8,Go Ahead Eagles,Nijmegen
+Netherlands,Eredivisie,9,Nijmegen,Twente
+Netherlands,Eredivisie,9,PSV Eindhoven,Go Ahead Eagles
+Netherlands,Eredivisie,9,Utrecht,Volendam
+Netherlands,Eredivisie,9,Ajax,AZ Alkmaar
+Netherlands,Eredivisie,9,NAC Breda,Zwolle
+Netherlands,Eredivisie,9,Telstar,Heerenveen
+Netherlands,Eredivisie,9,Excelsior,For Sittard
+Netherlands,Eredivisie,9,Groningen,Sparta Rotterdam
+Netherlands,Eredivisie,9,Heracles,Feyenoord
+Netherlands,Eredivisie,10,Heerenveen,NAC Breda
+Netherlands,Eredivisie,10,For Sittard,Groningen
+Netherlands,Eredivisie,10,Sparta Rotterdam,Telstar
+Netherlands,Eredivisie,10,Volendam,Heracles
+Netherlands,Eredivisie,10,Zwolle,Nijmegen
+Netherlands,Eredivisie,10,Twente,Ajax
+Netherlands,Eredivisie,10,Feyenoord,PSV Eindhoven
+Netherlands,Eredivisie,10,AZ Alkmaar,Utrecht
+Netherlands,Eredivisie,10,Go Ahead Eagles,Excelsior
+Netherlands,Eredivisie,11,PSV Eindhoven,For Sittard
+Netherlands,Eredivisie,11,Ajax,Heerenveen
+Netherlands,Eredivisie,11,NAC Breda,Go Ahead Eagles
+Netherlands,Eredivisie,11,Feyenoord,Volendam
+Netherlands,Eredivisie,11,Telstar,Excelsior
+Netherlands,Eredivisie,11,Heracles,Zwolle
+Netherlands,Eredivisie,11,Groningen,Twente
+Netherlands,Eredivisie,11,Sparta Rotterdam,AZ Alkmaar
+Netherlands,Eredivisie,11,Utrecht,Nijmegen
+Netherlands,Eredivisie,12,Twente,Telstar
+Netherlands,Eredivisie,12,Excelsior,Heracles
+Netherlands,Eredivisie,12,Volendam,NAC Breda
+Netherlands,Eredivisie,12,For Sittard,Heerenveen
+Netherlands,Eredivisie,12,Zwolle,Sparta Rotterdam
+Netherlands,Eredivisie,12,Utrecht,Ajax
+Netherlands,Eredivisie,12,Nijmegen,Groningen
+Netherlands,Eredivisie,12,AZ Alkmaar,PSV Eindhoven
+Netherlands,Eredivisie,12,Go Ahead Eagles,Feyenoord
+Netherlands,Eredivisie,13,NAC Breda,PSV Eindhoven
+Netherlands,Eredivisie,13,Ajax,Excelsior
+Netherlands,Eredivisie,13,Volendam,Twente
+Netherlands,Eredivisie,13,Heracles,Go Ahead Eagles
+Netherlands,Eredivisie,13,Sparta Rotterdam,For Sittard
+Netherlands,Eredivisie,13,Heerenveen,AZ Alkmaar
+Netherlands,Eredivisie,13,Feyenoord,Nijmegen
+Netherlands,Eredivisie,13,Telstar,Utrecht
+Netherlands,Eredivisie,13,Groningen,Zwolle
+Netherlands,Eredivisie,14,Zwolle,Heerenveen
+Netherlands,Eredivisie,14,Excelsior,NAC Breda
+Netherlands,Eredivisie,14,For Sittard,Heracles
+Netherlands,Eredivisie,14,Nijmegen,Sparta Rotterdam
+Netherlands,Eredivisie,14,PSV Eindhoven,Volendam
+Netherlands,Eredivisie,14,Telstar,Feyenoord
+Netherlands,Eredivisie,14,Go Ahead Eagles,Utrecht
+Netherlands,Eredivisie,14,Twente,AZ Alkmaar
+Netherlands,Eredivisie,14,Ajax,Groningen
+Netherlands,Eredivisie,15,Excelsior,Groningen
+Netherlands,Eredivisie,15,Heerenveen,PSV Eindhoven
+Netherlands,Eredivisie,15,For Sittard,Ajax
+Netherlands,Eredivisie,15,Heracles,Telstar
+Netherlands,Eredivisie,15,Feyenoord,Zwolle
+Netherlands,Eredivisie,15,Utrecht,Twente
+Netherlands,Eredivisie,15,AZ Alkmaar,Go Ahead Eagles
+Netherlands,Eredivisie,15,Volendam,Nijmegen
+Netherlands,Eredivisie,15,Sparta Rotterdam,NAC Breda
+Netherlands,Eredivisie,16,Telstar,Nijmegen
+Netherlands,Eredivisie,16,Groningen,Volendam
+Netherlands,Eredivisie,16,PSV Eindhoven,Heracles
+Netherlands,Eredivisie,16,Zwolle,For Sittard
+Netherlands,Eredivisie,16,Sparta Rotterdam,Heerenveen
+Netherlands,Eredivisie,16,Ajax,Feyenoord
+Netherlands,Eredivisie,16,Twente,Go Ahead Eagles
+Netherlands,Eredivisie,16,AZ Alkmaar,Excelsior
+Netherlands,Eredivisie,16,NAC Breda,Utrecht
+Netherlands,Eredivisie,17,Heracles,Heerenveen
+Netherlands,Eredivisie,17,Volendam,Sparta Rotterdam
+Netherlands,Eredivisie,17,Excelsior,Zwolle
+Netherlands,Eredivisie,17,Nijmegen,Ajax
+Netherlands,Eredivisie,17,NAC Breda,Telstar
+Netherlands,Eredivisie,17,Utrecht,PSV Eindhoven
+Netherlands,Eredivisie,17,Feyenoord,Twente
+Netherlands,Eredivisie,17,Go Ahead Eagles,Groningen
+Netherlands,Eredivisie,17,For Sittard,AZ Alkmaar
+Netherlands,Eredivisie,18,Nijmegen,Utrecht
+Netherlands,Eredivisie,18,AZ Alkmaar,Volendam
+Netherlands,Eredivisie,18,Twente,Zwolle
+Netherlands,Eredivisie,18,PSV Eindhoven,Excelsior
+Netherlands,Eredivisie,18,Groningen,NAC Breda
+Netherlands,Eredivisie,18,Heerenveen,Feyenoord
+Netherlands,Eredivisie,18,Telstar,Ajax
+Netherlands,Eredivisie,18,Go Ahead Eagles,For Sittard
+Netherlands,Eredivisie,18,Sparta Rotterdam,Heracles
+Netherlands,Eredivisie,19,Excelsior,Telstar
+Netherlands,Eredivisie,19,Ajax,Go Ahead Eagles
+Netherlands,Eredivisie,19,Zwolle,AZ Alkmaar
+Netherlands,Eredivisie,19,For Sittard,PSV Eindhoven
+Netherlands,Eredivisie,19,NAC Breda,Nijmegen
+Netherlands,Eredivisie,19,Heerenveen,Groningen
+Netherlands,Eredivisie,19,Volendam,Utrecht
+Netherlands,Eredivisie,19,Heracles,Twente
+Netherlands,Eredivisie,19,Feyenoord,Sparta Rotterdam
+Netherlands,Eredivisie,20,Ajax,Volendam
+Netherlands,Eredivisie,20,Nijmegen,Zwolle
+Netherlands,Eredivisie,20,PSV Eindhoven,NAC Breda
+Netherlands,Eredivisie,20,Twente,Excelsior
+Netherlands,Eredivisie,20,Telstar,AZ Alkmaar
+Netherlands,Eredivisie,20,Groningen,For Sittard
+Netherlands,Eredivisie,20,Feyenoord,Heracles
+Netherlands,Eredivisie,20,Utrecht,Sparta Rotterdam
+Netherlands,Eredivisie,20,Go Ahead Eagles,Heerenveen
+Netherlands,Eredivisie,21,NAC Breda,Twente
+Netherlands,Eredivisie,21,AZ Alkmaar,Nijmegen
+Netherlands,Eredivisie,21,Zwolle,Telstar
+Netherlands,Eredivisie,21,Sparta Rotterdam,Groningen
+Netherlands,Eredivisie,21,Excelsior,Ajax
+Netherlands,Eredivisie,21,Heracles,For Sittard
+Netherlands,Eredivisie,21,PSV Eindhoven,Feyenoord
+Netherlands,Eredivisie,21,Heerenveen,Utrecht
+Netherlands,Eredivisie,21,Volendam,Go Ahead Eagles
+Netherlands,Eredivisie,22,Twente,Heerenveen
+Netherlands,Eredivisie,22,Go Ahead Eagles,Telstar
+Netherlands,Eredivisie,22,AZ Alkmaar,Ajax
+Netherlands,Eredivisie,22,Utrecht,Feyenoord
+Netherlands,Eredivisie,22,Zwolle,Volendam
+Netherlands,Eredivisie,22,Groningen,PSV Eindhoven
+Netherlands,Eredivisie,22,Nijmegen,Heracles
+Netherlands,Eredivisie,22,For Sittard,Sparta Rotterdam
+Netherlands,Eredivisie,22,NAC Breda,Excelsior
+Netherlands,Eredivisie,23,Ajax,For Sittard
+Netherlands,Eredivisie,23,Sparta Rotterdam,Nijmegen
+Netherlands,Eredivisie,23,Telstar,Twente
+Netherlands,Eredivisie,23,Heracles,NAC Breda
+Netherlands,Eredivisie,23,Groningen,Utrecht
+Netherlands,Eredivisie,23,Excelsior,AZ Alkmaar
+Netherlands,Eredivisie,23,Volendam,PSV Eindhoven
+Netherlands,Eredivisie,23,Feyenoord,Go Ahead Eagles
+Netherlands,Eredivisie,23,Heerenveen,Zwolle
+Netherlands,Eredivisie,24,Twente,Groningen
+Netherlands,Eredivisie,24,Feyenoord,Telstar
+Netherlands,Eredivisie,24,For Sittard,Excelsior
+Netherlands,Eredivisie,24,AZ Alkmaar,Sparta Rotterdam
+Netherlands,Eredivisie,24,Ajax,Nijmegen
+Netherlands,Eredivisie,24,Go Ahead Eagles,Heracles
+Netherlands,Eredivisie,24,NAC Breda,Volendam
+Netherlands,Eredivisie,24,Utrecht,Zwolle
+Netherlands,Eredivisie,24,PSV Eindhoven,Heerenveen
+Netherlands,Eredivisie,25,Heracles,PSV Eindhoven
+Netherlands,Eredivisie,25,Utrecht,AZ Alkmaar
+Netherlands,Eredivisie,25,Zwolle,Ajax
+Netherlands,Eredivisie,25,Nijmegen,For Sittard
+Netherlands,Eredivisie,25,Telstar,NAC Breda
+Netherlands,Eredivisie,25,Heerenveen,Sparta Rotterdam
+Netherlands,Eredivisie,25,Excelsior,Go Ahead Eagles
+Netherlands,Eredivisie,25,Volendam,Groningen
+Netherlands,Eredivisie,25,Twente,Feyenoord
+Netherlands,Eredivisie,26,Nijmegen,Volendam
+Netherlands,Eredivisie,26,Go Ahead Eagles,Twente
+Netherlands,Eredivisie,26,Groningen,Ajax
+Netherlands,Eredivisie,26,Sparta Rotterdam,Zwolle
+Netherlands,Eredivisie,26,Excelsior,Heerenveen
+Netherlands,Eredivisie,26,NAC Breda,Feyenoord
+Netherlands,Eredivisie,26,Heracles,Utrecht
+Netherlands,Eredivisie,26,PSV Eindhoven,AZ Alkmaar
+Netherlands,Eredivisie,26,For Sittard,Telstar
+Netherlands,Eredivisie,27,AZ Alkmaar,Heracles
+Netherlands,Eredivisie,27,Feyenoord,Excelsior
+Netherlands,Eredivisie,27,Volendam,For Sittard
+Netherlands,Eredivisie,27,Ajax,Sparta Rotterdam
+Netherlands,Eredivisie,27,Twente,Utrecht
+Netherlands,Eredivisie,27,Go Ahead Eagles,NAC Breda
+Netherlands,Eredivisie,27,PSV Eindhoven,Nijmegen
+Netherlands,Eredivisie,27,Zwolle,Groningen
+Netherlands,Eredivisie,27,Heerenveen,Telstar
+Netherlands,Eredivisie,28,Heracles,Excelsior
+Netherlands,Eredivisie,28,Zwolle,NAC Breda
+Netherlands,Eredivisie,28,Groningen,AZ Alkmaar
+Netherlands,Eredivisie,28,Utrecht,Go Ahead Eagles
+Netherlands,Eredivisie,28,Feyenoord,Ajax
+Netherlands,Eredivisie,28,For Sittard,Twente
+Netherlands,Eredivisie,28,Sparta Rotterdam,Volendam
+Netherlands,Eredivisie,28,Nijmegen,Heerenveen
+Netherlands,Eredivisie,28,Telstar,PSV Eindhoven
+Netherlands,Eredivisie,29,AZ Alkmaar,For Sittard
+Netherlands,Eredivisie,29,Heerenveen,Heracles
+Netherlands,Eredivisie,29,PSV Eindhoven,Utrecht
+Netherlands,Eredivisie,29,Excelsior,Nijmegen
+Netherlands,Eredivisie,29,Volendam,Feyenoord
+Netherlands,Eredivisie,29,Telstar,Groningen
+Netherlands,Eredivisie,29,Go Ahead Eagles,Zwolle
+Netherlands,Eredivisie,29,NAC Breda,Sparta Rotterdam
+Netherlands,Eredivisie,29,Ajax,Twente
+Netherlands,Eredivisie,30,Heracles,Ajax
+Netherlands,Eredivisie,30,Sparta Rotterdam,PSV Eindhoven
+Netherlands,Eredivisie,30,Groningen,Go Ahead Eagles
+Netherlands,Eredivisie,30,Utrecht,Telstar
+Netherlands,Eredivisie,30,Zwolle,Excelsior
+Netherlands,Eredivisie,30,For Sittard,NAC Breda
+Netherlands,Eredivisie,30,Nijmegen,Feyenoord
+Netherlands,Eredivisie,30,AZ Alkmaar,Heerenveen
+Netherlands,Eredivisie,30,Twente,Volendam
+Netherlands,Eredivisie,31,Go Ahead Eagles,AZ Alkmaar
+Netherlands,Eredivisie,31,Feyenoord,Groningen
+Netherlands,Eredivisie,31,NAC Breda,Ajax
+Netherlands,Eredivisie,31,Twente,Nijmegen
+Netherlands,Eredivisie,31,Heracles,Volendam
+Netherlands,Eredivisie,31,Heerenveen,For Sittard
+Netherlands,Eredivisie,31,PSV Eindhoven,Zwolle
+Netherlands,Eredivisie,31,Excelsior,Utrecht
+Netherlands,Eredivisie,31,Telstar,Sparta Rotterdam
+Netherlands,Eredivisie,32,For Sittard,Feyenoord
+Netherlands,Eredivisie,32,Ajax,PSV Eindhoven
+Netherlands,Eredivisie,32,Groningen,Excelsior
+Netherlands,Eredivisie,32,Sparta Rotterdam,Go Ahead Eagles
+Netherlands,Eredivisie,32,Utrecht,NAC Breda
+Netherlands,Eredivisie,32,Nijmegen,Telstar
+Netherlands,Eredivisie,32,Zwolle,Heracles
+Netherlands,Eredivisie,32,AZ Alkmaar,Twente
+Netherlands,Eredivisie,32,Volendam,Heerenveen
+Netherlands,Eredivisie,33,Groningen,Nijmegen
+Netherlands,Eredivisie,33,For Sittard,Zwolle
+Netherlands,Eredivisie,33,Go Ahead Eagles,PSV Eindhoven
+Netherlands,Eredivisie,33,Ajax,Utrecht
+Netherlands,Eredivisie,33,Twente,Sparta Rotterdam
+Netherlands,Eredivisie,33,NAC Breda,Heerenveen
+Netherlands,Eredivisie,33,Telstar,Heracles
+Netherlands,Eredivisie,33,Feyenoord,AZ Alkmaar
+Netherlands,Eredivisie,33,Excelsior,Volendam
+Netherlands,Eredivisie,34,Heracles,Groningen
+Netherlands,Eredivisie,34,Sparta Rotterdam,Excelsior
+Netherlands,Eredivisie,34,Nijmegen,Go Ahead Eagles
+Netherlands,Eredivisie,34,Volendam,Telstar
+Netherlands,Eredivisie,34,Zwolle,Feyenoord
+Netherlands,Eredivisie,34,Utrecht,For Sittard
+Netherlands,Eredivisie,34,Heerenveen,Ajax
+Netherlands,Eredivisie,34,PSV Eindhoven,Twente
+Netherlands,Eredivisie,34,AZ Alkmaar,NAC Breda

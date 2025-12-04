@@ -1,0 +1,307 @@
+Country,League,Matchday,Hometeam,Awayteam
+Germany,Bundesliga 1,1,Bayern Munich,RB Leipzig
+Germany,Bundesliga 1,1,Heidenheim,Wolfsburg
+Germany,Bundesliga 1,1,Union Berlin,Stuttgart
+Germany,Bundesliga 1,1,Freiburg,Augsburg
+Germany,Bundesliga 1,1,Ein Frankfurt,Werder Bremen
+Germany,Bundesliga 1,1,Leverkusen,Hoffenheim
+Germany,Bundesliga 1,1,St Pauli,Dortmund
+Germany,Bundesliga 1,1,Mainz,FC Koln
+Germany,Bundesliga 1,1,M'gladbach,Hamburg
+Germany,Bundesliga 1,2,Hamburg,St Pauli
+Germany,Bundesliga 1,2,Hoffenheim,Ein Frankfurt
+Germany,Bundesliga 1,2,Stuttgart,M'gladbach
+Germany,Bundesliga 1,2,Werder Bremen,Leverkusen
+Germany,Bundesliga 1,2,RB Leipzig,Heidenheim
+Germany,Bundesliga 1,2,Augsburg,Bayern Munich
+Germany,Bundesliga 1,2,Wolfsburg,Mainz
+Germany,Bundesliga 1,2,Dortmund,Union Berlin
+Germany,Bundesliga 1,2,FC Koln,Freiburg
+Germany,Bundesliga 1,3,Leverkusen,Ein Frankfurt
+Germany,Bundesliga 1,3,Heidenheim,Dortmund
+Germany,Bundesliga 1,3,Union Berlin,Hoffenheim
+Germany,Bundesliga 1,3,Wolfsburg,FC Koln
+Germany,Bundesliga 1,3,Mainz,RB Leipzig
+Germany,Bundesliga 1,3,Freiburg,Stuttgart
+Germany,Bundesliga 1,3,Bayern Munich,Hamburg
+Germany,Bundesliga 1,3,St Pauli,Augsburg
+Germany,Bundesliga 1,3,M'gladbach,Werder Bremen
+Germany,Bundesliga 1,4,Stuttgart,St Pauli
+Germany,Bundesliga 1,4,Hamburg,Heidenheim
+Germany,Bundesliga 1,4,Hoffenheim,Bayern Munich
+Germany,Bundesliga 1,4,Augsburg,Mainz
+Germany,Bundesliga 1,4,Werder Bremen,Freiburg
+Germany,Bundesliga 1,4,RB Leipzig,FC Koln
+Germany,Bundesliga 1,4,Ein Frankfurt,Union Berlin
+Germany,Bundesliga 1,4,Leverkusen,M'gladbach
+Germany,Bundesliga 1,4,Dortmund,Wolfsburg
+Germany,Bundesliga 1,5,Bayern Munich,Werder Bremen
+Germany,Bundesliga 1,5,Heidenheim,Augsburg
+Germany,Bundesliga 1,5,St Pauli,Leverkusen
+Germany,Bundesliga 1,5,Wolfsburg,RB Leipzig
+Germany,Bundesliga 1,5,Mainz,Dortmund
+Germany,Bundesliga 1,5,M'gladbach,Ein Frankfurt
+Germany,Bundesliga 1,5,Freiburg,Hoffenheim
+Germany,Bundesliga 1,5,FC Koln,Stuttgart
+Germany,Bundesliga 1,5,Union Berlin,Hamburg
+Germany,Bundesliga 1,6,Hoffenheim,FC Koln
+Germany,Bundesliga 1,6,Augsburg,Wolfsburg
+Germany,Bundesliga 1,6,Werder Bremen,St Pauli
+Germany,Bundesliga 1,6,Dortmund,RB Leipzig
+Germany,Bundesliga 1,6,Leverkusen,Union Berlin
+Germany,Bundesliga 1,6,Ein Frankfurt,Bayern Munich
+Germany,Bundesliga 1,6,Stuttgart,Heidenheim
+Germany,Bundesliga 1,6,Hamburg,Mainz
+Germany,Bundesliga 1,6,M'gladbach,Freiburg
+Germany,Bundesliga 1,7,Union Berlin,M'gladbach
+Germany,Bundesliga 1,7,FC Koln,Augsburg
+Germany,Bundesliga 1,7,Heidenheim,Werder Bremen
+Germany,Bundesliga 1,7,Wolfsburg,Stuttgart
+Germany,Bundesliga 1,7,RB Leipzig,Hamburg
+Germany,Bundesliga 1,7,Mainz,Leverkusen
+Germany,Bundesliga 1,7,Bayern Munich,Dortmund
+Germany,Bundesliga 1,7,Freiburg,Ein Frankfurt
+Germany,Bundesliga 1,7,St Pauli,Hoffenheim
+Germany,Bundesliga 1,8,Werder Bremen,Union Berlin
+Germany,Bundesliga 1,8,Hamburg,Wolfsburg
+Germany,Bundesliga 1,8,Hoffenheim,Heidenheim
+Germany,Bundesliga 1,8,Augsburg,RB Leipzig
+Germany,Bundesliga 1,8,M'gladbach,Bayern Munich
+Germany,Bundesliga 1,8,Ein Frankfurt,St Pauli
+Germany,Bundesliga 1,8,Dortmund,FC Koln
+Germany,Bundesliga 1,8,Leverkusen,Freiburg
+Germany,Bundesliga 1,8,Stuttgart,Mainz
+Germany,Bundesliga 1,9,Augsburg,Dortmund
+Germany,Bundesliga 1,9,Heidenheim,Ein Frankfurt
+Germany,Bundesliga 1,9,St Pauli,M'gladbach
+Germany,Bundesliga 1,9,Union Berlin,Freiburg
+Germany,Bundesliga 1,9,RB Leipzig,Stuttgart
+Germany,Bundesliga 1,9,Mainz,Werder Bremen
+Germany,Bundesliga 1,9,Bayern Munich,Leverkusen
+Germany,Bundesliga 1,9,FC Koln,Hamburg
+Germany,Bundesliga 1,9,Wolfsburg,Hoffenheim
+Germany,Bundesliga 1,10,Werder Bremen,Wolfsburg
+Germany,Bundesliga 1,10,Hamburg,Dortmund
+Germany,Bundesliga 1,10,Hoffenheim,RB Leipzig
+Germany,Bundesliga 1,10,Union Berlin,Bayern Munich
+Germany,Bundesliga 1,10,Leverkusen,Heidenheim
+Germany,Bundesliga 1,10,M'gladbach,FC Koln
+Germany,Bundesliga 1,10,Freiburg,St Pauli
+Germany,Bundesliga 1,10,Stuttgart,Augsburg
+Germany,Bundesliga 1,10,Ein Frankfurt,Mainz
+Germany,Bundesliga 1,11,Mainz,Hoffenheim
+Germany,Bundesliga 1,11,Heidenheim,M'gladbach
+Germany,Bundesliga 1,11,Augsburg,Hamburg
+Germany,Bundesliga 1,11,Wolfsburg,Leverkusen
+Germany,Bundesliga 1,11,Dortmund,Stuttgart
+Germany,Bundesliga 1,11,Bayern Munich,Freiburg
+Germany,Bundesliga 1,11,FC Koln,Ein Frankfurt
+Germany,Bundesliga 1,11,RB Leipzig,Werder Bremen
+Germany,Bundesliga 1,11,St Pauli,Union Berlin
+Germany,Bundesliga 1,12,M'gladbach,RB Leipzig
+Germany,Bundesliga 1,12,Hoffenheim,Augsburg
+Germany,Bundesliga 1,12,Union Berlin,Heidenheim
+Germany,Bundesliga 1,12,Werder Bremen,FC Koln
+Germany,Bundesliga 1,12,Bayern Munich,St Pauli
+Germany,Bundesliga 1,12,Leverkusen,Dortmund
+Germany,Bundesliga 1,12,Hamburg,Stuttgart
+Germany,Bundesliga 1,12,Ein Frankfurt,Wolfsburg
+Germany,Bundesliga 1,12,Freiburg,Mainz
+Germany,Bundesliga 1,13,Hamburg,Werder Bremen
+Germany,Bundesliga 1,13,FC Koln,St Pauli
+Germany,Bundesliga 1,13,Heidenheim,Freiburg
+Germany,Bundesliga 1,13,Augsburg,Leverkusen
+Germany,Bundesliga 1,13,Wolfsburg,Union Berlin
+Germany,Bundesliga 1,13,Stuttgart,Bayern Munich
+Germany,Bundesliga 1,13,RB Leipzig,Ein Frankfurt
+Germany,Bundesliga 1,13,Mainz,M'gladbach
+Germany,Bundesliga 1,13,Dortmund,Hoffenheim
+Germany,Bundesliga 1,14,Hoffenheim,Hamburg
+Germany,Bundesliga 1,14,St Pauli,Heidenheim
+Germany,Bundesliga 1,14,Union Berlin,RB Leipzig
+Germany,Bundesliga 1,14,M'gladbach,Wolfsburg
+Germany,Bundesliga 1,14,Werder Bremen,Stuttgart
+Germany,Bundesliga 1,14,Freiburg,Dortmund
+Germany,Bundesliga 1,14,Ein Frankfurt,Augsburg
+Germany,Bundesliga 1,14,Leverkusen,FC Koln
+Germany,Bundesliga 1,14,Bayern Munich,Mainz
+Germany,Bundesliga 1,15,Hamburg,Ein Frankfurt
+Germany,Bundesliga 1,15,FC Koln,Union Berlin
+Germany,Bundesliga 1,15,Heidenheim,Bayern Munich
+Germany,Bundesliga 1,15,Augsburg,Werder Bremen
+Germany,Bundesliga 1,15,Wolfsburg,Freiburg
+Germany,Bundesliga 1,15,Stuttgart,Hoffenheim
+Germany,Bundesliga 1,15,RB Leipzig,Leverkusen
+Germany,Bundesliga 1,15,Mainz,St Pauli
+Germany,Bundesliga 1,15,Dortmund,M'gladbach
+Germany,Bundesliga 1,16,Heidenheim,FC Koln
+Germany,Bundesliga 1,16,St Pauli,RB Leipzig
+Germany,Bundesliga 1,16,Union Berlin,Mainz
+Germany,Bundesliga 1,16,M'gladbach,Augsburg
+Germany,Bundesliga 1,16,Werder Bremen,Hoffenheim
+Germany,Bundesliga 1,16,Freiburg,Hamburg
+Germany,Bundesliga 1,16,Ein Frankfurt,Dortmund
+Germany,Bundesliga 1,16,Leverkusen,Stuttgart
+Germany,Bundesliga 1,16,Bayern Munich,Wolfsburg
+Germany,Bundesliga 1,17,Hamburg,Leverkusen
+Germany,Bundesliga 1,17,FC Koln,Bayern Munich
+Germany,Bundesliga 1,17,Hoffenheim,M'gladbach
+Germany,Bundesliga 1,17,Augsburg,Union Berlin
+Germany,Bundesliga 1,17,Wolfsburg,St Pauli
+Germany,Bundesliga 1,17,Stuttgart,Ein Frankfurt
+Germany,Bundesliga 1,17,RB Leipzig,Freiburg
+Germany,Bundesliga 1,17,Mainz,Heidenheim
+Germany,Bundesliga 1,17,Dortmund,Werder Bremen
+Germany,Bundesliga 1,18,Hamburg,M'gladbach
+Germany,Bundesliga 1,18,FC Koln,Mainz
+Germany,Bundesliga 1,18,Hoffenheim,Leverkusen
+Germany,Bundesliga 1,18,Augsburg,Freiburg
+Germany,Bundesliga 1,18,Wolfsburg,Heidenheim
+Germany,Bundesliga 1,18,Stuttgart,Union Berlin
+Germany,Bundesliga 1,18,Werder Bremen,Ein Frankfurt
+Germany,Bundesliga 1,18,RB Leipzig,Bayern Munich
+Germany,Bundesliga 1,18,Dortmund,St Pauli
+Germany,Bundesliga 1,19,Heidenheim,RB Leipzig
+Germany,Bundesliga 1,19,St Pauli,Hamburg
+Germany,Bundesliga 1,19,Union Berlin,Dortmund
+Germany,Bundesliga 1,19,M'gladbach,Stuttgart
+Germany,Bundesliga 1,19,Mainz,Wolfsburg
+Germany,Bundesliga 1,19,Freiburg,FC Koln
+Germany,Bundesliga 1,19,Ein Frankfurt,Hoffenheim
+Germany,Bundesliga 1,19,Leverkusen,Werder Bremen
+Germany,Bundesliga 1,19,Bayern Munich,Augsburg
+Germany,Bundesliga 1,20,Hamburg,Bayern Munich
+Germany,Bundesliga 1,20,FC Koln,Wolfsburg
+Germany,Bundesliga 1,20,Hoffenheim,Union Berlin
+Germany,Bundesliga 1,20,Augsburg,St Pauli
+Germany,Bundesliga 1,20,Stuttgart,Freiburg
+Germany,Bundesliga 1,20,Werder Bremen,M'gladbach
+Germany,Bundesliga 1,20,RB Leipzig,Mainz
+Germany,Bundesliga 1,20,Dortmund,Heidenheim
+Germany,Bundesliga 1,20,Ein Frankfurt,Leverkusen
+Germany,Bundesliga 1,21,FC Koln,RB Leipzig
+Germany,Bundesliga 1,21,Heidenheim,Hamburg
+Germany,Bundesliga 1,21,St Pauli,Stuttgart
+Germany,Bundesliga 1,21,Union Berlin,Ein Frankfurt
+Germany,Bundesliga 1,21,Wolfsburg,Dortmund
+Germany,Bundesliga 1,21,M'gladbach,Leverkusen
+Germany,Bundesliga 1,21,Mainz,Augsburg
+Germany,Bundesliga 1,21,Freiburg,Werder Bremen
+Germany,Bundesliga 1,21,Bayern Munich,Hoffenheim
+Germany,Bundesliga 1,22,Hamburg,Union Berlin
+Germany,Bundesliga 1,22,Hoffenheim,Freiburg
+Germany,Bundesliga 1,22,Augsburg,Heidenheim
+Germany,Bundesliga 1,22,Stuttgart,FC Koln
+Germany,Bundesliga 1,22,Werder Bremen,Bayern Munich
+Germany,Bundesliga 1,22,RB Leipzig,Wolfsburg
+Germany,Bundesliga 1,22,Dortmund,Mainz
+Germany,Bundesliga 1,22,Ein Frankfurt,M'gladbach
+Germany,Bundesliga 1,22,Leverkusen,St Pauli
+Germany,Bundesliga 1,23,FC Koln,Hoffenheim
+Germany,Bundesliga 1,23,Heidenheim,Stuttgart
+Germany,Bundesliga 1,23,St Pauli,Werder Bremen
+Germany,Bundesliga 1,23,Union Berlin,Leverkusen
+Germany,Bundesliga 1,23,Wolfsburg,Augsburg
+Germany,Bundesliga 1,23,RB Leipzig,Dortmund
+Germany,Bundesliga 1,23,Mainz,Hamburg
+Germany,Bundesliga 1,23,Freiburg,M'gladbach
+Germany,Bundesliga 1,23,Bayern Munich,Ein Frankfurt
+Germany,Bundesliga 1,24,Hamburg,RB Leipzig
+Germany,Bundesliga 1,24,Hoffenheim,St Pauli
+Germany,Bundesliga 1,24,Augsburg,FC Koln
+Germany,Bundesliga 1,24,M'gladbach,Union Berlin
+Germany,Bundesliga 1,24,Stuttgart,Wolfsburg
+Germany,Bundesliga 1,24,Werder Bremen,Heidenheim
+Germany,Bundesliga 1,24,Dortmund,Bayern Munich
+Germany,Bundesliga 1,24,Ein Frankfurt,Freiburg
+Germany,Bundesliga 1,24,Leverkusen,Mainz
+Germany,Bundesliga 1,25,FC Koln,Dortmund
+Germany,Bundesliga 1,25,Heidenheim,Hoffenheim
+Germany,Bundesliga 1,25,St Pauli,Ein Frankfurt
+Germany,Bundesliga 1,25,Union Berlin,Werder Bremen
+Germany,Bundesliga 1,25,Wolfsburg,Hamburg
+Germany,Bundesliga 1,25,RB Leipzig,Augsburg
+Germany,Bundesliga 1,25,Mainz,Stuttgart
+Germany,Bundesliga 1,25,Freiburg,Leverkusen
+Germany,Bundesliga 1,25,Bayern Munich,M'gladbach
+Germany,Bundesliga 1,26,Hamburg,FC Koln
+Germany,Bundesliga 1,26,Hoffenheim,Wolfsburg
+Germany,Bundesliga 1,26,M'gladbach,St Pauli
+Germany,Bundesliga 1,26,Stuttgart,RB Leipzig
+Germany,Bundesliga 1,26,Werder Bremen,Mainz
+Germany,Bundesliga 1,26,Freiburg,Union Berlin
+Germany,Bundesliga 1,26,Dortmund,Augsburg
+Germany,Bundesliga 1,26,Ein Frankfurt,Heidenheim
+Germany,Bundesliga 1,26,Leverkusen,Bayern Munich
+Germany,Bundesliga 1,27,FC Koln,M'gladbach
+Germany,Bundesliga 1,27,Heidenheim,Leverkusen
+Germany,Bundesliga 1,27,St Pauli,Freiburg
+Germany,Bundesliga 1,27,Augsburg,Stuttgart
+Germany,Bundesliga 1,27,Wolfsburg,Werder Bremen
+Germany,Bundesliga 1,27,RB Leipzig,Hoffenheim
+Germany,Bundesliga 1,27,Mainz,Ein Frankfurt
+Germany,Bundesliga 1,27,Dortmund,Hamburg
+Germany,Bundesliga 1,27,Bayern Munich,Union Berlin
+Germany,Bundesliga 1,28,Hamburg,Augsburg
+Germany,Bundesliga 1,28,Hoffenheim,Mainz
+Germany,Bundesliga 1,28,Union Berlin,St Pauli
+Germany,Bundesliga 1,28,M'gladbach,Heidenheim
+Germany,Bundesliga 1,28,Stuttgart,Dortmund
+Germany,Bundesliga 1,28,Werder Bremen,RB Leipzig
+Germany,Bundesliga 1,28,Freiburg,Bayern Munich
+Germany,Bundesliga 1,28,Ein Frankfurt,FC Koln
+Germany,Bundesliga 1,28,Leverkusen,Wolfsburg
+Germany,Bundesliga 1,29,FC Koln,Werder Bremen
+Germany,Bundesliga 1,29,Heidenheim,Union Berlin
+Germany,Bundesliga 1,29,St Pauli,Bayern Munich
+Germany,Bundesliga 1,29,Augsburg,Hoffenheim
+Germany,Bundesliga 1,29,Wolfsburg,Ein Frankfurt
+Germany,Bundesliga 1,29,Stuttgart,Hamburg
+Germany,Bundesliga 1,29,RB Leipzig,M'gladbach
+Germany,Bundesliga 1,29,Mainz,Freiburg
+Germany,Bundesliga 1,29,Dortmund,Leverkusen
+Germany,Bundesliga 1,30,Hoffenheim,Dortmund
+Germany,Bundesliga 1,30,St Pauli,FC Koln
+Germany,Bundesliga 1,30,Union Berlin,Wolfsburg
+Germany,Bundesliga 1,30,M'gladbach,Mainz
+Germany,Bundesliga 1,30,Werder Bremen,Hamburg
+Germany,Bundesliga 1,30,Freiburg,Heidenheim
+Germany,Bundesliga 1,30,Ein Frankfurt,RB Leipzig
+Germany,Bundesliga 1,30,Leverkusen,Augsburg
+Germany,Bundesliga 1,30,Bayern Munich,Stuttgart
+Germany,Bundesliga 1,31,Hamburg,Hoffenheim
+Germany,Bundesliga 1,31,FC Koln,Leverkusen
+Germany,Bundesliga 1,31,Heidenheim,St Pauli
+Germany,Bundesliga 1,31,Augsburg,Ein Frankfurt
+Germany,Bundesliga 1,31,Wolfsburg,M'gladbach
+Germany,Bundesliga 1,31,Stuttgart,Werder Bremen
+Germany,Bundesliga 1,31,RB Leipzig,Union Berlin
+Germany,Bundesliga 1,31,Mainz,Bayern Munich
+Germany,Bundesliga 1,31,Dortmund,Freiburg
+Germany,Bundesliga 1,32,Hoffenheim,Stuttgart
+Germany,Bundesliga 1,32,St Pauli,Mainz
+Germany,Bundesliga 1,32,Union Berlin,FC Koln
+Germany,Bundesliga 1,32,M'gladbach,Dortmund
+Germany,Bundesliga 1,32,Werder Bremen,Augsburg
+Germany,Bundesliga 1,32,Freiburg,Wolfsburg
+Germany,Bundesliga 1,32,Ein Frankfurt,Hamburg
+Germany,Bundesliga 1,32,Leverkusen,RB Leipzig
+Germany,Bundesliga 1,32,Bayern Munich,Heidenheim
+Germany,Bundesliga 1,33,Hamburg,Freiburg
+Germany,Bundesliga 1,33,FC Koln,Heidenheim
+Germany,Bundesliga 1,33,Hoffenheim,Werder Bremen
+Germany,Bundesliga 1,33,Augsburg,M'gladbach
+Germany,Bundesliga 1,33,Wolfsburg,Bayern Munich
+Germany,Bundesliga 1,33,Stuttgart,Leverkusen
+Germany,Bundesliga 1,33,RB Leipzig,St Pauli
+Germany,Bundesliga 1,33,Mainz,Union Berlin
+Germany,Bundesliga 1,33,Dortmund,Ein Frankfurt
+Germany,Bundesliga 1,34,Heidenheim,Mainz
+Germany,Bundesliga 1,34,St Pauli,Wolfsburg
+Germany,Bundesliga 1,34,Union Berlin,Augsburg
+Germany,Bundesliga 1,34,M'gladbach,Hoffenheim
+Germany,Bundesliga 1,34,Werder Bremen,Dortmund
+Germany,Bundesliga 1,34,Freiburg,RB Leipzig
+Germany,Bundesliga 1,34,Ein Frankfurt,Stuttgart
+Germany,Bundesliga 1,34,Leverkusen,Hamburg
+Germany,Bundesliga 1,34,Bayern Munich,FC Koln

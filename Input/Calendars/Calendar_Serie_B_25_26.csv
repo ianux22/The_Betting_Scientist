@@ -1,0 +1,381 @@
+Country,League,Matchday,Hometeam,Awayteam
+Italy,Serie B,1,Sampdoria,Modena
+Italy,Serie B,1,Catanzaro,Sudtirol
+Italy,Serie B,1,Frosinone,Avellino
+Italy,Serie B,1,Spezia,Carrarese
+Italy,Serie B,1,Venezia,Bari
+Italy,Serie B,1,Monza,Mantova
+Italy,Serie B,1,Palermo,Reggiana
+Italy,Serie B,1,Empoli,Padova
+Italy,Serie B,1,Virtus Entella,Juve Stabia
+Italy,Serie B,1,Pescara,Cesena
+Italy,Serie B,2,Bari,Monza
+Italy,Serie B,2,Modena,Avellino
+Italy,Serie B,2,Carrarese,Padova
+Italy,Serie B,2,Sudtirol,Sampdoria
+Italy,Serie B,2,Cesena,Virtus Entella
+Italy,Serie B,2,Palermo,Frosinone
+Italy,Serie B,2,Spezia,Catanzaro
+Italy,Serie B,2,Juve Stabia,Venezia
+Italy,Serie B,2,Mantova,Pescara
+Italy,Serie B,2,Reggiana,Empoli
+Italy,Serie B,3,Empoli,Spezia
+Italy,Serie B,3,Sudtirol,Palermo
+Italy,Serie B,3,Virtus Entella,Mantova
+Italy,Serie B,3,Sampdoria,Cesena
+Italy,Serie B,3,Catanzaro,Carrarese
+Italy,Serie B,3,Juve Stabia,Reggiana
+Italy,Serie B,3,Modena,Bari
+Italy,Serie B,3,Padova,Frosinone
+Italy,Serie B,3,Pescara,Venezia
+Italy,Serie B,3,Avellino,Monza
+Italy,Serie B,4,Padova,Virtus Entella
+Italy,Serie B,4,Pescara,Empoli
+Italy,Serie B,4,Carrarese,Avellino
+Italy,Serie B,4,Mantova,Modena
+Italy,Serie B,4,Monza,Sampdoria
+Italy,Serie B,4,Reggiana,Catanzaro
+Italy,Serie B,4,Spezia,Juve Stabia
+Italy,Serie B,4,Venezia,Cesena
+Italy,Serie B,4,Palermo,Bari
+Italy,Serie B,4,Frosinone,Sudtirol
+Italy,Serie B,5,Empoli,Carrarese
+Italy,Serie B,5,Modena,Pescara
+Italy,Serie B,5,Bari,Sampdoria
+Italy,Serie B,5,Monza,Padova
+Italy,Serie B,5,Avellino,Virtus Entella
+Italy,Serie B,5,Cesena,Palermo
+Italy,Serie B,5,Mantova,Frosinone
+Italy,Serie B,5,Sudtirol,Reggiana
+Italy,Serie B,5,Venezia,Spezia
+Italy,Serie B,5,Catanzaro,Juve Stabia
+Italy,Serie B,6,Carrarese,Modena
+Italy,Serie B,6,Empoli,Monza
+Italy,Serie B,6,Pescara,Sudtirol
+Italy,Serie B,6,Sampdoria,Catanzaro
+Italy,Serie B,6,Virtus Entella,Bari
+Italy,Serie B,6,Frosinone,Cesena
+Italy,Serie B,6,Juve Stabia,Mantova
+Italy,Serie B,6,Padova,Avellino
+Italy,Serie B,6,Palermo,Venezia
+Italy,Serie B,6,Reggiana,Spezia
+Italy,Serie B,7,Modena,Virtus Entella
+Italy,Serie B,7,Sampdoria,Pescara
+Italy,Serie B,7,Carrarese,Juve Stabia
+Italy,Serie B,7,Sudtirol,Empoli
+Italy,Serie B,7,Cesena,Reggiana
+Italy,Serie B,7,Spezia,Palermo
+Italy,Serie B,7,Avellino,Mantova
+Italy,Serie B,7,Bari,Padova
+Italy,Serie B,7,Monza,Catanzaro
+Italy,Serie B,7,Venezia,Frosinone
+Italy,Serie B,8,Catanzaro,Padova
+Italy,Serie B,8,Empoli,Venezia
+Italy,Serie B,8,Palermo,Modena
+Italy,Serie B,8,Spezia,Cesena
+Italy,Serie B,8,Juve Stabia,Avellino
+Italy,Serie B,8,Frosinone,Monza
+Italy,Serie B,8,Mantova,Sudtirol
+Italy,Serie B,8,Pescara,Carrarese
+Italy,Serie B,8,Reggiana,Bari
+Italy,Serie B,8,Virtus Entella,Sampdoria
+Italy,Serie B,9,Bari,Mantova
+Italy,Serie B,9,Padova,Juve Stabia
+Italy,Serie B,9,Catanzaro,Palermo
+Italy,Serie B,9,Carrarese,Venezia
+Italy,Serie B,9,Avellino,Spezia
+Italy,Serie B,9,Virtus Entella,Pescara
+Italy,Serie B,9,Monza,Reggiana
+Italy,Serie B,9,Sampdoria,Frosinone
+Italy,Serie B,9,Sudtirol,Cesena
+Italy,Serie B,9,Modena,Empoli
+Italy,Serie B,10,Mantova,Catanzaro
+Italy,Serie B,10,Spezia,Padova
+Italy,Serie B,10,Venezia,Sudtirol
+Italy,Serie B,10,Cesena,Carrarese
+Italy,Serie B,10,Empoli,Sampdoria
+Italy,Serie B,10,Frosinone,Virtus Entella
+Italy,Serie B,10,Palermo,Monza
+Italy,Serie B,10,Pescara,Avellino
+Italy,Serie B,10,Reggiana,Modena
+Italy,Serie B,10,Juve Stabia,Bari
+Italy,Serie B,11,Sampdoria,Mantova
+Italy,Serie B,11,Monza,Spezia
+Italy,Serie B,11,Bari,Cesena
+Italy,Serie B,11,Catanzaro,Venezia
+Italy,Serie B,11,Modena,Juve Stabia
+Italy,Serie B,11,Palermo,Pescara
+Italy,Serie B,11,Virtus Entella,Empoli
+Italy,Serie B,11,Carrarese,Frosinone
+Italy,Serie B,11,Padova,Sudtirol
+Italy,Serie B,11,Avellino,Reggiana
+Italy,Serie B,12,Pescara,Monza
+Italy,Serie B,12,Cesena,Avellino
+Italy,Serie B,12,Venezia,Sampdoria
+Italy,Serie B,12,Juve Stabia,Palermo
+Italy,Serie B,12,Empoli,Catanzaro
+Italy,Serie B,12,Frosinone,Modena
+Italy,Serie B,12,Mantova,Padova
+Italy,Serie B,12,Reggiana,Virtus Entella
+Italy,Serie B,12,Sudtirol,Carrarese
+Italy,Serie B,12,Spezia,Bari
+Italy,Serie B,13,Sampdoria,Juve Stabia
+Italy,Serie B,13,Monza,Cesena
+Italy,Serie B,13,Mantova,Spezia
+Italy,Serie B,13,Modena,Sudtirol
+Italy,Serie B,13,Bari,Frosinone
+Italy,Serie B,13,Padova,Venezia
+Italy,Serie B,13,Avellino,Empoli
+Italy,Serie B,13,Carrarese,Reggiana
+Italy,Serie B,13,Virtus Entella,Palermo
+Italy,Serie B,13,Catanzaro,Pescara
+Italy,Serie B,14,Spezia,Sampdoria
+Italy,Serie B,14,Juve Stabia,Monza
+Italy,Serie B,14,Palermo,Carrarese
+Italy,Serie B,14,Catanzaro,Virtus Entella
+Italy,Serie B,14,Empoli,Bari
+Italy,Serie B,14,Pescara,Padova
+Italy,Serie B,14,Reggiana,Frosinone
+Italy,Serie B,14,Sudtirol,Avellino
+Italy,Serie B,14,Venezia,Mantova
+Italy,Serie B,14,Cesena,Modena
+Italy,Serie B,15,Empoli,Palermo
+Italy,Serie B,15,Sampdoria,Carrarese
+Italy,Serie B,15,Modena,Catanzaro
+Italy,Serie B,15,Avellino,Venezia
+Italy,Serie B,15,Frosinone,Juve Stabia
+Italy,Serie B,15,Mantova,Reggiana
+Italy,Serie B,15,Monza,Sudtirol
+Italy,Serie B,15,Padova,Cesena
+Italy,Serie B,15,Bari,Pescara
+Italy,Serie B,15,Virtus Entella,Spezia
+Italy,Serie B,16,Palermo,Sampdoria
+Italy,Serie B,16,Juve Stabia,Empoli
+Italy,Serie B,16,Reggiana,Padova
+Italy,Serie B,16,Spezia,Modena
+Italy,Serie B,16,Sudtirol,Bari
+Italy,Serie B,16,Venezia,Monza
+Italy,Serie B,16,Catanzaro,Avellino
+Italy,Serie B,16,Cesena,Mantova
+Italy,Serie B,16,Carrarese,Virtus Entella
+Italy,Serie B,16,Pescara,Frosinone
+Italy,Serie B,17,Bari,Catanzaro
+Italy,Serie B,17,Cesena,Juve Stabia
+Italy,Serie B,17,Frosinone,Spezia
+Italy,Serie B,17,Modena,Venezia
+Italy,Serie B,17,Monza,Carrarese
+Italy,Serie B,17,Padova,Sampdoria
+Italy,Serie B,17,Avellino,Palermo
+Italy,Serie B,17,Pescara,Reggiana
+Italy,Serie B,17,Virtus Entella,Sudtirol
+Italy,Serie B,17,Mantova,Empoli
+Italy,Serie B,18,Modena,Monza
+Italy,Serie B,18,Spezia,Pescara
+Italy,Serie B,18,Carrarese,Mantova
+Italy,Serie B,18,Catanzaro,Cesena
+Italy,Serie B,18,Empoli,Frosinone
+Italy,Serie B,18,Juve Stabia,Sudtirol
+Italy,Serie B,18,Sampdoria,Reggiana
+Italy,Serie B,18,Venezia,Virtus Entella
+Italy,Serie B,18,Palermo,Padova
+Italy,Serie B,18,Bari,Avellino
+Italy,Serie B,19,Avellino,Sampdoria
+Italy,Serie B,19,Carrarese,Bari
+Italy,Serie B,19,Virtus Entella,Monza
+Italy,Serie B,19,Frosinone,Catanzaro
+Italy,Serie B,19,Reggiana,Venezia
+Italy,Serie B,19,Sudtirol,Spezia
+Italy,Serie B,19,Juve Stabia,Pescara
+Italy,Serie B,19,Cesena,Empoli
+Italy,Serie B,19,Mantova,Palermo
+Italy,Serie B,19,Padova,Modena
+Italy,Serie B,20,Sampdoria,Virtus Entella
+Italy,Serie B,20,Avellino,Carrarese
+Italy,Serie B,20,Empoli,Sudtirol
+Italy,Serie B,20,Monza,Frosinone
+Italy,Serie B,20,Padova,Mantova
+Italy,Serie B,20,Venezia,Catanzaro
+Italy,Serie B,20,Reggiana,Cesena
+Italy,Serie B,20,Bari,Juve Stabia
+Italy,Serie B,20,Pescara,Modena
+Italy,Serie B,20,Palermo,Spezia
+Italy,Serie B,21,Carrarese,Empoli
+Italy,Serie B,21,Cesena,Bari
+Italy,Serie B,21,Frosinone,Reggiana
+Italy,Serie B,21,Juve Stabia,Virtus Entella
+Italy,Serie B,21,Mantova,Venezia
+Italy,Serie B,21,Monza,Pescara
+Italy,Serie B,21,Modena,Palermo
+Italy,Serie B,21,Spezia,Avellino
+Italy,Serie B,21,Sudtirol,Padova
+Italy,Serie B,21,Catanzaro,Sampdoria
+Italy,Serie B,22,Avellino,Cesena
+Italy,Serie B,22,Bari,Palermo
+Italy,Serie B,22,Empoli,Modena
+Italy,Serie B,22,Virtus Entella,Frosinone
+Italy,Serie B,22,Padova,Monza
+Italy,Serie B,22,Pescara,Mantova
+Italy,Serie B,22,Reggiana,Juve Stabia
+Italy,Serie B,22,Sampdoria,Spezia
+Italy,Serie B,22,Sudtirol,Catanzaro
+Italy,Serie B,22,Venezia,Carrarese
+Italy,Serie B,23,Carrarese,Sudtirol
+Italy,Serie B,23,Catanzaro,Reggiana
+Italy,Serie B,23,Cesena,Pescara
+Italy,Serie B,23,Frosinone,Venezia
+Italy,Serie B,23,Juve Stabia,Padova
+Italy,Serie B,23,Mantova,Bari
+Italy,Serie B,23,Modena,Sampdoria
+Italy,Serie B,23,Monza,Avellino
+Italy,Serie B,23,Palermo,Empoli
+Italy,Serie B,23,Spezia,Virtus Entella
+Italy,Serie B,24,Avellino,Frosinone
+Italy,Serie B,24,Bari,Spezia
+Italy,Serie B,24,Empoli,Juve Stabia
+Italy,Serie B,24,Virtus Entella,Cesena
+Italy,Serie B,24,Padova,Carrarese
+Italy,Serie B,24,Pescara,Catanzaro
+Italy,Serie B,24,Reggiana,Mantova
+Italy,Serie B,24,Sampdoria,Palermo
+Italy,Serie B,24,Sudtirol,Monza
+Italy,Serie B,24,Venezia,Modena
+Italy,Serie B,25,Avellino,Pescara
+Italy,Serie B,25,Bari,Sudtirol
+Italy,Serie B,25,Catanzaro,Mantova
+Italy,Serie B,25,Cesena,Venezia
+Italy,Serie B,25,Empoli,Reggiana
+Italy,Serie B,25,Modena,Carrarese
+Italy,Serie B,25,Monza,Juve Stabia
+Italy,Serie B,25,Palermo,Virtus Entella
+Italy,Serie B,25,Sampdoria,Padova
+Italy,Serie B,25,Spezia,Frosinone
+Italy,Serie B,26,Carrarese,Monza
+Italy,Serie B,26,Cesena,Spezia
+Italy,Serie B,26,Virtus Entella,Catanzaro
+Italy,Serie B,26,Frosinone,Empoli
+Italy,Serie B,26,Juve Stabia,Modena
+Italy,Serie B,26,Mantova,Sampdoria
+Italy,Serie B,26,Padova,Bari
+Italy,Serie B,26,Palermo,Sudtirol
+Italy,Serie B,26,Reggiana,Avellino
+Italy,Serie B,26,Venezia,Pescara
+Italy,Serie B,27,Avellino,Juve Stabia
+Italy,Serie B,27,Catanzaro,Frosinone
+Italy,Serie B,27,Empoli,Cesena
+Italy,Serie B,27,Mantova,Carrarese
+Italy,Serie B,27,Modena,Padova
+Italy,Serie B,27,Monza,Virtus Entella
+Italy,Serie B,27,Pescara,Palermo
+Italy,Serie B,27,Sampdoria,Bari
+Italy,Serie B,27,Spezia,Reggiana
+Italy,Serie B,27,Sudtirol,Venezia
+Italy,Serie B,28,Bari,Empoli
+Italy,Serie B,28,Carrarese,Catanzaro
+Italy,Serie B,28,Cesena,Monza
+Italy,Serie B,28,Virtus Entella,Modena
+Italy,Serie B,28,Frosinone,Pescara
+Italy,Serie B,28,Juve Stabia,Sampdoria
+Italy,Serie B,28,Padova,Spezia
+Italy,Serie B,28,Palermo,Mantova
+Italy,Serie B,28,Reggiana,Sudtirol
+Italy,Serie B,28,Venezia,Avellino
+Italy,Serie B,29,Avellino,Padova
+Italy,Serie B,29,Carrarese,Palermo
+Italy,Serie B,29,Catanzaro,Empoli
+Italy,Serie B,29,Frosinone,Sampdoria
+Italy,Serie B,29,Mantova,Juve Stabia
+Italy,Serie B,29,Modena,Cesena
+Italy,Serie B,29,Pescara,Bari
+Italy,Serie B,29,Spezia,Monza
+Italy,Serie B,29,Sudtirol,Virtus Entella
+Italy,Serie B,29,Venezia,Reggiana
+Italy,Serie B,30,Bari,Reggiana
+Italy,Serie B,30,Cesena,Frosinone
+Italy,Serie B,30,Empoli,Mantova
+Italy,Serie B,30,Virtus Entella,Avellino
+Italy,Serie B,30,Juve Stabia,Carrarese
+Italy,Serie B,30,Modena,Spezia
+Italy,Serie B,30,Monza,Palermo
+Italy,Serie B,30,Padova,Catanzaro
+Italy,Serie B,30,Sampdoria,Venezia
+Italy,Serie B,30,Sudtirol,Pescara
+Italy,Serie B,31,Avellino,Sudtirol
+Italy,Serie B,31,Carrarese,Sampdoria
+Italy,Serie B,31,Catanzaro,Modena
+Italy,Serie B,31,Frosinone,Bari
+Italy,Serie B,31,Mantova,Cesena
+Italy,Serie B,31,Palermo,Juve Stabia
+Italy,Serie B,31,Pescara,Virtus Entella
+Italy,Serie B,31,Reggiana,Monza
+Italy,Serie B,31,Spezia,Empoli
+Italy,Serie B,31,Venezia,Padova
+Italy,Serie B,32,Bari,Carrarese
+Italy,Serie B,32,Cesena,Catanzaro
+Italy,Serie B,32,Empoli,Pescara
+Italy,Serie B,32,Virtus Entella,Reggiana
+Italy,Serie B,32,Juve Stabia,Spezia
+Italy,Serie B,32,Modena,Mantova
+Italy,Serie B,32,Monza,Venezia
+Italy,Serie B,32,Padova,Palermo
+Italy,Serie B,32,Sampdoria,Avellino
+Italy,Serie B,32,Sudtirol,Frosinone
+Italy,Serie B,33,Bari,Modena
+Italy,Serie B,33,Carrarese,Spezia
+Italy,Serie B,33,Catanzaro,Monza
+Italy,Serie B,33,Cesena,Sudtirol
+Italy,Serie B,33,Frosinone,Padova
+Italy,Serie B,33,Mantova,Virtus Entella
+Italy,Serie B,33,Palermo,Avellino
+Italy,Serie B,33,Reggiana,Pescara
+Italy,Serie B,33,Sampdoria,Empoli
+Italy,Serie B,33,Venezia,Juve Stabia
+Italy,Serie B,34,Avellino,Catanzaro
+Italy,Serie B,34,Virtus Entella,Venezia
+Italy,Serie B,34,Frosinone,Palermo
+Italy,Serie B,34,Juve Stabia,Cesena
+Italy,Serie B,34,Monza,Bari
+Italy,Serie B,34,Padova,Empoli
+Italy,Serie B,34,Pescara,Sampdoria
+Italy,Serie B,34,Reggiana,Carrarese
+Italy,Serie B,34,Spezia,Mantova
+Italy,Serie B,34,Sudtirol,Modena
+Italy,Serie B,35,Bari,Venezia
+Italy,Serie B,35,Carrarese,Pescara
+Italy,Serie B,35,Empoli,Virtus Entella
+Italy,Serie B,35,Juve Stabia,Catanzaro
+Italy,Serie B,35,Mantova,Avellino
+Italy,Serie B,35,Modena,Frosinone
+Italy,Serie B,35,Padova,Reggiana
+Italy,Serie B,35,Palermo,Cesena
+Italy,Serie B,35,Sampdoria,Monza
+Italy,Serie B,35,Spezia,Sudtirol
+Italy,Serie B,36,Avellino,Bari
+Italy,Serie B,36,Catanzaro,Spezia
+Italy,Serie B,36,Cesena,Sampdoria
+Italy,Serie B,36,Virtus Entella,Padova
+Italy,Serie B,36,Frosinone,Carrarese
+Italy,Serie B,36,Monza,Modena
+Italy,Serie B,36,Pescara,Juve Stabia
+Italy,Serie B,36,Reggiana,Palermo
+Italy,Serie B,36,Sudtirol,Mantova
+Italy,Serie B,36,Venezia,Empoli
+Italy,Serie B,37,Bari,Virtus Entella
+Italy,Serie B,37,Carrarese,Cesena
+Italy,Serie B,37,Empoli,Avellino
+Italy,Serie B,37,Juve Stabia,Frosinone
+Italy,Serie B,37,Mantova,Monza
+Italy,Serie B,37,Modena,Reggiana
+Italy,Serie B,37,Padova,Pescara
+Italy,Serie B,37,Palermo,Catanzaro
+Italy,Serie B,37,Sampdoria,Sudtirol
+Italy,Serie B,37,Spezia,Venezia
+Italy,Serie B,38,Avellino,Modena
+Italy,Serie B,38,Catanzaro,Bari
+Italy,Serie B,38,Cesena,Padova
+Italy,Serie B,38,Virtus Entella,Carrarese
+Italy,Serie B,38,Frosinone,Mantova
+Italy,Serie B,38,Monza,Empoli
+Italy,Serie B,38,Pescara,Spezia
+Italy,Serie B,38,Reggiana,Sampdoria
+Italy,Serie B,38,Sudtirol,Juve Stabia
+Italy,Serie B,38,Venezia,Palermo

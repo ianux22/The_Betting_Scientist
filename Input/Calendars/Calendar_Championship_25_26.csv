@@ -1,0 +1,553 @@
+Country,League,Matchday,Hometeam,Awayteam
+England,Championship,1,Birmingham,Ipswich
+England,Championship,1,Charlton,Watford
+England,Championship,1,Coventry,Hull
+England,Championship,1,Southampton,Wrexham
+England,Championship,1,Middlesbrough,Swansea
+England,Championship,1,Norwich,Millwall
+England,Championship,1,Oxford,Portsmouth
+England,Championship,1,QPR,Preston
+England,Championship,1,Stoke,Derby
+England,Championship,1,West Brom,Blackburn
+England,Championship,1,Sheffield United,Bristol City
+England,Championship,1,Leicester,Sheffield Weds
+England,Championship,2,Derby,Coventry
+England,Championship,2,Portsmouth,Norwich
+England,Championship,2,Wrexham,West Brom
+England,Championship,2,Blackburn,Birmingham
+England,Championship,2,Bristol City,Charlton
+England,Championship,2,Millwall,Middlesbrough
+England,Championship,2,Preston,Leicester
+England,Championship,2,Sheffield Weds,Stoke
+England,Championship,2,Swansea,Sheffield United
+England,Championship,2,Watford,QPR
+England,Championship,2,Ipswich,Southampton
+England,Championship,2,Hull,Oxford
+England,Championship,3,Derby,Bristol City
+England,Championship,3,Charlton,Leicester
+England,Championship,3,Hull,Blackburn
+England,Championship,3,Swansea,Watford
+England,Championship,3,Birmingham,Oxford
+England,Championship,3,Coventry,QPR
+England,Championship,3,Norwich,Middlesbrough
+England,Championship,3,Preston,Ipswich
+England,Championship,3,Sheffield United,Millwall
+England,Championship,3,Southampton,Stoke
+England,Championship,3,West Brom,Portsmouth
+England,Championship,3,Wrexham,Sheffield Weds
+England,Championship,4,Leicester,Birmingham
+England,Championship,4,Middlesbrough,Sheffield United
+England,Championship,4,QPR,Charlton
+England,Championship,4,Stoke,West Brom
+England,Championship,4,Blackburn,Norwich
+England,Championship,4,Bristol City,Hull
+England,Championship,4,Ipswich,Derby
+England,Championship,4,Millwall,Wrexham
+England,Championship,4,Oxford,Coventry
+England,Championship,4,Portsmouth,Preston
+England,Championship,4,Sheffield Weds,Swansea
+England,Championship,4,Watford,Southampton
+England,Championship,5,Ipswich,Sheffield United
+England,Championship,5,Charlton,Millwall
+England,Championship,5,Oxford,Leicester
+England,Championship,5,Preston,Middlesbrough
+England,Championship,5,Coventry,Norwich
+England,Championship,5,Sheffield Weds,Bristol City
+England,Championship,5,Stoke,Birmingham
+England,Championship,5,Swansea,Hull
+England,Championship,5,Watford,Blackburn
+England,Championship,5,West Brom,Derby
+England,Championship,5,Wrexham,QPR
+England,Championship,5,Southampton,Portsmouth
+England,Championship,6,Middlesbrough,West Brom
+England,Championship,6,Birmingham,Swansea
+England,Championship,6,Leicester,Coventry
+England,Championship,6,QPR,Stoke
+England,Championship,6,Derby,Preston
+England,Championship,6,Hull,Southampton
+England,Championship,6,Norwich,Wrexham
+England,Championship,6,Portsmouth,Sheffield Weds
+England,Championship,6,Sheffield United,Charlton
+England,Championship,6,Bristol City,Oxford
+England,Championship,6,Millwall,Watford
+England,Championship,6,Blackburn,Ipswich
+England,Championship,7,West Brom,Leicester
+England,Championship,7,Coventry,Birmingham
+England,Championship,7,Swansea,Millwall
+England,Championship,7,Wrexham,Derby
+England,Championship,7,Charlton,Blackburn
+England,Championship,7,Ipswich,Portsmouth
+England,Championship,7,Oxford,Sheffield United
+England,Championship,7,Preston,Bristol City
+England,Championship,7,Sheffield Weds,QPR
+England,Championship,7,Southampton,Middlesbrough
+England,Championship,7,Stoke,Norwich
+England,Championship,7,Watford,Hull
+England,Championship,8,Birmingham,Sheffield Weds
+England,Championship,8,Blackburn,Swansea
+England,Championship,8,Bristol City,Ipswich
+England,Championship,8,Hull,Preston
+England,Championship,8,Leicester,Wrexham
+England,Championship,8,Middlesbrough,Stoke
+England,Championship,8,Sheffield United,Southampton
+England,Championship,8,Derby,Charlton
+England,Championship,8,Millwall,Coventry
+England,Championship,8,Norwich,West Brom
+England,Championship,8,Portsmouth,Watford
+England,Championship,8,QPR,Oxford
+England,Championship,9,Wrexham,Birmingham
+England,Championship,9,Blackburn,Stoke
+England,Championship,9,Hull,Sheffield United
+England,Championship,9,Sheffield Weds,Coventry
+England,Championship,9,Bristol City,QPR
+England,Championship,9,Derby,Southampton
+England,Championship,9,Millwall,West Brom
+England,Championship,9,Portsmouth,Middlesbrough
+England,Championship,9,Preston,Charlton
+England,Championship,9,Swansea,Leicester
+England,Championship,9,Watford,Oxford
+England,Championship,9,Ipswich,Norwich
+England,Championship,10,Middlesbrough,Ipswich
+England,Championship,10,Oxford,Derby
+England,Championship,10,QPR,Millwall
+England,Championship,10,Southampton,Swansea
+England,Championship,10,Birmingham,Hull
+England,Championship,10,Charlton,Sheffield Weds
+England,Championship,10,Coventry,Blackburn
+England,Championship,10,Norwich,Bristol City
+England,Championship,10,Sheffield United,Watford
+England,Championship,10,Stoke,Wrexham
+England,Championship,10,West Brom,Preston
+England,Championship,10,Leicester,Portsmouth
+England,Championship,11,Blackburn,Sheffield United
+England,Championship,11,Derby,Norwich
+England,Championship,11,Hull,Leicester
+England,Championship,11,Ipswich,Charlton
+England,Championship,11,Millwall,Stoke
+England,Championship,11,Portsmouth,Coventry
+England,Championship,11,Preston,Birmingham
+England,Championship,11,Bristol City,Southampton
+England,Championship,11,Swansea,QPR
+England,Championship,11,Watford,West Brom
+England,Championship,11,Wrexham,Oxford
+England,Championship,11,Sheffield Weds,Middlesbrough
+England,Championship,12,Preston,Sheffield United
+England,Championship,12,Coventry,Watford
+England,Championship,12,Ipswich,West Brom
+England,Championship,12,Portsmouth,Stoke
+England,Championship,12,Blackburn,Southampton
+England,Championship,12,Bristol City,Birmingham
+England,Championship,12,Derby,QPR
+England,Championship,12,Hull,Charlton
+England,Championship,12,Middlesbrough,Wrexham
+England,Championship,12,Millwall,Leicester
+England,Championship,12,Sheffield Weds,Oxford
+England,Championship,12,Swansea,Norwich
+England,Championship,13,Wrexham,Coventry
+England,Championship,13,Leicester,Blackburn
+England,Championship,13,Norwich,Hull
+England,Championship,13,West Brom,Sheffield Weds
+England,Championship,13,Birmingham,Portsmouth
+England,Championship,13,Charlton,Swansea
+England,Championship,13,Oxford,Millwall
+England,Championship,13,QPR,Ipswich
+England,Championship,13,Sheffield United,Derby
+England,Championship,13,Southampton,Preston
+England,Championship,13,Stoke,Bristol City
+England,Championship,13,Watford,Middlesbrough
+England,Championship,14,Birmingham,Millwall
+England,Championship,14,Bristol City,Blackburn
+England,Championship,14,Charlton,West Brom
+England,Championship,14,Derby,Hull
+England,Championship,14,Ipswich,Watford
+England,Championship,14,Leicester,Middlesbrough
+England,Championship,14,Oxford,Stoke
+England,Championship,14,Coventry,Sheffield United
+England,Championship,14,Preston,Swansea
+England,Championship,14,QPR,Southampton
+England,Championship,14,Sheffield Weds,Norwich
+England,Championship,14,Portsmouth,Wrexham
+England,Championship,15,Watford,Bristol City
+England,Championship,15,Blackburn,Derby
+England,Championship,15,Hull,Portsmouth
+England,Championship,15,Millwall,Preston
+England,Championship,15,Middlesbrough,Birmingham
+England,Championship,15,Norwich,Leicester
+England,Championship,15,Sheffield United,QPR
+England,Championship,15,Southampton,Sheffield Weds
+England,Championship,15,Stoke,Coventry
+England,Championship,15,Swansea,Ipswich
+England,Championship,15,West Brom,Oxford
+England,Championship,15,Wrexham,Charlton
+England,Championship,16,Preston,Blackburn
+England,Championship,16,Bristol City,Swansea
+England,Championship,16,Charlton,Southampton
+England,Championship,16,Coventry,West Brom
+England,Championship,16,Birmingham,Norwich
+England,Championship,16,Derby,Watford
+England,Championship,16,Ipswich,Wrexham
+England,Championship,16,Leicester,Stoke
+England,Championship,16,Oxford,Middlesbrough
+England,Championship,16,Portsmouth,Millwall
+England,Championship,16,QPR,Hull
+England,Championship,16,Sheffield Weds,Sheffield United
+England,Championship,17,Hull,Ipswich
+England,Championship,17,Middlesbrough,Coventry
+England,Championship,17,Stoke,Charlton
+England,Championship,17,Swansea,Derby
+England,Championship,17,Watford,Preston
+England,Championship,17,Norwich,Oxford
+England,Championship,17,Southampton,Leicester
+England,Championship,17,Millwall,Sheffield Weds
+England,Championship,17,Sheffield United,Portsmouth
+England,Championship,17,Blackburn,QPR
+England,Championship,17,Wrexham,Bristol City
+England,Championship,17,West Brom,Birmingham
+England,Championship,18,Oxford,Ipswich
+England,Championship,18,Leicester,Sheffield United
+England,Championship,18,Portsmouth,Bristol City
+England,Championship,18,Stoke,Hull
+England,Championship,18,Coventry,Charlton
+England,Championship,18,Middlesbrough,Derby
+England,Championship,18,Millwall,Southampton
+England,Championship,18,Norwich,QPR
+England,Championship,18,Sheffield Weds,Preston
+England,Championship,18,West Brom,Swansea
+England,Championship,18,Wrexham,Blackburn
+England,Championship,18,Birmingham,Watford
+England,Championship,19,Hull,Middlesbrough
+England,Championship,19,Charlton,Portsmouth
+England,Championship,19,Derby,Leicester
+England,Championship,19,Watford,Norwich
+England,Championship,19,Blackburn,Sheffield Weds
+England,Championship,19,Bristol City,Millwall
+England,Championship,19,Ipswich,Coventry
+England,Championship,19,Preston,Wrexham
+England,Championship,19,QPR,West Brom
+England,Championship,19,Sheffield United,Stoke
+England,Championship,19,Southampton,Birmingham
+England,Championship,19,Swansea,Oxford
+England,Championship,20,Blackburn,Oxford
+England,Championship,20,Charlton,Middlesbrough
+England,Championship,20,Preston,Coventry
+England,Championship,20,Sheffield United,Norwich
+England,Championship,20,Southampton,West Brom
+England,Championship,20,Swansea,Portsmouth
+England,Championship,20,Watford,Sheffield Weds
+England,Championship,20,QPR,Birmingham
+England,Championship,20,Bristol City,Leicester
+England,Championship,20,Derby,Millwall
+England,Championship,20,Ipswich,Stoke
+England,Championship,20,Hull,Wrexham
+England,Championship,21,West Brom,Sheffield United
+England,Championship,21,Norwich,Southampton
+England,Championship,21,Oxford,Preston
+England,Championship,21,Stoke,Swansea
+England,Championship,21,Birmingham,Charlton
+England,Championship,21,Coventry,Bristol City
+England,Championship,21,Leicester,Ipswich
+England,Championship,21,Middlesbrough,QPR
+England,Championship,21,Millwall,Hull
+England,Championship,21,Portsmouth,Blackburn
+England,Championship,21,Wrexham,Watford
+England,Championship,21,Sheffield Weds,Derby
+England,Championship,22,Swansea,Wrexham
+England,Championship,22,Blackburn,Millwall
+England,Championship,22,Preston,Norwich
+England,Championship,22,Southampton,Coventry
+England,Championship,22,Bristol City,Middlesbrough
+England,Championship,22,Charlton,Oxford
+England,Championship,22,Derby,Portsmouth
+England,Championship,22,Hull,West Brom
+England,Championship,22,Ipswich,Sheffield Weds
+England,Championship,22,QPR,Leicester
+England,Championship,22,Sheffield United,Birmingham
+England,Championship,22,Watford,Stoke
+England,Championship,23,Birmingham,Derby
+England,Championship,23,Millwall,Ipswich
+England,Championship,23,Coventry,Swansea
+England,Championship,23,Leicester,Watford
+England,Championship,23,Middlesbrough,Blackburn
+England,Championship,23,Norwich,Charlton
+England,Championship,23,Oxford,Southampton
+England,Championship,23,Portsmouth,QPR
+England,Championship,23,Sheffield Weds,Hull
+England,Championship,23,Stoke,Preston
+England,Championship,23,West Brom,Bristol City
+England,Championship,23,Wrexham,Sheffield United
+England,Championship,24,Coventry,Ipswich
+England,Championship,24,Leicester,Derby
+England,Championship,24,Middlesbrough,Hull
+England,Championship,24,Millwall,Bristol City
+England,Championship,24,Norwich,Watford
+England,Championship,24,Oxford,Swansea
+England,Championship,24,Portsmouth,Charlton
+England,Championship,24,Sheffield Weds,Blackburn
+England,Championship,24,Stoke,Sheffield United
+England,Championship,24,West Brom,QPR
+England,Championship,24,Wrexham,Preston
+England,Championship,24,Birmingham,Southampton
+England,Championship,25,Blackburn,Wrexham
+England,Championship,25,Bristol City,Portsmouth
+England,Championship,25,Charlton,Coventry
+England,Championship,25,Derby,Middlesbrough
+England,Championship,25,Hull,Stoke
+England,Championship,25,Ipswich,Oxford
+England,Championship,25,Preston,Sheffield Weds
+England,Championship,25,QPR,Norwich
+England,Championship,25,Southampton,Millwall
+England,Championship,25,Swansea,West Brom
+England,Championship,25,Watford,Birmingham
+England,Championship,25,Sheffield United,Leicester
+England,Championship,26,Birmingham,Coventry
+England,Championship,26,QPR,Sheffield Weds
+England,Championship,26,Sheffield United,Oxford
+England,Championship,26,Blackburn,Charlton
+England,Championship,26,Bristol City,Preston
+England,Championship,26,Derby,Wrexham
+England,Championship,26,Hull,Watford
+England,Championship,26,Middlesbrough,Southampton
+England,Championship,26,Millwall,Swansea
+England,Championship,26,Norwich,Stoke
+England,Championship,26,Portsmouth,Ipswich
+England,Championship,26,Leicester,West Brom
+England,Championship,27,West Brom,Middlesbrough
+England,Championship,27,Coventry,Leicester
+England,Championship,27,Ipswich,Blackburn
+England,Championship,27,Watford,Millwall
+England,Championship,27,Charlton,Sheffield United
+England,Championship,27,Oxford,Bristol City
+England,Championship,27,Preston,Derby
+England,Championship,27,Sheffield Weds,Portsmouth
+England,Championship,27,Southampton,Hull
+England,Championship,27,Stoke,QPR
+England,Championship,27,Wrexham,Norwich
+England,Championship,27,Swansea,Birmingham
+England,Championship,28,Coventry,Millwall
+England,Championship,28,Ipswich,Bristol City
+England,Championship,28,Oxford,QPR
+England,Championship,28,Preston,Hull
+England,Championship,28,Sheffield Weds,Birmingham
+England,Championship,28,Swansea,Blackburn
+England,Championship,28,West Brom,Norwich
+England,Championship,28,Charlton,Derby
+England,Championship,28,Wrexham,Leicester
+England,Championship,28,Southampton,Sheffield United
+England,Championship,28,Watford,Portsmouth
+England,Championship,28,Stoke,Middlesbrough
+England,Championship,29,Derby,West Brom
+England,Championship,29,Middlesbrough,Preston
+England,Championship,29,Millwall,Charlton
+England,Championship,29,Birmingham,Stoke
+England,Championship,29,Blackburn,Watford
+England,Championship,29,Bristol City,Sheffield Weds
+England,Championship,29,Hull,Swansea
+England,Championship,29,Leicester,Oxford
+England,Championship,29,QPR,Wrexham
+England,Championship,29,Sheffield United,Ipswich
+England,Championship,29,Portsmouth,Southampton
+England,Championship,29,Norwich,Coventry
+England,Championship,30,Bristol City,Derby
+England,Championship,30,Leicester,Charlton
+England,Championship,30,Sheffield Weds,Wrexham
+England,Championship,30,Stoke,Southampton
+England,Championship,30,Blackburn,Hull
+England,Championship,30,Ipswich,Preston
+England,Championship,30,Middlesbrough,Norwich
+England,Championship,30,Millwall,Sheffield United
+England,Championship,30,Oxford,Birmingham
+England,Championship,30,Portsmouth,West Brom
+England,Championship,30,QPR,Coventry
+England,Championship,30,Watford,Swansea
+England,Championship,31,Charlton,QPR
+England,Championship,31,Derby,Ipswich
+England,Championship,31,Norwich,Blackburn
+England,Championship,31,Southampton,Watford
+England,Championship,31,Birmingham,Leicester
+England,Championship,31,Coventry,Oxford
+England,Championship,31,Hull,Bristol City
+England,Championship,31,Preston,Portsmouth
+England,Championship,31,West Brom,Stoke
+England,Championship,31,Wrexham,Millwall
+England,Championship,31,Swansea,Sheffield Weds
+England,Championship,31,Sheffield United,Middlesbrough
+England,Championship,32,Bristol City,Wrexham
+England,Championship,32,Birmingham,West Brom
+England,Championship,32,Charlton,Stoke
+England,Championship,32,Oxford,Norwich
+England,Championship,32,Derby,Swansea
+England,Championship,32,Ipswich,Hull
+England,Championship,32,Leicester,Southampton
+England,Championship,32,Portsmouth,Sheffield United
+England,Championship,32,Preston,Watford
+England,Championship,32,QPR,Blackburn
+England,Championship,32,Sheffield Weds,Millwall
+England,Championship,32,Coventry,Middlesbrough
+England,Championship,33,Blackburn,Preston
+England,Championship,33,Hull,QPR
+England,Championship,33,Stoke,Leicester
+England,Championship,33,Swansea,Bristol City
+England,Championship,33,West Brom,Coventry
+England,Championship,33,Middlesbrough,Oxford
+England,Championship,33,Millwall,Portsmouth
+England,Championship,33,Norwich,Birmingham
+England,Championship,33,Southampton,Charlton
+England,Championship,33,Watford,Derby
+England,Championship,33,Wrexham,Ipswich
+England,Championship,33,Sheffield United,Sheffield Weds
+England,Championship,34,Hull,Derby
+England,Championship,34,Middlesbrough,Leicester
+England,Championship,34,Swansea,Preston
+England,Championship,34,Watford,Ipswich
+England,Championship,34,West Brom,Charlton
+England,Championship,34,Wrexham,Portsmouth
+England,Championship,34,Southampton,QPR
+England,Championship,34,Blackburn,Bristol City
+England,Championship,34,Millwall,Birmingham
+England,Championship,34,Norwich,Sheffield Weds
+England,Championship,34,Sheffield United,Coventry
+England,Championship,34,Stoke,Oxford
+England,Championship,35,Bristol City,Watford
+England,Championship,35,Derby,Blackburn
+England,Championship,35,Leicester,Norwich
+England,Championship,35,Portsmouth,Hull
+England,Championship,35,Charlton,Wrexham
+England,Championship,35,Coventry,Stoke
+England,Championship,35,Ipswich,Swansea
+England,Championship,35,Oxford,West Brom
+England,Championship,35,Preston,Millwall
+England,Championship,35,QPR,Sheffield United
+England,Championship,35,Sheffield Weds,Southampton
+England,Championship,35,Birmingham,Middlesbrough
+England,Championship,36,Blackburn,Portsmouth
+England,Championship,36,Bristol City,Coventry
+England,Championship,36,Charlton,Birmingham
+England,Championship,36,Derby,Sheffield Weds
+England,Championship,36,Hull,Millwall
+England,Championship,36,Ipswich,Leicester
+England,Championship,36,Preston,Oxford
+England,Championship,36,QPR,Middlesbrough
+England,Championship,36,Sheffield United,West Brom
+England,Championship,36,Southampton,Norwich
+England,Championship,36,Swansea,Stoke
+England,Championship,36,Watford,Wrexham
+England,Championship,37,Birmingham,QPR
+England,Championship,37,Leicester,Bristol City
+England,Championship,37,Millwall,Derby
+England,Championship,37,Norwich,Sheffield United
+England,Championship,37,Portsmouth,Swansea
+England,Championship,37,Sheffield Weds,Watford
+England,Championship,37,Stoke,Ipswich
+England,Championship,37,Wrexham,Hull
+England,Championship,37,Coventry,Preston
+England,Championship,37,Middlesbrough,Charlton
+England,Championship,37,Oxford,Blackburn
+England,Championship,37,West Brom,Southampton
+England,Championship,38,Birmingham,Sheffield United
+England,Championship,38,Coventry,Southampton
+England,Championship,38,Leicester,QPR
+England,Championship,38,Middlesbrough,Bristol City
+England,Championship,38,Millwall,Blackburn
+England,Championship,38,Norwich,Preston
+England,Championship,38,Oxford,Charlton
+England,Championship,38,Portsmouth,Derby
+England,Championship,38,Sheffield Weds,Ipswich
+England,Championship,38,Stoke,Watford
+England,Championship,38,West Brom,Hull
+England,Championship,38,Wrexham,Swansea
+England,Championship,39,Blackburn,Middlesbrough
+England,Championship,39,Bristol City,West Brom
+England,Championship,39,Charlton,Norwich
+England,Championship,39,Derby,Birmingham
+England,Championship,39,Hull,Sheffield Weds
+England,Championship,39,Ipswich,Millwall
+England,Championship,39,Preston,Stoke
+England,Championship,39,QPR,Portsmouth
+England,Championship,39,Sheffield United,Wrexham
+England,Championship,39,Southampton,Oxford
+England,Championship,39,Swansea,Coventry
+England,Championship,39,Watford,Leicester
+England,Championship,40,Birmingham,Blackburn
+England,Championship,40,Charlton,Bristol City
+England,Championship,40,Coventry,Derby
+England,Championship,40,Leicester,Preston
+England,Championship,40,Middlesbrough,Millwall
+England,Championship,40,Norwich,Portsmouth
+England,Championship,40,Oxford,Hull
+England,Championship,40,QPR,Watford
+England,Championship,40,Sheffield United,Swansea
+England,Championship,40,Southampton,Ipswich
+England,Championship,40,Stoke,Sheffield Weds
+England,Championship,40,West Brom,Wrexham
+England,Championship,41,Millwall,Norwich
+England,Championship,41,Blackburn,West Brom
+England,Championship,41,Bristol City,Sheffield United
+England,Championship,41,Derby,Stoke
+England,Championship,41,Hull,Coventry
+England,Championship,41,Ipswich,Birmingham
+England,Championship,41,Portsmouth,Oxford
+England,Championship,41,Preston,QPR
+England,Championship,41,Sheffield Weds,Leicester
+England,Championship,41,Swansea,Middlesbrough
+England,Championship,41,Watford,Charlton
+England,Championship,41,Wrexham,Southampton
+England,Championship,42,Birmingham,Wrexham
+England,Championship,42,Charlton,Preston
+England,Championship,42,Coventry,Sheffield Weds
+England,Championship,42,Leicester,Swansea
+England,Championship,42,Middlesbrough,Portsmouth
+England,Championship,42,Norwich,Ipswich
+England,Championship,42,Oxford,Watford
+England,Championship,42,QPR,Bristol City
+England,Championship,42,Sheffield United,Hull
+England,Championship,42,Southampton,Derby
+England,Championship,42,Stoke,Blackburn
+England,Championship,42,West Brom,Millwall
+England,Championship,43,Blackburn,Coventry
+England,Championship,43,Bristol City,Norwich
+England,Championship,43,Derby,Oxford
+England,Championship,43,Hull,Birmingham
+England,Championship,43,Ipswich,Middlesbrough
+England,Championship,43,Millwall,QPR
+England,Championship,43,Portsmouth,Leicester
+England,Championship,43,Preston,West Brom
+England,Championship,43,Sheffield Weds,Charlton
+England,Championship,43,Swansea,Southampton
+England,Championship,43,Watford,Sheffield United
+England,Championship,43,Wrexham,Stoke
+England,Championship,44,Coventry,Portsmouth
+England,Championship,44,Middlesbrough,Sheffield Weds
+England,Championship,44,Norwich,Derby
+England,Championship,44,Oxford,Wrexham
+England,Championship,44,QPR,Swansea
+England,Championship,44,Southampton,Bristol City
+England,Championship,44,Stoke,Millwall
+England,Championship,44,West Brom,Watford
+England,Championship,44,Birmingham,Preston
+England,Championship,44,Charlton,Ipswich
+England,Championship,44,Leicester,Hull
+England,Championship,44,Sheffield United,Blackburn
+England,Championship,45,Birmingham,Bristol City
+England,Championship,45,Charlton,Hull
+England,Championship,45,Coventry,Wrexham
+England,Championship,45,Leicester,Millwall
+England,Championship,45,Middlesbrough,Watford
+England,Championship,45,Norwich,Swansea
+England,Championship,45,Oxford,Sheffield Weds
+England,Championship,45,QPR,Derby
+England,Championship,45,Sheffield United,Preston
+England,Championship,45,Southampton,Blackburn
+England,Championship,45,Stoke,Portsmouth
+England,Championship,45,West Brom,Ipswich
+England,Championship,46,Blackburn,Leicester
+England,Championship,46,Bristol City,Stoke
+England,Championship,46,Derby,Sheffield United
+England,Championship,46,Hull,Norwich
+England,Championship,46,Ipswich,QPR
+England,Championship,46,Millwall,Oxford
+England,Championship,46,Portsmouth,Birmingham
+England,Championship,46,Preston,Southampton
+England,Championship,46,Sheffield Weds,West Brom
+England,Championship,46,Swansea,Charlton
+England,Championship,46,Watford,Coventry
+England,Championship,46,Wrexham,Middlesbrough

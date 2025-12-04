@@ -1,0 +1,26 @@
+{
+  "leagues": [
+    { "country": "Germany", "league": "Bundesliga 1", "url": "https://www.football-data.co.uk/mmz4281/2526/D1.csv" },
+    { "country": "Germany", "league": "Bundesliga 2", "url": "https://www.football-data.co.uk/mmz4281/2526/D2.csv" },
+
+    { "country": "Italy",   "league": "Serie A",       "url": "https://www.football-data.co.uk/mmz4281/2526/I1.csv" },
+    { "country": "Italy",   "league": "Serie B",       "url": "https://www.football-data.co.uk/mmz4281/2526/I2.csv" },
+
+    { "country": "Spain",   "league": "La Liga Primera", "url": "https://www.football-data.co.uk/mmz4281/2526/SP1.csv" },
+    { "country": "Spain",   "league": "La Liga Segunda", "url": "https://www.football-data.co.uk/mmz4281/2526/SP2.csv" },
+
+    { "country": "France",  "league": "Ligue 1",       "url": "https://www.football-data.co.uk/mmz4281/2526/F1.csv" },
+    { "country": "France",  "league": "Ligue 2",       "url": "https://www.football-data.co.uk/mmz4281/2526/F2.csv" },
+
+    { "country": "Netherlands", "league": "Eredivisie",   "url": "https://www.football-data.co.uk/mmz4281/2526/NL1.csv" },
+    { "country": "Belgium",     "league": "Jupiler League","url": "https://www.football-data.co.uk/mmz4281/2526/B1.csv" },
+
+    { "country": "Turkey",   "league": "Ligi 1",          "url": "https://www.football-data.co.uk/mmz4281/2526/T1.csv" },
+    { "country": "Greece",   "league": "Ethniki Katigoria","url": "https://www.football-data.co.uk/mmz4281/2526/GR1.csv" },
+
+    { "country": "England",  "league": "Premier League",  "url": "https://www.football-data.co.uk/mmz4281/2526/E0.csv" },
+    { "country": "England",  "league": "Championship",    "url": "https://www.football-data.co.uk/mmz4281/2526/E1.csv" },
+
+    { "country": "Portugal", "league": "Liga 1",          "url": "https://www.football-data.co.uk/mmz4281/2526/P1.csv" }
+  ]
+}

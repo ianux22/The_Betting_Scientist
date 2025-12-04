@@ -1,0 +1,381 @@
+Country,League,Matchday,Hometeam,Awayteam
+Spain,La Liga Primera,1,Alaves,Levante
+Spain,La Liga Primera,1,Ath Bilbao,Sevilla
+Spain,La Liga Primera,1,Celta,Getafe
+Spain,La Liga Primera,1,Girona,Vallecano
+Spain,La Liga Primera,1,Espanol,Ath Madrid
+Spain,La Liga Primera,1,Mallorca,Barcelona
+Spain,La Liga Primera,1,Elche,Betis
+Spain,La Liga Primera,1,Real Madrid,Osasuna
+Spain,La Liga Primera,1,Valencia,Sociedad
+Spain,La Liga Primera,1,Villarreal,Oviedo
+Spain,La Liga Primera,2,Ath Bilbao,Vallecano
+Spain,La Liga Primera,2,Ath Madrid,Elche
+Spain,La Liga Primera,2,Osasuna,Valencia
+Spain,La Liga Primera,2,Oviedo,Real Madrid
+Spain,La Liga Primera,2,Betis,Alaves
+Spain,La Liga Primera,2,Levante,Barcelona
+Spain,La Liga Primera,2,Mallorca,Celta
+Spain,La Liga Primera,2,Sociedad,Espanol
+Spain,La Liga Primera,2,Sevilla,Getafe
+Spain,La Liga Primera,2,Villarreal,Girona
+Spain,La Liga Primera,3,Alaves,Ath Madrid
+Spain,La Liga Primera,3,Celta,Villarreal
+Spain,La Liga Primera,3,Elche,Levante
+Spain,La Liga Primera,3,Espanol,Osasuna
+Spain,La Liga Primera,3,Girona,Sevilla
+Spain,La Liga Primera,3,Oviedo,Sociedad
+Spain,La Liga Primera,3,Betis,Ath Bilbao
+Spain,La Liga Primera,3,Vallecano,Barcelona
+Spain,La Liga Primera,3,Valencia,Getafe
+Spain,La Liga Primera,3,Real Madrid,Mallorca
+Spain,La Liga Primera,4,Ath Madrid,Villarreal
+Spain,La Liga Primera,4,Barcelona,Valencia
+Spain,La Liga Primera,4,Celta,Girona
+Spain,La Liga Primera,4,Espanol,Mallorca
+Spain,La Liga Primera,4,Getafe,Oviedo
+Spain,La Liga Primera,4,Osasuna,Vallecano
+Spain,La Liga Primera,4,Ath Bilbao,Alaves
+Spain,La Liga Primera,4,Levante,Betis
+Spain,La Liga Primera,4,Sevilla,Elche
+Spain,La Liga Primera,4,Sociedad,Real Madrid
+Spain,La Liga Primera,5,Alaves,Sevilla
+Spain,La Liga Primera,5,Barcelona,Getafe
+Spain,La Liga Primera,5,Betis,Sociedad
+Spain,La Liga Primera,5,Elche,Oviedo
+Spain,La Liga Primera,5,Girona,Levante
+Spain,La Liga Primera,5,Valencia,Ath Bilbao
+Spain,La Liga Primera,5,Mallorca,Ath Madrid
+Spain,La Liga Primera,5,Vallecano,Celta
+Spain,La Liga Primera,5,Real Madrid,Espanol
+Spain,La Liga Primera,5,Villarreal,Osasuna
+Spain,La Liga Primera,6,Ath Bilbao,Girona
+Spain,La Liga Primera,6,Ath Madrid,Vallecano
+Spain,La Liga Primera,6,Espanol,Valencia
+Spain,La Liga Primera,6,Levante,Real Madrid
+Spain,La Liga Primera,6,Sevilla,Villarreal
+Spain,La Liga Primera,6,Getafe,Alaves
+Spain,La Liga Primera,6,Oviedo,Barcelona
+Spain,La Liga Primera,6,Celta,Betis
+Spain,La Liga Primera,6,Osasuna,Elche
+Spain,La Liga Primera,6,Sociedad,Mallorca
+Spain,La Liga Primera,7,Ath Madrid,Real Madrid
+Spain,La Liga Primera,7,Barcelona,Sociedad
+Spain,La Liga Primera,7,Betis,Osasuna
+Spain,La Liga Primera,7,Getafe,Levante
+Spain,La Liga Primera,7,Vallecano,Sevilla
+Spain,La Liga Primera,7,Mallorca,Alaves
+Spain,La Liga Primera,7,Villarreal,Ath Bilbao
+Spain,La Liga Primera,7,Elche,Celta
+Spain,La Liga Primera,7,Girona,Espanol
+Spain,La Liga Primera,7,Valencia,Oviedo
+Spain,La Liga Primera,8,Alaves,Elche
+Spain,La Liga Primera,8,Ath Bilbao,Mallorca
+Spain,La Liga Primera,8,Girona,Valencia
+Spain,La Liga Primera,8,Real Madrid,Villarreal
+Spain,La Liga Primera,8,Celta,Ath Madrid
+Spain,La Liga Primera,8,Sevilla,Barcelona
+Spain,La Liga Primera,8,Espanol,Betis
+Spain,La Liga Primera,8,Osasuna,Getafe
+Spain,La Liga Primera,8,Oviedo,Levante
+Spain,La Liga Primera,8,Sociedad,Vallecano
+Spain,La Liga Primera,9,Alaves,Valencia
+Spain,La Liga Primera,9,Ath Madrid,Osasuna
+Spain,La Liga Primera,9,Barcelona,Girona
+Spain,La Liga Primera,9,Celta,Sociedad
+Spain,La Liga Primera,9,Getafe,Real Madrid
+Spain,La Liga Primera,9,Levante,Vallecano
+Spain,La Liga Primera,9,Elche,Ath Bilbao
+Spain,La Liga Primera,9,Villarreal,Betis
+Spain,La Liga Primera,9,Oviedo,Espanol
+Spain,La Liga Primera,9,Sevilla,Mallorca
+Spain,La Liga Primera,10,Ath Bilbao,Getafe
+Spain,La Liga Primera,10,Girona,Oviedo
+Spain,La Liga Primera,10,Sociedad,Sevilla
+Spain,La Liga Primera,10,Valencia,Villarreal
+Spain,La Liga Primera,10,Vallecano,Alaves
+Spain,La Liga Primera,10,Betis,Ath Madrid
+Spain,La Liga Primera,10,Real Madrid,Barcelona
+Spain,La Liga Primera,10,Osasuna,Celta
+Spain,La Liga Primera,10,Espanol,Elche
+Spain,La Liga Primera,10,Mallorca,Levante
+Spain,La Liga Primera,11,Alaves,Espanol
+Spain,La Liga Primera,11,Ath Madrid,Sevilla
+Spain,La Liga Primera,11,Barcelona,Elche
+Spain,La Liga Primera,11,Betis,Mallorca
+Spain,La Liga Primera,11,Getafe,Girona
+Spain,La Liga Primera,11,Real Madrid,Valencia
+Spain,La Liga Primera,11,Sociedad,Ath Bilbao
+Spain,La Liga Primera,11,Levante,Celta
+Spain,La Liga Primera,11,Oviedo,Osasuna
+Spain,La Liga Primera,11,Villarreal,Vallecano
+Spain,La Liga Primera,12,Ath Bilbao,Oviedo
+Spain,La Liga Primera,12,Ath Madrid,Levante
+Spain,La Liga Primera,12,Elche,Sociedad
+Spain,La Liga Primera,12,Espanol,Villarreal
+Spain,La Liga Primera,12,Vallecano,Real Madrid
+Spain,La Liga Primera,12,Girona,Alaves
+Spain,La Liga Primera,12,Celta,Barcelona
+Spain,La Liga Primera,12,Valencia,Betis
+Spain,La Liga Primera,12,Mallorca,Getafe
+Spain,La Liga Primera,12,Sevilla,Osasuna
+Spain,La Liga Primera,13,Alaves,Celta
+Spain,La Liga Primera,13,Betis,Girona
+Spain,La Liga Primera,13,Elche,Real Madrid
+Spain,La Liga Primera,13,Espanol,Sevilla
+Spain,La Liga Primera,13,Osasuna,Sociedad
+Spain,La Liga Primera,13,Oviedo,Vallecano
+Spain,La Liga Primera,13,Barcelona,Ath Bilbao
+Spain,La Liga Primera,13,Getafe,Ath Madrid
+Spain,La Liga Primera,13,Valencia,Levante
+Spain,La Liga Primera,13,Villarreal,Mallorca
+Spain,La Liga Primera,14,Ath Madrid,Oviedo
+Spain,La Liga Primera,14,Celta,Espanol
+Spain,La Liga Primera,14,Girona,Real Madrid
+Spain,La Liga Primera,14,Mallorca,Osasuna
+Spain,La Liga Primera,14,Vallecano,Valencia
+Spain,La Liga Primera,14,Sociedad,Villarreal
+Spain,La Liga Primera,14,Barcelona,Alaves
+Spain,La Liga Primera,14,Levante,Ath Bilbao
+Spain,La Liga Primera,14,Sevilla,Betis
+Spain,La Liga Primera,14,Getafe,Elche
+Spain,La Liga Primera,15,Alaves,Sociedad
+Spain,La Liga Primera,15,Ath Bilbao,Ath Madrid
+Spain,La Liga Primera,15,Elche,Girona
+Spain,La Liga Primera,15,Espanol,Vallecano
+Spain,La Liga Primera,15,Betis,Barcelona
+Spain,La Liga Primera,15,Real Madrid,Celta
+Spain,La Liga Primera,15,Villarreal,Getafe
+Spain,La Liga Primera,15,Osasuna,Levante
+Spain,La Liga Primera,15,Oviedo,Mallorca
+Spain,La Liga Primera,15,Valencia,Sevilla
+Spain,La Liga Primera,16,Alaves,Real Madrid
+Spain,La Liga Primera,16,Ath Madrid,Valencia
+Spain,La Liga Primera,16,Barcelona,Osasuna
+Spain,La Liga Primera,16,Levante,Villarreal
+Spain,La Liga Primera,16,Celta,Ath Bilbao
+Spain,La Liga Primera,16,Vallecano,Betis
+Spain,La Liga Primera,16,Mallorca,Elche
+Spain,La Liga Primera,16,Getafe,Espanol
+Spain,La Liga Primera,16,Sociedad,Girona
+Spain,La Liga Primera,16,Sevilla,Oviedo
+Spain,La Liga Primera,17,Ath Bilbao,Espanol
+Spain,La Liga Primera,17,Betis,Getafe
+Spain,La Liga Primera,17,Elche,Vallecano
+Spain,La Liga Primera,17,Levante,Sociedad
+Spain,La Liga Primera,17,Real Madrid,Sevilla
+Spain,La Liga Primera,17,Osasuna,Alaves
+Spain,La Liga Primera,17,Girona,Ath Madrid
+Spain,La Liga Primera,17,Villarreal,Barcelona
+Spain,La Liga Primera,17,Oviedo,Celta
+Spain,La Liga Primera,17,Valencia,Mallorca
+Spain,La Liga Primera,18,Alaves,Oviedo
+Spain,La Liga Primera,18,Celta,Valencia
+Spain,La Liga Primera,18,Elche,Villarreal
+Spain,La Liga Primera,18,Osasuna,Ath Bilbao
+Spain,La Liga Primera,18,Sociedad,Ath Madrid
+Spain,La Liga Primera,18,Espanol,Barcelona
+Spain,La Liga Primera,18,Real Madrid,Betis
+Spain,La Liga Primera,18,Vallecano,Getafe
+Spain,La Liga Primera,18,Mallorca,Girona
+Spain,La Liga Primera,18,Sevilla,Levante
+Spain,La Liga Primera,19,Ath Bilbao,Real Madrid
+Spain,La Liga Primera,19,Getafe,Sociedad
+Spain,La Liga Primera,19,Girona,Osasuna
+Spain,La Liga Primera,19,Villarreal,Alaves
+Spain,La Liga Primera,19,Barcelona,Ath Madrid
+Spain,La Liga Primera,19,Oviedo,Betis
+Spain,La Liga Primera,19,Sevilla,Celta
+Spain,La Liga Primera,19,Valencia,Elche
+Spain,La Liga Primera,19,Levante,Espanol
+Spain,La Liga Primera,19,Vallecano,Mallorca
+Spain,La Liga Primera,20,Betis,Villarreal
+Spain,La Liga Primera,20,Celta,Vallecano
+Spain,La Liga Primera,20,Elche,Sevilla
+Spain,La Liga Primera,20,Espanol,Girona
+Spain,La Liga Primera,20,Getafe,Valencia
+Spain,La Liga Primera,20,Osasuna,Oviedo
+Spain,La Liga Primera,20,Ath Madrid,Alaves
+Spain,La Liga Primera,20,Mallorca,Ath Bilbao
+Spain,La Liga Primera,20,Sociedad,Barcelona
+Spain,La Liga Primera,20,Real Madrid,Levante
+Spain,La Liga Primera,21,Alaves,Betis
+Spain,La Liga Primera,21,Ath Madrid,Mallorca
+Spain,La Liga Primera,21,Barcelona,Oviedo
+Spain,La Liga Primera,21,Sevilla,Ath Bilbao
+Spain,La Liga Primera,21,Sociedad,Celta
+Spain,La Liga Primera,21,Levante,Elche
+Spain,La Liga Primera,21,Valencia,Espanol
+Spain,La Liga Primera,21,Girona,Getafe
+Spain,La Liga Primera,21,Vallecano,Osasuna
+Spain,La Liga Primera,21,Villarreal,Real Madrid
+Spain,La Liga Primera,22,Ath Bilbao,Sociedad
+Spain,La Liga Primera,22,Betis,Valencia
+Spain,La Liga Primera,22,Mallorca,Sevilla
+Spain,La Liga Primera,22,Osasuna,Villarreal
+Spain,La Liga Primera,22,Espanol,Alaves
+Spain,La Liga Primera,22,Levante,Ath Madrid
+Spain,La Liga Primera,22,Elche,Barcelona
+Spain,La Liga Primera,22,Getafe,Celta
+Spain,La Liga Primera,22,Oviedo,Girona
+Spain,La Liga Primera,22,Real Madrid,Vallecano
+Spain,La Liga Primera,23,Alaves,Getafe
+Spain,La Liga Primera,23,Ath Bilbao,Levante
+Spain,La Liga Primera,23,Ath Madrid,Betis
+Spain,La Liga Primera,23,Barcelona,Mallorca
+Spain,La Liga Primera,23,Celta,Osasuna
+Spain,La Liga Primera,23,Sociedad,Elche
+Spain,La Liga Primera,23,Villarreal,Espanol
+Spain,La Liga Primera,23,Sevilla,Girona
+Spain,La Liga Primera,23,Valencia,Real Madrid
+Spain,La Liga Primera,23,Vallecano,Oviedo
+Spain,La Liga Primera,24,Elche,Osasuna
+Spain,La Liga Primera,24,Getafe,Villarreal
+Spain,La Liga Primera,24,Levante,Valencia
+Spain,La Liga Primera,24,Real Madrid,Sociedad
+Spain,La Liga Primera,24,Sevilla,Alaves
+Spain,La Liga Primera,24,Oviedo,Ath Bilbao
+Spain,La Liga Primera,24,Vallecano,Ath Madrid
+Spain,La Liga Primera,24,Girona,Barcelona
+Spain,La Liga Primera,24,Mallorca,Betis
+Spain,La Liga Primera,24,Espanol,Celta
+Spain,La Liga Primera,25,Alaves,Girona
+Spain,La Liga Primera,25,Ath Bilbao,Elche
+Spain,La Liga Primera,25,Ath Madrid,Espanol
+Spain,La Liga Primera,25,Barcelona,Levante
+Spain,La Liga Primera,25,Betis,Vallecano
+Spain,La Liga Primera,25,Celta,Mallorca
+Spain,La Liga Primera,25,Getafe,Sevilla
+Spain,La Liga Primera,25,Osasuna,Real Madrid
+Spain,La Liga Primera,25,Villarreal,Valencia
+Spain,La Liga Primera,25,Sociedad,Oviedo
+Spain,La Liga Primera,26,Barcelona,Villarreal
+Spain,La Liga Primera,26,Betis,Sevilla
+Spain,La Liga Primera,26,Elche,Espanol
+Spain,La Liga Primera,26,Mallorca,Sociedad
+Spain,La Liga Primera,26,Levante,Alaves
+Spain,La Liga Primera,26,Vallecano,Ath Bilbao
+Spain,La Liga Primera,26,Oviedo,Ath Madrid
+Spain,La Liga Primera,26,Girona,Celta
+Spain,La Liga Primera,26,Real Madrid,Getafe
+Spain,La Liga Primera,26,Valencia,Osasuna
+Spain,La Liga Primera,27,Ath Bilbao,Barcelona
+Spain,La Liga Primera,27,Ath Madrid,Sociedad
+Spain,La Liga Primera,27,Celta,Real Madrid
+Spain,La Liga Primera,27,Espanol,Oviedo
+Spain,La Liga Primera,27,Valencia,Alaves
+Spain,La Liga Primera,27,Getafe,Betis
+Spain,La Liga Primera,27,Villarreal,Elche
+Spain,La Liga Primera,27,Levante,Girona
+Spain,La Liga Primera,27,Osasuna,Mallorca
+Spain,La Liga Primera,27,Sevilla,Vallecano
+Spain,La Liga Primera,28,Alaves,Villarreal
+Spain,La Liga Primera,28,Ath Madrid,Getafe
+Spain,La Liga Primera,28,Barcelona,Sevilla
+Spain,La Liga Primera,28,Betis,Celta
+Spain,La Liga Primera,28,Oviedo,Valencia
+Spain,La Liga Primera,28,Girona,Ath Bilbao
+Spain,La Liga Primera,28,Real Madrid,Elche
+Spain,La Liga Primera,28,Mallorca,Espanol
+Spain,La Liga Primera,28,Vallecano,Levante
+Spain,La Liga Primera,28,Sociedad,Osasuna
+Spain,La Liga Primera,29,Ath Bilbao,Betis
+Spain,La Liga Primera,29,Barcelona,Vallecano
+Spain,La Liga Primera,29,Elche,Mallorca
+Spain,La Liga Primera,29,Espanol,Getafe
+Spain,La Liga Primera,29,Levante,Oviedo
+Spain,La Liga Primera,29,Sevilla,Valencia
+Spain,La Liga Primera,29,Celta,Alaves
+Spain,La Liga Primera,29,Real Madrid,Ath Madrid
+Spain,La Liga Primera,29,Osasuna,Girona
+Spain,La Liga Primera,29,Villarreal,Sociedad
+Spain,La Liga Primera,30,Alaves,Osasuna
+Spain,La Liga Primera,30,Ath Madrid,Barcelona
+Spain,La Liga Primera,30,Betis,Espanol
+Spain,La Liga Primera,30,Girona,Villarreal
+Spain,La Liga Primera,30,Mallorca,Real Madrid
+Spain,La Liga Primera,30,Oviedo,Sevilla
+Spain,La Liga Primera,30,Getafe,Ath Bilbao
+Spain,La Liga Primera,30,Valencia,Celta
+Spain,La Liga Primera,30,Vallecano,Elche
+Spain,La Liga Primera,30,Sociedad,Levante
+Spain,La Liga Primera,31,Ath Bilbao,Villarreal
+Spain,La Liga Primera,31,Barcelona,Espanol
+Spain,La Liga Primera,31,Celta,Oviedo
+Spain,La Liga Primera,31,Elche,Valencia
+Spain,La Liga Primera,31,Mallorca,Vallecano
+Spain,La Liga Primera,31,Sociedad,Alaves
+Spain,La Liga Primera,31,Sevilla,Ath Madrid
+Spain,La Liga Primera,31,Osasuna,Betis
+Spain,La Liga Primera,31,Levante,Getafe
+Spain,La Liga Primera,31,Real Madrid,Girona
+Spain,La Liga Primera,32,Alaves,Mallorca
+Spain,La Liga Primera,32,Betis,Real Madrid
+Spain,La Liga Primera,32,Espanol,Levante
+Spain,La Liga Primera,32,Osasuna,Sevilla
+Spain,La Liga Primera,32,Vallecano,Sociedad
+Spain,La Liga Primera,32,Ath Madrid,Ath Bilbao
+Spain,La Liga Primera,32,Getafe,Barcelona
+Spain,La Liga Primera,32,Villarreal,Celta
+Spain,La Liga Primera,32,Oviedo,Elche
+Spain,La Liga Primera,32,Valencia,Girona
+Spain,La Liga Primera,33,Ath Bilbao,Osasuna
+Spain,La Liga Primera,33,Barcelona,Celta
+Spain,La Liga Primera,33,Levante,Sevilla
+Spain,La Liga Primera,33,Mallorca,Valencia
+Spain,La Liga Primera,33,Oviedo,Villarreal
+Spain,La Liga Primera,33,Real Madrid,Alaves
+Spain,La Liga Primera,33,Elche,Ath Madrid
+Spain,La Liga Primera,33,Girona,Betis
+Spain,La Liga Primera,33,Vallecano,Espanol
+Spain,La Liga Primera,33,Sociedad,Getafe
+Spain,La Liga Primera,34,Alaves,Ath Bilbao
+Spain,La Liga Primera,34,Betis,Oviedo
+Spain,La Liga Primera,34,Celta,Elche
+Spain,La Liga Primera,34,Espanol,Real Madrid
+Spain,La Liga Primera,34,Getafe,Vallecano
+Spain,La Liga Primera,34,Girona,Mallorca
+Spain,La Liga Primera,34,Valencia,Ath Madrid
+Spain,La Liga Primera,34,Osasuna,Barcelona
+Spain,La Liga Primera,34,Villarreal,Levante
+Spain,La Liga Primera,34,Sevilla,Sociedad
+Spain,La Liga Primera,35,Ath Bilbao,Valencia
+Spain,La Liga Primera,35,Ath Madrid,Celta
+Spain,La Liga Primera,35,Barcelona,Real Madrid
+Spain,La Liga Primera,35,Levante,Osasuna
+Spain,La Liga Primera,35,Mallorca,Villarreal
+Spain,La Liga Primera,35,Elche,Alaves
+Spain,La Liga Primera,35,Sociedad,Betis
+Spain,La Liga Primera,35,Sevilla,Espanol
+Spain,La Liga Primera,35,Oviedo,Getafe
+Spain,La Liga Primera,35,Vallecano,Girona
+Spain,La Liga Primera,36,Alaves,Barcelona
+Spain,La Liga Primera,36,Betis,Elche
+Spain,La Liga Primera,36,Celta,Levante
+Spain,La Liga Primera,36,Getafe,Mallorca
+Spain,La Liga Primera,36,Girona,Sociedad
+Spain,La Liga Primera,36,Espanol,Ath Bilbao
+Spain,La Liga Primera,36,Osasuna,Ath Madrid
+Spain,La Liga Primera,36,Valencia,Vallecano
+Spain,La Liga Primera,36,Villarreal,Sevilla
+Spain,La Liga Primera,36,Real Madrid,Oviedo
+Spain,La Liga Primera,37,Ath Bilbao,Celta
+Spain,La Liga Primera,37,Ath Madrid,Girona
+Spain,La Liga Primera,37,Barcelona,Betis
+Spain,La Liga Primera,37,Elche,Getafe
+Spain,La Liga Primera,37,Levante,Mallorca
+Spain,La Liga Primera,37,Vallecano,Villarreal
+Spain,La Liga Primera,37,Sociedad,Valencia
+Spain,La Liga Primera,37,Oviedo,Alaves
+Spain,La Liga Primera,37,Osasuna,Espanol
+Spain,La Liga Primera,37,Sevilla,Real Madrid
+Spain,La Liga Primera,38,Alaves,Vallecano
+Spain,La Liga Primera,38,Betis,Levante
+Spain,La Liga Primera,38,Celta,Sevilla
+Spain,La Liga Primera,38,Espanol,Sociedad
+Spain,La Liga Primera,38,Getafe,Osasuna
+Spain,La Liga Primera,38,Mallorca,Oviedo
+Spain,La Liga Primera,38,Real Madrid,Ath Bilbao
+Spain,La Liga Primera,38,Villarreal,Ath Madrid
+Spain,La Liga Primera,38,Valencia,Barcelona
+Spain,La Liga Primera,38,Girona,Elche

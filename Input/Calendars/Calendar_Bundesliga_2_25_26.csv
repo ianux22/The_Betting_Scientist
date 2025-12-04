@@ -1,0 +1,231 @@
+Country,League,Matchday,Hometeam,Awayteam
+Germany,Bundesliga 2,14,Bielefeld,Preußen Münster
+Germany,Bundesliga 2,14,Elversberg,Darmstadt
+Germany,Bundesliga 2,14,Dresden,Fortuna Dusseldorf
+Germany,Bundesliga 2,14,Magdeburg,Nurnberg
+Germany,Bundesliga 2,14,Braunschweig,Kaiserslautern
+Germany,Bundesliga 2,14,Greuther Furth,Bochum
+Germany,Bundesliga 2,14,Holstein Kiel,Hertha
+Germany,Bundesliga 2,14,Hannover,Karlsruhe
+Germany,Bundesliga 2,14,Schalke 04,Paderborn
+Germany,Bundesliga 2,13,Kaiserslautern,Holstein Kiel
+Germany,Bundesliga 2,13,Karlsruhe,Elversberg
+Germany,Bundesliga 2,13,Nurnberg,Bielefeld
+Germany,Bundesliga 2,13,Darmstadt,Greuther Furth
+Germany,Bundesliga 2,13,Fortuna Dusseldorf,Magdeburg
+Germany,Bundesliga 2,13,Paderborn,Hannover
+Germany,Bundesliga 2,13,Preußen Münster,Schalke 04
+Germany,Bundesliga 2,13,Bochum,Dresden
+Germany,Bundesliga 2,13,Hertha,Braunschweig
+Germany,Bundesliga 2,12,Braunschweig,Bochum
+Germany,Bundesliga 2,12,Holstein Kiel,Fortuna Dusseldorf
+Germany,Bundesliga 2,12,Magdeburg,Paderborn
+Germany,Bundesliga 2,12,Kaiserslautern,Hertha
+Germany,Bundesliga 2,12,Bielefeld,Karlsruhe
+Germany,Bundesliga 2,12,Hannover,Darmstadt
+Germany,Bundesliga 2,12,Schalke 04,Elversberg
+Germany,Bundesliga 2,12,Greuther Furth,Preußen Münster
+Germany,Bundesliga 2,12,Dresden,Nurnberg
+Germany,Bundesliga 2,11,Bochum,Magdeburg
+Germany,Bundesliga 2,11,Fortuna Dusseldorf,Kaiserslautern
+Germany,Bundesliga 2,11,Paderborn,Greuther Furth
+Germany,Bundesliga 2,11,Darmstadt,Bielefeld
+Germany,Bundesliga 2,11,Hertha,Dresden
+Germany,Bundesliga 2,11,Karlsruhe,Schalke 04
+Germany,Bundesliga 2,11,Nurnberg,Braunschweig
+Germany,Bundesliga 2,11,Elversberg,Hannover
+Germany,Bundesliga 2,11,Preußen Münster,Holstein Kiel
+Germany,Bundesliga 2,10,Braunschweig,Hannover
+Germany,Bundesliga 2,10,Kaiserslautern,Nurnberg
+Germany,Bundesliga 2,10,Magdeburg,Preußen Münster
+Germany,Bundesliga 2,10,Hertha,Fortuna Dusseldorf
+Germany,Bundesliga 2,10,Bielefeld,Elversberg
+Germany,Bundesliga 2,10,Holstein Kiel,Bochum
+Germany,Bundesliga 2,10,Dresden,Paderborn
+Germany,Bundesliga 2,10,Greuther Furth,Karlsruhe
+Germany,Bundesliga 2,10,Schalke 04,Darmstadt
+Germany,Bundesliga 2,9,Darmstadt,Magdeburg
+Germany,Bundesliga 2,9,Elversberg,Greuther Furth
+Germany,Bundesliga 2,9,Nurnberg,Holstein Kiel
+Germany,Bundesliga 2,9,Bochum,Hertha
+Germany,Bundesliga 2,9,Karlsruhe,Kaiserslautern
+Germany,Bundesliga 2,15,Fortuna Dusseldorf,Schalke 04
+Germany,Bundesliga 2,15,Preußen Münster,Hannover
+Germany,Bundesliga 2,15,Bochum,Bielefeld
+Germany,Bundesliga 2,15,Kaiserslautern,Dresden
+Germany,Bundesliga 2,15,Paderborn,Elversberg
+Germany,Bundesliga 2,15,Darmstadt,Karlsruhe
+Germany,Bundesliga 2,15,Braunschweig,Holstein Kiel
+Germany,Bundesliga 2,15,Hertha,Magdeburg
+Germany,Bundesliga 2,15,Nurnberg,Greuther Furth
+Germany,Bundesliga 2,16,Greuther Furth,Hertha
+Germany,Bundesliga 2,16,Dresden,Braunschweig
+Germany,Bundesliga 2,16,Bielefeld,Kaiserslautern
+Germany,Bundesliga 2,16,Karlsruhe,Paderborn
+Germany,Bundesliga 2,16,Magdeburg,Holstein Kiel
+Germany,Bundesliga 2,16,Hannover,Bochum
+Germany,Bundesliga 2,16,Darmstadt,Preußen Münster
+Germany,Bundesliga 2,16,Elversberg,Fortuna Dusseldorf
+Germany,Bundesliga 2,16,Schalke 04,Nurnberg
+Germany,Bundesliga 2,17,Hertha,Bielefeld
+Germany,Bundesliga 2,17,Paderborn,Darmstadt
+Germany,Bundesliga 2,17,Bochum,Karlsruhe
+Germany,Bundesliga 2,17,Fortuna Dusseldorf,Greuther Furth
+Germany,Bundesliga 2,17,Kaiserslautern,Magdeburg
+Germany,Bundesliga 2,17,Holstein Kiel,Dresden
+Germany,Bundesliga 2,17,Braunschweig,Schalke 04
+Germany,Bundesliga 2,17,Nurnberg,Hannover
+Germany,Bundesliga 2,17,Preußen Münster,Elversberg
+Germany,Bundesliga 2,18,Braunschweig,Magdeburg
+Germany,Bundesliga 2,18,Fortuna Dusseldorf,Bielefeld
+Germany,Bundesliga 2,18,Nurnberg,Elversberg
+Germany,Bundesliga 2,18,Preußen Münster,Karlsruhe
+Germany,Bundesliga 2,18,Dresden,Greuther Furth
+Germany,Bundesliga 2,18,Hertha,Schalke 04
+Germany,Bundesliga 2,18,Bochum,Darmstadt
+Germany,Bundesliga 2,18,Holstein Kiel,Paderborn
+Germany,Bundesliga 2,18,Kaiserslautern,Hannover
+Germany,Bundesliga 2,19,Bielefeld,Holstein Kiel
+Germany,Bundesliga 2,19,Darmstadt,Nurnberg
+Germany,Bundesliga 2,19,Greuther Furth,Braunschweig
+Germany,Bundesliga 2,19,Hannover,Fortuna Dusseldorf
+Germany,Bundesliga 2,19,Karlsruhe,Hertha
+Germany,Bundesliga 2,19,Magdeburg,Dresden
+Germany,Bundesliga 2,19,Elversberg,Bochum
+Germany,Bundesliga 2,19,Paderborn,Preußen Münster
+Germany,Bundesliga 2,19,Schalke 04,Kaiserslautern
+Germany,Bundesliga 2,20,Bochum,Schalke 04
+Germany,Bundesliga 2,20,Braunschweig,Karlsruhe
+Germany,Bundesliga 2,20,Fortuna Dusseldorf,Paderborn
+Germany,Bundesliga 2,20,Hertha,Darmstadt
+Germany,Bundesliga 2,20,Holstein Kiel,Greuther Furth
+Germany,Bundesliga 2,20,Kaiserslautern,Elversberg
+Germany,Bundesliga 2,20,Magdeburg,Hannover
+Germany,Bundesliga 2,20,Nurnberg,Preußen Münster
+Germany,Bundesliga 2,20,Dresden,Bielefeld
+Germany,Bundesliga 2,21,Bielefeld,Braunschweig
+Germany,Bundesliga 2,21,Darmstadt,Kaiserslautern
+Germany,Bundesliga 2,21,Elversberg,Hertha
+Germany,Bundesliga 2,21,Greuther Furth,Magdeburg
+Germany,Bundesliga 2,21,Hannover,Holstein Kiel
+Germany,Bundesliga 2,21,Karlsruhe,Fortuna Dusseldorf
+Germany,Bundesliga 2,21,Paderborn,Nurnberg
+Germany,Bundesliga 2,21,Preußen Münster,Bochum
+Germany,Bundesliga 2,21,Schalke 04,Dresden
+Germany,Bundesliga 2,22,Bochum,Paderborn
+Germany,Bundesliga 2,22,Braunschweig,Darmstadt
+Germany,Bundesliga 2,22,Fortuna Dusseldorf,Preußen Münster
+Germany,Bundesliga 2,22,Hertha,Hannover
+Germany,Bundesliga 2,22,Holstein Kiel,Schalke 04
+Germany,Bundesliga 2,22,Kaiserslautern,Greuther Furth
+Germany,Bundesliga 2,22,Magdeburg,Bielefeld
+Germany,Bundesliga 2,22,Nurnberg,Karlsruhe
+Germany,Bundesliga 2,22,Dresden,Elversberg
+Germany,Bundesliga 2,23,Bochum,Nurnberg
+Germany,Bundesliga 2,23,Darmstadt,Fortuna Dusseldorf
+Germany,Bundesliga 2,23,Elversberg,Braunschweig
+Germany,Bundesliga 2,23,Greuther Furth,Bielefeld
+Germany,Bundesliga 2,23,Hannover,Dresden
+Germany,Bundesliga 2,23,Karlsruhe,Holstein Kiel
+Germany,Bundesliga 2,23,Paderborn,Hertha
+Germany,Bundesliga 2,23,Preußen Münster,Kaiserslautern
+Germany,Bundesliga 2,23,Schalke 04,Magdeburg
+Germany,Bundesliga 2,24,Bielefeld,Hannover
+Germany,Bundesliga 2,24,Braunschweig,Preußen Münster
+Germany,Bundesliga 2,24,Fortuna Dusseldorf,Bochum
+Germany,Bundesliga 2,24,Greuther Furth,Schalke 04
+Germany,Bundesliga 2,24,Hertha,Nurnberg
+Germany,Bundesliga 2,24,Holstein Kiel,Elversberg
+Germany,Bundesliga 2,24,Kaiserslautern,Paderborn
+Germany,Bundesliga 2,24,Magdeburg,Karlsruhe
+Germany,Bundesliga 2,24,Dresden,Darmstadt
+Germany,Bundesliga 2,25,Bochum,Kaiserslautern
+Germany,Bundesliga 2,25,Darmstadt,Holstein Kiel
+Germany,Bundesliga 2,25,Elversberg,Magdeburg
+Germany,Bundesliga 2,25,Hannover,Greuther Furth
+Germany,Bundesliga 2,25,Karlsruhe,Dresden
+Germany,Bundesliga 2,25,Nurnberg,Fortuna Dusseldorf
+Germany,Bundesliga 2,25,Paderborn,Braunschweig
+Germany,Bundesliga 2,25,Preußen Münster,Hertha
+Germany,Bundesliga 2,25,Schalke 04,Bielefeld
+Germany,Bundesliga 2,26,Bielefeld,Paderborn
+Germany,Bundesliga 2,26,Braunschweig,Fortuna Dusseldorf
+Germany,Bundesliga 2,26,Greuther Furth,Elversberg
+Germany,Bundesliga 2,26,Hertha,Bochum
+Germany,Bundesliga 2,26,Holstein Kiel,Nurnberg
+Germany,Bundesliga 2,26,Kaiserslautern,Karlsruhe
+Germany,Bundesliga 2,26,Magdeburg,Darmstadt
+Germany,Bundesliga 2,26,Schalke 04,Hannover
+Germany,Bundesliga 2,26,Dresden,Preußen Münster
+Germany,Bundesliga 2,27,Bochum,Holstein Kiel
+Germany,Bundesliga 2,27,Darmstadt,Schalke 04
+Germany,Bundesliga 2,27,Fortuna Dusseldorf,Hertha
+Germany,Bundesliga 2,27,Elversberg,Bielefeld
+Germany,Bundesliga 2,27,Hannover,Braunschweig
+Germany,Bundesliga 2,27,Karlsruhe,Greuther Furth
+Germany,Bundesliga 2,27,Nurnberg,Kaiserslautern
+Germany,Bundesliga 2,27,Paderborn,Dresden
+Germany,Bundesliga 2,27,Preußen Münster,Magdeburg
+Germany,Bundesliga 2,28,Bielefeld,Darmstadt
+Germany,Bundesliga 2,28,Braunschweig,Nurnberg
+Germany,Bundesliga 2,28,Greuther Furth,Paderborn
+Germany,Bundesliga 2,28,Hannover,Elversberg
+Germany,Bundesliga 2,28,Holstein Kiel,Preußen Münster
+Germany,Bundesliga 2,28,Kaiserslautern,Fortuna Dusseldorf
+Germany,Bundesliga 2,28,Magdeburg,Bochum
+Germany,Bundesliga 2,28,Schalke 04,Karlsruhe
+Germany,Bundesliga 2,28,Dresden,Hertha
+Germany,Bundesliga 2,29,Bochum,Braunschweig
+Germany,Bundesliga 2,29,Darmstadt,Hannover
+Germany,Bundesliga 2,29,Fortuna Dusseldorf,Holstein Kiel
+Germany,Bundesliga 2,29,Elversberg,Schalke 04
+Germany,Bundesliga 2,29,Hertha,Kaiserslautern
+Germany,Bundesliga 2,29,Karlsruhe,Bielefeld
+Germany,Bundesliga 2,29,Nurnberg,Dresden
+Germany,Bundesliga 2,29,Paderborn,Magdeburg
+Germany,Bundesliga 2,29,Preußen Münster,Greuther Furth
+Germany,Bundesliga 2,30,Bielefeld,Nurnberg
+Germany,Bundesliga 2,30,Braunschweig,Hertha
+Germany,Bundesliga 2,30,Elversberg,Karlsruhe
+Germany,Bundesliga 2,30,Greuther Furth,Darmstadt
+Germany,Bundesliga 2,30,Hannover,Paderborn
+Germany,Bundesliga 2,30,Holstein Kiel,Kaiserslautern
+Germany,Bundesliga 2,30,Magdeburg,Fortuna Dusseldorf
+Germany,Bundesliga 2,30,Schalke 04,Preußen Münster
+Germany,Bundesliga 2,30,Dresden,Bochum
+Germany,Bundesliga 2,31,Bochum,Greuther Furth
+Germany,Bundesliga 2,31,Darmstadt,Elversberg
+Germany,Bundesliga 2,31,Fortuna Dusseldorf,Dresden
+Germany,Bundesliga 2,31,Hertha,Holstein Kiel
+Germany,Bundesliga 2,31,Kaiserslautern,Braunschweig
+Germany,Bundesliga 2,31,Karlsruhe,Hannover
+Germany,Bundesliga 2,31,Nurnberg,Magdeburg
+Germany,Bundesliga 2,31,Paderborn,Schalke 04
+Germany,Bundesliga 2,31,Preußen Münster,Bielefeld
+Germany,Bundesliga 2,32,Bielefeld,Bochum
+Germany,Bundesliga 2,32,Elversberg,Paderborn
+Germany,Bundesliga 2,32,Greuther Furth,Nurnberg
+Germany,Bundesliga 2,32,Hannover,Preußen Münster
+Germany,Bundesliga 2,32,Holstein Kiel,Braunschweig
+Germany,Bundesliga 2,32,Karlsruhe,Darmstadt
+Germany,Bundesliga 2,32,Magdeburg,Hertha
+Germany,Bundesliga 2,32,Schalke 04,Fortuna Dusseldorf
+Germany,Bundesliga 2,32,Dresden,Kaiserslautern
+Germany,Bundesliga 2,33,Bochum,Hannover
+Germany,Bundesliga 2,33,Braunschweig,Dresden
+Germany,Bundesliga 2,33,Fortuna Dusseldorf,Elversberg
+Germany,Bundesliga 2,33,Hertha,Greuther Furth
+Germany,Bundesliga 2,33,Holstein Kiel,Magdeburg
+Germany,Bundesliga 2,33,Kaiserslautern,Bielefeld
+Germany,Bundesliga 2,33,Nurnberg,Schalke 04
+Germany,Bundesliga 2,33,Paderborn,Karlsruhe
+Germany,Bundesliga 2,33,Preußen Münster,Darmstadt
+Germany,Bundesliga 2,34,Bielefeld,Hertha
+Germany,Bundesliga 2,34,Darmstadt,Paderborn
+Germany,Bundesliga 2,34,Elversberg,Preußen Münster
+Germany,Bundesliga 2,34,Greuther Furth,Fortuna Dusseldorf
+Germany,Bundesliga 2,34,Hannover,Nurnberg
+Germany,Bundesliga 2,34,Karlsruhe,Bochum
+Germany,Bundesliga 2,34,Magdeburg,Kaiserslautern
+Germany,Bundesliga 2,34,Schalke 04,Braunschweig
+Germany,Bundesliga 2,34,Dresden,Holstein Kiel

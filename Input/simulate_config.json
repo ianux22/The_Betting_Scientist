@@ -1,0 +1,25 @@
+{
+  "simulate": [
+    "Serie A",
+    "La Liga Primera",
+    "Bundesliga 1",
+    "Premier League"
+  ],
+  "matchdays": {
+    "Bundesliga 1": 1,
+    "Bundesliga 2": 1,
+    "Serie A": 12,
+    "Serie B": 1,
+    "La Liga Primera": 9,
+    "La Liga Segunda": 1,
+    "Ligue 1": 1,
+    "Ligue 2": 1,
+    "Eredivisie": 1,
+    "Jupiler League": 1,
+    "Ligi 1": 1,
+    "Ethniki Katigoria": 1,
+    "Premier League": 1,
+    "Championship": 1,
+    "Liga 1": 1
+  }
+}

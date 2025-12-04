@@ -1,0 +1,307 @@
+Country,League,Matchday,Hometeam,Awayteam
+France,Ligue 1,1,Rennes,Marseille
+France,Ligue 1,1,Lens,Lyon
+France,Ligue 1,1,Monaco,Le Havre
+France,Ligue 1,1,Nice,Toulouse
+France,Ligue 1,1,Brest,Lille
+France,Ligue 1,1,Angers,Paris FC
+France,Ligue 1,1,Auxerre,Lorient
+France,Ligue 1,1,Metz,Strasbourg
+France,Ligue 1,1,Nantes,Paris SG
+France,Ligue 1,2,Paris SG,Angers
+France,Ligue 1,2,Marseille,Paris FC
+France,Ligue 1,2,Nice,Auxerre
+France,Ligue 1,2,Lyon,Metz
+France,Ligue 1,2,Lorient,Rennes
+France,Ligue 1,2,Le Havre,Lens
+France,Ligue 1,2,Strasbourg,Nantes
+France,Ligue 1,2,Toulouse,Brest
+France,Ligue 1,2,Lille,Monaco
+France,Ligue 1,3,Lens,Brest
+France,Ligue 1,3,Lorient,Lille
+France,Ligue 1,3,Nantes,Auxerre
+France,Ligue 1,3,Toulouse,Paris SG
+France,Ligue 1,3,Angers,Rennes
+France,Ligue 1,3,Le Havre,Nice
+France,Ligue 1,3,Monaco,Strasbourg
+France,Ligue 1,3,Paris FC,Metz
+France,Ligue 1,3,Lyon,Marseille
+France,Ligue 1,4,Marseille,Lorient
+France,Ligue 1,4,Nice,Nantes
+France,Ligue 1,4,Auxerre,Monaco
+France,Ligue 1,4,Lille,Toulouse
+France,Ligue 1,4,Brest,Paris FC
+France,Ligue 1,4,Metz,Angers
+France,Ligue 1,4,Paris SG,Lens
+France,Ligue 1,4,Strasbourg,Le Havre
+France,Ligue 1,4,Rennes,Lyon
+France,Ligue 1,5,Lyon,Angers
+France,Ligue 1,5,Nantes,Rennes
+France,Ligue 1,5,Brest,Nice
+France,Ligue 1,5,Lens,Lille
+France,Ligue 1,5,Paris FC,Strasbourg
+France,Ligue 1,5,Auxerre,Toulouse
+France,Ligue 1,5,Le Havre,Lorient
+France,Ligue 1,5,Monaco,Metz
+France,Ligue 1,5,Marseille,Paris SG
+France,Ligue 1,6,Strasbourg,Marseille
+France,Ligue 1,6,Lorient,Monaco
+France,Ligue 1,6,Toulouse,Nantes
+France,Ligue 1,6,Paris SG,Auxerre
+France,Ligue 1,6,Nice,Paris FC
+France,Ligue 1,6,Angers,Brest
+France,Ligue 1,6,Lille,Lyon
+France,Ligue 1,6,Metz,Le Havre
+France,Ligue 1,6,Rennes,Lens
+France,Ligue 1,7,Paris FC,Lorient
+France,Ligue 1,7,Metz,Marseille
+France,Ligue 1,7,Brest,Nantes
+France,Ligue 1,7,Auxerre,Lens
+France,Ligue 1,7,Lyon,Toulouse
+France,Ligue 1,7,Le Havre,Rennes
+France,Ligue 1,7,Monaco,Nice
+France,Ligue 1,7,Strasbourg,Angers
+France,Ligue 1,7,Lille,Paris SG
+France,Ligue 1,8,Paris SG,Strasbourg
+France,Ligue 1,8,Nice,Lyon
+France,Ligue 1,8,Angers,Monaco
+France,Ligue 1,8,Marseille,Le Havre
+France,Ligue 1,8,Lens,Paris FC
+France,Ligue 1,8,Lorient,Brest
+France,Ligue 1,8,Rennes,Auxerre
+France,Ligue 1,8,Toulouse,Metz
+France,Ligue 1,8,Nantes,Lille
+France,Ligue 1,9,Paris FC,Nantes
+France,Ligue 1,9,Brest,Paris SG
+France,Ligue 1,9,Monaco,Toulouse
+France,Ligue 1,9,Lens,Marseille
+France,Ligue 1,9,Lille,Metz
+France,Ligue 1,9,Angers,Lorient
+France,Ligue 1,9,Auxerre,Le Havre
+France,Ligue 1,9,Rennes,Nice
+France,Ligue 1,9,Lyon,Strasbourg
+France,Ligue 1,10,Le Havre,Brest
+France,Ligue 1,10,Lorient,Paris SG
+France,Ligue 1,10,Metz,Lens
+France,Ligue 1,10,Nice,Lille
+France,Ligue 1,10,Marseille,Angers
+France,Ligue 1,10,Nantes,Monaco
+France,Ligue 1,10,Paris FC,Lyon
+France,Ligue 1,10,Strasbourg,Auxerre
+France,Ligue 1,10,Toulouse,Rennes
+France,Ligue 1,11,Paris SG,Nice
+France,Ligue 1,11,Monaco,Paris FC
+France,Ligue 1,11,Auxerre,Marseille
+France,Ligue 1,11,Rennes,Strasbourg
+France,Ligue 1,11,Lens,Lorient
+France,Ligue 1,11,Lille,Angers
+France,Ligue 1,11,Nantes,Metz
+France,Ligue 1,11,Toulouse,Le Havre
+France,Ligue 1,11,Brest,Lyon
+France,Ligue 1,12,Paris FC,Rennes
+France,Ligue 1,12,Marseille,Brest
+France,Ligue 1,12,Le Havre,Nantes
+France,Ligue 1,12,Monaco,Lens
+France,Ligue 1,12,Lorient,Toulouse
+France,Ligue 1,12,Angers,Auxerre
+France,Ligue 1,12,Metz,Nice
+France,Ligue 1,12,Strasbourg,Lille
+France,Ligue 1,12,Lyon,Paris SG
+France,Ligue 1,13,Nice,Marseille
+France,Ligue 1,13,Lens,Strasbourg
+France,Ligue 1,13,Rennes,Monaco
+France,Ligue 1,13,Paris SG,Le Havre
+France,Ligue 1,13,Auxerre,Lyon
+France,Ligue 1,13,Brest,Metz
+France,Ligue 1,13,Nantes,Lorient
+France,Ligue 1,13,Toulouse,Angers
+France,Ligue 1,13,Lille,Paris FC
+France,Ligue 1,14,Metz,Rennes
+France,Ligue 1,14,Monaco,Paris SG
+France,Ligue 1,14,Paris FC,Auxerre
+France,Ligue 1,14,Marseille,Toulouse
+France,Ligue 1,14,Strasbourg,Brest
+France,Ligue 1,14,Angers,Lens
+France,Ligue 1,14,Le Havre,Lille
+France,Ligue 1,14,Lorient,Nice
+France,Ligue 1,14,Lyon,Nantes
+France,Ligue 1,15,Brest,Monaco
+France,Ligue 1,15,Lille,Marseille
+France,Ligue 1,15,Nantes,Lens
+France,Ligue 1,15,Toulouse,Strasbourg
+France,Ligue 1,15,Paris SG,Rennes
+France,Ligue 1,15,Nice,Angers
+France,Ligue 1,15,Auxerre,Metz
+France,Ligue 1,15,Le Havre,Paris FC
+France,Ligue 1,15,Lorient,Lyon
+France,Ligue 1,16,Angers,Nantes
+France,Ligue 1,16,Rennes,Brest
+France,Ligue 1,16,Metz,Paris SG
+France,Ligue 1,16,Paris FC,Toulouse
+France,Ligue 1,16,Lyon,Le Havre
+France,Ligue 1,16,Auxerre,Lille
+France,Ligue 1,16,Lens,Nice
+France,Ligue 1,16,Strasbourg,Lorient
+France,Ligue 1,16,Marseille,Monaco
+France,Ligue 1,17,Toulouse,Lens
+France,Ligue 1,17,Monaco,Lyon
+France,Ligue 1,17,Nice,Strasbourg
+France,Ligue 1,17,Lille,Rennes
+France,Ligue 1,17,Marseille,Nantes
+France,Ligue 1,17,Brest,Auxerre
+France,Ligue 1,17,Le Havre,Angers
+France,Ligue 1,17,Lorient,Metz
+France,Ligue 1,17,Paris SG,Paris FC
+France,Ligue 1,18,Monaco,Lorient
+France,Ligue 1,18,Paris SG,Lille
+France,Ligue 1,18,Lens,Auxerre
+France,Ligue 1,18,Toulouse,Nice
+France,Ligue 1,18,Angers,Marseille
+France,Ligue 1,18,Strasbourg,Metz
+France,Ligue 1,18,Nantes,Paris FC
+France,Ligue 1,18,Rennes,Le Havre
+France,Ligue 1,18,Lyon,Brest
+France,Ligue 1,19,Auxerre,Paris SG
+France,Ligue 1,19,Rennes,Lorient
+France,Ligue 1,19,Le Havre,Monaco
+France,Ligue 1,19,Marseille,Lens
+France,Ligue 1,19,Nantes,Nice
+France,Ligue 1,19,Brest,Toulouse
+France,Ligue 1,19,Metz,Lyon
+France,Ligue 1,19,Paris FC,Angers
+France,Ligue 1,19,Lille,Strasbourg
+France,Ligue 1,20,Lens,Le Havre
+France,Ligue 1,20,Paris FC,Marseille
+France,Ligue 1,20,Lorient,Nantes
+France,Ligue 1,20,Monaco,Rennes
+France,Ligue 1,20,Lyon,Lille
+France,Ligue 1,20,Angers,Metz
+France,Ligue 1,20,Nice,Brest
+France,Ligue 1,20,Toulouse,Auxerre
+France,Ligue 1,20,Strasbourg,Paris SG
+France,Ligue 1,21,Angers,Toulouse
+France,Ligue 1,21,Auxerre,Paris FC
+France,Ligue 1,21,Brest,Lorient
+France,Ligue 1,21,Le Havre,Strasbourg
+France,Ligue 1,21,Lens,Rennes
+France,Ligue 1,21,Metz,Lille
+France,Ligue 1,21,Nantes,Lyon
+France,Ligue 1,21,Nice,Monaco
+France,Ligue 1,21,Paris SG,Marseille
+France,Ligue 1,22,Le Havre,Toulouse
+France,Ligue 1,22,Lille,Brest
+France,Ligue 1,22,Lorient,Angers
+France,Ligue 1,22,Lyon,Nice
+France,Ligue 1,22,Marseille,Strasbourg
+France,Ligue 1,22,Metz,Auxerre
+France,Ligue 1,22,Monaco,Nantes
+France,Ligue 1,22,Paris FC,Lens
+France,Ligue 1,22,Rennes,Paris SG
+France,Ligue 1,23,Angers,Lille
+France,Ligue 1,23,Auxerre,Rennes
+France,Ligue 1,23,Brest,Marseille
+France,Ligue 1,23,Lens,Monaco
+France,Ligue 1,23,Nantes,Le Havre
+France,Ligue 1,23,Nice,Lorient
+France,Ligue 1,23,Paris SG,Metz
+France,Ligue 1,23,Strasbourg,Lyon
+France,Ligue 1,23,Toulouse,Paris FC
+France,Ligue 1,24,Le Havre,Paris SG
+France,Ligue 1,24,Lille,Nantes
+France,Ligue 1,24,Lorient,Auxerre
+France,Ligue 1,24,Marseille,Lyon
+France,Ligue 1,24,Metz,Brest
+France,Ligue 1,24,Monaco,Angers
+France,Ligue 1,24,Paris FC,Nice
+France,Ligue 1,24,Rennes,Toulouse
+France,Ligue 1,24,Strasbourg,Lens
+France,Ligue 1,25,Auxerre,Strasbourg
+France,Ligue 1,25,Brest,Le Havre
+France,Ligue 1,25,Lens,Metz
+France,Ligue 1,25,Lille,Lorient
+France,Ligue 1,25,Lyon,Paris FC
+France,Ligue 1,25,Nantes,Angers
+France,Ligue 1,25,Nice,Rennes
+France,Ligue 1,25,Paris SG,Monaco
+France,Ligue 1,25,Toulouse,Marseille
+France,Ligue 1,26,Angers,Nice
+France,Ligue 1,26,Le Havre,Lyon
+France,Ligue 1,26,Lorient,Lens
+France,Ligue 1,26,Marseille,Auxerre
+France,Ligue 1,26,Metz,Toulouse
+France,Ligue 1,26,Monaco,Brest
+France,Ligue 1,26,Paris SG,Nantes
+France,Ligue 1,26,Rennes,Lille
+France,Ligue 1,26,Strasbourg,Paris FC
+France,Ligue 1,27,Auxerre,Brest
+France,Ligue 1,27,Lens,Angers
+France,Ligue 1,27,Lyon,Monaco
+France,Ligue 1,27,Marseille,Lille
+France,Ligue 1,27,Nantes,Strasbourg
+France,Ligue 1,27,Nice,Paris SG
+France,Ligue 1,27,Paris FC,Le Havre
+France,Ligue 1,27,Rennes,Metz
+France,Ligue 1,27,Toulouse,Lorient
+France,Ligue 1,28,Angers,Lyon
+France,Ligue 1,28,Brest,Rennes
+France,Ligue 1,28,Le Havre,Auxerre
+France,Ligue 1,28,Lille,Lens
+France,Ligue 1,28,Lorient,Paris FC
+France,Ligue 1,28,Metz,Nantes
+France,Ligue 1,28,Monaco,Marseille
+France,Ligue 1,28,Paris SG,Toulouse
+France,Ligue 1,28,Strasbourg,Nice
+France,Ligue 1,29,Auxerre,Nantes
+France,Ligue 1,29,Brest,Strasbourg
+France,Ligue 1,29,Lens,Paris SG
+France,Ligue 1,29,Lyon,Lorient
+France,Ligue 1,29,Marseille,Metz
+France,Ligue 1,29,Nice,Le Havre
+France,Ligue 1,29,Paris FC,Monaco
+France,Ligue 1,29,Rennes,Angers
+France,Ligue 1,29,Toulouse,Lille
+France,Ligue 1,30,Angers,Le Havre
+France,Ligue 1,30,Lens,Toulouse
+France,Ligue 1,30,Lille,Nice
+France,Ligue 1,30,Lorient,Marseille
+France,Ligue 1,30,Metz,Paris FC
+France,Ligue 1,30,Monaco,Auxerre
+France,Ligue 1,30,Nantes,Brest
+France,Ligue 1,30,Paris SG,Lyon
+France,Ligue 1,30,Strasbourg,Rennes
+France,Ligue 1,31,Angers,Paris SG
+France,Ligue 1,31,Brest,Lens
+France,Ligue 1,31,Le Havre,Metz
+France,Ligue 1,31,Lorient,Strasbourg
+France,Ligue 1,31,Lyon,Auxerre
+France,Ligue 1,31,Marseille,Nice
+France,Ligue 1,31,Paris FC,Lille
+France,Ligue 1,31,Rennes,Nantes
+France,Ligue 1,31,Toulouse,Monaco
+France,Ligue 1,32,Auxerre,Angers
+France,Ligue 1,32,Lille,Le Havre
+France,Ligue 1,32,Lyon,Rennes
+France,Ligue 1,32,Metz,Monaco
+France,Ligue 1,32,Nantes,Marseille
+France,Ligue 1,32,Nice,Lens
+France,Ligue 1,32,Paris FC,Brest
+France,Ligue 1,32,Paris SG,Lorient
+France,Ligue 1,32,Strasbourg,Toulouse
+France,Ligue 1,33,Angers,Strasbourg
+France,Ligue 1,33,Auxerre,Nice
+France,Ligue 1,33,Le Havre,Marseille
+France,Ligue 1,33,Lens,Nantes
+France,Ligue 1,33,Metz,Lorient
+France,Ligue 1,33,Monaco,Lille
+France,Ligue 1,33,Paris SG,Brest
+France,Ligue 1,33,Rennes,Paris FC
+France,Ligue 1,33,Toulouse,Lyon
+France,Ligue 1,34,Brest,Angers
+France,Ligue 1,34,Lille,Auxerre
+France,Ligue 1,34,Lorient,Le Havre
+France,Ligue 1,34,Lyon,Lens
+France,Ligue 1,34,Marseille,Rennes
+France,Ligue 1,34,Nantes,Toulouse
+France,Ligue 1,34,Nice,Metz
+France,Ligue 1,34,Paris FC,Paris SG
+France,Ligue 1,34,Strasbourg,Monaco

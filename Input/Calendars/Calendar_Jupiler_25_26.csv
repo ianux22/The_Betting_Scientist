@@ -1,0 +1,241 @@
+Country,League,Matchday,Hometeam,Awayteam
+Belgium,Jupiler League,1,Antwerp,St. Gilloise
+Belgium,Jupiler League,1,Dender,Cercle Brugge
+Belgium,Jupiler League,1,Waregem,Mechelen
+Belgium,Jupiler League,1,RAAL La Louviere,Standard
+Belgium,Jupiler League,1,Anderlecht,Westerlo
+Belgium,Jupiler League,1,Oud-Heverlee Leuven,Charleroi
+Belgium,Jupiler League,1,Club Brugge,Genk
+Belgium,Jupiler League,1,St Truiden,Gent
+Belgium,Jupiler League,2,Mechelen,Club Brugge
+Belgium,Jupiler League,2,Westerlo,Waregem
+Belgium,Jupiler League,2,Standard,Dender
+Belgium,Jupiler League,2,Gent,RAAL La Louviere
+Belgium,Jupiler League,2,Genk,Antwerp
+Belgium,Jupiler League,2,Cercle Brugge,Anderlecht
+Belgium,Jupiler League,2,St. Gilloise,Oud-Heverlee Leuven
+Belgium,Jupiler League,2,Charleroi,St Truiden
+Belgium,Jupiler League,3,St Truiden,Dender
+Belgium,Jupiler League,3,Club Brugge,Cercle Brugge
+Belgium,Jupiler League,3,Westerlo,Mechelen
+Belgium,Jupiler League,3,Gent,St. Gilloise
+Belgium,Jupiler League,3,RAAL La Louviere,Charleroi
+Belgium,Jupiler League,3,Anderlecht,Waregem
+Belgium,Jupiler League,3,Standard,Genk
+Belgium,Jupiler League,3,Antwerp,Oud-Heverlee Leuven
+Belgium,Jupiler League,4,Oud-Heverlee Leuven,Genk
+Belgium,Jupiler League,4,Waregem,Club Brugge
+Belgium,Jupiler League,4,Mechelen,Gent
+Belgium,Jupiler League,4,St. Gilloise,Standard
+Belgium,Jupiler League,4,Dender,Anderlecht
+Belgium,Jupiler League,4,St Truiden,RAAL La Louviere
+Belgium,Jupiler League,4,Charleroi,Antwerp
+Belgium,Jupiler League,4,Cercle Brugge,Westerlo
+Belgium,Jupiler League,5,Standard,Cercle Brugge
+Belgium,Jupiler League,5,Waregem,St Truiden
+Belgium,Jupiler League,5,Antwerp,Mechelen
+Belgium,Jupiler League,5,RAAL La Louviere,St. Gilloise
+Belgium,Jupiler League,5,Dender,Oud-Heverlee Leuven
+Belgium,Jupiler League,5,Genk,Charleroi
+Belgium,Jupiler League,5,Anderlecht,Gent
+Belgium,Jupiler League,5,Club Brugge,Westerlo
+Belgium,Jupiler League,6,Cercle Brugge,St Truiden
+Belgium,Jupiler League,6,Mechelen,RAAL La Louviere
+Belgium,Jupiler League,6,Westerlo,Antwerp
+Belgium,Jupiler League,6,Charleroi,Dender
+Belgium,Jupiler League,6,Gent,Club Brugge
+Belgium,Jupiler League,6,Oud-Heverlee Leuven,Standard
+Belgium,Jupiler League,6,St. Gilloise,Anderlecht
+Belgium,Jupiler League,6,Genk,Waregem
+Belgium,Jupiler League,7,Standard,Mechelen
+Belgium,Jupiler League,7,Waregem,Oud-Heverlee Leuven
+Belgium,Jupiler League,7,Dender,St. Gilloise
+Belgium,Jupiler League,7,RAAL La Louviere,Club Brugge
+Belgium,Jupiler League,7,Antwerp,Gent
+Belgium,Jupiler League,7,Cercle Brugge,Charleroi
+Belgium,Jupiler League,7,Anderlecht,Genk
+Belgium,Jupiler League,7,St Truiden,Westerlo
+Belgium,Jupiler League,8,Gent,Dender
+Belgium,Jupiler League,8,Oud-Heverlee Leuven,RAAL La Louviere
+Belgium,Jupiler League,8,Charleroi,Waregem
+Belgium,Jupiler League,8,Anderlecht,Antwerp
+Belgium,Jupiler League,8,Genk,St. Gilloise
+Belgium,Jupiler League,8,Westerlo,Standard
+Belgium,Jupiler League,8,Club Brugge,St Truiden
+Belgium,Jupiler League,8,Mechelen,Cercle Brugge
+Belgium,Jupiler League,9,Oud-Heverlee Leuven,Anderlecht
+Belgium,Jupiler League,9,Waregem,Antwerp
+Belgium,Jupiler League,9,Standard,Club Brugge
+Belgium,Jupiler League,9,St. Gilloise,Westerlo
+Belgium,Jupiler League,9,St Truiden,Genk
+Belgium,Jupiler League,9,Cercle Brugge,Gent
+Belgium,Jupiler League,9,Charleroi,Mechelen
+Belgium,Jupiler League,9,Dender,RAAL La Louviere
+Belgium,Jupiler League,10,Gent,Charleroi
+Belgium,Jupiler League,10,Mechelen,St Truiden
+Belgium,Jupiler League,10,RAAL La Louviere,Waregem
+Belgium,Jupiler League,10,Antwerp,Cercle Brugge
+Belgium,Jupiler League,10,Anderlecht,Standard
+Belgium,Jupiler League,10,Genk,Dender
+Belgium,Jupiler League,10,Club Brugge,St. Gilloise
+Belgium,Jupiler League,10,Westerlo,Oud-Heverlee Leuven
+Belgium,Jupiler League,11,Standard,Antwerp
+Belgium,Jupiler League,11,RAAL La Louviere,Westerlo
+Belgium,Jupiler League,11,Oud-Heverlee Leuven,Club Brugge
+Belgium,Jupiler League,11,St. Gilloise,Charleroi
+Belgium,Jupiler League,11,Cercle Brugge,Genk
+Belgium,Jupiler League,11,Dender,Mechelen
+Belgium,Jupiler League,11,St Truiden,Anderlecht
+Belgium,Jupiler League,11,Waregem,Gent
+Belgium,Jupiler League,12,Charleroi,Anderlecht
+Belgium,Jupiler League,12,Westerlo,Dender
+Belgium,Jupiler League,12,Mechelen,Oud-Heverlee Leuven
+Belgium,Jupiler League,12,Gent,Standard
+Belgium,Jupiler League,12,Antwerp,Club Brugge
+Belgium,Jupiler League,12,Cercle Brugge,Waregem
+Belgium,Jupiler League,12,Genk,RAAL La Louviere
+Belgium,Jupiler League,12,St. Gilloise,St Truiden
+Belgium,Jupiler League,13,Standard,Charleroi
+Belgium,Jupiler League,13,Waregem,St. Gilloise
+Belgium,Jupiler League,13,Club Brugge,Dender
+Belgium,Jupiler League,13,Anderlecht,Mechelen
+Belgium,Jupiler League,13,Westerlo,Genk
+Belgium,Jupiler League,13,Oud-Heverlee Leuven,Gent
+Belgium,Jupiler League,13,St Truiden,Antwerp
+Belgium,Jupiler League,13,RAAL La Louviere,Cercle Brugge
+Belgium,Jupiler League,14,Dender,Waregem
+Belgium,Jupiler League,14,Cercle Brugge,Oud-Heverlee Leuven
+Belgium,Jupiler League,14,Charleroi,Westerlo
+Belgium,Jupiler League,14,Antwerp,RAAL La Louviere
+Belgium,Jupiler League,14,Anderlecht,Club Brugge
+Belgium,Jupiler League,14,St Truiden,Standard
+Belgium,Jupiler League,14,Gent,Genk
+Belgium,Jupiler League,14,Mechelen,St. Gilloise
+Belgium,Jupiler League,15,Standard,Waregem
+Belgium,Jupiler League,15,St. Gilloise,Cercle Brugge
+Belgium,Jupiler League,15,Westerlo,Gent
+Belgium,Jupiler League,15,Club Brugge,Charleroi
+Belgium,Jupiler League,15,Genk,Mechelen
+Belgium,Jupiler League,15,Antwerp,Dender
+Belgium,Jupiler League,15,RAAL La Louviere,Anderlecht
+Belgium,Jupiler League,15,Oud-Heverlee Leuven,St Truiden
+Belgium,Jupiler League,16,Mechelen,Standard
+Belgium,Jupiler League,16,Dender,Westerlo
+Belgium,Jupiler League,16,Waregem,Cercle Brugge
+Belgium,Jupiler League,16,Charleroi,RAAL La Louviere
+Belgium,Jupiler League,16,Club Brugge,Antwerp
+Belgium,Jupiler League,16,Genk,Oud-Heverlee Leuven
+Belgium,Jupiler League,16,Anderlecht,St. Gilloise
+Belgium,Jupiler League,16,Gent,St Truiden
+Belgium,Jupiler League,17,RAAL La Louviere,Dender
+Belgium,Jupiler League,17,Cercle Brugge,Standard
+Belgium,Jupiler League,17,St. Gilloise,Gent
+Belgium,Jupiler League,17,St Truiden,Club Brugge
+Belgium,Jupiler League,17,Mechelen,Charleroi
+Belgium,Jupiler League,17,Westerlo,Anderlecht
+Belgium,Jupiler League,17,Antwerp,Genk
+Belgium,Jupiler League,17,Oud-Heverlee Leuven,Waregem
+Belgium,Jupiler League,18,Standard,Oud-Heverlee Leuven
+Belgium,Jupiler League,18,Cercle Brugge,Mechelen
+Belgium,Jupiler League,18,Waregem,RAAL La Louviere
+Belgium,Jupiler League,18,Anderlecht,St Truiden
+Belgium,Jupiler League,18,Gent,Antwerp
+Belgium,Jupiler League,18,Dender,Club Brugge
+Belgium,Jupiler League,18,Charleroi,St. Gilloise
+Belgium,Jupiler League,18,Genk,Westerlo
+Belgium,Jupiler League,19,Charleroi,Genk
+Belgium,Jupiler League,19,Dender,Standard
+Belgium,Jupiler League,19,Westerlo,RAAL La Louviere
+Belgium,Jupiler League,19,St. Gilloise,Waregem
+Belgium,Jupiler League,19,Club Brugge,Gent
+Belgium,Jupiler League,19,St Truiden,Mechelen
+Belgium,Jupiler League,19,Antwerp,Anderlecht
+Belgium,Jupiler League,19,Oud-Heverlee Leuven,Cercle Brugge
+Belgium,Jupiler League,20,Genk,Club Brugge
+Belgium,Jupiler League,20,Cercle Brugge,St. Gilloise
+Belgium,Jupiler League,20,Standard,St Truiden
+Belgium,Jupiler League,20,Anderlecht,Charleroi
+Belgium,Jupiler League,20,Antwerp,Waregem
+Belgium,Jupiler League,20,RAAL La Louviere,Oud-Heverlee Leuven
+Belgium,Jupiler League,20,Mechelen,Dender
+Belgium,Jupiler League,20,Gent,Westerlo
+Belgium,Jupiler League,21,Waregem,Genk
+Belgium,Jupiler League,21,Westerlo,Cercle Brugge
+Belgium,Jupiler League,21,Charleroi,Standard
+Belgium,Jupiler League,21,Dender,Antwerp
+Belgium,Jupiler League,21,St. Gilloise,Mechelen
+Belgium,Jupiler League,21,Gent,Anderlecht
+Belgium,Jupiler League,21,St Truiden,Oud-Heverlee Leuven
+Belgium,Jupiler League,21,Club Brugge,RAAL La Louviere
+Belgium,Jupiler League,22,Anderlecht,Dender
+Belgium,Jupiler League,22,RAAL La Louviere,St Truiden
+Belgium,Jupiler League,22,Club Brugge,Waregem
+Belgium,Jupiler League,22,Antwerp,Charleroi
+Belgium,Jupiler League,22,Standard,Gent
+Belgium,Jupiler League,22,Mechelen,Westerlo
+Belgium,Jupiler League,22,Genk,Cercle Brugge
+Belgium,Jupiler League,22,Oud-Heverlee Leuven,St. Gilloise
+Belgium,Jupiler League,23,St Truiden,Charleroi
+Belgium,Jupiler League,23,Oud-Heverlee Leuven,Mechelen
+Belgium,Jupiler League,23,Waregem,Westerlo
+Belgium,Jupiler League,23,Dender,Genk
+Belgium,Jupiler League,23,Standard,Anderlecht
+Belgium,Jupiler League,23,St. Gilloise,Club Brugge
+Belgium,Jupiler League,23,RAAL La Louviere,Gent
+Belgium,Jupiler League,23,Cercle Brugge,Antwerp
+Belgium,Jupiler League,24,Mechelen,Antwerp
+Belgium,Jupiler League,24,Westerlo,St Truiden
+Belgium,Jupiler League,24,Genk,Anderlecht
+Belgium,Jupiler League,24,Gent,Oud-Heverlee Leuven
+Belgium,Jupiler League,24,Waregem,Dender
+Belgium,Jupiler League,24,Club Brugge,Standard
+Belgium,Jupiler League,24,Charleroi,Cercle Brugge
+Belgium,Jupiler League,24,St. Gilloise,RAAL La Louviere
+Belgium,Jupiler League,25,Charleroi,Gent
+Belgium,Jupiler League,25,Mechelen,Genk
+Belgium,Jupiler League,25,Antwerp,Westerlo
+Belgium,Jupiler League,25,St Truiden,Waregem
+Belgium,Jupiler League,25,Standard,St. Gilloise
+Belgium,Jupiler League,25,Anderlecht,RAAL La Louviere
+Belgium,Jupiler League,25,Oud-Heverlee Leuven,Dender
+Belgium,Jupiler League,25,Cercle Brugge,Club Brugge
+Belgium,Jupiler League,26,St. Gilloise,Antwerp
+Belgium,Jupiler League,26,Westerlo,Charleroi
+Belgium,Jupiler League,26,Dender,St Truiden
+Belgium,Jupiler League,26,RAAL La Louviere,Mechelen
+Belgium,Jupiler League,26,Waregem,Anderlecht
+Belgium,Jupiler League,26,Gent,Cercle Brugge
+Belgium,Jupiler League,26,Genk,Standard
+Belgium,Jupiler League,26,Club Brugge,Oud-Heverlee Leuven
+Belgium,Jupiler League,27,Genk,Gent
+Belgium,Jupiler League,27,Cercle Brugge,Dender
+Belgium,Jupiler League,27,Charleroi,Club Brugge
+Belgium,Jupiler League,27,Anderlecht,Oud-Heverlee Leuven
+Belgium,Jupiler League,27,Antwerp,St Truiden
+Belgium,Jupiler League,27,Mechelen,Waregem
+Belgium,Jupiler League,27,Standard,RAAL La Louviere
+Belgium,Jupiler League,27,Westerlo,St. Gilloise
+Belgium,Jupiler League,28,Oud-Heverlee Leuven,Westerlo
+Belgium,Jupiler League,28,Dender,Charleroi
+Belgium,Jupiler League,28,Waregem,Standard
+Belgium,Jupiler League,28,St. Gilloise,Genk
+Belgium,Jupiler League,28,RAAL La Louviere,Antwerp
+Belgium,Jupiler League,28,St Truiden,Cercle Brugge
+Belgium,Jupiler League,28,Gent,Mechelen
+Belgium,Jupiler League,28,Club Brugge,Anderlecht
+Belgium,Jupiler League,29,Mechelen,Anderlecht
+Belgium,Jupiler League,29,Charleroi,Oud-Heverlee Leuven
+Belgium,Jupiler League,29,Genk,St Truiden
+Belgium,Jupiler League,29,Westerlo,Club Brugge
+Belgium,Jupiler League,29,Cercle Brugge,RAAL La Louviere
+Belgium,Jupiler League,29,Gent,Waregem
+Belgium,Jupiler League,29,Antwerp,Standard
+Belgium,Jupiler League,29,St. Gilloise,Dender
+Belgium,Jupiler League,30,Club Brugge,Mechelen
+Belgium,Jupiler League,30,Dender,Gent
+Belgium,Jupiler League,30,Standard,Westerlo
+Belgium,Jupiler League,30,Waregem,Charleroi
+Belgium,Jupiler League,30,Anderlecht,Cercle Brugge
+Belgium,Jupiler League,30,RAAL La Louviere,Genk
+Belgium,Jupiler League,30,St Truiden,St. Gilloise
+Belgium,Jupiler League,30,Oud-Heverlee Leuven,Antwerp

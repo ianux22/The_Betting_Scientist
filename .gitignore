@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.env
+.venv
+venv/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data and outputs
+Input/results/
+Output/
+Input/Combined_Country_League_Calendar_25_26.csv
+Input/combined_results.csv
+
+# Large/irrelevant
+*.cbz
+
+# OS
+.DS_Store
+Thumbs.db

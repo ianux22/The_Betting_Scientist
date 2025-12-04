@@ -1,0 +1,381 @@
+Country,League,Matchday,Hometeam,Awayteam
+England,Premier League,1,Liverpool,Bournemouth
+England,Premier League,1,Aston Villa,Newcastle
+England,Premier League,1,Brighton,Fulham
+England,Premier League,1,Sunderland,West Ham
+England,Premier League,1,Tottenham,Burnley
+England,Premier League,1,Wolves,Man City
+England,Premier League,1,Nott'm Forest,Brentford
+England,Premier League,1,Chelsea,Crystal Palace
+England,Premier League,1,Man United,Arsenal
+England,Premier League,1,Leeds,Everton
+England,Premier League,2,West Ham,Chelsea
+England,Premier League,2,Man City,Tottenham
+England,Premier League,2,Bournemouth,Wolves
+England,Premier League,2,Brentford,Aston Villa
+England,Premier League,2,Burnley,Sunderland
+England,Premier League,2,Arsenal,Leeds
+England,Premier League,2,Crystal Palace,Nott'm Forest
+England,Premier League,2,Everton,Brighton
+England,Premier League,2,Fulham,Man United
+England,Premier League,2,Newcastle,Liverpool
+England,Premier League,3,Chelsea,Fulham
+England,Premier League,3,Man United,Burnley
+England,Premier League,3,Sunderland,Brentford
+England,Premier League,3,Tottenham,Bournemouth
+England,Premier League,3,Wolves,Everton
+England,Premier League,3,Leeds,Newcastle
+England,Premier League,3,Brighton,Man City
+England,Premier League,3,Nott'm Forest,West Ham
+England,Premier League,3,Liverpool,Arsenal
+England,Premier League,3,Aston Villa,Crystal Palace
+England,Premier League,4,Arsenal,Nott'm Forest
+England,Premier League,4,Bournemouth,Brighton
+England,Premier League,4,Crystal Palace,Sunderland
+England,Premier League,4,Everton,Aston Villa
+England,Premier League,4,Fulham,Leeds
+England,Premier League,4,Newcastle,Wolves
+England,Premier League,4,West Ham,Tottenham
+England,Premier League,4,Brentford,Chelsea
+England,Premier League,4,Burnley,Liverpool
+England,Premier League,4,Man City,Man United
+England,Premier League,5,Liverpool,Everton
+England,Premier League,5,Brighton,Tottenham
+England,Premier League,5,Burnley,Nott'm Forest
+England,Premier League,5,West Ham,Crystal Palace
+England,Premier League,5,Wolves,Leeds
+England,Premier League,5,Man United,Chelsea
+England,Premier League,5,Fulham,Brentford
+England,Premier League,5,Bournemouth,Newcastle
+England,Premier League,5,Sunderland,Aston Villa
+England,Premier League,5,Arsenal,Man City
+England,Premier League,6,Brentford,Man United
+England,Premier League,6,Chelsea,Brighton
+England,Premier League,6,Crystal Palace,Liverpool
+England,Premier League,6,Leeds,Bournemouth
+England,Premier League,6,Man City,Burnley
+England,Premier League,6,Nott'm Forest,Sunderland
+England,Premier League,6,Tottenham,Wolves
+England,Premier League,6,Aston Villa,Fulham
+England,Premier League,6,Newcastle,Arsenal
+England,Premier League,6,Everton,West Ham
+England,Premier League,7,Bournemouth,Fulham
+England,Premier League,7,Leeds,Tottenham
+England,Premier League,7,Arsenal,West Ham
+England,Premier League,7,Man United,Sunderland
+England,Premier League,7,Chelsea,Liverpool
+England,Premier League,7,Aston Villa,Burnley
+England,Premier League,7,Everton,Crystal Palace
+England,Premier League,7,Newcastle,Nott'm Forest
+England,Premier League,7,Wolves,Brighton
+England,Premier League,7,Brentford,Man City
+England,Premier League,8,Nott'm Forest,Chelsea
+England,Premier League,8,Brighton,Newcastle
+England,Premier League,8,Burnley,Leeds
+England,Premier League,8,Crystal Palace,Bournemouth
+England,Premier League,8,Man City,Everton
+England,Premier League,8,Sunderland,Wolves
+England,Premier League,8,Fulham,Arsenal
+England,Premier League,8,Tottenham,Aston Villa
+England,Premier League,8,Liverpool,Man United
+England,Premier League,8,West Ham,Brentford
+England,Premier League,9,Leeds,West Ham
+England,Premier League,9,Chelsea,Sunderland
+England,Premier League,9,Newcastle,Fulham
+England,Premier League,9,Man United,Brighton
+England,Premier League,9,Brentford,Liverpool
+England,Premier League,9,Arsenal,Crystal Palace
+England,Premier League,9,Aston Villa,Man City
+England,Premier League,9,Wolves,Burnley
+England,Premier League,9,Bournemouth,Nott'm Forest
+England,Premier League,9,Everton,Tottenham
+England,Premier League,10,Brighton,Leeds
+England,Premier League,10,Burnley,Arsenal
+England,Premier League,10,Crystal Palace,Brentford
+England,Premier League,10,Fulham,Wolves
+England,Premier League,10,Nott'm Forest,Man United
+England,Premier League,10,Tottenham,Chelsea
+England,Premier League,10,Liverpool,Aston Villa
+England,Premier League,10,West Ham,Newcastle
+England,Premier League,10,Man City,Bournemouth
+England,Premier League,10,Sunderland,Everton
+England,Premier League,11,Tottenham,Man United
+England,Premier League,11,Everton,Fulham
+England,Premier League,11,West Ham,Burnley
+England,Premier League,11,Sunderland,Arsenal
+England,Premier League,11,Chelsea,Wolves
+England,Premier League,11,Aston Villa,Bournemouth
+England,Premier League,11,Brentford,Newcastle
+England,Premier League,11,Crystal Palace,Brighton
+England,Premier League,11,Nott'm Forest,Leeds
+England,Premier League,11,Man City,Liverpool
+England,Premier League,12,Burnley,Chelsea
+England,Premier League,12,Bournemouth,West Ham
+England,Premier League,12,Brighton,Brentford
+England,Premier League,12,Fulham,Sunderland
+England,Premier League,12,Liverpool,Nott'm Forest
+England,Premier League,12,Wolves,Crystal Palace
+England,Premier League,12,Newcastle,Man City
+England,Premier League,12,Leeds,Aston Villa
+England,Premier League,12,Arsenal,Tottenham
+England,Premier League,12,Man United,Everton
+England,Premier League,13,Brentford,Burnley
+England,Premier League,13,Man City,Leeds
+England,Premier League,13,Sunderland,Bournemouth
+England,Premier League,13,Everton,Newcastle
+England,Premier League,13,Tottenham,Fulham
+England,Premier League,13,Crystal Palace,Man United
+England,Premier League,13,Aston Villa,Wolves
+England,Premier League,13,Nott'm Forest,Brighton
+England,Premier League,13,West Ham,Liverpool
+England,Premier League,13,Chelsea,Arsenal
+England,Premier League,14,Bournemouth,Everton
+England,Premier League,14,Fulham,Man City
+England,Premier League,14,Newcastle,Tottenham
+England,Premier League,14,Arsenal,Brentford
+England,Premier League,14,Brighton,Aston Villa
+England,Premier League,14,Burnley,Crystal Palace
+England,Premier League,14,Wolves,Nott'm Forest
+England,Premier League,14,Leeds,Chelsea
+England,Premier League,14,Liverpool,Sunderland
+England,Premier League,14,Man United,West Ham
+England,Premier League,15,Aston Villa,Arsenal
+England,Premier League,15,Bournemouth,Chelsea
+England,Premier League,15,Everton,Nott'm Forest
+England,Premier League,15,Man City,Sunderland
+England,Premier League,15,Newcastle,Burnley
+England,Premier League,15,Tottenham,Brentford
+England,Premier League,15,Leeds,Liverpool
+England,Premier League,15,Brighton,West Ham
+England,Premier League,15,Fulham,Crystal Palace
+England,Premier League,15,Wolves,Man United
+England,Premier League,16,Chelsea,Everton
+England,Premier League,16,Liverpool,Brighton
+England,Premier League,16,Burnley,Fulham
+England,Premier League,16,Arsenal,Wolves
+England,Premier League,16,Crystal Palace,Man City
+England,Premier League,16,Nott'm Forest,Tottenham
+England,Premier League,16,Sunderland,Newcastle
+England,Premier League,16,West Ham,Aston Villa
+England,Premier League,16,Brentford,Leeds
+England,Premier League,16,Man United,Bournemouth
+England,Premier League,17,Newcastle,Chelsea
+England,Premier League,17,Bournemouth,Burnley
+England,Premier League,17,Brighton,Sunderland
+England,Premier League,17,Man City,West Ham
+England,Premier League,17,Wolves,Brentford
+England,Premier League,17,Tottenham,Liverpool
+England,Premier League,17,Everton,Arsenal
+England,Premier League,17,Leeds,Crystal Palace
+England,Premier League,17,Aston Villa,Man United
+England,Premier League,17,Fulham,Nott'm Forest
+England,Premier League,18,Man United,Newcastle
+England,Premier League,18,Nott'm Forest,Man City
+England,Premier League,18,Arsenal,Brighton
+England,Premier League,18,Brentford,Bournemouth
+England,Premier League,18,Burnley,Everton
+England,Premier League,18,Liverpool,Wolves
+England,Premier League,18,West Ham,Fulham
+England,Premier League,18,Chelsea,Aston Villa
+England,Premier League,18,Sunderland,Leeds
+England,Premier League,18,Crystal Palace,Tottenham
+England,Premier League,19,Burnley,Newcastle
+England,Premier League,19,Chelsea,Bournemouth
+England,Premier League,19,Nott'm Forest,Everton
+England,Premier League,19,West Ham,Brighton
+England,Premier League,19,Arsenal,Aston Villa
+England,Premier League,19,Man United,Wolves
+England,Premier League,19,Crystal Palace,Fulham
+England,Premier League,19,Liverpool,Leeds
+England,Premier League,19,Brentford,Tottenham
+England,Premier League,19,Sunderland,Man City
+England,Premier League,20,Aston Villa,Nott'm Forest
+England,Premier League,20,Brighton,Burnley
+England,Premier League,20,Wolves,West Ham
+England,Premier League,20,Bournemouth,Arsenal
+England,Premier League,20,Leeds,Man United
+England,Premier League,20,Everton,Brentford
+England,Premier League,20,Fulham,Liverpool
+England,Premier League,20,Newcastle,Crystal Palace
+England,Premier League,20,Tottenham,Sunderland
+England,Premier League,20,Man City,Chelsea
+England,Premier League,21,West Ham,Nott'm Forest
+England,Premier League,21,Bournemouth,Tottenham
+England,Premier League,21,Brentford,Sunderland
+England,Premier League,21,Crystal Palace,Aston Villa
+England,Premier League,21,Everton,Wolves
+England,Premier League,21,Fulham,Chelsea
+England,Premier League,21,Man City,Brighton
+England,Premier League,21,Burnley,Man United
+England,Premier League,21,Newcastle,Leeds
+England,Premier League,21,Arsenal,Liverpool
+England,Premier League,22,Aston Villa,Everton
+England,Premier League,22,Brighton,Bournemouth
+England,Premier League,22,Chelsea,Brentford
+England,Premier League,22,Leeds,Fulham
+England,Premier League,22,Liverpool,Burnley
+England,Premier League,22,Man United,Man City
+England,Premier League,22,Nott'm Forest,Arsenal
+England,Premier League,22,Sunderland,Crystal Palace
+England,Premier League,22,Tottenham,West Ham
+England,Premier League,22,Wolves,Newcastle
+England,Premier League,23,Arsenal,Man United
+England,Premier League,23,Bournemouth,Liverpool
+England,Premier League,23,Brentford,Nott'm Forest
+England,Premier League,23,Burnley,Tottenham
+England,Premier League,23,Crystal Palace,Chelsea
+England,Premier League,23,Everton,Leeds
+England,Premier League,23,Fulham,Brighton
+England,Premier League,23,Man City,Wolves
+England,Premier League,23,Newcastle,Aston Villa
+England,Premier League,23,West Ham,Sunderland
+England,Premier League,24,Aston Villa,Brentford
+England,Premier League,24,Brighton,Everton
+England,Premier League,24,Chelsea,West Ham
+England,Premier League,24,Leeds,Arsenal
+England,Premier League,24,Liverpool,Newcastle
+England,Premier League,24,Man United,Fulham
+England,Premier League,24,Nott'm Forest,Crystal Palace
+England,Premier League,24,Sunderland,Burnley
+England,Premier League,24,Tottenham,Man City
+England,Premier League,24,Wolves,Bournemouth
+England,Premier League,25,Arsenal,Sunderland
+England,Premier League,25,Bournemouth,Aston Villa
+England,Premier League,25,Brighton,Crystal Palace
+England,Premier League,25,Burnley,West Ham
+England,Premier League,25,Fulham,Everton
+England,Premier League,25,Leeds,Nott'm Forest
+England,Premier League,25,Liverpool,Man City
+England,Premier League,25,Man United,Tottenham
+England,Premier League,25,Newcastle,Brentford
+England,Premier League,25,Wolves,Chelsea
+England,Premier League,26,Aston Villa,Brighton
+England,Premier League,26,Brentford,Arsenal
+England,Premier League,26,Chelsea,Leeds
+England,Premier League,26,Crystal Palace,Burnley
+England,Premier League,26,Everton,Bournemouth
+England,Premier League,26,Man City,Fulham
+England,Premier League,26,Nott'm Forest,Wolves
+England,Premier League,26,Sunderland,Liverpool
+England,Premier League,26,Tottenham,Newcastle
+England,Premier League,26,West Ham,Man United
+England,Premier League,27,Aston Villa,Leeds
+England,Premier League,27,Brentford,Brighton
+England,Premier League,27,Chelsea,Burnley
+England,Premier League,27,Crystal Palace,Wolves
+England,Premier League,27,Everton,Man United
+England,Premier League,27,Man City,Newcastle
+England,Premier League,27,Nott'm Forest,Liverpool
+England,Premier League,27,Sunderland,Fulham
+England,Premier League,27,Tottenham,Arsenal
+England,Premier League,27,West Ham,Bournemouth
+England,Premier League,28,Arsenal,Chelsea
+England,Premier League,28,Bournemouth,Sunderland
+England,Premier League,28,Brighton,Nott'm Forest
+England,Premier League,28,Burnley,Brentford
+England,Premier League,28,Fulham,Tottenham
+England,Premier League,28,Leeds,Man City
+England,Premier League,28,Liverpool,West Ham
+England,Premier League,28,Man United,Crystal Palace
+England,Premier League,28,Newcastle,Everton
+England,Premier League,28,Wolves,Aston Villa
+England,Premier League,29,Aston Villa,Chelsea
+England,Premier League,29,Bournemouth,Brentford
+England,Premier League,29,Brighton,Arsenal
+England,Premier League,29,Everton,Burnley
+England,Premier League,29,Fulham,West Ham
+England,Premier League,29,Leeds,Sunderland
+England,Premier League,29,Man City,Nott'm Forest
+England,Premier League,29,Newcastle,Man United
+England,Premier League,29,Tottenham,Crystal Palace
+England,Premier League,29,Wolves,Liverpool
+England,Premier League,30,Arsenal,Everton
+England,Premier League,30,Brentford,Wolves
+England,Premier League,30,Burnley,Bournemouth
+England,Premier League,30,Chelsea,Newcastle
+England,Premier League,30,Crystal Palace,Leeds
+England,Premier League,30,Liverpool,Tottenham
+England,Premier League,30,Man United,Aston Villa
+England,Premier League,30,Nott'm Forest,Fulham
+England,Premier League,30,Sunderland,Brighton
+England,Premier League,30,West Ham,Man City
+England,Premier League,31,Aston Villa,West Ham
+England,Premier League,31,Bournemouth,Man United
+England,Premier League,31,Brighton,Liverpool
+England,Premier League,31,Everton,Chelsea
+England,Premier League,31,Fulham,Burnley
+England,Premier League,31,Leeds,Brentford
+England,Premier League,31,Man City,Crystal Palace
+England,Premier League,31,Newcastle,Sunderland
+England,Premier League,31,Tottenham,Nott'm Forest
+England,Premier League,31,Wolves,Arsenal
+England,Premier League,32,Arsenal,Bournemouth
+England,Premier League,32,Brentford,Everton
+England,Premier League,32,Burnley,Brighton
+England,Premier League,32,Chelsea,Man City
+England,Premier League,32,Crystal Palace,Newcastle
+England,Premier League,32,Liverpool,Fulham
+England,Premier League,32,Man United,Leeds
+England,Premier League,32,Nott'm Forest,Aston Villa
+England,Premier League,32,Sunderland,Tottenham
+England,Premier League,32,West Ham,Wolves
+England,Premier League,33,Aston Villa,Sunderland
+England,Premier League,33,Brentford,Fulham
+England,Premier League,33,Chelsea,Man United
+England,Premier League,33,Crystal Palace,West Ham
+England,Premier League,33,Everton,Liverpool
+England,Premier League,33,Leeds,Wolves
+England,Premier League,33,Man City,Arsenal
+England,Premier League,33,Newcastle,Bournemouth
+England,Premier League,33,Nott'm Forest,Burnley
+England,Premier League,33,Tottenham,Brighton
+England,Premier League,34,Arsenal,Newcastle
+England,Premier League,34,Bournemouth,Leeds
+England,Premier League,34,Brighton,Chelsea
+England,Premier League,34,Burnley,Man City
+England,Premier League,34,Fulham,Aston Villa
+England,Premier League,34,Liverpool,Crystal Palace
+England,Premier League,34,Man United,Brentford
+England,Premier League,34,Sunderland,Nott'm Forest
+England,Premier League,34,West Ham,Everton
+England,Premier League,34,Wolves,Tottenham
+England,Premier League,35,Arsenal,Fulham
+England,Premier League,35,Aston Villa,Tottenham
+England,Premier League,35,Bournemouth,Crystal Palace
+England,Premier League,35,Brentford,West Ham
+England,Premier League,35,Chelsea,Nott'm Forest
+England,Premier League,35,Everton,Man City
+England,Premier League,35,Leeds,Burnley
+England,Premier League,35,Man United,Liverpool
+England,Premier League,35,Newcastle,Brighton
+England,Premier League,35,Wolves,Sunderland
+England,Premier League,36,Brighton,Wolves
+England,Premier League,36,Burnley,Aston Villa
+England,Premier League,36,Crystal Palace,Everton
+England,Premier League,36,Fulham,Bournemouth
+England,Premier League,36,Liverpool,Chelsea
+England,Premier League,36,Man City,Brentford
+England,Premier League,36,Nott'm Forest,Newcastle
+England,Premier League,36,Sunderland,Man United
+England,Premier League,36,Tottenham,Leeds
+England,Premier League,36,West Ham,Arsenal
+England,Premier League,37,Arsenal,Burnley
+England,Premier League,37,Aston Villa,Liverpool
+England,Premier League,37,Bournemouth,Man City
+England,Premier League,37,Brentford,Crystal Palace
+England,Premier League,37,Chelsea,Tottenham
+England,Premier League,37,Everton,Sunderland
+England,Premier League,37,Leeds,Brighton
+England,Premier League,37,Man United,Nott'm Forest
+England,Premier League,37,Newcastle,West Ham
+England,Premier League,37,Wolves,Fulham
+England,Premier League,38,Brighton,Man United
+England,Premier League,38,Burnley,Wolves
+England,Premier League,38,Crystal Palace,Arsenal
+England,Premier League,38,Fulham,Newcastle
+England,Premier League,38,Liverpool,Brentford
+England,Premier League,38,Man City,Aston Villa
+England,Premier League,38,Nott'm Forest,Bournemouth
+England,Premier League,38,Sunderland,Chelsea
+England,Premier League,38,Tottenham,Everton
+England,Premier League,38,West Ham,Leeds
