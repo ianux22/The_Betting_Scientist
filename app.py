@@ -144,7 +144,8 @@ def load_config(config_path: Path) -> Dict[str, object]:
 
 
 @st.cache_data(show_spinner=False)
-def load_calendar(calendar_path: Path) -> pd.DataFrame:
+def load_calendar(calendar_path: Path, cache_bust: float) -> pd.DataFrame:
+    # cache_bust ties the cache to the file's mtime so updated calendars refresh automatically
     return pd.read_csv(calendar_path)
 
 
@@ -629,7 +630,7 @@ def main() -> None:
         st.stop()
 
     _config = load_config(SIM_CONFIG_PATH)
-    calendar_df_raw = load_calendar(CALENDAR_WITH_RESULTS_PATH)
+    calendar_df_raw = load_calendar(CALENDAR_WITH_RESULTS_PATH, CALENDAR_WITH_RESULTS_PATH.stat().st_mtime)
     calendar_df = prepare_calendar(calendar_df_raw)
 
     leagues = league_options(calendar_df)
