@@ -1,0 +1,246 @@
+Country,League,Matchday,Hometeam,Awayteam
+Portugal,Liga Portugal,1,Benfica,Rio Ave
+Portugal,Liga Portugal,1,Porto,Guimaraes
+Portugal,Liga Portugal,1,Estoril,Estrela
+Portugal,Liga Portugal,1,Sp Braga,Tondela
+Portugal,Liga Portugal,1,Moreirense,Alverca
+Portugal,Liga Portugal,1,Famalicao,Santa Clara
+Portugal,Liga Portugal,1,Arouca,AVS
+Portugal,Liga Portugal,1,Nacional,Gil Vicente
+Portugal,Liga Portugal,1,Casa Pia,Sp Lisbon
+Portugal,Liga Portugal,2,Gil Vicente,Porto
+Portugal,Liga Portugal,2,Sp Lisbon,Arouca
+Portugal,Liga Portugal,2,Alverca,Sp Braga
+Portugal,Liga Portugal,2,Santa Clara,Moreirense
+Portugal,Liga Portugal,2,Rio Ave,Nacional
+Portugal,Liga Portugal,2,Estrela,Benfica
+Portugal,Liga Portugal,2,Guimaraes,Estoril
+Portugal,Liga Portugal,2,Tondela,Famalicao
+Portugal,Liga Portugal,2,AVS,Casa Pia
+Portugal,Liga Portugal,3,Estoril,Santa Clara
+Portugal,Liga Portugal,3,Estrela,Alverca
+Portugal,Liga Portugal,3,Sp Braga,AVS
+Portugal,Liga Portugal,3,Porto,Casa Pia
+Portugal,Liga Portugal,3,Famalicao,Gil Vicente
+Portugal,Liga Portugal,3,Arouca,Rio Ave
+Portugal,Liga Portugal,3,Benfica,Tondela
+Portugal,Liga Portugal,3,Nacional,Sp Lisbon
+Portugal,Liga Portugal,3,Moreirense,Guimaraes
+Portugal,Liga Portugal,4,Rio Ave,Sp Braga
+Portugal,Liga Portugal,4,Santa Clara,Estrela
+Portugal,Liga Portugal,4,Alverca,Benfica
+Portugal,Liga Portugal,4,Tondela,Estoril
+Portugal,Liga Portugal,4,Sp Lisbon,Porto
+Portugal,Liga Portugal,4,AVS,Famalicao
+Portugal,Liga Portugal,4,Guimaraes,Arouca
+Portugal,Liga Portugal,4,Casa Pia,Nacional
+Portugal,Liga Portugal,4,Gil Vicente,Moreirense
+Portugal,Liga Portugal,5,Sp Braga,Gil Vicente
+Portugal,Liga Portugal,5,Arouca,Casa Pia
+Portugal,Liga Portugal,5,Estrela,Guimaraes
+Portugal,Liga Portugal,5,Famalicao,Sp Lisbon
+Portugal,Liga Portugal,5,Porto,Nacional
+Portugal,Liga Portugal,5,Estoril,AVS
+Portugal,Liga Portugal,5,Moreirense,Rio Ave
+Portugal,Liga Portugal,5,Alverca,Tondela
+Portugal,Liga Portugal,5,Benfica,Santa Clara
+Portugal,Liga Portugal,6,Sp Lisbon,Moreirense
+Portugal,Liga Portugal,6,Casa Pia,Famalicao
+Portugal,Liga Portugal,6,Gil Vicente,Estoril
+Portugal,Liga Portugal,6,Tondela,Estrela
+Portugal,Liga Portugal,6,Guimaraes,Sp Braga
+Portugal,Liga Portugal,6,AVS,Benfica
+Portugal,Liga Portugal,6,Nacional,Arouca
+Portugal,Liga Portugal,6,Santa Clara,Alverca
+Portugal,Liga Portugal,6,Rio Ave,Porto
+Portugal,Liga Portugal,7,Arouca,Porto
+Portugal,Liga Portugal,7,Famalicao,Rio Ave
+Portugal,Liga Portugal,7,Sp Braga,Nacional
+Portugal,Liga Portugal,7,Alverca,Guimaraes
+Portugal,Liga Portugal,7,Estoril,Sp Lisbon
+Portugal,Liga Portugal,7,Estrela,AVS
+Portugal,Liga Portugal,7,Santa Clara,Tondela
+Portugal,Liga Portugal,7,Moreirense,Casa Pia
+Portugal,Liga Portugal,7,Benfica,Gil Vicente
+Portugal,Liga Portugal,8,Porto,Benfica
+Portugal,Liga Portugal,8,Sp Lisbon,Sp Braga
+Portugal,Liga Portugal,8,Rio Ave,Tondela
+Portugal,Liga Portugal,8,Arouca,Famalicao
+Portugal,Liga Portugal,8,Guimaraes,Santa Clara
+Portugal,Liga Portugal,8,AVS,Alverca
+Portugal,Liga Portugal,8,Gil Vicente,Estrela
+Portugal,Liga Portugal,8,Nacional,Moreirense
+Portugal,Liga Portugal,8,Casa Pia,Estoril
+Portugal,Liga Portugal,9,Moreirense,Porto
+Portugal,Liga Portugal,9,Sp Braga,Casa Pia
+Portugal,Liga Portugal,9,Tondela,Sp Lisbon
+Portugal,Liga Portugal,9,Estoril,Nacional
+Portugal,Liga Portugal,9,Famalicao,Guimaraes
+Portugal,Liga Portugal,9,Benfica,Arouca
+Portugal,Liga Portugal,9,Estrela,Rio Ave
+Portugal,Liga Portugal,9,Santa Clara,AVS
+Portugal,Liga Portugal,9,Alverca,Gil Vicente
+Portugal,Liga Portugal,10,Gil Vicente,Santa Clara
+Portugal,Liga Portugal,10,Porto,Sp Braga
+Portugal,Liga Portugal,10,Arouca,Moreirense
+Portugal,Liga Portugal,10,AVS,Tondela
+Portugal,Liga Portugal,10,Guimaraes,Benfica
+Portugal,Liga Portugal,10,Casa Pia,Estrela
+Portugal,Liga Portugal,10,Rio Ave,Estoril
+Portugal,Liga Portugal,10,Nacional,Famalicao
+Portugal,Liga Portugal,10,Sp Lisbon,Alverca
+Portugal,Liga Portugal,11,Benfica,Casa Pia
+Portugal,Liga Portugal,11,Sp Braga,Moreirense
+Portugal,Liga Portugal,11,Famalicao,Porto
+Portugal,Liga Portugal,11,AVS,Gil Vicente
+Portugal,Liga Portugal,11,Estrela,Nacional
+Portugal,Liga Portugal,11,Santa Clara,Sp Lisbon
+Portugal,Liga Portugal,11,Tondela,Guimaraes
+Portugal,Liga Portugal,11,Alverca,Rio Ave
+Portugal,Liga Portugal,11,Estoril,Arouca
+Portugal,Liga Portugal,12,Arouca,Sp Braga
+Portugal,Liga Portugal,12,Porto,Estoril
+Portugal,Liga Portugal,12,Sp Lisbon,Estrela
+Portugal,Liga Portugal,12,Rio Ave,Santa Clara
+Portugal,Liga Portugal,12,Gil Vicente,Tondela
+Portugal,Liga Portugal,12,Nacional,Benfica
+Portugal,Liga Portugal,12,Casa Pia,Alverca
+Portugal,Liga Portugal,12,Moreirense,Famalicao
+Portugal,Liga Portugal,12,Guimaraes,AVS
+Portugal,Liga Portugal,13,Santa Clara,Casa Pia
+Portugal,Liga Portugal,13,AVS,Rio Ave
+Portugal,Liga Portugal,13,Famalicao,Sp Braga
+Portugal,Liga Portugal,13,Estoril,Moreirense
+Portugal,Liga Portugal,13,Alverca,Nacional
+Portugal,Liga Portugal,13,Estrela,Arouca
+Portugal,Liga Portugal,13,Tondela,Porto
+Portugal,Liga Portugal,13,Guimaraes,Gil Vicente
+Portugal,Liga Portugal,14,Casa Pia,Gil Vicente
+Portugal,Liga Portugal,14,Nacional,Tondela
+Portugal,Liga Portugal,14,Rio Ave,Guimaraes
+Portugal,Liga Portugal,14,Sp Lisbon,AVS
+Portugal,Liga Portugal,14,Famalicao,Estoril
+Portugal,Liga Portugal,14,Moreirense,Benfica
+Portugal,Liga Portugal,14,Arouca,Alverca
+Portugal,Liga Portugal,14,Sp Braga,Santa Clara
+Portugal,Liga Portugal,14,Porto,Estrela
+Portugal,Liga Portugal,15,Estoril,Sp Braga
+Portugal,Liga Portugal,15,Gil Vicente,Rio Ave
+Portugal,Liga Portugal,15,Estrela,Moreirense
+Portugal,Liga Portugal,15,AVS,Nacional
+Portugal,Liga Portugal,15,Tondela,Casa Pia
+Portugal,Liga Portugal,15,Santa Clara,Arouca
+Portugal,Liga Portugal,15,Alverca,Porto
+Portugal,Liga Portugal,15,Benfica,Famalicao
+Portugal,Liga Portugal,15,Guimaraes,Sp Lisbon
+Portugal,Liga Portugal,16,Famalicao,Estrela
+Portugal,Liga Portugal,16,Porto,AVS
+Portugal,Liga Portugal,16,Arouca,Gil Vicente
+Portugal,Liga Portugal,16,Casa Pia,Guimaraes
+Portugal,Liga Portugal,16,Sp Braga,Benfica
+Portugal,Liga Portugal,16,Sp Lisbon,Rio Ave
+Portugal,Liga Portugal,16,Estoril,Alverca
+Portugal,Liga Portugal,16,Nacional,Santa Clara
+Portugal,Liga Portugal,16,Moreirense,Tondela
+Portugal,Liga Portugal,17,Guimaraes,Nacional
+Portugal,Liga Portugal,17,Santa Clara,Porto
+Portugal,Liga Portugal,17,Gil Vicente,Sp Lisbon
+Portugal,Liga Portugal,17,Rio Ave,Casa Pia
+Portugal,Liga Portugal,17,Benfica,Estoril
+Portugal,Liga Portugal,17,Estrela,Sp Braga
+Portugal,Liga Portugal,17,AVS,Moreirense
+Portugal,Liga Portugal,17,Tondela,Arouca
+Portugal,Liga Portugal,17,Alverca,Famalicao
+Portugal,Liga Portugal,18,AVS,Arouca
+Portugal,Liga Portugal,18,Alverca,Moreirense
+Portugal,Liga Portugal,18,Estrela,Estoril
+Portugal,Liga Portugal,18,Gil Vicente,Nacional
+Portugal,Liga Portugal,18,Guimaraes,Porto
+Portugal,Liga Portugal,18,Rio Ave,Benfica
+Portugal,Liga Portugal,18,Santa Clara,Famalicao
+Portugal,Liga Portugal,18,Sp Lisbon,Casa Pia
+Portugal,Liga Portugal,18,Tondela,Sp Braga
+Portugal,Liga Portugal,19,Arouca,Sp Lisbon
+Portugal,Liga Portugal,19,Benfica,Estrela
+Portugal,Liga Portugal,19,Sp Braga,Alverca
+Portugal,Liga Portugal,19,Casa Pia,AVS
+Portugal,Liga Portugal,19,Estoril,Guimaraes
+Portugal,Liga Portugal,19,Famalicao,Tondela
+Portugal,Liga Portugal,19,Porto,Gil Vicente
+Portugal,Liga Portugal,19,Moreirense,Santa Clara
+Portugal,Liga Portugal,19,Nacional,Rio Ave
+Portugal,Liga Portugal,20,AVS,Sp Braga
+Portugal,Liga Portugal,20,Alverca,Estrela
+Portugal,Liga Portugal,20,Casa Pia,Porto
+Portugal,Liga Portugal,20,Gil Vicente,Famalicao
+Portugal,Liga Portugal,20,Guimaraes,Moreirense
+Portugal,Liga Portugal,20,Rio Ave,Arouca
+Portugal,Liga Portugal,20,Santa Clara,Estoril
+Portugal,Liga Portugal,20,Sp Lisbon,Nacional
+Portugal,Liga Portugal,20,Tondela,Benfica
+Portugal,Liga Portugal,21,Arouca,Guimaraes
+Portugal,Liga Portugal,21,Benfica,Alverca
+Portugal,Liga Portugal,21,Sp Braga,Rio Ave
+Portugal,Liga Portugal,21,Estoril,Tondela
+Portugal,Liga Portugal,21,Estrela,Santa Clara
+Portugal,Liga Portugal,21,Famalicao,AVS
+Portugal,Liga Portugal,21,Porto,Sp Lisbon
+Portugal,Liga Portugal,21,Moreirense,Gil Vicente
+Portugal,Liga Portugal,21,Nacional,Casa Pia
+Portugal,Liga Portugal,22,AVS,Estoril
+Portugal,Liga Portugal,22,Casa Pia,Arouca
+Portugal,Liga Portugal,22,Gil Vicente,Sp Braga
+Portugal,Liga Portugal,22,Guimaraes,Estrela
+Portugal,Liga Portugal,22,Nacional,Porto
+Portugal,Liga Portugal,22,Rio Ave,Moreirense
+Portugal,Liga Portugal,22,Santa Clara,Benfica
+Portugal,Liga Portugal,22,Sp Lisbon,Famalicao
+Portugal,Liga Portugal,22,Tondela,Alverca
+Portugal,Liga Portugal,23,Alverca,Santa Clara
+Portugal,Liga Portugal,23,Arouca,Nacional
+Portugal,Liga Portugal,23,Benfica,AVS
+Portugal,Liga Portugal,23,Sp Braga,Guimaraes
+Portugal,Liga Portugal,23,Estoril,Gil Vicente
+Portugal,Liga Portugal,23,Estrela,Tondela
+Portugal,Liga Portugal,23,Famalicao,Casa Pia
+Portugal,Liga Portugal,23,Porto,Rio Ave
+Portugal,Liga Portugal,23,Moreirense,Sp Lisbon
+Portugal,Liga Portugal,24,AVS,Estrela
+Portugal,Liga Portugal,24,Casa Pia,Moreirense
+Portugal,Liga Portugal,24,Porto,Arouca
+Portugal,Liga Portugal,24,Gil Vicente,Benfica
+Portugal,Liga Portugal,24,Guimaraes,Alverca
+Portugal,Liga Portugal,24,Nacional,Sp Braga
+Portugal,Liga Portugal,24,Rio Ave,Famalicao
+Portugal,Liga Portugal,24,Sp Lisbon,Estoril
+Portugal,Liga Portugal,24,Tondela,Santa Clara
+Portugal,Liga Portugal,25,Alverca,AVS
+Portugal,Liga Portugal,25,Benfica,Porto
+Portugal,Liga Portugal,25,Sp Braga,Sp Lisbon
+Portugal,Liga Portugal,25,Estoril,Casa Pia
+Portugal,Liga Portugal,25,Estrela,Gil Vicente
+Portugal,Liga Portugal,25,Famalicao,Arouca
+Portugal,Liga Portugal,25,Moreirense,Nacional
+Portugal,Liga Portugal,25,Santa Clara,Guimaraes
+Portugal,Liga Portugal,25,Tondela,Rio Ave
+Portugal,Liga Portugal,26,AVS,Santa Clara
+Portugal,Liga Portugal,26,Arouca,Benfica
+Portugal,Liga Portugal,26,Casa Pia,Sp Braga
+Portugal,Liga Portugal,26,Porto,Moreirense
+Portugal,Liga Portugal,26,Gil Vicente,Alverca
+Portugal,Liga Portugal,26,Guimaraes,Famalicao
+Portugal,Liga Portugal,26,Nacional,Estoril
+Portugal,Liga Portugal,26,Rio Ave,Estrela
+Portugal,Liga Portugal,26,Sp Lisbon,Tondela
+Portugal,Liga Portugal,27,Alverca,Sp Lisbon
+Portugal,Liga Portugal,27,Benfica,Guimaraes
+Portugal,Liga Portugal,27,Sp Braga,Porto
+Portugal,Liga Portugal,27,Estoril,Rio Ave
+Portugal,Liga Portugal,27,Estrela,Casa Pia
+Portugal,Liga Portugal,27,Famalicao,Nacional
+Portugal,Liga Portugal,27,Moreirense,Arouca
+Portugal,Liga Portugal,27,Santa Clara,Gil Vicente
+Portugal,Liga Portugal,27,Tondela,AVS
+Portugal,Liga Portugal,28,Arouca,Estoril
+Portugal,Liga Portugal,28,Casa Pia,Benfica
+Portugal,Liga Portugal,28,Porto,Famalicao

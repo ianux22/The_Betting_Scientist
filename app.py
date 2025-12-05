@@ -134,6 +134,7 @@ section[data-testid="stSidebar"] * {
 st.markdown(_CUSTOM_CSS, unsafe_allow_html=True)
 
 MAJOR_LEAGUES = ["Serie A", "Premier League", "Ligue 1", "Bundesliga 1"]
+SIM_ITERATIONS = 20000
 
 
 @st.cache_data(show_spinner=False)
@@ -353,6 +354,34 @@ def simulate_match(
     }
 
 
+def cache_match_predictions(
+    match_key: str,
+    home_lambda: float,
+    away_lambda: float,
+    home_lambda_ht: float,
+    away_lambda_ht: float,
+    iterations: int = SIM_ITERATIONS,
+) -> Dict[str, Dict[str, object]]:
+    """Cache FT/HT simulations so toggles don't trigger fresh randomness."""
+    cache = st.session_state.setdefault("match_predictions_cache", {})
+    params = (
+        round(home_lambda, 6),
+        round(away_lambda, 6),
+        round(home_lambda_ht, 6),
+        round(away_lambda_ht, 6),
+        iterations,
+    )
+    cached = cache.get(match_key)
+    if cached and cached.get("params") == params:
+        return cached
+    cache[match_key] = {
+        "params": params,
+        "ft": simulate_match(home_lambda, away_lambda, iterations=iterations, goal_line=2.5),
+        "ht": simulate_match(home_lambda_ht, away_lambda_ht, iterations=iterations, goal_line=0.5),
+    }
+    return cache[match_key]
+
+
 def form_guide(calendar_df: pd.DataFrame, team: str, before_matchday: Optional[int] = None, max_games: int = 5) -> List[str]:
     team_df = calendar_df[(calendar_df["Hometeam"] == team) | (calendar_df["Awayteam"] == team)]
     team_df = team_df.dropna(subset=["FTR", "FTHG", "FTAG"])
@@ -549,8 +578,17 @@ def render_matchday_predictions(calendar_df: pd.DataFrame, league: str, matchday
         home_lambda_ht, away_lambda_ht = expected_goals(
             strengths_dash_ht, league_avgs_dash_ht, home_team=row["Hometeam"], away_team=row["Awayteam"]
         )
-        prediction_ft = simulate_match(home_lambda, away_lambda, iterations=2000, goal_line=2.5)
-        prediction_ht = simulate_match(home_lambda_ht, away_lambda_ht, iterations=2000, goal_line=0.5)
+        match_key = f"{row['League']}|{row['Matchday']}|{row['Hometeam']}|{row['Awayteam']}"
+        predictions = cache_match_predictions(
+            match_key,
+            home_lambda,
+            away_lambda,
+            home_lambda_ht,
+            away_lambda_ht,
+            iterations=SIM_ITERATIONS,
+        )
+        prediction_ft = predictions["ft"]
+        prediction_ht = predictions["ht"]
         form_home = form_guide(calendar_df, row["Hometeam"], before_matchday=int(row["Matchday"]))
         form_away = form_guide(calendar_df, row["Awayteam"], before_matchday=int(row["Matchday"]))
         actual_ft = None
@@ -630,7 +668,6 @@ def main() -> None:
             strengths_hp_ht, league_avgs_hp_ht = compute_halftime_strengths(
                 calendar_df, league=active_league, up_to_matchday=int(active_matchday)
             )
-            pred_cache = st.session_state.setdefault("hot_pick_predictions", {})
             for _, row in hot_matches.iterrows():
                 home_lambda, away_lambda = expected_goals(
                     strengths_hp, league_avgs_hp, home_team=row["Hometeam"], away_team=row["Awayteam"]
@@ -639,13 +676,16 @@ def main() -> None:
                     strengths_hp_ht, league_avgs_hp_ht, home_team=row["Hometeam"], away_team=row["Awayteam"]
                 )
                 match_key = f"{row['League']}|{row['Matchday']}|{row['Hometeam']}|{row['Awayteam']}"
-                if match_key not in pred_cache:
-                    pred_cache[match_key] = {
-                        "ft": simulate_match(home_lambda, away_lambda, iterations=2000, goal_line=2.5),
-                        "ht": simulate_match(home_lambda_ht, away_lambda_ht, iterations=2000, goal_line=0.5),
-                    }
-                prediction = pred_cache[match_key]["ft"]
-                prediction_ht = pred_cache[match_key]["ht"]
+                predictions = cache_match_predictions(
+                    match_key,
+                    home_lambda,
+                    away_lambda,
+                    home_lambda_ht,
+                    away_lambda_ht,
+                    iterations=SIM_ITERATIONS,
+                )
+                prediction = predictions["ft"]
+                prediction_ht = predictions["ht"]
                 form_home = form_guide(calendar_df, row["Hometeam"], before_matchday=int(row["Matchday"]))
                 form_away = form_guide(calendar_df, row["Awayteam"], before_matchday=int(row["Matchday"]))
                 toggle_key = f"ht_view_hot_{row['League']}_{row['Matchday']}_{row['Hometeam']}_{row['Awayteam']}".replace(
