@@ -2319,6 +2319,312 @@ France,Ligue 1,34,Nantes,Toulouse,,,,,,
 France,Ligue 1,34,Nice,Metz,,,,,,
 France,Ligue 1,34,Paris FC,Paris SG,,,,,,
 France,Ligue 1,34,Strasbourg,Monaco,,,,,,
+France,Ligue 2,1,Boulogne,Bastia,H,1.0,0.0,D,0.0,0.0
+France,Ligue 2,1,Amiens,Reims,D,2.0,2.0,D,1.0,1.0
+France,Ligue 2,1,Dunkerque,Clermont,D,2.0,2.0,A,1.0,2.0
+France,Ligue 2,1,Laval,St Etienne,D,3.0,3.0,D,2.0,2.0
+France,Ligue 2,1,Montpellier,Red Star,D,1.0,1.0,D,1.0,1.0
+France,Ligue 2,1,Pau FC,Annecy,H,2.0,0.0,H,1.0,0.0
+France,Ligue 2,1,Rodez,Nancy,D,0.0,0.0,D,0.0,0.0
+France,Ligue 2,1,Troyes,Grenoble,H,2.0,1.0,D,1.0,1.0
+France,Ligue 2,1,Guingamp,Le Mans,D,3.0,3.0,A,0.0,2.0
+France,Ligue 2,2,Le Mans,Montpellier,A,1.0,2.0,D,0.0,0.0
+France,Ligue 2,2,St Etienne,Rodez,H,4.0,0.0,H,1.0,0.0
+France,Ligue 2,2,Annecy,Dunkerque,D,2.0,2.0,H,2.0,1.0
+France,Ligue 2,2,Reims,Guingamp,H,1.0,0.0,H,1.0,0.0
+France,Ligue 2,2,Bastia,Pau FC,D,1.0,1.0,H,1.0,0.0
+France,Ligue 2,2,Clermont,Troyes,D,0.0,0.0,D,0.0,0.0
+France,Ligue 2,2,Grenoble,Laval,D,1.0,1.0,D,0.0,0.0
+France,Ligue 2,2,Nancy,Boulogne,H,1.0,0.0,H,1.0,0.0
+France,Ligue 2,2,Red Star,Amiens,A,1.0,3.0,A,0.0,1.0
+France,Ligue 2,3,Pau FC,Reims,H,2.0,0.0,H,2.0,0.0
+France,Ligue 2,3,Boulogne,St Etienne,A,0.0,1.0,D,0.0,0.0
+France,Ligue 2,3,Guingamp,Red Star,A,0.0,4.0,A,0.0,1.0
+France,Ligue 2,3,Troyes,Montpellier,H,1.0,0.0,H,1.0,0.0
+France,Ligue 2,3,Amiens,Annecy,A,0.0,1.0,A,0.0,1.0
+France,Ligue 2,3,Clermont,Grenoble,H,2.0,1.0,D,0.0,0.0
+France,Ligue 2,3,Dunkerque,Nancy,A,1.0,3.0,A,1.0,2.0
+France,Ligue 2,3,Le Mans,Bastia,H,1.0,0.0,D,0.0,0.0
+France,Ligue 2,3,Rodez,Laval,D,1.0,1.0,H,1.0,0.0
+France,Ligue 2,4,St Etienne,Grenoble,D,1.0,1.0,H,1.0,0.0
+France,Ligue 2,4,Bastia,Guingamp,A,1.0,3.0,A,0.0,2.0
+France,Ligue 2,4,Reims,Le Mans,H,1.0,0.0,D,0.0,0.0
+France,Ligue 2,4,Dunkerque,Troyes,H,2.0,0.0,D,0.0,0.0
+France,Ligue 2,4,Laval,Clermont,D,0.0,0.0,D,0.0,0.0
+France,Ligue 2,4,Montpellier,Amiens,D,1.0,1.0,A,0.0,1.0
+France,Ligue 2,4,Nancy,Pau FC,D,2.0,2.0,H,2.0,1.0
+France,Ligue 2,4,Red Star,Annecy,H,1.0,0.0,H,1.0,0.0
+France,Ligue 2,4,Rodez,Boulogne,H,1.0,0.0,H,1.0,0.0
+France,Ligue 2,5,Guingamp,Montpellier,H,1.0,0.0,H,1.0,0.0
+France,Ligue 2,5,Clermont,St Etienne,A,1.0,2.0,H,1.0,0.0
+France,Ligue 2,5,Annecy,Reims,D,1.0,1.0,H,1.0,0.0
+France,Ligue 2,5,Grenoble,Dunkerque,H,1.0,0.0,H,1.0,0.0
+France,Ligue 2,5,Amiens,Bastia,D,0.0,0.0,D,0.0,0.0
+France,Ligue 2,5,Boulogne,Laval,A,1.0,2.0,A,0.0,2.0
+France,Ligue 2,5,Le Mans,Rodez,A,0.0,1.0,D,0.0,0.0
+France,Ligue 2,5,Pau FC,Red Star,A,0.0,3.0,A,0.0,2.0
+France,Ligue 2,5,Troyes,Nancy,H,3.0,0.0,H,1.0,0.0
+France,Ligue 2,6,St Etienne,Reims,H,3.0,2.0,H,2.0,1.0
+France,Ligue 2,6,Montpellier,Bastia,H,2.0,0.0,H,2.0,0.0
+France,Ligue 2,6,Troyes,Guingamp,H,5.0,2.0,H,3.0,1.0
+France,Ligue 2,6,Boulogne,Pau FC,A,0.0,3.0,A,0.0,3.0
+France,Ligue 2,6,Dunkerque,Le Mans,D,2.0,2.0,D,1.0,1.0
+France,Ligue 2,6,Grenoble,Annecy,A,1.0,3.0,D,0.0,0.0
+France,Ligue 2,6,Laval,Amiens,A,0.0,3.0,A,0.0,1.0
+France,Ligue 2,6,Nancy,Red Star,A,0.0,1.0,D,0.0,0.0
+France,Ligue 2,6,Rodez,Clermont,A,0.0,1.0,D,0.0,0.0
+France,Ligue 2,7,Amiens,St Etienne,A,0.0,1.0,D,0.0,0.0
+France,Ligue 2,7,Annecy,Nancy,A,1.0,2.0,D,1.0,1.0
+France,Ligue 2,7,Bastia,Rodez,A,2.0,3.0,H,1.0,0.0
+France,Ligue 2,7,Guingamp,Dunkerque,H,2.0,1.0,H,2.0,1.0
+France,Ligue 2,7,Le Mans,Grenoble,H,1.0,0.0,H,1.0,0.0
+France,Ligue 2,7,Montpellier,Boulogne,A,1.0,3.0,A,0.0,1.0
+France,Ligue 2,7,Pau FC,Laval,H,1.0,0.0,D,0.0,0.0
+France,Ligue 2,7,Red Star,Troyes,A,1.0,3.0,A,1.0,2.0
+France,Ligue 2,7,Reims,Clermont,H,4.0,1.0,H,2.0,0.0
+France,Ligue 2,8,Boulogne,Red Star,A,1.0,2.0,D,1.0,1.0
+France,Ligue 2,8,St Etienne,Guingamp,A,2.0,3.0,D,1.0,1.0
+France,Ligue 2,8,Dunkerque,Amiens,H,6.0,2.0,H,4.0,0.0
+France,Ligue 2,8,Laval,Montpellier,A,0.0,1.0,A,0.0,1.0
+France,Ligue 2,8,Clermont,Le Mans,D,1.0,1.0,H,1.0,0.0
+France,Ligue 2,8,Grenoble,Bastia,D,0.0,0.0,D,0.0,0.0
+France,Ligue 2,8,Nancy,Reims,A,0.0,1.0,D,0.0,0.0
+France,Ligue 2,8,Rodez,Pau FC,A,1.0,2.0,D,1.0,1.0
+France,Ligue 2,8,Troyes,Annecy,H,3.0,1.0,H,1.0,0.0
+France,Ligue 2,9,Montpellier,St Etienne,A,0.0,2.0,A,0.0,2.0
+France,Ligue 2,9,Red Star,Rodez,D,1.0,1.0,D,0.0,0.0
+France,Ligue 2,9,Reims,Grenoble,A,2.0,4.0,A,1.0,2.0
+France,Ligue 2,9,Amiens,Boulogne,A,0.0,1.0,D,0.0,0.0
+France,Ligue 2,9,Annecy,Laval,D,0.0,0.0,D,0.0,0.0
+France,Ligue 2,9,Bastia,Dunkerque,D,0.0,0.0,D,0.0,0.0
+France,Ligue 2,9,Guingamp,Nancy,D,2.0,2.0,D,0.0,0.0
+France,Ligue 2,9,Le Mans,Troyes,D,2.0,2.0,D,0.0,0.0
+France,Ligue 2,9,Pau FC,Clermont,H,3.0,1.0,H,3.0,0.0
+France,Ligue 2,10,Nancy,Amiens,A,0.0,1.0,A,0.0,1.0
+France,Ligue 2,10,St Etienne,Le Mans,A,2.0,3.0,D,1.0,1.0
+France,Ligue 2,10,Dunkerque,Montpellier,A,0.0,1.0,D,0.0,0.0
+France,Ligue 2,10,Laval,Red Star,A,0.0,1.0,D,0.0,0.0
+France,Ligue 2,10,Boulogne,Guingamp,D,2.0,2.0,A,0.0,1.0
+France,Ligue 2,10,Clermont,Annecy,A,0.0,1.0,A,0.0,1.0
+France,Ligue 2,10,Grenoble,Pau FC,D,1.0,1.0,D,0.0,0.0
+France,Ligue 2,10,Rodez,Reims,D,2.0,2.0,D,1.0,1.0
+France,Ligue 2,10,Troyes,Bastia,H,1.0,0.0,H,1.0,0.0
+France,Ligue 2,11,Bastia,Laval,A,0.0,2.0,A,0.0,1.0
+France,Ligue 2,11,Annecy,St Etienne,H,4.0,0.0,H,1.0,0.0
+France,Ligue 2,11,Amiens,Rodez,H,2.0,1.0,A,0.0,1.0
+France,Ligue 2,11,Montpellier,Nancy,H,4.0,1.0,D,1.0,1.0
+France,Ligue 2,11,Guingamp,Clermont,A,0.0,1.0,D,0.0,0.0
+France,Ligue 2,11,Le Mans,Boulogne,H,1.0,0.0,D,0.0,0.0
+France,Ligue 2,11,Pau FC,Dunkerque,A,0.0,3.0,A,0.0,2.0
+France,Ligue 2,11,Red Star,Grenoble,H,1.0,0.0,D,0.0,0.0
+France,Ligue 2,11,Reims,Troyes,D,0.0,0.0,D,0.0,0.0
+France,Ligue 2,12,Boulogne,Reims,A,2.0,6.0,A,2.0,4.0
+France,Ligue 2,12,Clermont,Montpellier,D,1.0,1.0,D,1.0,1.0
+France,Ligue 2,12,Dunkerque,Red Star,H,3.0,0.0,H,1.0,0.0
+France,Ligue 2,12,Grenoble,Guingamp,D,0.0,0.0,D,0.0,0.0
+France,Ligue 2,12,Laval,Le Mans,D,1.0,1.0,A,0.0,1.0
+France,Ligue 2,12,Nancy,Bastia,H,2.0,0.0,H,1.0,0.0
+France,Ligue 2,12,Rodez,Annecy,H,2.0,1.0,D,0.0,0.0
+France,Ligue 2,12,St Etienne,Pau FC,H,6.0,0.0,H,4.0,0.0
+France,Ligue 2,12,Troyes,Amiens,H,3.0,1.0,A,0.0,1.0
+France,Ligue 2,13,Pau FC,Troyes,D,1.0,1.0,H,1.0,0.0
+France,Ligue 2,13,Red Star,St Etienne,H,2.0,1.0,H,2.0,0.0
+France,Ligue 2,13,Amiens,Grenoble,A,2.0,3.0,A,0.0,2.0
+France,Ligue 2,13,Reims,Dunkerque,A,1.0,2.0,D,1.0,1.0
+France,Ligue 2,13,Annecy,Boulogne,D,1.0,1.0,H,1.0,0.0
+France,Ligue 2,13,Bastia,Clermont,H,1.0,0.0,D,0.0,0.0
+France,Ligue 2,13,Guingamp,Laval,H,2.0,0.0,H,2.0,0.0
+France,Ligue 2,13,Le Mans,Nancy,H,1.0,0.0,D,0.0,0.0
+France,Ligue 2,13,Montpellier,Rodez,H,2.0,0.0,D,0.0,0.0
+France,Ligue 2,14,Troyes,St Etienne,A,2.0,3.0,A,0.0,3.0
+France,Ligue 2,14,Guingamp,Pau FC,D,2.0,2.0,H,2.0,1.0
+France,Ligue 2,14,Le Mans,Red Star,D,0.0,0.0,D,0.0,0.0
+France,Ligue 2,14,Bastia,Reims,A,1.0,3.0,A,1.0,2.0
+France,Ligue 2,14,Clermont,Amiens,H,2.0,1.0,D,0.0,0.0
+France,Ligue 2,14,Dunkerque,Boulogne,D,1.0,1.0,D,0.0,0.0
+France,Ligue 2,14,Grenoble,Rodez,H,2.0,1.0,H,2.0,0.0
+France,Ligue 2,14,Montpellier,Annecy,H,1.0,0.0,D,0.0,0.0
+France,Ligue 2,14,Nancy,Laval,A,0.0,2.0,A,0.0,2.0
+France,Ligue 2,15,Reims,Montpellier,H,2.0,0.0,H,1.0,0.0
+France,Ligue 2,15,St Etienne,Nancy,H,2.0,1.0,H,1.0,0.0
+France,Ligue 2,15,Amiens,Guingamp,A,1.0,2.0,A,1.0,2.0
+France,Ligue 2,15,Red Star,Clermont,D,2.0,2.0,A,1.0,2.0
+France,Ligue 2,15,Annecy,Bastia,H,1.0,0.0,H,1.0,0.0
+France,Ligue 2,15,Boulogne,Grenoble,H,3.0,1.0,A,0.0,1.0
+France,Ligue 2,15,Laval,Troyes,A,0.0,1.0,D,0.0,0.0
+France,Ligue 2,15,Pau FC,Le Mans,A,1.0,2.0,A,1.0,2.0
+France,Ligue 2,15,Rodez,Dunkerque,D,1.0,1.0,A,0.0,1.0
+France,Ligue 2,16,Bastia,Red Star,,,,,,
+France,Ligue 2,16,Clermont,Boulogne,,,,,,
+France,Ligue 2,16,Grenoble,Nancy,,,,,,
+France,Ligue 2,16,Guingamp,Annecy,,,,,,
+France,Ligue 2,16,Le Mans,Amiens,,,,,,
+France,Ligue 2,16,Montpellier,Pau FC,,,,,,
+France,Ligue 2,16,Troyes,Rodez,,,,,,
+France,Ligue 2,16,Dunkerque,St Etienne,,,,,,
+France,Ligue 2,16,Reims,Laval,,,,,,
+France,Ligue 2,17,Annecy,Le Mans,,,,,,
+France,Ligue 2,17,Laval,Dunkerque,,,,,,
+France,Ligue 2,17,Nancy,Clermont,,,,,,
+France,Ligue 2,17,Pau FC,Amiens,,,,,,
+France,Ligue 2,17,Rodez,Guingamp,,,,,,
+France,Ligue 2,17,Grenoble,Montpellier,,,,,,
+France,Ligue 2,17,Red Star,Reims,,,,,,
+France,Ligue 2,17,St Etienne,Bastia,,,,,,
+France,Ligue 2,17,Boulogne,Troyes,,,,,,
+France,Ligue 2,18,Troyes,Red Star,,,,,,
+France,Ligue 2,18,Amiens,Nancy,,,,,,
+France,Ligue 2,18,Bastia,Grenoble,,,,,,
+France,Ligue 2,18,Clermont,Laval,,,,,,
+France,Ligue 2,18,Guingamp,Boulogne,,,,,,
+France,Ligue 2,18,Le Mans,St Etienne,,,,,,
+France,Ligue 2,18,Pau FC,Rodez,,,,,,
+France,Ligue 2,18,Reims,Annecy,,,,,,
+France,Ligue 2,18,Montpellier,Dunkerque,,,,,,
+France,Ligue 2,19,Annecy,Amiens,,,,,,
+France,Ligue 2,19,Boulogne,Montpellier,,,,,,
+France,Ligue 2,19,Dunkerque,Pau FC,,,,,,
+France,Ligue 2,19,Laval,Bastia,,,,,,
+France,Ligue 2,19,Rodez,Le Mans,,,,,,
+France,Ligue 2,19,Grenoble,Red Star,,,,,,
+France,Ligue 2,19,Troyes,Reims,,,,,,
+France,Ligue 2,19,St Etienne,Clermont,,,,,,
+France,Ligue 2,19,Nancy,Guingamp,,,,,,
+France,Ligue 2,20,Amiens,Laval,,,,,,
+France,Ligue 2,20,Annecy,Clermont,,,,,,
+France,Ligue 2,20,Bastia,Montpellier,,,,,,
+France,Ligue 2,20,Nancy,Rodez,,,,,,
+France,Ligue 2,20,Pau FC,Grenoble,,,,,,
+France,Ligue 2,20,Guingamp,Troyes,,,,,,
+France,Ligue 2,20,Red Star,Boulogne,,,,,,
+France,Ligue 2,20,Reims,St Etienne,,,,,,
+France,Ligue 2,20,Le Mans,Dunkerque,,,,,,
+France,Ligue 2,21,Bastia,Nancy,,,,,,
+France,Ligue 2,21,Clermont,Reims,,,,,,
+France,Ligue 2,21,Grenoble,Amiens,,,,,,
+France,Ligue 2,21,Laval,Pau FC,,,,,,
+France,Ligue 2,21,Montpellier,Guingamp,,,,,,
+France,Ligue 2,21,Rodez,Red Star,,,,,,
+France,Ligue 2,21,Dunkerque,Annecy,,,,,,
+France,Ligue 2,21,Troyes,Le Mans,,,,,,
+France,Ligue 2,21,St Etienne,Boulogne,,,,,,
+France,Ligue 2,22,Amiens,Clermont,,,,,,
+France,Ligue 2,22,Annecy,Grenoble,,,,,,
+France,Ligue 2,22,Boulogne,Rodez,,,,,,
+France,Ligue 2,22,Dunkerque,Guingamp,,,,,,
+France,Ligue 2,22,Le Mans,Laval,,,,,,
+France,Ligue 2,22,Nancy,Troyes,,,,,,
+France,Ligue 2,22,Red Star,Pau FC,,,,,,
+France,Ligue 2,22,Reims,Bastia,,,,,,
+France,Ligue 2,22,St Etienne,Montpellier,,,,,,
+France,Ligue 2,23,Amiens,Dunkerque,,,,,,
+France,Ligue 2,23,Bastia,Troyes,,,,,,
+France,Ligue 2,23,Clermont,Rodez,,,,,,
+France,Ligue 2,23,Grenoble,Reims,,,,,,
+France,Ligue 2,23,Guingamp,St Etienne,,,,,,
+France,Ligue 2,23,Laval,Annecy,,,,,,
+France,Ligue 2,23,Montpellier,Le Mans,,,,,,
+France,Ligue 2,23,Pau FC,Boulogne,,,,,,
+France,Ligue 2,23,Red Star,Nancy,,,,,,
+France,Ligue 2,24,Annecy,Red Star,,,,,,
+France,Ligue 2,24,Boulogne,Clermont,,,,,,
+France,Ligue 2,24,Dunkerque,Bastia,,,,,,
+France,Ligue 2,24,Le Mans,Guingamp,,,,,,
+France,Ligue 2,24,Nancy,Grenoble,,,,,,
+France,Ligue 2,24,Reims,Amiens,,,,,,
+France,Ligue 2,24,Rodez,Montpellier,,,,,,
+France,Ligue 2,24,St Etienne,Laval,,,,,,
+France,Ligue 2,24,Troyes,Pau FC,,,,,,
+France,Ligue 2,25,Amiens,Troyes,,,,,,
+France,Ligue 2,25,Bastia,Annecy,,,,,,
+France,Ligue 2,25,Clermont,Dunkerque,,,,,,
+France,Ligue 2,25,Grenoble,Boulogne,,,,,,
+France,Ligue 2,25,Guingamp,Rodez,,,,,,
+France,Ligue 2,25,Laval,Nancy,,,,,,
+France,Ligue 2,25,Montpellier,Reims,,,,,,
+France,Ligue 2,25,Pau FC,St Etienne,,,,,,
+France,Ligue 2,25,Red Star,Le Mans,,,,,,
+France,Ligue 2,26,Boulogne,Amiens,,,,,,
+France,Ligue 2,26,Dunkerque,Reims,,,,,,
+France,Ligue 2,26,Laval,Guingamp,,,,,,
+France,Ligue 2,26,Le Mans,Annecy,,,,,,
+France,Ligue 2,26,Nancy,Montpellier,,,,,,
+France,Ligue 2,26,Pau FC,Bastia,,,,,,
+France,Ligue 2,26,Rodez,Grenoble,,,,,,
+France,Ligue 2,26,St Etienne,Red Star,,,,,,
+France,Ligue 2,26,Troyes,Clermont,,,,,,
+France,Ligue 2,27,Annecy,Troyes,,,,,,
+France,Ligue 2,27,Bastia,Boulogne,,,,,,
+France,Ligue 2,27,Clermont,Pau FC,,,,,,
+France,Ligue 2,27,Grenoble,St Etienne,,,,,,
+France,Ligue 2,27,Guingamp,Amiens,,,,,,
+France,Ligue 2,27,Montpellier,Laval,,,,,,
+France,Ligue 2,27,Nancy,Le Mans,,,,,,
+France,Ligue 2,27,Red Star,Dunkerque,,,,,,
+France,Ligue 2,27,Reims,Rodez,,,,,,
+France,Ligue 2,28,Amiens,Le Mans,,,,,,
+France,Ligue 2,28,Boulogne,Nancy,,,,,,
+France,Ligue 2,28,Clermont,Red Star,,,,,,
+France,Ligue 2,28,Guingamp,Reims,,,,,,
+France,Ligue 2,28,Laval,Grenoble,,,,,,
+France,Ligue 2,28,Pau FC,Montpellier,,,,,,
+France,Ligue 2,28,Rodez,Bastia,,,,,,
+France,Ligue 2,28,St Etienne,Annecy,,,,,,
+France,Ligue 2,28,Troyes,Dunkerque,,,,,,
+France,Ligue 2,29,Annecy,Guingamp,,,,,,
+France,Ligue 2,29,Bastia,Amiens,,,,,,
+France,Ligue 2,29,Dunkerque,Rodez,,,,,,
+France,Ligue 2,29,Grenoble,Clermont,,,,,,
+France,Ligue 2,29,Le Mans,Pau FC,,,,,,
+France,Ligue 2,29,Montpellier,Troyes,,,,,,
+France,Ligue 2,29,Nancy,St Etienne,,,,,,
+France,Ligue 2,29,Red Star,Laval,,,,,,
+France,Ligue 2,29,Reims,Boulogne,,,,,,
+France,Ligue 2,30,Amiens,Pau FC,,,,,,
+France,Ligue 2,30,Annecy,Montpellier,,,,,,
+France,Ligue 2,30,Boulogne,Le Mans,,,,,,
+France,Ligue 2,30,Clermont,Nancy,,,,,,
+France,Ligue 2,30,Guingamp,Grenoble,,,,,,
+France,Ligue 2,30,Laval,Reims,,,,,,
+France,Ligue 2,30,Red Star,Bastia,,,,,,
+France,Ligue 2,30,Rodez,Troyes,,,,,,
+France,Ligue 2,30,St Etienne,Dunkerque,,,,,,
+France,Ligue 2,31,Bastia,St Etienne,,,,,,
+France,Ligue 2,31,Dunkerque,Laval,,,,,,
+France,Ligue 2,31,Le Mans,Clermont,,,,,,
+France,Ligue 2,31,Montpellier,Grenoble,,,,,,
+France,Ligue 2,31,Nancy,Annecy,,,,,,
+France,Ligue 2,31,Pau FC,Guingamp,,,,,,
+France,Ligue 2,31,Reims,Red Star,,,,,,
+France,Ligue 2,31,Rodez,Amiens,,,,,,
+France,Ligue 2,31,Troyes,Boulogne,,,,,,
+France,Ligue 2,32,Amiens,Montpellier,,,,,,
+France,Ligue 2,32,Annecy,Pau FC,,,,,,
+France,Ligue 2,32,Boulogne,Dunkerque,,,,,,
+France,Ligue 2,32,Clermont,Bastia,,,,,,
+France,Ligue 2,32,Grenoble,Le Mans,,,,,,
+France,Ligue 2,32,Laval,Rodez,,,,,,
+France,Ligue 2,32,Red Star,Guingamp,,,,,,
+France,Ligue 2,32,Reims,Nancy,,,,,,
+France,Ligue 2,32,St Etienne,Troyes,,,,,,
+France,Ligue 2,33,Amiens,Red Star,,,,,,
+France,Ligue 2,33,Boulogne,Annecy,,,,,,
+France,Ligue 2,33,Dunkerque,Grenoble,,,,,,
+France,Ligue 2,33,Guingamp,Bastia,,,,,,
+France,Ligue 2,33,Le Mans,Reims,,,,,,
+France,Ligue 2,33,Montpellier,Clermont,,,,,,
+France,Ligue 2,33,Pau FC,Nancy,,,,,,
+France,Ligue 2,33,Rodez,St Etienne,,,,,,
+France,Ligue 2,33,Troyes,Laval,,,,,,
+France,Ligue 2,34,Annecy,Rodez,,,,,,
+France,Ligue 2,34,Bastia,Le Mans,,,,,,
+France,Ligue 2,34,Clermont,Guingamp,,,,,,
+France,Ligue 2,34,Grenoble,Troyes,,,,,,
+France,Ligue 2,34,Laval,Boulogne,,,,,,
+France,Ligue 2,34,Nancy,Dunkerque,,,,,,
+France,Ligue 2,34,Red Star,Montpellier,,,,,,
+France,Ligue 2,34,Reims,Pau FC,,,,,,
+France,Ligue 2,34,St Etienne,Amiens,,,,,,
 England,Premier League,1,Liverpool,Bournemouth,H,4.0,2.0,H,1.0,0.0
 England,Premier League,1,Aston Villa,Newcastle,D,0.0,0.0,D,0.0,0.0
 England,Premier League,1,Brighton,Fulham,D,1.0,1.0,D,0.0,0.0
@@ -2699,6 +3005,468 @@ England,Premier League,38,Nott'm Forest,Bournemouth,,,,,,
 England,Premier League,38,Sunderland,Chelsea,,,,,,
 England,Premier League,38,Tottenham,Everton,,,,,,
 England,Premier League,38,West Ham,Leeds,,,,,,
+Spain,Segunda Division,1,Almeria,Albacete,D,4.0,4.0,D,1.0,1.0
+Spain,Segunda Division,1,Sp Gijon,Cordoba,H,2.0,1.0,D,1.0,1.0
+Spain,Segunda Division,1,Huesca,Leganes,D,1.0,1.0,D,0.0,0.0
+Spain,Segunda Division,1,Las Palmas,Andorra,D,1.0,1.0,H,1.0,0.0
+Spain,Segunda Division,1,Cadiz,Mirandes,H,1.0,0.0,H,1.0,0.0
+Spain,Segunda Division,1,Sociedad B,Zaragoza,H,1.0,0.0,H,1.0,0.0
+Spain,Segunda Division,1,Granada,La Coruna,A,1.0,3.0,A,0.0,1.0
+Spain,Segunda Division,1,Malaga,Eibar,D,1.0,1.0,D,0.0,0.0
+Spain,Segunda Division,1,Santander,Castellon,H,3.0,1.0,H,2.0,1.0
+Spain,Segunda Division,1,Burgos,Cultural Leonesa,H,5.0,1.0,H,3.0,0.0
+Spain,Segunda Division,1,Valladolid,Ceuta,H,3.0,0.0,H,2.0,0.0
+Spain,Segunda Division,2,Cordoba,Las Palmas,A,1.0,3.0,A,0.0,1.0
+Spain,Segunda Division,2,Albacete,Santander,A,2.0,3.0,D,0.0,0.0
+Spain,Segunda Division,2,Malaga,Sociedad B,H,1.0,0.0,D,0.0,0.0
+Spain,Segunda Division,2,Cultural Leonesa,Almeria,A,0.0,1.0,D,0.0,0.0
+Spain,Segunda Division,2,La Coruna,Burgos,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,2,Zaragoza,Andorra,A,1.0,3.0,A,0.0,1.0
+Spain,Segunda Division,2,Ceuta,Sp Gijon,A,0.0,1.0,A,0.0,1.0
+Spain,Segunda Division,2,Mirandes,Huesca,A,0.0,1.0,A,0.0,1.0
+Spain,Segunda Division,2,Castellon,Valladolid,A,0.0,1.0,A,0.0,1.0
+Spain,Segunda Division,2,Leganes,Cadiz,D,1.0,1.0,H,1.0,0.0
+Spain,Segunda Division,2,Eibar,Granada,H,3.0,0.0,H,1.0,0.0
+Spain,Segunda Division,3,Leganes,La Coruna,D,2.0,2.0,H,2.0,0.0
+Spain,Segunda Division,3,Huesca,Eibar,H,2.0,1.0,D,1.0,1.0
+Spain,Segunda Division,3,Granada,Mirandes,A,1.0,2.0,D,0.0,0.0
+Spain,Segunda Division,3,Las Palmas,Malaga,A,0.0,1.0,A,0.0,1.0
+Spain,Segunda Division,3,Andorra,Burgos,H,2.0,1.0,H,1.0,0.0
+Spain,Segunda Division,3,Cadiz,Albacete,H,2.0,1.0,H,1.0,0.0
+Spain,Segunda Division,3,Castellon,Zaragoza,D,1.0,1.0,D,0.0,0.0
+Spain,Segunda Division,3,Valladolid,Cordoba,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,3,Santander,Ceuta,H,4.0,1.0,H,2.0,1.0
+Spain,Segunda Division,3,Sp Gijon,Cultural Leonesa,H,1.0,0.0,D,0.0,0.0
+Spain,Segunda Division,3,Sociedad B,Almeria,D,2.0,2.0,D,1.0,1.0
+Spain,Segunda Division,4,Eibar,Andorra,H,2.0,0.0,D,0.0,0.0
+Spain,Segunda Division,4,Almeria,Santander,A,2.0,3.0,H,2.0,0.0
+Spain,Segunda Division,4,Cultural Leonesa,Leganes,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,4,Burgos,Las Palmas,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,4,Sociedad B,Cadiz,D,3.0,3.0,D,1.0,1.0
+Spain,Segunda Division,4,Ceuta,Huesca,H,2.0,1.0,H,1.0,0.0
+Spain,Segunda Division,4,Malaga,Granada,D,2.0,2.0,H,2.0,1.0
+Spain,Segunda Division,4,Zaragoza,Valladolid,D,1.0,1.0,D,0.0,0.0
+Spain,Segunda Division,4,La Coruna,Sp Gijon,H,1.0,0.0,D,0.0,0.0
+Spain,Segunda Division,4,Cordoba,Castellon,H,2.0,1.0,A,0.0,1.0
+Spain,Segunda Division,4,Albacete,Mirandes,A,1.0,4.0,A,0.0,1.0
+Spain,Segunda Division,5,Zaragoza,Albacete,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,5,Granada,Leganes,A,0.0,2.0,A,0.0,1.0
+Spain,Segunda Division,5,Castellon,Ceuta,D,3.0,3.0,H,2.0,1.0
+Spain,Segunda Division,5,Sp Gijon,Burgos,A,2.0,3.0,A,0.0,2.0
+Spain,Segunda Division,5,Santander,Cultural Leonesa,A,2.0,4.0,A,0.0,3.0
+Spain,Segunda Division,5,Andorra,Cordoba,H,3.0,1.0,H,2.0,1.0
+Spain,Segunda Division,5,Valladolid,Almeria,H,3.0,1.0,H,1.0,0.0
+Spain,Segunda Division,5,Huesca,Malaga,H,1.0,0.0,D,0.0,0.0
+Spain,Segunda Division,5,Cadiz,Eibar,H,1.0,0.0,D,0.0,0.0
+Spain,Segunda Division,5,Mirandes,La Coruna,A,1.0,5.0,A,0.0,2.0
+Spain,Segunda Division,5,Las Palmas,Sociedad B,H,2.0,1.0,H,1.0,0.0
+Spain,Segunda Division,6,Burgos,Granada,D,1.0,1.0,D,0.0,0.0
+Spain,Segunda Division,6,Cordoba,Santander,D,2.0,2.0,D,0.0,0.0
+Spain,Segunda Division,6,Eibar,Sociedad B,H,2.0,1.0,H,1.0,0.0
+Spain,Segunda Division,6,Malaga,Cadiz,A,0.0,1.0,A,0.0,1.0
+Spain,Segunda Division,6,Albacete,Valladolid,H,2.0,0.0,D,0.0,0.0
+Spain,Segunda Division,6,Ceuta,Zaragoza,H,1.0,0.0,D,0.0,0.0
+Spain,Segunda Division,6,Almeria,Sp Gijon,H,2.0,1.0,A,0.0,1.0
+Spain,Segunda Division,6,Andorra,Mirandes,D,1.0,1.0,D,1.0,1.0
+Spain,Segunda Division,6,Leganes,Las Palmas,A,0.0,1.0,D,0.0,0.0
+Spain,Segunda Division,6,Cultural Leonesa,Castellon,A,1.0,3.0,A,0.0,2.0
+Spain,Segunda Division,6,La Coruna,Huesca,H,4.0,0.0,H,3.0,0.0
+Spain,Segunda Division,7,Leganes,Castellon,A,0.0,1.0,A,0.0,1.0
+Spain,Segunda Division,7,Huesca,Granada,A,0.0,1.0,A,0.0,1.0
+Spain,Segunda Division,7,Sp Gijon,Albacete,A,3.0,4.0,H,3.0,1.0
+Spain,Segunda Division,7,Valladolid,Cultural Leonesa,A,0.0,1.0,A,0.0,1.0
+Spain,Segunda Division,7,Burgos,Malaga,H,2.0,1.0,D,1.0,1.0
+Spain,Segunda Division,7,Cadiz,Ceuta,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,7,Sociedad B,Cordoba,D,1.0,1.0,H,1.0,0.0
+Spain,Segunda Division,7,Las Palmas,Almeria,A,0.0,1.0,A,0.0,1.0
+Spain,Segunda Division,7,Eibar,La Coruna,D,1.0,1.0,A,0.0,1.0
+Spain,Segunda Division,7,Santander,Andorra,A,1.0,2.0,D,0.0,0.0
+Spain,Segunda Division,7,Mirandes,Zaragoza,A,0.0,1.0,A,0.0,1.0
+Spain,Segunda Division,8,Cultural Leonesa,Albacete,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,8,Las Palmas,Cadiz,H,1.0,0.0,D,0.0,0.0
+Spain,Segunda Division,8,Santander,Malaga,H,3.0,0.0,D,0.0,0.0
+Spain,Segunda Division,8,Valladolid,Mirandes,D,1.0,1.0,A,0.0,1.0
+Spain,Segunda Division,8,Castellon,Sp Gijon,H,3.0,1.0,H,2.0,1.0
+Spain,Segunda Division,8,Zaragoza,Cordoba,A,0.0,1.0,D,0.0,0.0
+Spain,Segunda Division,8,Granada,Sociedad B,H,5.0,2.0,H,5.0,1.0
+Spain,Segunda Division,8,Andorra,Leganes,A,1.0,2.0,D,0.0,0.0
+Spain,Segunda Division,8,Huesca,Burgos,H,2.0,1.0,H,1.0,0.0
+Spain,Segunda Division,8,La Coruna,Almeria,D,1.0,1.0,A,0.0,1.0
+Spain,Segunda Division,8,Ceuta,Eibar,H,1.0,0.0,H,1.0,0.0
+Spain,Segunda Division,9,Cordoba,Cultural Leonesa,H,1.0,0.0,H,1.0,0.0
+Spain,Segunda Division,9,Malaga,La Coruna,H,3.0,0.0,H,2.0,0.0
+Spain,Segunda Division,9,Burgos,Valladolid,A,0.0,1.0,D,0.0,0.0
+Spain,Segunda Division,9,Cadiz,Huesca,H,1.0,0.0,D,0.0,0.0
+Spain,Segunda Division,9,Eibar,Castellon,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,9,Sp Gijon,Santander,H,2.0,1.0,H,1.0,0.0
+Spain,Segunda Division,9,Albacete,Ceuta,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,9,Almeria,Zaragoza,H,4.0,2.0,D,0.0,0.0
+Spain,Segunda Division,9,Sociedad B,Andorra,H,3.0,0.0,H,1.0,0.0
+Spain,Segunda Division,9,Mirandes,Leganes,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,9,Granada,Las Palmas,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,10,Sociedad B,Huesca,H,2.0,0.0,H,1.0,0.0
+Spain,Segunda Division,10,Cadiz,Burgos,A,1.0,3.0,A,1.0,2.0
+Spain,Segunda Division,10,Las Palmas,Eibar,H,3.0,1.0,H,1.0,0.0
+Spain,Segunda Division,10,Cordoba,Almeria,D,1.0,1.0,D,1.0,1.0
+Spain,Segunda Division,10,Santander,La Coruna,H,2.0,1.0,D,1.0,1.0
+Spain,Segunda Division,10,Castellon,Albacete,A,0.0,1.0,A,0.0,1.0
+Spain,Segunda Division,10,Valladolid,Sp Gijon,A,2.0,3.0,D,1.0,1.0
+Spain,Segunda Division,10,Leganes,Malaga,H,2.0,0.0,H,1.0,0.0
+Spain,Segunda Division,10,Zaragoza,Cultural Leonesa,A,0.0,5.0,A,0.0,2.0
+Spain,Segunda Division,10,Ceuta,Mirandes,H,2.0,0.0,H,2.0,0.0
+Spain,Segunda Division,10,Andorra,Granada,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,11,La Coruna,Valladolid,D,1.0,1.0,A,0.0,1.0
+Spain,Segunda Division,11,Almeria,Castellon,H,1.0,0.0,D,0.0,0.0
+Spain,Segunda Division,11,Sp Gijon,Zaragoza,H,1.0,0.0,H,1.0,0.0
+Spain,Segunda Division,11,Malaga,Andorra,H,4.0,1.0,H,1.0,0.0
+Spain,Segunda Division,11,Mirandes,Santander,A,1.0,3.0,D,1.0,1.0
+Spain,Segunda Division,11,Burgos,Sociedad B,H,1.0,0.0,D,0.0,0.0
+Spain,Segunda Division,11,Granada,Cadiz,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,11,Albacete,Cordoba,A,1.0,3.0,A,0.0,2.0
+Spain,Segunda Division,11,Eibar,Leganes,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,11,Cultural Leonesa,Ceuta,A,0.0,1.0,A,0.0,1.0
+Spain,Segunda Division,11,Huesca,Las Palmas,D,1.0,1.0,H,1.0,0.0
+Spain,Segunda Division,12,Valladolid,Granada,H,2.0,1.0,A,0.0,1.0
+Spain,Segunda Division,12,Zaragoza,La Coruna,A,0.0,2.0,D,0.0,0.0
+Spain,Segunda Division,12,Castellon,Malaga,H,2.0,1.0,D,0.0,0.0
+Spain,Segunda Division,12,Cordoba,Ceuta,H,2.0,0.0,H,2.0,0.0
+Spain,Segunda Division,12,Sp Gijon,Las Palmas,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,12,Andorra,Cadiz,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,12,Almeria,Eibar,H,3.0,1.0,H,3.0,0.0
+Spain,Segunda Division,12,Albacete,Huesca,H,2.0,1.0,A,0.0,1.0
+Spain,Segunda Division,12,Leganes,Burgos,A,1.0,2.0,A,1.0,2.0
+Spain,Segunda Division,12,Cultural Leonesa,Mirandes,H,3.0,2.0,D,1.0,1.0
+Spain,Segunda Division,12,Santander,Sociedad B,H,1.0,0.0,H,1.0,0.0
+Spain,Segunda Division,13,Ceuta,Almeria,H,3.0,2.0,D,1.0,1.0
+Spain,Segunda Division,13,Burgos,Castellon,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,13,Cadiz,Valladolid,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,13,Granada,Zaragoza,H,3.0,1.0,D,1.0,1.0
+Spain,Segunda Division,13,Las Palmas,Santander,H,3.0,1.0,H,3.0,1.0
+Spain,Segunda Division,13,Malaga,Cordoba,D,2.0,2.0,D,0.0,0.0
+Spain,Segunda Division,13,La Coruna,Cultural Leonesa,H,3.0,0.0,H,2.0,0.0
+Spain,Segunda Division,13,Eibar,Albacete,H,3.0,2.0,A,0.0,1.0
+Spain,Segunda Division,13,Huesca,Andorra,D,2.0,2.0,A,0.0,2.0
+Spain,Segunda Division,13,Sociedad B,Leganes,H,2.0,1.0,D,1.0,1.0
+Spain,Segunda Division,13,Mirandes,Sp Gijon,H,2.0,1.0,A,0.0,1.0
+Spain,Segunda Division,14,Cultural Leonesa,Malaga,H,1.0,0.0,H,1.0,0.0
+Spain,Segunda Division,14,Zaragoza,Huesca,H,1.0,0.0,H,1.0,0.0
+Spain,Segunda Division,14,Cordoba,La Coruna,A,1.0,3.0,D,0.0,0.0
+Spain,Segunda Division,14,Mirandes,Burgos,A,0.0,2.0,D,0.0,0.0
+Spain,Segunda Division,14,Almeria,Cadiz,H,3.0,0.0,H,1.0,0.0
+Spain,Segunda Division,14,Sp Gijon,Eibar,D,1.0,1.0,A,0.0,1.0
+Spain,Segunda Division,14,Ceuta,Leganes,A,1.0,2.0,A,0.0,1.0
+Spain,Segunda Division,14,Santander,Granada,D,2.0,2.0,H,2.0,0.0
+Spain,Segunda Division,14,Albacete,Andorra,H,1.0,0.0,D,0.0,0.0
+Spain,Segunda Division,14,Castellon,Sociedad B,H,5.0,4.0,D,1.0,1.0
+Spain,Segunda Division,14,Valladolid,Las Palmas,A,0.0,1.0,A,0.0,1.0
+Spain,Segunda Division,15,Sociedad B,Valladolid,H,1.0,0.0,H,1.0,0.0
+Spain,Segunda Division,15,Malaga,Mirandes,H,3.0,2.0,H,2.0,0.0
+Spain,Segunda Division,15,Burgos,Santander,A,0.0,2.0,A,0.0,1.0
+Spain,Segunda Division,15,Cadiz,Cultural Leonesa,A,1.0,2.0,A,1.0,2.0
+Spain,Segunda Division,15,Huesca,Sp Gijon,H,2.0,0.0,H,1.0,0.0
+Spain,Segunda Division,15,La Coruna,Ceuta,H,2.0,1.0,H,1.0,0.0
+Spain,Segunda Division,15,Granada,Cordoba,D,1.0,1.0,D,0.0,0.0
+Spain,Segunda Division,15,Eibar,Zaragoza,A,1.0,2.0,D,1.0,1.0
+Spain,Segunda Division,15,Leganes,Almeria,A,0.0,3.0,A,0.0,1.0
+Spain,Segunda Division,15,Andorra,Castellon,A,1.0,3.0,A,0.0,1.0
+Spain,Segunda Division,15,Las Palmas,Albacete,H,2.0,1.0,H,2.0,0.0
+Spain,Segunda Division,16,Castellon,Las Palmas,H,1.0,0.0,D,0.0,0.0
+Spain,Segunda Division,16,Cordoba,Cadiz,A,1.0,2.0,D,0.0,0.0
+Spain,Segunda Division,16,Mirandes,Sociedad B,H,1.0,0.0,D,0.0,0.0
+Spain,Segunda Division,16,Santander,Eibar,H,4.0,0.0,H,2.0,0.0
+Spain,Segunda Division,16,Zaragoza,Leganes,H,3.0,2.0,D,1.0,1.0
+Spain,Segunda Division,16,Valladolid,Malaga,D,1.0,1.0,H,1.0,0.0
+Spain,Segunda Division,16,Albacete,La Coruna,A,0.0,2.0,A,0.0,1.0
+Spain,Segunda Division,16,Almeria,Huesca,D,0.0,0.0,D,0.0,0.0
+Spain,Segunda Division,16,Cultural Leonesa,Granada,A,0.0,1.0,A,0.0,1.0
+Spain,Segunda Division,16,Ceuta,Burgos,H,1.0,0.0,H,1.0,0.0
+Spain,Segunda Division,16,Sp Gijon,Andorra,D,1.0,1.0,D,0.0,0.0
+Spain,Segunda Division,17,Andorra,Almeria,,,,,,
+Spain,Segunda Division,17,Huesca,Valladolid,,,,,,
+Spain,Segunda Division,17,Sociedad B,Sp Gijon,,,,,,
+Spain,Segunda Division,17,Cadiz,Santander,,,,,,
+Spain,Segunda Division,17,Leganes,Cordoba,,,,,,
+Spain,Segunda Division,17,Eibar,Cultural Leonesa,,,,,,
+Spain,Segunda Division,17,La Coruna,Castellon,,,,,,
+Spain,Segunda Division,17,Granada,Ceuta,,,,,,
+Spain,Segunda Division,17,Burgos,Albacete,,,,,,
+Spain,Segunda Division,17,Las Palmas,Mirandes,,,,,,
+Spain,Segunda Division,17,Malaga,Zaragoza,,,,,,
+Spain,Segunda Division,18,Cultural Leonesa,Huesca,,,,,,
+Spain,Segunda Division,18,Cordoba,Eibar,,,,,,
+Spain,Segunda Division,18,Sp Gijon,Granada,,,,,,
+Spain,Segunda Division,18,Valladolid,Andorra,,,,,,
+Spain,Segunda Division,18,Santander,Leganes,,,,,,
+Spain,Segunda Division,18,Zaragoza,Cadiz,,,,,,
+Spain,Segunda Division,18,La Coruna,Sociedad B,,,,,,
+Spain,Segunda Division,18,Albacete,Malaga,,,,,,
+Spain,Segunda Division,18,Almeria,Burgos,,,,,,
+Spain,Segunda Division,18,Ceuta,Las Palmas,,,,,,
+Spain,Segunda Division,18,Castellon,Mirandes,,,,,,
+Spain,Segunda Division,19,Eibar,Valladolid,,,,,,
+Spain,Segunda Division,19,Andorra,La Coruna,,,,,,
+Spain,Segunda Division,19,Huesca,Santander,,,,,,
+Spain,Segunda Division,19,Leganes,Sp Gijon,,,,,,
+Spain,Segunda Division,19,Las Palmas,Cultural Leonesa,,,,,,
+Spain,Segunda Division,19,Malaga,Almeria,,,,,,
+Spain,Segunda Division,19,Mirandes,Cordoba,,,,,,
+Spain,Segunda Division,19,Sociedad B,Ceuta,,,,,,
+Spain,Segunda Division,19,Burgos,Zaragoza,,,,,,
+Spain,Segunda Division,19,Granada,Albacete,,,,,,
+Spain,Segunda Division,19,Cadiz,Castellon,,,,,,
+Spain,Segunda Division,20,Eibar,Mirandes,,,,,,
+Spain,Segunda Division,20,Cultural Leonesa,Sociedad B,,,,,,
+Spain,Segunda Division,20,Almeria,Granada,,,,,,
+Spain,Segunda Division,20,Castellon,Huesca,,,,,,
+Spain,Segunda Division,20,Valladolid,Santander,,,,,,
+Spain,Segunda Division,20,Cordoba,Burgos,,,,,,
+Spain,Segunda Division,20,Sp Gijon,Malaga,,,,,,
+Spain,Segunda Division,20,Ceuta,Andorra,,,,,,
+Spain,Segunda Division,20,Albacete,Leganes,,,,,,
+Spain,Segunda Division,20,Zaragoza,Las Palmas,,,,,,
+Spain,Segunda Division,20,La Coruna,Cadiz,,,,,,
+Spain,Segunda Division,21,Andorra,Cultural Leonesa,,,,,,
+Spain,Segunda Division,21,Burgos,Eibar,,,,,,
+Spain,Segunda Division,21,Cadiz,Sp Gijon,,,,,,
+Spain,Segunda Division,21,Granada,Castellon,,,,,,
+Spain,Segunda Division,21,Huesca,Cordoba,,,,,,
+Spain,Segunda Division,21,Las Palmas,La Coruna,,,,,,
+Spain,Segunda Division,21,Leganes,Valladolid,,,,,,
+Spain,Segunda Division,21,Malaga,Ceuta,,,,,,
+Spain,Segunda Division,21,Mirandes,Almeria,,,,,,
+Spain,Segunda Division,21,Santander,Zaragoza,,,,,,
+Spain,Segunda Division,21,Sociedad B,Albacete,,,,,,
+Spain,Segunda Division,22,Albacete,Cadiz,,,,,,
+Spain,Segunda Division,22,Almeria,La Coruna,,,,,,
+Spain,Segunda Division,22,Burgos,Huesca,,,,,,
+Spain,Segunda Division,22,Castellon,Leganes,,,,,,
+Spain,Segunda Division,22,Ceuta,Valladolid,,,,,,
+Spain,Segunda Division,22,Cordoba,Malaga,,,,,,
+Spain,Segunda Division,22,Cultural Leonesa,Sp Gijon,,,,,,
+Spain,Segunda Division,22,Granada,Eibar,,,,,,
+Spain,Segunda Division,22,Mirandes,Andorra,,,,,,
+Spain,Segunda Division,22,Santander,Las Palmas,,,,,,
+Spain,Segunda Division,22,Zaragoza,Sociedad B,,,,,,
+Spain,Segunda Division,23,Andorra,Huesca,,,,,,
+Spain,Segunda Division,23,Cadiz,Granada,,,,,,
+Spain,Segunda Division,23,Ceuta,Cultural Leonesa,,,,,,
+Spain,Segunda Division,23,Eibar,Almeria,,,,,,
+Spain,Segunda Division,23,Sp Gijon,Mirandes,,,,,,
+Spain,Segunda Division,23,La Coruna,Santander,,,,,,
+Spain,Segunda Division,23,Las Palmas,Cordoba,,,,,,
+Spain,Segunda Division,23,Leganes,Sociedad B,,,,,,
+Spain,Segunda Division,23,Malaga,Burgos,,,,,,
+Spain,Segunda Division,23,Zaragoza,Castellon,,,,,,
+Spain,Segunda Division,23,Valladolid,Albacete,,,,,,
+Spain,Segunda Division,24,Albacete,Zaragoza,,,,,,
+Spain,Segunda Division,24,Almeria,Ceuta,,,,,,
+Spain,Segunda Division,24,Burgos,Leganes,,,,,,
+Spain,Segunda Division,24,Castellon,Andorra,,,,,,
+Spain,Segunda Division,24,Cordoba,Valladolid,,,,,,
+Spain,Segunda Division,24,Cultural Leonesa,La Coruna,,,,,,
+Spain,Segunda Division,24,Eibar,Sp Gijon,,,,,,
+Spain,Segunda Division,24,Granada,Santander,,,,,,
+Spain,Segunda Division,24,Huesca,Cadiz,,,,,,
+Spain,Segunda Division,24,Mirandes,Malaga,,,,,,
+Spain,Segunda Division,24,Sociedad B,Las Palmas,,,,,,
+Spain,Segunda Division,25,Andorra,Sociedad B,,,,,,
+Spain,Segunda Division,25,Cadiz,Almeria,,,,,,
+Spain,Segunda Division,25,Ceuta,Cordoba,,,,,,
+Spain,Segunda Division,25,Sp Gijon,Huesca,,,,,,
+Spain,Segunda Division,25,La Coruna,Albacete,,,,,,
+Spain,Segunda Division,25,Las Palmas,Burgos,,,,,,
+Spain,Segunda Division,25,Leganes,Granada,,,,,,
+Spain,Segunda Division,25,Malaga,Cultural Leonesa,,,,,,
+Spain,Segunda Division,25,Santander,Mirandes,,,,,,
+Spain,Segunda Division,25,Zaragoza,Eibar,,,,,,
+Spain,Segunda Division,25,Valladolid,Castellon,,,,,,
+Spain,Segunda Division,26,Albacete,Sp Gijon,,,,,,
+Spain,Segunda Division,26,Almeria,Andorra,,,,,,
+Spain,Segunda Division,26,Burgos,Cadiz,,,,,,
+Spain,Segunda Division,26,Castellon,La Coruna,,,,,,
+Spain,Segunda Division,26,Cordoba,Leganes,,,,,,
+Spain,Segunda Division,26,Cultural Leonesa,Zaragoza,,,,,,
+Spain,Segunda Division,26,Eibar,Santander,,,,,,
+Spain,Segunda Division,26,Granada,Valladolid,,,,,,
+Spain,Segunda Division,26,Huesca,Ceuta,,,,,,
+Spain,Segunda Division,26,Mirandes,Las Palmas,,,,,,
+Spain,Segunda Division,26,Sociedad B,Malaga,,,,,,
+Spain,Segunda Division,27,Almeria,Cordoba,,,,,,
+Spain,Segunda Division,27,Andorra,Zaragoza,,,,,,
+Spain,Segunda Division,27,Cadiz,Sociedad B,,,,,,
+Spain,Segunda Division,27,Ceuta,Granada,,,,,,
+Spain,Segunda Division,27,Sp Gijon,Valladolid,,,,,,
+Spain,Segunda Division,27,Huesca,Mirandes,,,,,,
+Spain,Segunda Division,27,La Coruna,Eibar,,,,,,
+Spain,Segunda Division,27,Las Palmas,Castellon,,,,,,
+Spain,Segunda Division,27,Leganes,Cultural Leonesa,,,,,,
+Spain,Segunda Division,27,Malaga,Albacete,,,,,,
+Spain,Segunda Division,27,Santander,Burgos,,,,,,
+Spain,Segunda Division,28,Albacete,Almeria,,,,,,
+Spain,Segunda Division,28,Castellon,Santander,,,,,,
+Spain,Segunda Division,28,Cordoba,Andorra,,,,,,
+Spain,Segunda Division,28,Cultural Leonesa,Las Palmas,,,,,,
+Spain,Segunda Division,28,Eibar,Cadiz,,,,,,
+Spain,Segunda Division,28,Sp Gijon,Leganes,,,,,,
+Spain,Segunda Division,28,Granada,Malaga,,,,,,
+Spain,Segunda Division,28,Mirandes,Ceuta,,,,,,
+Spain,Segunda Division,28,Sociedad B,La Coruna,,,,,,
+Spain,Segunda Division,28,Zaragoza,Burgos,,,,,,
+Spain,Segunda Division,28,Valladolid,Huesca,,,,,,
+Spain,Segunda Division,29,Almeria,Cultural Leonesa,,,,,,
+Spain,Segunda Division,29,Andorra,Sp Gijon,,,,,,
+Spain,Segunda Division,29,Burgos,Mirandes,,,,,,
+Spain,Segunda Division,29,Cadiz,Zaragoza,,,,,,
+Spain,Segunda Division,29,Huesca,Albacete,,,,,,
+Spain,Segunda Division,29,La Coruna,Granada,,,,,,
+Spain,Segunda Division,29,Las Palmas,Ceuta,,,,,,
+Spain,Segunda Division,29,Leganes,Eibar,,,,,,
+Spain,Segunda Division,29,Malaga,Valladolid,,,,,,
+Spain,Segunda Division,29,Santander,Cordoba,,,,,,
+Spain,Segunda Division,29,Sociedad B,Castellon,,,,,,
+Spain,Segunda Division,30,Albacete,Las Palmas,,,,,,
+Spain,Segunda Division,30,Ceuta,La Coruna,,,,,,
+Spain,Segunda Division,30,Cordoba,Sociedad B,,,,,,
+Spain,Segunda Division,30,Cultural Leonesa,Santander,,,,,,
+Spain,Segunda Division,30,Eibar,Burgos,,,,,,
+Spain,Segunda Division,30,Sp Gijon,Castellon,,,,,,
+Spain,Segunda Division,30,Granada,Andorra,,,,,,
+Spain,Segunda Division,30,Malaga,Huesca,,,,,,
+Spain,Segunda Division,30,Mirandes,Cadiz,,,,,,
+Spain,Segunda Division,30,Zaragoza,Almeria,,,,,,
+Spain,Segunda Division,30,Valladolid,Leganes,,,,,,
+Spain,Segunda Division,31,Andorra,Eibar,,,,,,
+Spain,Segunda Division,31,Burgos,Cordoba,,,,,,
+Spain,Segunda Division,31,Cadiz,Malaga,,,,,,
+Spain,Segunda Division,31,Castellon,Cultural Leonesa,,,,,,
+Spain,Segunda Division,31,Huesca,Almeria,,,,,,
+Spain,Segunda Division,31,La Coruna,Zaragoza,,,,,,
+Spain,Segunda Division,31,Las Palmas,Sp Gijon,,,,,,
+Spain,Segunda Division,31,Leganes,Ceuta,,,,,,
+Spain,Segunda Division,31,Mirandes,Valladolid,,,,,,
+Spain,Segunda Division,31,Santander,Albacete,,,,,,
+Spain,Segunda Division,31,Sociedad B,Granada,,,,,,
+Spain,Segunda Division,32,Albacete,Castellon,,,,,,
+Spain,Segunda Division,32,Almeria,Sociedad B,,,,,,
+Spain,Segunda Division,32,Ceuta,Cadiz,,,,,,
+Spain,Segunda Division,32,Cordoba,Mirandes,,,,,,
+Spain,Segunda Division,32,Cultural Leonesa,Andorra,,,,,,
+Spain,Segunda Division,32,Eibar,Las Palmas,,,,,,
+Spain,Segunda Division,32,Sp Gijon,La Coruna,,,,,,
+Spain,Segunda Division,32,Granada,Huesca,,,,,,
+Spain,Segunda Division,32,Malaga,Leganes,,,,,,
+Spain,Segunda Division,32,Zaragoza,Santander,,,,,,
+Spain,Segunda Division,32,Valladolid,Burgos,,,,,,
+Spain,Segunda Division,33,Andorra,Malaga,,,,,,
+Spain,Segunda Division,33,Burgos,Ceuta,,,,,,
+Spain,Segunda Division,33,Castellon,Almeria,,,,,,
+Spain,Segunda Division,33,Huesca,Cultural Leonesa,,,,,,
+Spain,Segunda Division,33,La Coruna,Cordoba,,,,,,
+Spain,Segunda Division,33,Las Palmas,Granada,,,,,,
+Spain,Segunda Division,33,Leganes,Zaragoza,,,,,,
+Spain,Segunda Division,33,Mirandes,Albacete,,,,,,
+Spain,Segunda Division,33,Santander,Sp Gijon,,,,,,
+Spain,Segunda Division,33,Sociedad B,Eibar,,,,,,
+Spain,Segunda Division,33,Valladolid,Cadiz,,,,,,
+Spain,Segunda Division,34,Albacete,Burgos,,,,,,
+Spain,Segunda Division,34,Almeria,Leganes,,,,,,
+Spain,Segunda Division,34,Andorra,Santander,,,,,,
+Spain,Segunda Division,34,Cadiz,Cordoba,,,,,,
+Spain,Segunda Division,34,Castellon,Granada,,,,,,
+Spain,Segunda Division,34,Cultural Leonesa,Valladolid,,,,,,
+Spain,Segunda Division,34,Eibar,Ceuta,,,,,,
+Spain,Segunda Division,34,Sp Gijon,Sociedad B,,,,,,
+Spain,Segunda Division,34,La Coruna,Malaga,,,,,,
+Spain,Segunda Division,34,Las Palmas,Huesca,,,,,,
+Spain,Segunda Division,34,Zaragoza,Mirandes,,,,,,
+Spain,Segunda Division,35,Burgos,Sp Gijon,,,,,,
+Spain,Segunda Division,35,Cadiz,Andorra,,,,,,
+Spain,Segunda Division,35,Ceuta,Sociedad B,,,,,,
+Spain,Segunda Division,35,Cordoba,Zaragoza,,,,,,
+Spain,Segunda Division,35,Granada,Cultural Leonesa,,,,,,
+Spain,Segunda Division,35,Huesca,La Coruna,,,,,,
+Spain,Segunda Division,35,Leganes,Albacete,,,,,,
+Spain,Segunda Division,35,Malaga,Las Palmas,,,,,,
+Spain,Segunda Division,35,Mirandes,Castellon,,,,,,
+Spain,Segunda Division,35,Santander,Almeria,,,,,,
+Spain,Segunda Division,35,Valladolid,Eibar,,,,,,
+Spain,Segunda Division,36,Albacete,Granada,,,,,,
+Spain,Segunda Division,36,Almeria,Malaga,,,,,,
+Spain,Segunda Division,36,Andorra,Valladolid,,,,,,
+Spain,Segunda Division,36,Castellon,Burgos,,,,,,
+Spain,Segunda Division,36,Cultural Leonesa,Cordoba,,,,,,
+Spain,Segunda Division,36,Eibar,Huesca,,,,,,
+Spain,Segunda Division,36,Sp Gijon,Cadiz,,,,,,
+Spain,Segunda Division,36,La Coruna,Mirandes,,,,,,
+Spain,Segunda Division,36,Las Palmas,Leganes,,,,,,
+Spain,Segunda Division,36,Sociedad B,Santander,,,,,,
+Spain,Segunda Division,36,Zaragoza,Ceuta,,,,,,
+Spain,Segunda Division,37,Albacete,Eibar,,,,,,
+Spain,Segunda Division,37,Burgos,La Coruna,,,,,,
+Spain,Segunda Division,37,Cadiz,Las Palmas,,,,,,
+Spain,Segunda Division,37,Ceuta,Santander,,,,,,
+Spain,Segunda Division,37,Cordoba,Sp Gijon,,,,,,
+Spain,Segunda Division,37,Granada,Almeria,,,,,,
+Spain,Segunda Division,37,Huesca,Zaragoza,,,,,,
+Spain,Segunda Division,37,Leganes,Andorra,,,,,,
+Spain,Segunda Division,37,Malaga,Castellon,,,,,,
+Spain,Segunda Division,37,Mirandes,Cultural Leonesa,,,,,,
+Spain,Segunda Division,37,Valladolid,Sociedad B,,,,,,
+Spain,Segunda Division,38,Almeria,Mirandes,,,,,,
+Spain,Segunda Division,38,Andorra,Albacete,,,,,,
+Spain,Segunda Division,38,Castellon,Cordoba,,,,,,
+Spain,Segunda Division,38,Cultural Leonesa,Cadiz,,,,,,
+Spain,Segunda Division,38,Eibar,Malaga,,,,,,
+Spain,Segunda Division,38,Sp Gijon,Ceuta,,,,,,
+Spain,Segunda Division,38,La Coruna,Leganes,,,,,,
+Spain,Segunda Division,38,Las Palmas,Valladolid,,,,,,
+Spain,Segunda Division,38,Santander,Huesca,,,,,,
+Spain,Segunda Division,38,Sociedad B,Burgos,,,,,,
+Spain,Segunda Division,38,Zaragoza,Granada,,,,,,
+Spain,Segunda Division,39,Albacete,Cultural Leonesa,,,,,,
+Spain,Segunda Division,39,Andorra,Las Palmas,,,,,,
+Spain,Segunda Division,39,Burgos,Almeria,,,,,,
+Spain,Segunda Division,39,Cadiz,La Coruna,,,,,,
+Spain,Segunda Division,39,Ceuta,Castellon,,,,,,
+Spain,Segunda Division,39,Cordoba,Granada,,,,,,
+Spain,Segunda Division,39,Huesca,Sociedad B,,,,,,
+Spain,Segunda Division,39,Leganes,Santander,,,,,,
+Spain,Segunda Division,39,Malaga,Sp Gijon,,,,,,
+Spain,Segunda Division,39,Mirandes,Eibar,,,,,,
+Spain,Segunda Division,39,Valladolid,Zaragoza,,,,,,
+Spain,Segunda Division,40,Almeria,Las Palmas,,,,,,
+Spain,Segunda Division,40,Castellon,Cadiz,,,,,,
+Spain,Segunda Division,40,Ceuta,Malaga,,,,,,
+Spain,Segunda Division,40,Cordoba,Albacete,,,,,,
+Spain,Segunda Division,40,Cultural Leonesa,Eibar,,,,,,
+Spain,Segunda Division,40,Granada,Burgos,,,,,,
+Spain,Segunda Division,40,La Coruna,Andorra,,,,,,
+Spain,Segunda Division,40,Leganes,Huesca,,,,,,
+Spain,Segunda Division,40,Santander,Valladolid,,,,,,
+Spain,Segunda Division,40,Sociedad B,Mirandes,,,,,,
+Spain,Segunda Division,40,Zaragoza,Sp Gijon,,,,,,
+Spain,Segunda Division,41,Albacete,Sociedad B,,,,,,
+Spain,Segunda Division,41,Andorra,Ceuta,,,,,,
+Spain,Segunda Division,41,Cadiz,Leganes,,,,,,
+Spain,Segunda Division,41,Cultural Leonesa,Burgos,,,,,,
+Spain,Segunda Division,41,Eibar,Cordoba,,,,,,
+Spain,Segunda Division,41,Sp Gijon,Almeria,,,,,,
+Spain,Segunda Division,41,Huesca,Castellon,,,,,,
+Spain,Segunda Division,41,Las Palmas,Zaragoza,,,,,,
+Spain,Segunda Division,41,Malaga,Santander,,,,,,
+Spain,Segunda Division,41,Mirandes,Granada,,,,,,
+Spain,Segunda Division,41,Valladolid,La Coruna,,,,,,
+Spain,Segunda Division,42,Almeria,Valladolid,,,,,,
+Spain,Segunda Division,42,Burgos,Andorra,,,,,,
+Spain,Segunda Division,42,Castellon,Eibar,,,,,,
+Spain,Segunda Division,42,Ceuta,Albacete,,,,,,
+Spain,Segunda Division,42,Cordoba,Huesca,,,,,,
+Spain,Segunda Division,42,Granada,Sp Gijon,,,,,,
+Spain,Segunda Division,42,La Coruna,Las Palmas,,,,,,
+Spain,Segunda Division,42,Leganes,Mirandes,,,,,,
+Spain,Segunda Division,42,Santander,Cadiz,,,,,,
+Spain,Segunda Division,42,Sociedad B,Cultural Leonesa,,,,,,
+Spain,Segunda Division,42,Zaragoza,Malaga,,,,,,
 Italy,Serie A,1,Atalanta,Pisa,D,1.0,1.0,A,0.0,1.0
 Italy,Serie A,1,Cagliari,Fiorentina,D,1.0,1.0,D,0.0,0.0
 Italy,Serie A,1,Como,Lazio,H,2.0,0.0,D,0.0,0.0
@@ -3765,3 +4533,184 @@ Turkey,Super Lig,34,Samsunspor,Goztep,,,,,,
 Turkey,Super Lig,34,Kasimpasa,Galatasaray,,,,,,
 Turkey,Super Lig,34,Trabzonspor,Genclerbirligi,,,,,,
 Turkey,Super Lig,34,Antalyaspor,Kocaelispor,,,,,,
+Greece,Super League,12,Panathinaikos,AEK,,,,,,
+Greece,Super League,12,Levadeiakos,PAOK,A,2.0,3.0,D,1.0,1.0
+Greece,Super League,12,Atromitos,Asteras Tripolis,A,0.0,1.0,A,0.0,1.0
+Greece,Super League,12,Panetolikos,Olympiakos,A,0.0,1.0,D,0.0,0.0
+Greece,Super League,12,Aris,Larisa,H,2.0,1.0,H,1.0,0.0
+Greece,Super League,12,Kifisia,Panserraikos,H,3.0,0.0,H,1.0,0.0
+Greece,Super League,12,OFI Crete,Volos NFC,A,0.0,1.0,D,0.0,0.0
+Greece,Super League,11,Larisa,OFI Crete,A,1.0,2.0,A,1.0,2.0
+Greece,Super League,11,Volos NFC,Levadeiakos,A,1.0,2.0,D,1.0,1.0
+Greece,Super League,11,AEK,Aris,H,1.0,0.0,D,0.0,0.0
+Greece,Super League,11,PAOK,Kifisia,H,3.0,0.0,H,1.0,0.0
+Greece,Super League,11,Panserraikos,Panathinaikos,A,0.0,3.0,A,0.0,1.0
+Greece,Super League,11,Olympiakos,Atromitos,H,3.0,0.0,H,1.0,0.0
+Greece,Super League,11,Asteras Tripolis,Panetolikos,D,1.0,1.0,H,1.0,0.0
+Greece,Super League,10,Panathinaikos,PAOK,H,2.0,1.0,H,2.0,0.0
+Greece,Super League,10,Atromitos,Volos NFC,A,0.0,1.0,A,0.0,1.0
+Greece,Super League,10,OFI Crete,AEK,A,0.0,1.0,D,0.0,0.0
+Greece,Super League,10,Levadeiakos,Panserraikos,H,5.0,2.0,H,2.0,1.0
+Greece,Super League,10,Aris,Asteras Tripolis,D,0.0,0.0,D,0.0,0.0
+Greece,Super League,10,Kifisia,Olympiakos,A,1.0,3.0,A,0.0,1.0
+Greece,Super League,10,Panetolikos,Larisa,H,3.0,0.0,H,1.0,0.0
+Greece,Super League,9,Asteras Tripolis,OFI Crete,H,3.0,0.0,H,1.0,0.0
+Greece,Super League,9,AEK,Panetolikos,H,1.0,0.0,D,0.0,0.0
+Greece,Super League,9,Panserraikos,PAOK,A,0.0,5.0,A,0.0,2.0
+Greece,Super League,9,Larisa,Levadeiakos,A,0.0,2.0,A,0.0,1.0
+Greece,Super League,9,Olympiakos,Aris,H,2.0,1.0,D,0.0,0.0
+Greece,Super League,9,Atromitos,Kifisia,A,1.0,2.0,D,0.0,0.0
+Greece,Super League,9,Volos NFC,Panathinaikos,H,1.0,0.0,H,1.0,0.0
+Greece,Super League,8,Olympiakos,AEK,H,2.0,0.0,H,1.0,0.0
+Greece,Super League,8,PAOK,Volos NFC,H,3.0,0.0,D,0.0,0.0
+Greece,Super League,8,Panathinaikos,Asteras Tripolis,H,2.0,0.0,H,1.0,0.0
+Greece,Super League,8,Levadeiakos,Aris,D,1.0,1.0,A,0.0,1.0
+Greece,Super League,8,OFI Crete,Atromitos,A,1.0,3.0,D,1.0,1.0
+Greece,Super League,8,Panserraikos,Larisa,A,0.0,2.0,A,0.0,2.0
+Greece,Super League,8,Kifisia,Panetolikos,D,1.0,1.0,D,1.0,1.0
+Greece,Super League,7,AEK,PAOK,A,0.0,2.0,A,0.0,1.0
+Greece,Super League,7,Aris,Panathinaikos,D,1.0,1.0,A,0.0,1.0
+Greece,Super League,7,Volos NFC,Panserraikos,H,2.0,1.0,H,1.0,0.0
+Greece,Super League,7,Asteras Tripolis,Kifisia,D,2.0,2.0,A,0.0,1.0
+Greece,Super League,7,Panetolikos,OFI Crete,H,4.0,2.0,D,0.0,0.0
+Greece,Super League,7,Atromitos,Levadeiakos,D,2.0,2.0,H,2.0,1.0
+Greece,Super League,7,Larisa,Olympiakos,A,0.0,2.0,A,0.0,2.0
+Greece,Super League,6,Panathinaikos,Atromitos,H,1.0,0.0,D,0.0,0.0
+Greece,Super League,6,PAOK,Olympiakos,H,2.0,1.0,A,0.0,1.0
+Greece,Super League,6,Kifisia,AEK,A,2.0,3.0,H,2.0,1.0
+Greece,Super League,6,Levadeiakos,Panetolikos,H,6.0,0.0,H,4.0,0.0
+Greece,Super League,6,Larisa,Volos NFC,A,2.0,5.0,A,1.0,2.0
+Greece,Super League,6,OFI Crete,Aris,H,3.0,0.0,H,1.0,0.0
+Greece,Super League,6,Panserraikos,Asteras Tripolis,H,2.0,1.0,H,1.0,0.0
+Greece,Super League,5,Atromitos,Larisa,D,1.0,1.0,H,1.0,0.0
+Greece,Super League,5,Panetolikos,Panathinaikos,A,1.0,2.0,H,1.0,0.0
+Greece,Super League,5,Asteras Tripolis,PAOK,D,3.0,3.0,A,2.0,3.0
+Greece,Super League,5,OFI Crete,Kifisia,A,1.0,3.0,A,0.0,1.0
+Greece,Super League,5,AEK,Volos NFC,H,1.0,0.0,D,0.0,0.0
+Greece,Super League,5,Aris,Panserraikos,D,1.0,1.0,H,1.0,0.0
+Greece,Super League,5,Olympiakos,Levadeiakos,H,3.0,2.0,H,1.0,0.0
+Greece,Super League,4,Panathinaikos,Olympiakos,D,1.0,1.0,D,0.0,0.0
+Greece,Super League,4,Levadeiakos,OFI Crete,H,4.0,0.0,H,1.0,0.0
+Greece,Super League,4,Larisa,AEK,D,1.0,1.0,D,0.0,0.0
+Greece,Super League,4,PAOK,Panetolikos,D,0.0,0.0,D,0.0,0.0
+Greece,Super League,4,Volos NFC,Asteras Tripolis,H,2.0,1.0,H,1.0,0.0
+Greece,Super League,4,Kifisia,Aris,A,0.0,1.0,D,0.0,0.0
+Greece,Super League,4,Panserraikos,Atromitos,D,1.0,1.0,A,0.0,1.0
+Greece,Super League,3,OFI Crete,PAOK,A,1.0,2.0,A,0.0,2.0
+Greece,Super League,3,Levadeiakos,AEK,A,0.0,1.0,D,0.0,0.0
+Greece,Super League,3,Asteras Tripolis,Larisa,D,2.0,2.0,H,2.0,0.0
+Greece,Super League,3,Kifisia,Panathinaikos,H,3.0,2.0,D,1.0,1.0
+Greece,Super League,3,Atromitos,Aris,A,1.0,2.0,D,1.0,1.0
+Greece,Super League,3,Panetolikos,Volos NFC,A,1.0,2.0,A,1.0,2.0
+Greece,Super League,3,Olympiakos,Panserraikos,H,5.0,0.0,D,0.0,0.0
+Greece,Super League,2,Panathinaikos,Levadeiakos,D,1.0,1.0,H,1.0,0.0
+Greece,Super League,2,PAOK,Atromitos,H,1.0,0.0,D,0.0,0.0
+Greece,Super League,2,AEK,Asteras Tripolis,H,1.0,0.0,H,1.0,0.0
+Greece,Super League,2,Larisa,Kifisia,D,1.0,1.0,D,0.0,0.0
+Greece,Super League,2,Aris,Panetolikos,A,0.0,2.0,D,0.0,0.0
+Greece,Super League,2,Panserraikos,OFI Crete,A,0.0,1.0,D,0.0,0.0
+Greece,Super League,2,Volos NFC,Olympiakos,A,0.0,2.0,D,0.0,0.0
+Greece,Super League,1,Levadeiakos,Kifisia,H,3.0,2.0,D,2.0,2.0
+Greece,Super League,1,PAOK,Larisa,H,1.0,0.0,D,0.0,0.0
+Greece,Super League,1,AEK,Panserraikos,H,2.0,0.0,H,2.0,0.0
+Greece,Super League,1,Panetolikos,Atromitos,A,0.0,2.0,A,0.0,1.0
+Greece,Super League,1,Aris,Volos NFC,H,2.0,0.0,D,0.0,0.0
+Greece,Super League,1,Olympiakos,Asteras Tripolis,H,2.0,0.0,D,0.0,0.0
+Greece,Super League,13,Olympiakos,OFI Crete,,,,,,
+Greece,Super League,13,Volos NFC,Kifisia,,,,,,
+Greece,Super League,13,Asteras Tripolis,Levadeiakos,,,,,,
+Greece,Super League,13,Larisa,Panathinaikos,,,,,,
+Greece,Super League,13,PAOK,Aris,,,,,,
+Greece,Super League,13,AEK,Atromitos,,,,,,
+Greece,Super League,13,Panserraikos,Panetolikos,,,,,,
+Greece,Super League,14,Levadeiakos,Larisa,,,,,,
+Greece,Super League,14,OFI Crete,Panserraikos,,,,,,
+Greece,Super League,14,Kifisia,Asteras Tripolis,,,,,,
+Greece,Super League,14,Panetolikos,AEK,,,,,,
+Greece,Super League,14,Atromitos,PAOK,,,,,,
+Greece,Super League,14,Aris,Olympiakos,,,,,,
+Greece,Super League,14,Panathinaikos,Volos NFC,,,,,,
+Greece,Super League,15,Asteras Tripolis,Aris,,,,,,
+Greece,Super League,15,Volos NFC,Panetolikos,,,,,,
+Greece,Super League,15,Olympiakos,Kifisia,,,,,,
+Greece,Super League,15,Larisa,Atromitos,,,,,,
+Greece,Super League,15,PAOK,Panathinaikos,,,,,,
+Greece,Super League,15,AEK,OFI Crete,,,,,,
+Greece,Super League,15,Panserraikos,Levadeiakos,,,,,,
+Greece,Super League,16,Aris,AEK,,,,,,
+Greece,Super League,16,Atromitos,Olympiakos,,,,,,
+Greece,Super League,16,Kifisia,Larisa,,,,,,
+Greece,Super League,16,Levadeiakos,Volos NFC,,,,,,
+Greece,Super League,16,OFI Crete,Asteras Tripolis,,,,,,
+Greece,Super League,16,Panathinaikos,Panserraikos,,,,,,
+Greece,Super League,16,Panetolikos,PAOK,,,,,,
+Greece,Super League,17,AEK,Panathinaikos,,,,,,
+Greece,Super League,17,Larisa,Aris,,,,,,
+Greece,Super League,17,Asteras Tripolis,Olympiakos,,,,,,
+Greece,Super League,17,Panetolikos,Levadeiakos,,,,,,
+Greece,Super League,17,Panserraikos,Kifisia,,,,,,
+Greece,Super League,17,PAOK,OFI Crete,,,,,,
+Greece,Super League,17,Volos NFC,Atromitos,,,,,,
+Greece,Super League,18,Larisa,Panserraikos,,,,,,
+Greece,Super League,18,Aris,Levadeiakos,,,,,,
+Greece,Super League,18,Asteras Tripolis,AEK,,,,,,
+Greece,Super League,18,Atromitos,Panathinaikos,,,,,,
+Greece,Super League,18,Kifisia,PAOK,,,,,,
+Greece,Super League,18,OFI Crete,Panetolikos,,,,,,
+Greece,Super League,18,Olympiakos,Volos NFC,,,,,,
+Greece,Super League,19,AEK,Olympiakos,,,,,,
+Greece,Super League,19,Atromitos,OFI Crete,,,,,,
+Greece,Super League,19,Levadeiakos,Asteras Tripolis,,,,,,
+Greece,Super League,19,Panathinaikos,Kifisia,,,,,,
+Greece,Super League,19,Panetolikos,Aris,,,,,,
+Greece,Super League,19,PAOK,Panserraikos,,,,,,
+Greece,Super League,19,Volos NFC,Larisa,,,,,,
+Greece,Super League,20,Larisa,Panetolikos,,,,,,
+Greece,Super League,20,Aris,PAOK,,,,,,
+Greece,Super League,20,Asteras Tripolis,Volos NFC,,,,,,
+Greece,Super League,20,Kifisia,Atromitos,,,,,,
+Greece,Super League,20,OFI Crete,Levadeiakos,,,,,,
+Greece,Super League,20,Olympiakos,Panathinaikos,,,,,,
+Greece,Super League,20,Panserraikos,AEK,,,,,,
+Greece,Super League,21,Atromitos,Panserraikos,,,,,,
+Greece,Super League,21,Kifisia,OFI Crete,,,,,,
+Greece,Super League,21,Levadeiakos,Olympiakos,,,,,,
+Greece,Super League,21,Panathinaikos,Larisa,,,,,,
+Greece,Super League,21,Panetolikos,Asteras Tripolis,,,,,,
+Greece,Super League,21,PAOK,AEK,,,,,,
+Greece,Super League,21,Volos NFC,Aris,,,,,,
+Greece,Super League,22,AEK,Levadeiakos,,,,,,
+Greece,Super League,22,Larisa,PAOK,,,,,,
+Greece,Super League,22,Aris,Kifisia,,,,,,
+Greece,Super League,22,Asteras Tripolis,Atromitos,,,,,,
+Greece,Super League,22,OFI Crete,Panathinaikos,,,,,,
+Greece,Super League,22,Olympiakos,Panetolikos,,,,,,
+Greece,Super League,22,Panserraikos,Volos NFC,,,,,,
+Greece,Super League,23,Atromitos,Panetolikos,,,,,,
+Greece,Super League,23,Kifisia,Levadeiakos,,,,,,
+Greece,Super League,23,OFI Crete,Larisa,,,,,,
+Greece,Super League,23,Panathinaikos,Aris,,,,,,
+Greece,Super League,23,Panserraikos,Olympiakos,,,,,,
+Greece,Super League,23,PAOK,Asteras Tripolis,,,,,,
+Greece,Super League,23,Volos NFC,AEK,,,,,,
+Greece,Super League,24,AEK,Larisa,,,,,,
+Greece,Super League,24,Aris,Atromitos,,,,,,
+Greece,Super League,24,Asteras Tripolis,Panserraikos,,,,,,
+Greece,Super League,24,Levadeiakos,Panathinaikos,,,,,,
+Greece,Super League,24,Olympiakos,PAOK,,,,,,
+Greece,Super League,24,Panetolikos,Kifisia,,,,,,
+Greece,Super League,24,Volos NFC,OFI Crete,,,,,,
+Greece,Super League,25,Larisa,Asteras Tripolis,,,,,,
+Greece,Super League,25,Atromitos,AEK,,,,,,
+Greece,Super League,25,Kifisia,Volos NFC,,,,,,
+Greece,Super League,25,OFI Crete,Olympiakos,,,,,,
+Greece,Super League,25,Panathinaikos,Panetolikos,,,,,,
+Greece,Super League,25,Panserraikos,Aris,,,,,,
+Greece,Super League,25,PAOK,Levadeiakos,,,,,,
+Greece,Super League,26,AEK,Kifisia,,,,,,
+Greece,Super League,26,Aris,OFI Crete,,,,,,
+Greece,Super League,26,Asteras Tripolis,Panathinaikos,,,,,,
+Greece,Super League,26,Levadeiakos,Atromitos,,,,,,
+Greece,Super League,26,Olympiakos,Larisa,,,,,,
+Greece,Super League,26,Panetolikos,Panserraikos,,,,,,
+Greece,Super League,26,Volos NFC,PAOK,,,,,,

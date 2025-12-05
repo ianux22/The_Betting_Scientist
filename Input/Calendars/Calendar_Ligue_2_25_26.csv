@@ -1,0 +1,307 @@
+Country,League,Matchday,Hometeam,Awayteam
+France,Ligue 2,1,Boulogne,Bastia
+France,Ligue 2,1,Amiens,Reims
+France,Ligue 2,1,Dunkerque,Clermont
+France,Ligue 2,1,Laval,St Etienne
+France,Ligue 2,1,Montpellier,Red Star
+France,Ligue 2,1,Pau FC,Annecy
+France,Ligue 2,1,Rodez,Nancy
+France,Ligue 2,1,Troyes,Grenoble
+France,Ligue 2,1,Guingamp,Le Mans
+France,Ligue 2,2,Le Mans,Montpellier
+France,Ligue 2,2,St Etienne,Rodez
+France,Ligue 2,2,Annecy,Dunkerque
+France,Ligue 2,2,Reims,Guingamp
+France,Ligue 2,2,Bastia,Pau FC
+France,Ligue 2,2,Clermont,Troyes
+France,Ligue 2,2,Grenoble,Laval
+France,Ligue 2,2,Nancy,Boulogne
+France,Ligue 2,2,Red Star,Amiens
+France,Ligue 2,3,Pau FC,Reims
+France,Ligue 2,3,Boulogne,St Etienne
+France,Ligue 2,3,Guingamp,Red Star
+France,Ligue 2,3,Troyes,Montpellier
+France,Ligue 2,3,Amiens,Annecy
+France,Ligue 2,3,Clermont,Grenoble
+France,Ligue 2,3,Dunkerque,Nancy
+France,Ligue 2,3,Le Mans,Bastia
+France,Ligue 2,3,Rodez,Laval
+France,Ligue 2,4,St Etienne,Grenoble
+France,Ligue 2,4,Bastia,Guingamp
+France,Ligue 2,4,Reims,Le Mans
+France,Ligue 2,4,Dunkerque,Troyes
+France,Ligue 2,4,Laval,Clermont
+France,Ligue 2,4,Montpellier,Amiens
+France,Ligue 2,4,Nancy,Pau FC
+France,Ligue 2,4,Red Star,Annecy
+France,Ligue 2,4,Rodez,Boulogne
+France,Ligue 2,5,Guingamp,Montpellier
+France,Ligue 2,5,Clermont,St Etienne
+France,Ligue 2,5,Annecy,Reims
+France,Ligue 2,5,Grenoble,Dunkerque
+France,Ligue 2,5,Amiens,Bastia
+France,Ligue 2,5,Boulogne,Laval
+France,Ligue 2,5,Le Mans,Rodez
+France,Ligue 2,5,Pau FC,Red Star
+France,Ligue 2,5,Troyes,Nancy
+France,Ligue 2,6,St Etienne,Reims
+France,Ligue 2,6,Montpellier,Bastia
+France,Ligue 2,6,Troyes,Guingamp
+France,Ligue 2,6,Boulogne,Pau FC
+France,Ligue 2,6,Dunkerque,Le Mans
+France,Ligue 2,6,Grenoble,Annecy
+France,Ligue 2,6,Laval,Amiens
+France,Ligue 2,6,Nancy,Red Star
+France,Ligue 2,6,Rodez,Clermont
+France,Ligue 2,7,Amiens,St Etienne
+France,Ligue 2,7,Annecy,Nancy
+France,Ligue 2,7,Bastia,Rodez
+France,Ligue 2,7,Guingamp,Dunkerque
+France,Ligue 2,7,Le Mans,Grenoble
+France,Ligue 2,7,Montpellier,Boulogne
+France,Ligue 2,7,Pau FC,Laval
+France,Ligue 2,7,Red Star,Troyes
+France,Ligue 2,7,Reims,Clermont
+France,Ligue 2,8,Boulogne,Red Star
+France,Ligue 2,8,St Etienne,Guingamp
+France,Ligue 2,8,Dunkerque,Amiens
+France,Ligue 2,8,Laval,Montpellier
+France,Ligue 2,8,Clermont,Le Mans
+France,Ligue 2,8,Grenoble,Bastia
+France,Ligue 2,8,Nancy,Reims
+France,Ligue 2,8,Rodez,Pau FC
+France,Ligue 2,8,Troyes,Annecy
+France,Ligue 2,9,Montpellier,St Etienne
+France,Ligue 2,9,Red Star,Rodez
+France,Ligue 2,9,Reims,Grenoble
+France,Ligue 2,9,Amiens,Boulogne
+France,Ligue 2,9,Annecy,Laval
+France,Ligue 2,9,Bastia,Dunkerque
+France,Ligue 2,9,Guingamp,Nancy
+France,Ligue 2,9,Le Mans,Troyes
+France,Ligue 2,9,Pau FC,Clermont
+France,Ligue 2,10,Nancy,Amiens
+France,Ligue 2,10,St Etienne,Le Mans
+France,Ligue 2,10,Dunkerque,Montpellier
+France,Ligue 2,10,Laval,Red Star
+France,Ligue 2,10,Boulogne,Guingamp
+France,Ligue 2,10,Clermont,Annecy
+France,Ligue 2,10,Grenoble,Pau FC
+France,Ligue 2,10,Rodez,Reims
+France,Ligue 2,10,Troyes,Bastia
+France,Ligue 2,11,Bastia,Laval
+France,Ligue 2,11,Annecy,St Etienne
+France,Ligue 2,11,Amiens,Rodez
+France,Ligue 2,11,Montpellier,Nancy
+France,Ligue 2,11,Guingamp,Clermont
+France,Ligue 2,11,Le Mans,Boulogne
+France,Ligue 2,11,Pau FC,Dunkerque
+France,Ligue 2,11,Red Star,Grenoble
+France,Ligue 2,11,Reims,Troyes
+France,Ligue 2,12,Boulogne,Reims
+France,Ligue 2,12,Clermont,Montpellier
+France,Ligue 2,12,Dunkerque,Red Star
+France,Ligue 2,12,Grenoble,Guingamp
+France,Ligue 2,12,Laval,Le Mans
+France,Ligue 2,12,Nancy,Bastia
+France,Ligue 2,12,Rodez,Annecy
+France,Ligue 2,12,St Etienne,Pau FC
+France,Ligue 2,12,Troyes,Amiens
+France,Ligue 2,13,Pau FC,Troyes
+France,Ligue 2,13,Red Star,St Etienne
+France,Ligue 2,13,Amiens,Grenoble
+France,Ligue 2,13,Reims,Dunkerque
+France,Ligue 2,13,Annecy,Boulogne
+France,Ligue 2,13,Bastia,Clermont
+France,Ligue 2,13,Guingamp,Laval
+France,Ligue 2,13,Le Mans,Nancy
+France,Ligue 2,13,Montpellier,Rodez
+France,Ligue 2,14,Troyes,St Etienne
+France,Ligue 2,14,Guingamp,Pau FC
+France,Ligue 2,14,Le Mans,Red Star
+France,Ligue 2,14,Bastia,Reims
+France,Ligue 2,14,Clermont,Amiens
+France,Ligue 2,14,Dunkerque,Boulogne
+France,Ligue 2,14,Grenoble,Rodez
+France,Ligue 2,14,Montpellier,Annecy
+France,Ligue 2,14,Nancy,Laval
+France,Ligue 2,15,Reims,Montpellier
+France,Ligue 2,15,St Etienne,Nancy
+France,Ligue 2,15,Amiens,Guingamp
+France,Ligue 2,15,Red Star,Clermont
+France,Ligue 2,15,Annecy,Bastia
+France,Ligue 2,15,Boulogne,Grenoble
+France,Ligue 2,15,Laval,Troyes
+France,Ligue 2,15,Pau FC,Le Mans
+France,Ligue 2,15,Rodez,Dunkerque
+France,Ligue 2,16,Bastia,Red Star
+France,Ligue 2,16,Clermont,Boulogne
+France,Ligue 2,16,Grenoble,Nancy
+France,Ligue 2,16,Guingamp,Annecy
+France,Ligue 2,16,Le Mans,Amiens
+France,Ligue 2,16,Montpellier,Pau FC
+France,Ligue 2,16,Troyes,Rodez
+France,Ligue 2,16,Dunkerque,St Etienne
+France,Ligue 2,16,Reims,Laval
+France,Ligue 2,17,Annecy,Le Mans
+France,Ligue 2,17,Laval,Dunkerque
+France,Ligue 2,17,Nancy,Clermont
+France,Ligue 2,17,Pau FC,Amiens
+France,Ligue 2,17,Rodez,Guingamp
+France,Ligue 2,17,Grenoble,Montpellier
+France,Ligue 2,17,Red Star,Reims
+France,Ligue 2,17,St Etienne,Bastia
+France,Ligue 2,17,Boulogne,Troyes
+France,Ligue 2,18,Troyes,Red Star
+France,Ligue 2,18,Amiens,Nancy
+France,Ligue 2,18,Bastia,Grenoble
+France,Ligue 2,18,Clermont,Laval
+France,Ligue 2,18,Guingamp,Boulogne
+France,Ligue 2,18,Le Mans,St Etienne
+France,Ligue 2,18,Pau FC,Rodez
+France,Ligue 2,18,Reims,Annecy
+France,Ligue 2,18,Montpellier,Dunkerque
+France,Ligue 2,19,Annecy,Amiens
+France,Ligue 2,19,Boulogne,Montpellier
+France,Ligue 2,19,Dunkerque,Pau FC
+France,Ligue 2,19,Laval,Bastia
+France,Ligue 2,19,Rodez,Le Mans
+France,Ligue 2,19,Grenoble,Red Star
+France,Ligue 2,19,Troyes,Reims
+France,Ligue 2,19,St Etienne,Clermont
+France,Ligue 2,19,Nancy,Guingamp
+France,Ligue 2,20,Amiens,Laval
+France,Ligue 2,20,Annecy,Clermont
+France,Ligue 2,20,Bastia,Montpellier
+France,Ligue 2,20,Nancy,Rodez
+France,Ligue 2,20,Pau FC,Grenoble
+France,Ligue 2,20,Guingamp,Troyes
+France,Ligue 2,20,Red Star,Boulogne
+France,Ligue 2,20,Reims,St Etienne
+France,Ligue 2,20,Le Mans,Dunkerque
+France,Ligue 2,21,Bastia,Nancy
+France,Ligue 2,21,Clermont,Reims
+France,Ligue 2,21,Grenoble,Amiens
+France,Ligue 2,21,Laval,Pau FC
+France,Ligue 2,21,Montpellier,Guingamp
+France,Ligue 2,21,Rodez,Red Star
+France,Ligue 2,21,Dunkerque,Annecy
+France,Ligue 2,21,Troyes,Le Mans
+France,Ligue 2,21,St Etienne,Boulogne
+France,Ligue 2,22,Amiens,Clermont
+France,Ligue 2,22,Annecy,Grenoble
+France,Ligue 2,22,Boulogne,Rodez
+France,Ligue 2,22,Dunkerque,Guingamp
+France,Ligue 2,22,Le Mans,Laval
+France,Ligue 2,22,Nancy,Troyes
+France,Ligue 2,22,Red Star,Pau FC
+France,Ligue 2,22,Reims,Bastia
+France,Ligue 2,22,St Etienne,Montpellier
+France,Ligue 2,23,Amiens,Dunkerque
+France,Ligue 2,23,Bastia,Troyes
+France,Ligue 2,23,Clermont,Rodez
+France,Ligue 2,23,Grenoble,Reims
+France,Ligue 2,23,Guingamp,St Etienne
+France,Ligue 2,23,Laval,Annecy
+France,Ligue 2,23,Montpellier,Le Mans
+France,Ligue 2,23,Pau FC,Boulogne
+France,Ligue 2,23,Red Star,Nancy
+France,Ligue 2,24,Annecy,Red Star
+France,Ligue 2,24,Boulogne,Clermont
+France,Ligue 2,24,Dunkerque,Bastia
+France,Ligue 2,24,Le Mans,Guingamp
+France,Ligue 2,24,Nancy,Grenoble
+France,Ligue 2,24,Reims,Amiens
+France,Ligue 2,24,Rodez,Montpellier
+France,Ligue 2,24,St Etienne,Laval
+France,Ligue 2,24,Troyes,Pau FC
+France,Ligue 2,25,Amiens,Troyes
+France,Ligue 2,25,Bastia,Annecy
+France,Ligue 2,25,Clermont,Dunkerque
+France,Ligue 2,25,Grenoble,Boulogne
+France,Ligue 2,25,Guingamp,Rodez
+France,Ligue 2,25,Laval,Nancy
+France,Ligue 2,25,Montpellier,Reims
+France,Ligue 2,25,Pau FC,St Etienne
+France,Ligue 2,25,Red Star,Le Mans
+France,Ligue 2,26,Boulogne,Amiens
+France,Ligue 2,26,Dunkerque,Reims
+France,Ligue 2,26,Laval,Guingamp
+France,Ligue 2,26,Le Mans,Annecy
+France,Ligue 2,26,Nancy,Montpellier
+France,Ligue 2,26,Pau FC,Bastia
+France,Ligue 2,26,Rodez,Grenoble
+France,Ligue 2,26,St Etienne,Red Star
+France,Ligue 2,26,Troyes,Clermont
+France,Ligue 2,27,Annecy,Troyes
+France,Ligue 2,27,Bastia,Boulogne
+France,Ligue 2,27,Clermont,Pau FC
+France,Ligue 2,27,Grenoble,St Etienne
+France,Ligue 2,27,Guingamp,Amiens
+France,Ligue 2,27,Montpellier,Laval
+France,Ligue 2,27,Nancy,Le Mans
+France,Ligue 2,27,Red Star,Dunkerque
+France,Ligue 2,27,Reims,Rodez
+France,Ligue 2,28,Amiens,Le Mans
+France,Ligue 2,28,Boulogne,Nancy
+France,Ligue 2,28,Clermont,Red Star
+France,Ligue 2,28,Guingamp,Reims
+France,Ligue 2,28,Laval,Grenoble
+France,Ligue 2,28,Pau FC,Montpellier
+France,Ligue 2,28,Rodez,Bastia
+France,Ligue 2,28,St Etienne,Annecy
+France,Ligue 2,28,Troyes,Dunkerque
+France,Ligue 2,29,Annecy,Guingamp
+France,Ligue 2,29,Bastia,Amiens
+France,Ligue 2,29,Dunkerque,Rodez
+France,Ligue 2,29,Grenoble,Clermont
+France,Ligue 2,29,Le Mans,Pau FC
+France,Ligue 2,29,Montpellier,Troyes
+France,Ligue 2,29,Nancy,St Etienne
+France,Ligue 2,29,Red Star,Laval
+France,Ligue 2,29,Reims,Boulogne
+France,Ligue 2,30,Amiens,Pau FC
+France,Ligue 2,30,Annecy,Montpellier
+France,Ligue 2,30,Boulogne,Le Mans
+France,Ligue 2,30,Clermont,Nancy
+France,Ligue 2,30,Guingamp,Grenoble
+France,Ligue 2,30,Laval,Reims
+France,Ligue 2,30,Red Star,Bastia
+France,Ligue 2,30,Rodez,Troyes
+France,Ligue 2,30,St Etienne,Dunkerque
+France,Ligue 2,31,Bastia,St Etienne
+France,Ligue 2,31,Dunkerque,Laval
+France,Ligue 2,31,Le Mans,Clermont
+France,Ligue 2,31,Montpellier,Grenoble
+France,Ligue 2,31,Nancy,Annecy
+France,Ligue 2,31,Pau FC,Guingamp
+France,Ligue 2,31,Reims,Red Star
+France,Ligue 2,31,Rodez,Amiens
+France,Ligue 2,31,Troyes,Boulogne
+France,Ligue 2,32,Amiens,Montpellier
+France,Ligue 2,32,Annecy,Pau FC
+France,Ligue 2,32,Boulogne,Dunkerque
+France,Ligue 2,32,Clermont,Bastia
+France,Ligue 2,32,Grenoble,Le Mans
+France,Ligue 2,32,Laval,Rodez
+France,Ligue 2,32,Red Star,Guingamp
+France,Ligue 2,32,Reims,Nancy
+France,Ligue 2,32,St Etienne,Troyes
+France,Ligue 2,33,Amiens,Red Star
+France,Ligue 2,33,Boulogne,Annecy
+France,Ligue 2,33,Dunkerque,Grenoble
+France,Ligue 2,33,Guingamp,Bastia
+France,Ligue 2,33,Le Mans,Reims
+France,Ligue 2,33,Montpellier,Clermont
+France,Ligue 2,33,Pau FC,Nancy
+France,Ligue 2,33,Rodez,St Etienne
+France,Ligue 2,33,Troyes,Laval
+France,Ligue 2,34,Annecy,Rodez
+France,Ligue 2,34,Bastia,Le Mans
+France,Ligue 2,34,Clermont,Guingamp
+France,Ligue 2,34,Grenoble,Troyes
+France,Ligue 2,34,Laval,Boulogne
+France,Ligue 2,34,Nancy,Dunkerque
+France,Ligue 2,34,Red Star,Montpellier
+France,Ligue 2,34,Reims,Pau FC
+France,Ligue 2,34,St Etienne,Amiens

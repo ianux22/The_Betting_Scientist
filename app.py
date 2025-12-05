@@ -150,9 +150,10 @@ def load_calendar(calendar_path: Path) -> pd.DataFrame:
 def prepare_calendar(df: pd.DataFrame) -> pd.DataFrame:
     prepared = df.copy()
     prepared["Matchday"] = pd.to_numeric(prepared["Matchday"], errors="coerce").astype("Int64")
-    for col in ["FTHG", "FTAG"]:
+    for col in ["FTHG", "FTAG", "HTHG", "HTAG"]:
         prepared[col] = pd.to_numeric(prepared[col], errors="coerce")
     prepared["FTR"] = prepared["FTR"].replace("", pd.NA)
+    prepared["HTR"] = prepared["HTR"].replace("", pd.NA)
     prepared["Country"] = prepared["Country"].fillna("Unknown")
     return prepared
 
@@ -234,19 +235,23 @@ def init_dashboard_state(calendar_df: pd.DataFrame, allowed_leagues: List[str]) 
 
 
 @st.cache_data(show_spinner=False)
-def compute_league_strengths(
-    calendar_df: pd.DataFrame, league: str, up_to_matchday: Optional[int] = None
+def compute_strengths_for_columns(
+    calendar_df: pd.DataFrame,
+    league: str,
+    home_goal_col: str,
+    away_goal_col: str,
+    up_to_matchday: Optional[int] = None,
+    fallback_home_avg: float = 1.4,
+    fallback_away_avg: float = 1.1,
 ) -> Tuple[Dict[str, Dict[str, float]], Dict[str, float]]:
     league_df = calendar_df[calendar_df["League"] == league].copy()
     if up_to_matchday is not None:
         league_df = league_df[league_df["Matchday"].notna() & (league_df["Matchday"] < up_to_matchday)]
 
-    completed = league_df.dropna(subset=["FTHG", "FTAG"])
-    fallback_home_avg = 1.4
-    fallback_away_avg = 1.1
+    completed = league_df.dropna(subset=[home_goal_col, away_goal_col])
 
-    league_home_avg = float(completed["FTHG"].mean()) if not completed.empty else fallback_home_avg
-    league_away_avg = float(completed["FTAG"].mean()) if not completed.empty else fallback_away_avg
+    league_home_avg = float(completed[home_goal_col].mean()) if not completed.empty else fallback_home_avg
+    league_away_avg = float(completed[away_goal_col].mean()) if not completed.empty else fallback_away_avg
     league_home_avg = max(league_home_avg, 0.2)
     league_away_avg = max(league_away_avg, 0.2)
 
@@ -257,10 +262,10 @@ def compute_league_strengths(
         home_matches = completed[completed["Hometeam"] == team]
         away_matches = completed[completed["Awayteam"] == team]
 
-        home_scored = float(home_matches["FTHG"].mean()) if not home_matches.empty else league_home_avg
-        home_conceded = float(home_matches["FTAG"].mean()) if not home_matches.empty else league_away_avg
-        away_scored = float(away_matches["FTAG"].mean()) if not away_matches.empty else league_away_avg
-        away_conceded = float(away_matches["FTHG"].mean()) if not away_matches.empty else league_home_avg
+        home_scored = float(home_matches[home_goal_col].mean()) if not home_matches.empty else league_home_avg
+        home_conceded = float(home_matches[away_goal_col].mean()) if not home_matches.empty else league_away_avg
+        away_scored = float(away_matches[away_goal_col].mean()) if not away_matches.empty else league_away_avg
+        away_conceded = float(away_matches[home_goal_col].mean()) if not away_matches.empty else league_home_avg
 
         strengths[team] = {
             "home_attack": home_scored / league_home_avg if league_home_avg else 1.0,
@@ -271,6 +276,35 @@ def compute_league_strengths(
 
     league_avgs = {"home_goal_avg": league_home_avg, "away_goal_avg": league_away_avg}
     return strengths, league_avgs
+
+
+def compute_league_strengths(
+    calendar_df: pd.DataFrame, league: str, up_to_matchday: Optional[int] = None
+) -> Tuple[Dict[str, Dict[str, float]], Dict[str, float]]:
+    return compute_strengths_for_columns(
+        calendar_df,
+        league,
+        home_goal_col="FTHG",
+        away_goal_col="FTAG",
+        up_to_matchday=up_to_matchday,
+        fallback_home_avg=1.4,
+        fallback_away_avg=1.1,
+    )
+
+
+def compute_halftime_strengths(
+    calendar_df: pd.DataFrame, league: str, up_to_matchday: Optional[int] = None
+) -> Tuple[Dict[str, Dict[str, float]], Dict[str, float]]:
+    # First-half goal averages are naturally lower, so halve the full-time fallbacks as a sensible starting point.
+    return compute_strengths_for_columns(
+        calendar_df,
+        league,
+        home_goal_col="HTHG",
+        away_goal_col="HTAG",
+        up_to_matchday=up_to_matchday,
+        fallback_home_avg=0.7,
+        fallback_away_avg=0.55,
+    )
 
 
 def expected_goals(
@@ -288,7 +322,9 @@ def expected_goals(
     return max(home_lambda, 0.01), max(away_lambda, 0.01)
 
 
-def simulate_match(home_lambda: float, away_lambda: float, iterations: int = 2000) -> Dict[str, object]:
+def simulate_match(
+    home_lambda: float, away_lambda: float, iterations: int = 2000, goal_line: float = 2.5
+) -> Dict[str, object]:
     home_goals = np.random.poisson(home_lambda, iterations)
     away_goals = np.random.poisson(away_lambda, iterations)
 
@@ -296,8 +332,9 @@ def simulate_match(home_lambda: float, away_lambda: float, iterations: int = 200
         "home_win": float(np.mean(home_goals > away_goals)),
         "away_win": float(np.mean(home_goals < away_goals)),
         "draw": float(np.mean(home_goals == away_goals)),
-        "over_2_5": float(np.mean((home_goals + away_goals) > 2.5)),
+        "over": float(np.mean((home_goals + away_goals) > goal_line)),
         "btts": float(np.mean((home_goals > 0) & (away_goals > 0))),
+        "goal_line": goal_line,
     }
 
     freq = Counter(zip(home_goals, away_goals))
@@ -372,42 +409,82 @@ def render_match_card(
     matchday: int,
     home_team: str,
     away_team: str,
-    prediction: Dict[str, object],
+    prediction_ft: Dict[str, object],
+    prediction_ht: Dict[str, object],
     form_home: List[str],
     form_away: List[str],
-    actual_score: Optional[Tuple[float, float]] = None,
+    actual_ft_score: Optional[Tuple[float, float]] = None,
+    actual_ht_score: Optional[Tuple[float, float]] = None,
     show_sample: bool = False,
+    toggle_key: Optional[str] = None,
 ) -> None:
-    actual_block = ""
-    if actual_score:
-        actual_block = f"<div class='muted'>Actual FT</div><div class='headline'>{int(actual_score[0])}-{int(actual_score[1])}</div>"
+    container = st.container()
+    is_ht_view = False
+    toggle_state_key = f"{toggle_key}_state" if toggle_key else None
 
-    sample_block = ""
-    if show_sample:
-        sample_block = (
-            f"<div><div class='muted'>Sample reality</div>"
-            f"<div class='score-sample'>{prediction['sample_score'][0]} - {prediction['sample_score'][1]}</div></div>"
-        )
+    if toggle_state_key and toggle_state_key not in st.session_state:
+        st.session_state[toggle_state_key] = False
 
-    html = f"""
+    with container.form(key=f"{toggle_key}_form" if toggle_key else None, border=False):
+        is_ht_view = bool(st.session_state.get(toggle_state_key, False))
+        badge_text = "Half time view" if is_ht_view else "Full time view"
+        button_label = "Switch to full time view" if is_ht_view else "Switch to half time view"
+
+        header_cols = st.columns([6, 2])
+        with header_cols[0]:
+            st.markdown(
+                dedent(
+                    f"""
+                    <div style="display:flex; flex-wrap:wrap; gap:0.4rem; align-items:center; margin-bottom:0.25rem;">
+                        <span class="pill pill-league">{league}</span>
+                        <span class="muted">Matchday {matchday}</span>
+                        <span class="pill" style="background: rgba(255,255,255,0.08); color: #cbd5e1;">{badge_text}</span>
+                    </div>
+                    <div class="headline">{home_team} vs {away_team}</div>
+                    """
+                ),
+                unsafe_allow_html=True,
+            )
+        with header_cols[1]:
+            # Place the toggle next to the badge, aligned with the header row.
+            submitted = st.form_submit_button(button_label, use_container_width=True)
+            if submitted and toggle_state_key:
+                st.session_state[toggle_state_key] = not st.session_state[toggle_state_key]
+                is_ht_view = bool(st.session_state[toggle_state_key])
+
+        prediction = prediction_ht if is_ht_view else prediction_ft
+        actual_score = actual_ht_score if is_ht_view else actual_ft_score
+        actual_label = "Actual HT" if is_ht_view else "Actual FT"
+        over_label = f"{'HT ' if is_ht_view else ''}Over {prediction['goal_line']:.1f}"
+        btts_label = "HT BTTS" if is_ht_view else "BTTS"
+        xg_label = f"{'HT ' if is_ht_view else ''}xG"
+        top_scores_label = "Top 3 HT likely scores" if is_ht_view else "Top 3 likely scores"
+
+        actual_block = ""
+        if actual_score:
+            actual_block = f"<div class='muted'>{actual_label}</div><div class='headline'>{int(actual_score[0])}-{int(actual_score[1])}</div>"
+
+        sample_block = ""
+        if show_sample:
+            sample_block = (
+                f"<div><div class='muted'>Sample reality</div>"
+                f"<div class='score-sample'>{prediction['sample_score'][0]} - {prediction['sample_score'][1]}</div></div>"
+            )
+
+        body_html = f"""
 <div class='card'>
-  <div style="display:flex; justify-content: space-between; align-items: center; margin-bottom: 0.35rem;">
-    <div>
-      <span class="pill pill-league">{league}</span>
-      <span class="muted" style="margin-left:0.5rem;">Matchday {matchday}</span>
-      <div class="headline">{home_team} vs {away_team}</div>
-    </div>
+  <div style="display:flex; justify-content: space-between; align-items: center; margin-bottom: 0.35rem; flex-wrap:wrap; gap:0.5rem;">
     <div>{actual_block}</div>
   </div>
   <div class="metric-grid">
-    <div class="metric"><strong>Home win</strong>{format_pct(prediction["home_win"])}</div>
-    <div class="metric"><strong>Draw</strong>{format_pct(prediction["draw"])}</div>
-    <div class="metric"><strong>Away win</strong>{format_pct(prediction["away_win"])}</div>
-    <div class="metric"><strong>Over 2.5</strong>{format_pct(prediction["over_2_5"])}</div>
-    <div class="metric"><strong>BTTS</strong>{format_pct(prediction["btts"])}</div>
-    <div class="metric"><strong>xG</strong>{prediction["home_lambda"]:.2f} - {prediction["away_lambda"]:.2f}</div>
+    <div class="metric"><strong>{'HT ' if is_ht_view else ''}Home win</strong>{format_pct(prediction["home_win"])}</div>
+    <div class="metric"><strong>{'HT ' if is_ht_view else ''}Draw</strong>{format_pct(prediction["draw"])}</div>
+    <div class="metric"><strong>{'HT ' if is_ht_view else ''}Away win</strong>{format_pct(prediction["away_win"])}</div>
+    <div class="metric"><strong>{over_label}</strong>{format_pct(prediction["over"])}</div>
+    <div class="metric"><strong>{btts_label}</strong>{format_pct(prediction["btts"])}</div>
+    <div class="metric"><strong>{xg_label}</strong>{prediction["home_lambda"]:.2f} - {prediction["away_lambda"]:.2f}</div>
   </div>
-  <div style="display:flex; justify-content: space-between; align-items: center; margin-top:0.6rem;">
+  <div style="display:flex; justify-content: space-between; align-items: center; margin-top:0.6rem; flex-wrap:wrap; gap:0.75rem;">
     <div>
       <div class="muted">Home form</div>
       <div>{render_form_badges(form_home)}</div>
@@ -417,23 +494,39 @@ def render_match_card(
       <div>{render_form_badges(form_away)}</div>
     </div>
     <div>
-      <div class="muted">Top 3 likely scores</div>
+      <div class="muted">{top_scores_label}</div>
       {render_top_scores(prediction["top_scores"])}
     </div>
     {sample_block}
   </div>
 </div>
 """
-    st.markdown(dedent(html), unsafe_allow_html=True)
+        st.markdown(dedent(body_html), unsafe_allow_html=True)
 
 
-def sample_matches_for_hot_picks(calendar_df: pd.DataFrame, league: str, matchday: int, n: int = 3) -> pd.DataFrame:
+def sample_matches_for_hot_picks(calendar_df: pd.DataFrame, league: str, matchday: int, n: int = 1) -> pd.DataFrame:
     matches = league_matchday_rows(calendar_df, league, matchday)
     if matches.empty:
         return matches
     if len(matches) <= n:
         return matches
     return matches.sample(n=n, random_state=None)
+
+
+def cached_hot_pick_matches(calendar_df: pd.DataFrame, league: str, matchday: int, n: int = 1) -> pd.DataFrame:
+    cache_key = f"{league}_{matchday}"
+    cache = st.session_state.setdefault("hot_pick_cache", {})
+    if cache_key not in cache:
+        sampled = sample_matches_for_hot_picks(calendar_df, league, matchday, n=n)
+        cache[cache_key] = [
+            (row["Hometeam"], row["Awayteam"]) for _, row in sampled.iterrows()
+        ]
+    pairs = cache[cache_key]
+    league_matches = league_matchday_rows(calendar_df, league, matchday)
+    filtered = league_matches[
+        league_matches.apply(lambda r: (r["Hometeam"], r["Awayteam"]) in pairs, axis=1)
+    ]
+    return filtered
 
 
 def render_matchday_predictions(calendar_df: pd.DataFrame, league: str, matchday: int) -> None:
@@ -445,27 +538,41 @@ def render_matchday_predictions(calendar_df: pd.DataFrame, league: str, matchday
     strengths_dash, league_avgs_dash = compute_league_strengths(
         calendar_df, league, up_to_matchday=matchday
     )
+    strengths_dash_ht, league_avgs_dash_ht = compute_halftime_strengths(
+        calendar_df, league, up_to_matchday=matchday
+    )
 
     for _, row in matches.iterrows():
         home_lambda, away_lambda = expected_goals(
             strengths_dash, league_avgs_dash, home_team=row["Hometeam"], away_team=row["Awayteam"]
         )
-        prediction = simulate_match(home_lambda, away_lambda, iterations=2000)
+        home_lambda_ht, away_lambda_ht = expected_goals(
+            strengths_dash_ht, league_avgs_dash_ht, home_team=row["Hometeam"], away_team=row["Awayteam"]
+        )
+        prediction_ft = simulate_match(home_lambda, away_lambda, iterations=2000, goal_line=2.5)
+        prediction_ht = simulate_match(home_lambda_ht, away_lambda_ht, iterations=2000, goal_line=0.5)
         form_home = form_guide(calendar_df, row["Hometeam"], before_matchday=int(row["Matchday"]))
         form_away = form_guide(calendar_df, row["Awayteam"], before_matchday=int(row["Matchday"]))
-        actual = None
+        actual_ft = None
+        actual_ht = None
         if not pd.isna(row["FTHG"]) and not pd.isna(row["FTAG"]):
-            actual = (row["FTHG"], row["FTAG"])
+            actual_ft = (row["FTHG"], row["FTAG"])
+        if not pd.isna(row.get("HTHG")) and not pd.isna(row.get("HTAG")):
+            actual_ht = (row["HTHG"], row["HTAG"])
+        toggle_key = f"ht_view_{row['League']}_{row['Matchday']}_{row['Hometeam']}_{row['Awayteam']}".replace(" ", "_")
         render_match_card(
             league=row["League"],
             matchday=int(row["Matchday"]),
             home_team=row["Hometeam"],
             away_team=row["Awayteam"],
-            prediction=prediction,
+            prediction_ft=prediction_ft,
+            prediction_ht=prediction_ht,
             form_home=form_home,
             form_away=form_away,
-            actual_score=actual,
+            actual_ft_score=actual_ft,
+            actual_ht_score=actual_ht,
             show_sample=False,
+            toggle_key=toggle_key,
         )
 
 
@@ -513,30 +620,50 @@ def main() -> None:
             f"<div class='muted'>League: {active_league} | Matchday {active_matchday}</div>",
             unsafe_allow_html=True,
         )
-        hot_matches = sample_matches_for_hot_picks(calendar_df, active_league, active_matchday, n=3)
+        hot_matches = cached_hot_pick_matches(calendar_df, active_league, active_matchday, n=1)
         if hot_matches.empty:
             st.info("No upcoming fixtures found for this league/matchday.")
         else:
             strengths_hp, league_avgs_hp = compute_league_strengths(
                 calendar_df, league=active_league, up_to_matchday=int(active_matchday)
             )
+            strengths_hp_ht, league_avgs_hp_ht = compute_halftime_strengths(
+                calendar_df, league=active_league, up_to_matchday=int(active_matchday)
+            )
+            pred_cache = st.session_state.setdefault("hot_pick_predictions", {})
             for _, row in hot_matches.iterrows():
                 home_lambda, away_lambda = expected_goals(
                     strengths_hp, league_avgs_hp, home_team=row["Hometeam"], away_team=row["Awayteam"]
                 )
-                prediction = simulate_match(home_lambda, away_lambda, iterations=2000)
+                home_lambda_ht, away_lambda_ht = expected_goals(
+                    strengths_hp_ht, league_avgs_hp_ht, home_team=row["Hometeam"], away_team=row["Awayteam"]
+                )
+                match_key = f"{row['League']}|{row['Matchday']}|{row['Hometeam']}|{row['Awayteam']}"
+                if match_key not in pred_cache:
+                    pred_cache[match_key] = {
+                        "ft": simulate_match(home_lambda, away_lambda, iterations=2000, goal_line=2.5),
+                        "ht": simulate_match(home_lambda_ht, away_lambda_ht, iterations=2000, goal_line=0.5),
+                    }
+                prediction = pred_cache[match_key]["ft"]
+                prediction_ht = pred_cache[match_key]["ht"]
                 form_home = form_guide(calendar_df, row["Hometeam"], before_matchday=int(row["Matchday"]))
                 form_away = form_guide(calendar_df, row["Awayteam"], before_matchday=int(row["Matchday"]))
+                toggle_key = f"ht_view_hot_{row['League']}_{row['Matchday']}_{row['Hometeam']}_{row['Awayteam']}".replace(
+                    " ", "_"
+                )
                 render_match_card(
                     league=row["League"],
                     matchday=int(row["Matchday"]),
                     home_team=row["Hometeam"],
                     away_team=row["Awayteam"],
-                    prediction=prediction,
+                    prediction_ft=prediction,
+                    prediction_ht=prediction_ht,
                     form_home=form_home,
                     form_away=form_away,
-                    actual_score=None,
+                    actual_ft_score=None,
+                    actual_ht_score=None,
                     show_sample=False,
+                    toggle_key=toggle_key,
                 )
 
     st.markdown("---")
@@ -560,28 +687,71 @@ def main() -> None:
     with col_right:
         if run_custom:
             strengths, league_avgs = compute_league_strengths(calendar_df, league_choice)
+            strengths_ht, league_avgs_ht = compute_halftime_strengths(calendar_df, league_choice)
             home_lambda, away_lambda = expected_goals(strengths, league_avgs, home_team, away_team)
-            prediction = simulate_match(home_lambda, away_lambda, iterations=int(sim_iterations))
+            home_lambda_ht, away_lambda_ht = expected_goals(strengths_ht, league_avgs_ht, home_team, away_team)
+            prediction_ft = simulate_match(home_lambda, away_lambda, iterations=int(sim_iterations), goal_line=2.5)
+            prediction_ht = simulate_match(home_lambda_ht, away_lambda_ht, iterations=int(sim_iterations), goal_line=0.5)
+            st.session_state["custom_sim_data"] = {
+                "home_team": home_team,
+                "away_team": away_team,
+                "league": league_choice,
+                "home_lambda": home_lambda,
+                "away_lambda": away_lambda,
+                "home_lambda_ht": home_lambda_ht,
+                "away_lambda_ht": away_lambda_ht,
+                "ft": prediction_ft,
+                "ht": prediction_ht,
+            }
+
+        if "custom_sim_data" in st.session_state:
+            sim_data = st.session_state["custom_sim_data"]
+            toggle_key = "custom_ht_view"
+            if toggle_key not in st.session_state:
+                st.session_state[toggle_key] = False
+
+            button_cols = st.columns([4, 1])
+            with button_cols[1]:
+                custom_button_label = (
+                    "Switch to full time view" if st.session_state[toggle_key] else "Switch to half time view"
+                )
+                if st.button(custom_button_label, key=f"{toggle_key}_btn"):
+                    st.session_state[toggle_key] = not st.session_state[toggle_key]
+
+            is_ht_view = bool(st.session_state[toggle_key])
+            active_prediction = sim_data["ht"] if is_ht_view else sim_data["ft"]
+            active_xg = (
+                (sim_data["home_lambda_ht"], sim_data["away_lambda_ht"])
+                if is_ht_view
+                else (sim_data["home_lambda"], sim_data["away_lambda"])
+            )
+            over_label = f"{'HT ' if is_ht_view else ''}Over {active_prediction['goal_line']:.1f}"
+            btts_label = "HT BTTS" if is_ht_view else "BTTS"
+            top_scores_label = "Top 3 HT likely scores" if is_ht_view else "Top 3 likely scores"
+            view_title = "Half-time scorecard" if is_ht_view else "Full-time scorecard"
 
             left, right = st.columns([1, 2])
             with left:
-                st.markdown("#### One simulated reality")
+                st.markdown(f"#### One simulated reality ({'HT' if is_ht_view else 'FT'})")
                 st.markdown(
-                    f"<div class='score-sample'>{prediction['sample_score'][0]} - {prediction['sample_score'][1]}</div>",
+                    f"<div class='score-sample'>{active_prediction['sample_score'][0]} - {active_prediction['sample_score'][1]}</div>",
                     unsafe_allow_html=True,
                 )
-                st.markdown(f"<div class='muted'>xG: {home_lambda:.2f} - {away_lambda:.2f}</div>", unsafe_allow_html=True)
+                st.markdown(
+                    f"<div class='muted'>{'HT ' if is_ht_view else ''}xG: {active_xg[0]:.2f} - {active_xg[1]:.2f}</div>",
+                    unsafe_allow_html=True,
+                )
             with right:
-                st.markdown("#### Scorecard")
+                st.markdown(f"#### {view_title}")
                 metrics = {
-                    "Home win": format_pct(prediction["home_win"]),
-                    "Draw": format_pct(prediction["draw"]),
-                    "Away win": format_pct(prediction["away_win"]),
-                    "Over 2.5": format_pct(prediction["over_2_5"]),
-                    "BTTS": format_pct(prediction["btts"]),
+                    f"{'HT ' if is_ht_view else ''}Home win": format_pct(active_prediction["home_win"]),
+                    f"{'HT ' if is_ht_view else ''}Draw": format_pct(active_prediction["draw"]),
+                    f"{'HT ' if is_ht_view else ''}Away win": format_pct(active_prediction["away_win"]),
+                    over_label: format_pct(active_prediction["over"]),
+                    btts_label: format_pct(active_prediction["btts"]),
                 }
                 st.write(pd.DataFrame(metrics, index=["Probability"]).T)
-                st.markdown(render_top_scores(prediction["top_scores"]), unsafe_allow_html=True)
+                st.markdown(render_top_scores(active_prediction["top_scores"]), unsafe_allow_html=True)
         else:
             st.info("Pick teams and hit Run Simulation to see a sample reality and the probabilities.")
 

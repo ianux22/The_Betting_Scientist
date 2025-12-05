@@ -1,0 +1,463 @@
+Country,League,Matchday,Hometeam,Awayteam
+Spain,Segunda Division,1,Almeria,Albacete
+Spain,Segunda Division,1,Sp Gijon,Cordoba
+Spain,Segunda Division,1,Huesca,Leganes
+Spain,Segunda Division,1,Las Palmas,Andorra
+Spain,Segunda Division,1,Cadiz,Mirandes
+Spain,Segunda Division,1,Sociedad B,Zaragoza
+Spain,Segunda Division,1,Granada,La Coruna
+Spain,Segunda Division,1,Malaga,Eibar
+Spain,Segunda Division,1,Santander,Castellon
+Spain,Segunda Division,1,Burgos,Cultural Leonesa
+Spain,Segunda Division,1,Valladolid,Ceuta
+Spain,Segunda Division,2,Cordoba,Las Palmas
+Spain,Segunda Division,2,Albacete,Santander
+Spain,Segunda Division,2,Malaga,Sociedad B
+Spain,Segunda Division,2,Cultural Leonesa,Almeria
+Spain,Segunda Division,2,La Coruna,Burgos
+Spain,Segunda Division,2,Zaragoza,Andorra
+Spain,Segunda Division,2,Ceuta,Sp Gijon
+Spain,Segunda Division,2,Mirandes,Huesca
+Spain,Segunda Division,2,Castellon,Valladolid
+Spain,Segunda Division,2,Leganes,Cadiz
+Spain,Segunda Division,2,Eibar,Granada
+Spain,Segunda Division,3,Leganes,La Coruna
+Spain,Segunda Division,3,Huesca,Eibar
+Spain,Segunda Division,3,Granada,Mirandes
+Spain,Segunda Division,3,Las Palmas,Malaga
+Spain,Segunda Division,3,Andorra,Burgos
+Spain,Segunda Division,3,Cadiz,Albacete
+Spain,Segunda Division,3,Castellon,Zaragoza
+Spain,Segunda Division,3,Valladolid,Cordoba
+Spain,Segunda Division,3,Santander,Ceuta
+Spain,Segunda Division,3,Sp Gijon,Cultural Leonesa
+Spain,Segunda Division,3,Sociedad B,Almeria
+Spain,Segunda Division,4,Eibar,Andorra
+Spain,Segunda Division,4,Almeria,Santander
+Spain,Segunda Division,4,Cultural Leonesa,Leganes
+Spain,Segunda Division,4,Burgos,Las Palmas
+Spain,Segunda Division,4,Sociedad B,Cadiz
+Spain,Segunda Division,4,Ceuta,Huesca
+Spain,Segunda Division,4,Malaga,Granada
+Spain,Segunda Division,4,Zaragoza,Valladolid
+Spain,Segunda Division,4,La Coruna,Sp Gijon
+Spain,Segunda Division,4,Cordoba,Castellon
+Spain,Segunda Division,4,Albacete,Mirandes
+Spain,Segunda Division,5,Zaragoza,Albacete
+Spain,Segunda Division,5,Granada,Leganes
+Spain,Segunda Division,5,Castellon,Ceuta
+Spain,Segunda Division,5,Sp Gijon,Burgos
+Spain,Segunda Division,5,Santander,Cultural Leonesa
+Spain,Segunda Division,5,Andorra,Cordoba
+Spain,Segunda Division,5,Valladolid,Almeria
+Spain,Segunda Division,5,Huesca,Malaga
+Spain,Segunda Division,5,Cadiz,Eibar
+Spain,Segunda Division,5,Mirandes,La Coruna
+Spain,Segunda Division,5,Las Palmas,Sociedad B
+Spain,Segunda Division,6,Burgos,Granada
+Spain,Segunda Division,6,Cordoba,Santander
+Spain,Segunda Division,6,Eibar,Sociedad B
+Spain,Segunda Division,6,Malaga,Cadiz
+Spain,Segunda Division,6,Albacete,Valladolid
+Spain,Segunda Division,6,Ceuta,Zaragoza
+Spain,Segunda Division,6,Almeria,Sp Gijon
+Spain,Segunda Division,6,Andorra,Mirandes
+Spain,Segunda Division,6,Leganes,Las Palmas
+Spain,Segunda Division,6,Cultural Leonesa,Castellon
+Spain,Segunda Division,6,La Coruna,Huesca
+Spain,Segunda Division,7,Leganes,Castellon
+Spain,Segunda Division,7,Huesca,Granada
+Spain,Segunda Division,7,Sp Gijon,Albacete
+Spain,Segunda Division,7,Valladolid,Cultural Leonesa
+Spain,Segunda Division,7,Burgos,Malaga
+Spain,Segunda Division,7,Cadiz,Ceuta
+Spain,Segunda Division,7,Sociedad B,Cordoba
+Spain,Segunda Division,7,Las Palmas,Almeria
+Spain,Segunda Division,7,Eibar,La Coruna
+Spain,Segunda Division,7,Santander,Andorra
+Spain,Segunda Division,7,Mirandes,Zaragoza
+Spain,Segunda Division,8,Cultural Leonesa,Albacete
+Spain,Segunda Division,8,Las Palmas,Cadiz
+Spain,Segunda Division,8,Santander,Malaga
+Spain,Segunda Division,8,Valladolid,Mirandes
+Spain,Segunda Division,8,Castellon,Sp Gijon
+Spain,Segunda Division,8,Zaragoza,Cordoba
+Spain,Segunda Division,8,Granada,Sociedad B
+Spain,Segunda Division,8,Andorra,Leganes
+Spain,Segunda Division,8,Huesca,Burgos
+Spain,Segunda Division,8,La Coruna,Almeria
+Spain,Segunda Division,8,Ceuta,Eibar
+Spain,Segunda Division,9,Cordoba,Cultural Leonesa
+Spain,Segunda Division,9,Malaga,La Coruna
+Spain,Segunda Division,9,Burgos,Valladolid
+Spain,Segunda Division,9,Cadiz,Huesca
+Spain,Segunda Division,9,Eibar,Castellon
+Spain,Segunda Division,9,Sp Gijon,Santander
+Spain,Segunda Division,9,Albacete,Ceuta
+Spain,Segunda Division,9,Almeria,Zaragoza
+Spain,Segunda Division,9,Sociedad B,Andorra
+Spain,Segunda Division,9,Mirandes,Leganes
+Spain,Segunda Division,9,Granada,Las Palmas
+Spain,Segunda Division,10,Sociedad B,Huesca
+Spain,Segunda Division,10,Cadiz,Burgos
+Spain,Segunda Division,10,Las Palmas,Eibar
+Spain,Segunda Division,10,Cordoba,Almeria
+Spain,Segunda Division,10,Santander,La Coruna
+Spain,Segunda Division,10,Castellon,Albacete
+Spain,Segunda Division,10,Valladolid,Sp Gijon
+Spain,Segunda Division,10,Leganes,Malaga
+Spain,Segunda Division,10,Zaragoza,Cultural Leonesa
+Spain,Segunda Division,10,Ceuta,Mirandes
+Spain,Segunda Division,10,Andorra,Granada
+Spain,Segunda Division,11,La Coruna,Valladolid
+Spain,Segunda Division,11,Almeria,Castellon
+Spain,Segunda Division,11,Sp Gijon,Zaragoza
+Spain,Segunda Division,11,Malaga,Andorra
+Spain,Segunda Division,11,Mirandes,Santander
+Spain,Segunda Division,11,Burgos,Sociedad B
+Spain,Segunda Division,11,Granada,Cadiz
+Spain,Segunda Division,11,Albacete,Cordoba
+Spain,Segunda Division,11,Eibar,Leganes
+Spain,Segunda Division,11,Cultural Leonesa,Ceuta
+Spain,Segunda Division,11,Huesca,Las Palmas
+Spain,Segunda Division,12,Valladolid,Granada
+Spain,Segunda Division,12,Zaragoza,La Coruna
+Spain,Segunda Division,12,Castellon,Malaga
+Spain,Segunda Division,12,Cordoba,Ceuta
+Spain,Segunda Division,12,Sp Gijon,Las Palmas
+Spain,Segunda Division,12,Andorra,Cadiz
+Spain,Segunda Division,12,Almeria,Eibar
+Spain,Segunda Division,12,Albacete,Huesca
+Spain,Segunda Division,12,Leganes,Burgos
+Spain,Segunda Division,12,Cultural Leonesa,Mirandes
+Spain,Segunda Division,12,Santander,Sociedad B
+Spain,Segunda Division,13,Ceuta,Almeria
+Spain,Segunda Division,13,Burgos,Castellon
+Spain,Segunda Division,13,Cadiz,Valladolid
+Spain,Segunda Division,13,Granada,Zaragoza
+Spain,Segunda Division,13,Las Palmas,Santander
+Spain,Segunda Division,13,Malaga,Cordoba
+Spain,Segunda Division,13,La Coruna,Cultural Leonesa
+Spain,Segunda Division,13,Eibar,Albacete
+Spain,Segunda Division,13,Huesca,Andorra
+Spain,Segunda Division,13,Sociedad B,Leganes
+Spain,Segunda Division,13,Mirandes,Sp Gijon
+Spain,Segunda Division,14,Cultural Leonesa,Malaga
+Spain,Segunda Division,14,Zaragoza,Huesca
+Spain,Segunda Division,14,Cordoba,La Coruna
+Spain,Segunda Division,14,Mirandes,Burgos
+Spain,Segunda Division,14,Almeria,Cadiz
+Spain,Segunda Division,14,Sp Gijon,Eibar
+Spain,Segunda Division,14,Ceuta,Leganes
+Spain,Segunda Division,14,Santander,Granada
+Spain,Segunda Division,14,Albacete,Andorra
+Spain,Segunda Division,14,Castellon,Sociedad B
+Spain,Segunda Division,14,Valladolid,Las Palmas
+Spain,Segunda Division,15,Sociedad B,Valladolid
+Spain,Segunda Division,15,Malaga,Mirandes
+Spain,Segunda Division,15,Burgos,Santander
+Spain,Segunda Division,15,Cadiz,Cultural Leonesa
+Spain,Segunda Division,15,Huesca,Sp Gijon
+Spain,Segunda Division,15,La Coruna,Ceuta
+Spain,Segunda Division,15,Granada,Cordoba
+Spain,Segunda Division,15,Eibar,Zaragoza
+Spain,Segunda Division,15,Leganes,Almeria
+Spain,Segunda Division,15,Andorra,Castellon
+Spain,Segunda Division,15,Las Palmas,Albacete
+Spain,Segunda Division,16,Castellon,Las Palmas
+Spain,Segunda Division,16,Cordoba,Cadiz
+Spain,Segunda Division,16,Mirandes,Sociedad B
+Spain,Segunda Division,16,Santander,Eibar
+Spain,Segunda Division,16,Zaragoza,Leganes
+Spain,Segunda Division,16,Valladolid,Malaga
+Spain,Segunda Division,16,Albacete,La Coruna
+Spain,Segunda Division,16,Almeria,Huesca
+Spain,Segunda Division,16,Cultural Leonesa,Granada
+Spain,Segunda Division,16,Ceuta,Burgos
+Spain,Segunda Division,16,Sp Gijon,Andorra
+Spain,Segunda Division,17,Andorra,Almeria
+Spain,Segunda Division,17,Huesca,Valladolid
+Spain,Segunda Division,17,Sociedad B,Sp Gijon
+Spain,Segunda Division,17,Cadiz,Santander
+Spain,Segunda Division,17,Leganes,Cordoba
+Spain,Segunda Division,17,Eibar,Cultural Leonesa
+Spain,Segunda Division,17,La Coruna,Castellon
+Spain,Segunda Division,17,Granada,Ceuta
+Spain,Segunda Division,17,Burgos,Albacete
+Spain,Segunda Division,17,Las Palmas,Mirandes
+Spain,Segunda Division,17,Malaga,Zaragoza
+Spain,Segunda Division,18,Cultural Leonesa,Huesca
+Spain,Segunda Division,18,Cordoba,Eibar
+Spain,Segunda Division,18,Sp Gijon,Granada
+Spain,Segunda Division,18,Valladolid,Andorra
+Spain,Segunda Division,18,Santander,Leganes
+Spain,Segunda Division,18,Zaragoza,Cadiz
+Spain,Segunda Division,18,La Coruna,Sociedad B
+Spain,Segunda Division,18,Albacete,Malaga
+Spain,Segunda Division,18,Almeria,Burgos
+Spain,Segunda Division,18,Ceuta,Las Palmas
+Spain,Segunda Division,18,Castellon,Mirandes
+Spain,Segunda Division,19,Eibar,Valladolid
+Spain,Segunda Division,19,Andorra,La Coruna
+Spain,Segunda Division,19,Huesca,Santander
+Spain,Segunda Division,19,Leganes,Sp Gijon
+Spain,Segunda Division,19,Las Palmas,Cultural Leonesa
+Spain,Segunda Division,19,Malaga,Almeria
+Spain,Segunda Division,19,Mirandes,Cordoba
+Spain,Segunda Division,19,Sociedad B,Ceuta
+Spain,Segunda Division,19,Burgos,Zaragoza
+Spain,Segunda Division,19,Granada,Albacete
+Spain,Segunda Division,19,Cadiz,Castellon
+Spain,Segunda Division,20,Eibar,Mirandes
+Spain,Segunda Division,20,Cultural Leonesa,Sociedad B
+Spain,Segunda Division,20,Almeria,Granada
+Spain,Segunda Division,20,Castellon,Huesca
+Spain,Segunda Division,20,Valladolid,Santander
+Spain,Segunda Division,20,Cordoba,Burgos
+Spain,Segunda Division,20,Sp Gijon,Malaga
+Spain,Segunda Division,20,Ceuta,Andorra
+Spain,Segunda Division,20,Albacete,Leganes
+Spain,Segunda Division,20,Zaragoza,Las Palmas
+Spain,Segunda Division,20,La Coruna,Cadiz
+Spain,Segunda Division,21,Andorra,Cultural Leonesa
+Spain,Segunda Division,21,Burgos,Eibar
+Spain,Segunda Division,21,Cadiz,Sp Gijon
+Spain,Segunda Division,21,Granada,Castellon
+Spain,Segunda Division,21,Huesca,Cordoba
+Spain,Segunda Division,21,Las Palmas,La Coruna
+Spain,Segunda Division,21,Leganes,Valladolid
+Spain,Segunda Division,21,Malaga,Ceuta
+Spain,Segunda Division,21,Mirandes,Almeria
+Spain,Segunda Division,21,Santander,Zaragoza
+Spain,Segunda Division,21,Sociedad B,Albacete
+Spain,Segunda Division,22,Albacete,Cadiz
+Spain,Segunda Division,22,Almeria,La Coruna
+Spain,Segunda Division,22,Burgos,Huesca
+Spain,Segunda Division,22,Castellon,Leganes
+Spain,Segunda Division,22,Ceuta,Valladolid
+Spain,Segunda Division,22,Cordoba,Malaga
+Spain,Segunda Division,22,Cultural Leonesa,Sp Gijon
+Spain,Segunda Division,22,Granada,Eibar
+Spain,Segunda Division,22,Mirandes,Andorra
+Spain,Segunda Division,22,Santander,Las Palmas
+Spain,Segunda Division,22,Zaragoza,Sociedad B
+Spain,Segunda Division,23,Andorra,Huesca
+Spain,Segunda Division,23,Cadiz,Granada
+Spain,Segunda Division,23,Ceuta,Cultural Leonesa
+Spain,Segunda Division,23,Eibar,Almeria
+Spain,Segunda Division,23,Sp Gijon,Mirandes
+Spain,Segunda Division,23,La Coruna,Santander
+Spain,Segunda Division,23,Las Palmas,Cordoba
+Spain,Segunda Division,23,Leganes,Sociedad B
+Spain,Segunda Division,23,Malaga,Burgos
+Spain,Segunda Division,23,Zaragoza,Castellon
+Spain,Segunda Division,23,Valladolid,Albacete
+Spain,Segunda Division,24,Albacete,Zaragoza
+Spain,Segunda Division,24,Almeria,Ceuta
+Spain,Segunda Division,24,Burgos,Leganes
+Spain,Segunda Division,24,Castellon,Andorra
+Spain,Segunda Division,24,Cordoba,Valladolid
+Spain,Segunda Division,24,Cultural Leonesa,La Coruna
+Spain,Segunda Division,24,Eibar,Sp Gijon
+Spain,Segunda Division,24,Granada,Santander
+Spain,Segunda Division,24,Huesca,Cadiz
+Spain,Segunda Division,24,Mirandes,Malaga
+Spain,Segunda Division,24,Sociedad B,Las Palmas
+Spain,Segunda Division,25,Andorra,Sociedad B
+Spain,Segunda Division,25,Cadiz,Almeria
+Spain,Segunda Division,25,Ceuta,Cordoba
+Spain,Segunda Division,25,Sp Gijon,Huesca
+Spain,Segunda Division,25,La Coruna,Albacete
+Spain,Segunda Division,25,Las Palmas,Burgos
+Spain,Segunda Division,25,Leganes,Granada
+Spain,Segunda Division,25,Malaga,Cultural Leonesa
+Spain,Segunda Division,25,Santander,Mirandes
+Spain,Segunda Division,25,Zaragoza,Eibar
+Spain,Segunda Division,25,Valladolid,Castellon
+Spain,Segunda Division,26,Albacete,Sp Gijon
+Spain,Segunda Division,26,Almeria,Andorra
+Spain,Segunda Division,26,Burgos,Cadiz
+Spain,Segunda Division,26,Castellon,La Coruna
+Spain,Segunda Division,26,Cordoba,Leganes
+Spain,Segunda Division,26,Cultural Leonesa,Zaragoza
+Spain,Segunda Division,26,Eibar,Santander
+Spain,Segunda Division,26,Granada,Valladolid
+Spain,Segunda Division,26,Huesca,Ceuta
+Spain,Segunda Division,26,Mirandes,Las Palmas
+Spain,Segunda Division,26,Sociedad B,Malaga
+Spain,Segunda Division,27,Almeria,Cordoba
+Spain,Segunda Division,27,Andorra,Zaragoza
+Spain,Segunda Division,27,Cadiz,Sociedad B
+Spain,Segunda Division,27,Ceuta,Granada
+Spain,Segunda Division,27,Sp Gijon,Valladolid
+Spain,Segunda Division,27,Huesca,Mirandes
+Spain,Segunda Division,27,La Coruna,Eibar
+Spain,Segunda Division,27,Las Palmas,Castellon
+Spain,Segunda Division,27,Leganes,Cultural Leonesa
+Spain,Segunda Division,27,Malaga,Albacete
+Spain,Segunda Division,27,Santander,Burgos
+Spain,Segunda Division,28,Albacete,Almeria
+Spain,Segunda Division,28,Castellon,Santander
+Spain,Segunda Division,28,Cordoba,Andorra
+Spain,Segunda Division,28,Cultural Leonesa,Las Palmas
+Spain,Segunda Division,28,Eibar,Cadiz
+Spain,Segunda Division,28,Sp Gijon,Leganes
+Spain,Segunda Division,28,Granada,Malaga
+Spain,Segunda Division,28,Mirandes,Ceuta
+Spain,Segunda Division,28,Sociedad B,La Coruna
+Spain,Segunda Division,28,Zaragoza,Burgos
+Spain,Segunda Division,28,Valladolid,Huesca
+Spain,Segunda Division,29,Almeria,Cultural Leonesa
+Spain,Segunda Division,29,Andorra,Sp Gijon
+Spain,Segunda Division,29,Burgos,Mirandes
+Spain,Segunda Division,29,Cadiz,Zaragoza
+Spain,Segunda Division,29,Huesca,Albacete
+Spain,Segunda Division,29,La Coruna,Granada
+Spain,Segunda Division,29,Las Palmas,Ceuta
+Spain,Segunda Division,29,Leganes,Eibar
+Spain,Segunda Division,29,Malaga,Valladolid
+Spain,Segunda Division,29,Santander,Cordoba
+Spain,Segunda Division,29,Sociedad B,Castellon
+Spain,Segunda Division,30,Albacete,Las Palmas
+Spain,Segunda Division,30,Ceuta,La Coruna
+Spain,Segunda Division,30,Cordoba,Sociedad B
+Spain,Segunda Division,30,Cultural Leonesa,Santander
+Spain,Segunda Division,30,Eibar,Burgos
+Spain,Segunda Division,30,Sp Gijon,Castellon
+Spain,Segunda Division,30,Granada,Andorra
+Spain,Segunda Division,30,Malaga,Huesca
+Spain,Segunda Division,30,Mirandes,Cadiz
+Spain,Segunda Division,30,Zaragoza,Almeria
+Spain,Segunda Division,30,Valladolid,Leganes
+Spain,Segunda Division,31,Andorra,Eibar
+Spain,Segunda Division,31,Burgos,Cordoba
+Spain,Segunda Division,31,Cadiz,Malaga
+Spain,Segunda Division,31,Castellon,Cultural Leonesa
+Spain,Segunda Division,31,Huesca,Almeria
+Spain,Segunda Division,31,La Coruna,Zaragoza
+Spain,Segunda Division,31,Las Palmas,Sp Gijon
+Spain,Segunda Division,31,Leganes,Ceuta
+Spain,Segunda Division,31,Mirandes,Valladolid
+Spain,Segunda Division,31,Santander,Albacete
+Spain,Segunda Division,31,Sociedad B,Granada
+Spain,Segunda Division,32,Albacete,Castellon
+Spain,Segunda Division,32,Almeria,Sociedad B
+Spain,Segunda Division,32,Ceuta,Cadiz
+Spain,Segunda Division,32,Cordoba,Mirandes
+Spain,Segunda Division,32,Cultural Leonesa,Andorra
+Spain,Segunda Division,32,Eibar,Las Palmas
+Spain,Segunda Division,32,Sp Gijon,La Coruna
+Spain,Segunda Division,32,Granada,Huesca
+Spain,Segunda Division,32,Malaga,Leganes
+Spain,Segunda Division,32,Zaragoza,Santander
+Spain,Segunda Division,32,Valladolid,Burgos
+Spain,Segunda Division,33,Andorra,Malaga
+Spain,Segunda Division,33,Burgos,Ceuta
+Spain,Segunda Division,33,Castellon,Almeria
+Spain,Segunda Division,33,Huesca,Cultural Leonesa
+Spain,Segunda Division,33,La Coruna,Cordoba
+Spain,Segunda Division,33,Las Palmas,Granada
+Spain,Segunda Division,33,Leganes,Zaragoza
+Spain,Segunda Division,33,Mirandes,Albacete
+Spain,Segunda Division,33,Santander,Sp Gijon
+Spain,Segunda Division,33,Sociedad B,Eibar
+Spain,Segunda Division,33,Valladolid,Cadiz
+Spain,Segunda Division,34,Albacete,Burgos
+Spain,Segunda Division,34,Almeria,Leganes
+Spain,Segunda Division,34,Andorra,Santander
+Spain,Segunda Division,34,Cadiz,Cordoba
+Spain,Segunda Division,34,Castellon,Granada
+Spain,Segunda Division,34,Cultural Leonesa,Valladolid
+Spain,Segunda Division,34,Eibar,Ceuta
+Spain,Segunda Division,34,Sp Gijon,Sociedad B
+Spain,Segunda Division,34,La Coruna,Malaga
+Spain,Segunda Division,34,Las Palmas,Huesca
+Spain,Segunda Division,34,Zaragoza,Mirandes
+Spain,Segunda Division,35,Burgos,Sp Gijon
+Spain,Segunda Division,35,Cadiz,Andorra
+Spain,Segunda Division,35,Ceuta,Sociedad B
+Spain,Segunda Division,35,Cordoba,Zaragoza
+Spain,Segunda Division,35,Granada,Cultural Leonesa
+Spain,Segunda Division,35,Huesca,La Coruna
+Spain,Segunda Division,35,Leganes,Albacete
+Spain,Segunda Division,35,Malaga,Las Palmas
+Spain,Segunda Division,35,Mirandes,Castellon
+Spain,Segunda Division,35,Santander,Almeria
+Spain,Segunda Division,35,Valladolid,Eibar
+Spain,Segunda Division,36,Albacete,Granada
+Spain,Segunda Division,36,Almeria,Malaga
+Spain,Segunda Division,36,Andorra,Valladolid
+Spain,Segunda Division,36,Castellon,Burgos
+Spain,Segunda Division,36,Cultural Leonesa,Cordoba
+Spain,Segunda Division,36,Eibar,Huesca
+Spain,Segunda Division,36,Sp Gijon,Cadiz
+Spain,Segunda Division,36,La Coruna,Mirandes
+Spain,Segunda Division,36,Las Palmas,Leganes
+Spain,Segunda Division,36,Sociedad B,Santander
+Spain,Segunda Division,36,Zaragoza,Ceuta
+Spain,Segunda Division,37,Albacete,Eibar
+Spain,Segunda Division,37,Burgos,La Coruna
+Spain,Segunda Division,37,Cadiz,Las Palmas
+Spain,Segunda Division,37,Ceuta,Santander
+Spain,Segunda Division,37,Cordoba,Sp Gijon
+Spain,Segunda Division,37,Granada,Almeria
+Spain,Segunda Division,37,Huesca,Zaragoza
+Spain,Segunda Division,37,Leganes,Andorra
+Spain,Segunda Division,37,Malaga,Castellon
+Spain,Segunda Division,37,Mirandes,Cultural Leonesa
+Spain,Segunda Division,37,Valladolid,Sociedad B
+Spain,Segunda Division,38,Almeria,Mirandes
+Spain,Segunda Division,38,Andorra,Albacete
+Spain,Segunda Division,38,Castellon,Cordoba
+Spain,Segunda Division,38,Cultural Leonesa,Cadiz
+Spain,Segunda Division,38,Eibar,Malaga
+Spain,Segunda Division,38,Sp Gijon,Ceuta
+Spain,Segunda Division,38,La Coruna,Leganes
+Spain,Segunda Division,38,Las Palmas,Valladolid
+Spain,Segunda Division,38,Santander,Huesca
+Spain,Segunda Division,38,Sociedad B,Burgos
+Spain,Segunda Division,38,Zaragoza,Granada
+Spain,Segunda Division,39,Albacete,Cultural Leonesa
+Spain,Segunda Division,39,Andorra,Las Palmas
+Spain,Segunda Division,39,Burgos,Almeria
+Spain,Segunda Division,39,Cadiz,La Coruna
+Spain,Segunda Division,39,Ceuta,Castellon
+Spain,Segunda Division,39,Cordoba,Granada
+Spain,Segunda Division,39,Huesca,Sociedad B
+Spain,Segunda Division,39,Leganes,Santander
+Spain,Segunda Division,39,Malaga,Sp Gijon
+Spain,Segunda Division,39,Mirandes,Eibar
+Spain,Segunda Division,39,Valladolid,Zaragoza
+Spain,Segunda Division,40,Almeria,Las Palmas
+Spain,Segunda Division,40,Castellon,Cadiz
+Spain,Segunda Division,40,Ceuta,Malaga
+Spain,Segunda Division,40,Cordoba,Albacete
+Spain,Segunda Division,40,Cultural Leonesa,Eibar
+Spain,Segunda Division,40,Granada,Burgos
+Spain,Segunda Division,40,La Coruna,Andorra
+Spain,Segunda Division,40,Leganes,Huesca
+Spain,Segunda Division,40,Santander,Valladolid
+Spain,Segunda Division,40,Sociedad B,Mirandes
+Spain,Segunda Division,40,Zaragoza,Sp Gijon
+Spain,Segunda Division,41,Albacete,Sociedad B
+Spain,Segunda Division,41,Andorra,Ceuta
+Spain,Segunda Division,41,Cadiz,Leganes
+Spain,Segunda Division,41,Cultural Leonesa,Burgos
+Spain,Segunda Division,41,Eibar,Cordoba
+Spain,Segunda Division,41,Sp Gijon,Almeria
+Spain,Segunda Division,41,Huesca,Castellon
+Spain,Segunda Division,41,Las Palmas,Zaragoza
+Spain,Segunda Division,41,Malaga,Santander
+Spain,Segunda Division,41,Mirandes,Granada
+Spain,Segunda Division,41,Valladolid,La Coruna
+Spain,Segunda Division,42,Almeria,Valladolid
+Spain,Segunda Division,42,Burgos,Andorra
+Spain,Segunda Division,42,Castellon,Eibar
+Spain,Segunda Division,42,Ceuta,Albacete
+Spain,Segunda Division,42,Cordoba,Huesca
+Spain,Segunda Division,42,Granada,Sp Gijon
+Spain,Segunda Division,42,La Coruna,Las Palmas
+Spain,Segunda Division,42,Leganes,Mirandes
+Spain,Segunda Division,42,Santander,Cadiz
+Spain,Segunda Division,42,Sociedad B,Cultural Leonesa
+Spain,Segunda Division,42,Zaragoza,Malaga
